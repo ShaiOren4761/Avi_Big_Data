@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import string
 import random
 import pandas as pd
@@ -11,6 +12,12 @@ def get_dict_col(product_db):
         col_db['price'].append(items[1])
 
     return col_db
+=======
+import random
+import names
+import string
+
+>>>>>>> origin/master
 
 def get_product_db():
     def gen_milk_db():
@@ -74,8 +81,23 @@ def get_product_db():
 
         return bakery_db
 
+<<<<<<< HEAD
     return pd.DataFrame.from_dict(get_dict_col({**gen_milk_db(), **gen_bakery_db(), **gen_snacks_db()}))
 
 
 
+=======
+    return {**gen_milk_db(), **gen_bakery_db(), **gen_snacks_db()}
+
+
+def get_dict_col(product_db):
+    stupid_db = {'name': [], 'id': [], 'price': []}
+
+    for key, items in product_db.items():
+        stupid_db['name'].append(key)
+        stupid_db['id'].append(items[0])
+        stupid_db['price'].append(items[1])
+
+    return stupid_db
+>>>>>>> origin/master
 
