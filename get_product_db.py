@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-import string
-import random
 import pandas as pd
+import random
+import string
+
 
 def get_dict_col(product_db):
     col_db = {'name': [], 'id': [], 'price': []}
@@ -12,12 +12,7 @@ def get_dict_col(product_db):
         col_db['price'].append(items[1])
 
     return col_db
-=======
-import random
-import names
-import string
 
->>>>>>> origin/master
 
 def get_product_db():
     def gen_milk_db():
@@ -44,20 +39,17 @@ def get_product_db():
                     listtoret.append((i + str(j)))
             return listtoret
 
-
         def get_random_product_id():
             # choose from all lowercase letter
             numbers = string.digits
             result_id = ''.join(random.choice(numbers) for _ in range(10))
             return int(result_id)
 
-
         def get_random_prices():
             # choose from all lowercase letter
             price = random.uniform(1, 15)
             price = round(price, 2)
             return price
-
 
         listofcateg = ["Bamba", "Bisli", "Doritos", "Chitos", "Apropo", "Chips", "Pringles", "Kefli", "Popcorn"]
         snacks_db = {}
@@ -81,14 +73,6 @@ def get_product_db():
 
         return bakery_db
 
-<<<<<<< HEAD
-    return pd.DataFrame.from_dict(get_dict_col({**gen_milk_db(), **gen_bakery_db(), **gen_snacks_db()}))
-
-
-
-=======
-    return {**gen_milk_db(), **gen_bakery_db(), **gen_snacks_db()}
-
 
 def get_dict_col(product_db):
     stupid_db = {'name': [], 'id': [], 'price': []}
@@ -99,5 +83,5 @@ def get_dict_col(product_db):
         stupid_db['price'].append(items[1])
 
     return stupid_db
->>>>>>> origin/master
+
 

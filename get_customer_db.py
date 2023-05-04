@@ -20,7 +20,7 @@ def customer_db():
 
 def gen_shared_customer(df):
     data = df.sample(int(len(df) * 0.2))
-    path = "pickels/shai_pickle.pkl"
+    path = "shared_customers/shai_pickle.pkl"
     data.to_pickle(path)
 
 
