@@ -9,7 +9,6 @@ def gen_product_db():
     return get_product_db()
 
 
-<<<<<<< HEAD
 def gen_customer_db():
     from get_customer_db import customer_db
     return customer_db()
@@ -18,7 +17,6 @@ def gen_customer_db():
 def gen_seller_db():
     from get_seller_db import seller_db
     return seller_db()
-=======
 
 
 def costumer_db():
@@ -32,7 +30,6 @@ def costumer_db():
         city = random.choice(['Afula', 'Haifa', 'Natanya', 'Krayot', 'Tel Aviv', 'Ashkelon', 'Rehovot', 'Bat Yam',
                               'Beer Sheva', 'Bnei Brak', 'Ramat Gan', 'Jerusalem'])
         entry_date = str(random.choice(1, 12) + random.choice(2010, 2022))
->>>>>>> origin/master
 
 
 # def trades_db():
