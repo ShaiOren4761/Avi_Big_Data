@@ -38,12 +38,10 @@ dfS['entry_date'] = pd.to_datetime(dfS['entry_date'])
 dfS['entry_date'] = dfS['entry_date'].apply(lambda x: (x.month, x.year))
 
 
-# plot
-import matplotlib.pyplot as plt
-city = pd.DataFrame(dfS['city'].value_counts())
-ax = city.plot.bar(rot = 0)
-# plot won't work help god
-
+# plot bar
+from plots import create_graphs
+clmn = "age"
+plot = create_graphs(dfS, clmn)
 
 print()
 
