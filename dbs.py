@@ -28,4 +28,3 @@ def trades_db():
 def seller_db():
     from get_seller_db import seller_db
     return seller_db()
-

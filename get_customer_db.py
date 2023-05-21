@@ -18,10 +18,16 @@ def customer_db():
     return pd.DataFrame.from_dict(dic)
 
 
-def gen_shared_customer(df, precent):
-    data = df.sample(int(len(df) * precent))
-    path = f"shared_customers/shai_pickle{precent*100}.pkl"
+def gen_shared_customer(df):
+    data = df.head(int(len(df) * 0.2))
+    path = "shared_customers/shai_pickle20.pkl"
     data.to_pickle(path)
+
+    data = df.tail(int(len(df) * 0.8))
+    path = "shared_customers/shai_pickle80.pkl"
+    data.to_pickle(path)
+
+
 
 
 
