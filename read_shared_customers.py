@@ -12,7 +12,14 @@ shared_list_files = glob.glob('shared_customers/*.pkl')
 shared_list_DataFrames = [pd.read_pickle(i) for i in shared_list_files]
 
 # Proper col names vs bad ones, placing into a dict for renaming
-b_col = [c for c in shared_list_DataFrames[5].columns]  # DF 5 is the bad file, specific case without scanning.
+
+b_col = []  # Bad column name, for loop below scans for capital letters in all columns and saves it
+for df in shared_list_DataFrames:
+    if max([max([s.isupper() for s in column_lst]) for column_lst in df.columns]):
+        print(f'Capital detected!')
+        print(df.columns)
+        temp = df.copy()
+        b_col = [c for c in temp.columns]
 g_col = [c for c in shared_list_DataFrames[0].columns]
 rename_col = {b_col[i]: g_col[i] for i in range(len(b_col))}
 
@@ -36,7 +43,6 @@ dfS['credit_company'].replace(['dieners'], 'diners', inplace=True)
 # entry_date fix
 dfS['entry_date'] = pd.to_datetime(dfS['entry_date'])
 dfS['entry_date'] = dfS['entry_date'].apply(lambda x: (x.month, x.year))
-
 
 # plot bar
 from plots import create_graphs

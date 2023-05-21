@@ -51,12 +51,13 @@ def get_product_db():
             price = round(price, 2)
             return price
 
-        listofcateg = ["Bamba", "Bisli", "Doritos", "Chitos", "Apropo", "Chips", "Pringles", "Kefli", "Popcorn"]
-        snacks_db = {}
-        for i in get_random_product_name(listofcateg):
-            snacks_db[i] = [get_random_product_id(), get_random_prices()]
-        snacks_db['Bisli666'] = [get_random_product_id(), get_random_prices()]
-        return snacks_db
+        def get_snacks_db():
+            listofcateg = ["Bamba", "Bisli", "Doritos", "Chitos", "Apropo", "Chips", "Pringles", "Kefli", "Popcorn"]
+            snacks_db = {}
+            for i in get_random_product_name(listofcateg):
+                snacks_db[i] = [get_random_product_id(), get_random_prices()]
+            snacks_db['Bisli666'] = [get_random_product_id(), get_random_prices()]
+            return snacks_db
 
     def gen_bakery_db():
         bakery_db = {}
@@ -70,8 +71,9 @@ def get_product_db():
             price = random.randint(5, 20)
             bakery_db[name] = [id, price]
             count += 1
-
         return bakery_db
+
+    return pd.concat([gen_milk_db(), gen_snacks_db(), gen_bakery_db()])
 
 
 def get_dict_col(product_db):
