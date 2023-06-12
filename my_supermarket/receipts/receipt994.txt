@@ -1,0 +1,13 @@
+customer_name: Stephen Lovett
+customer name: Stephen Lovett
+productS:            id  amount  price        name
+0  4395784604       5   35.0  butter_164
+1  2840390615       3   60.0      cake32
+2  6537204810       4  136.0  butter_890
+3  4042995571      10   60.0  butter_855
+4  1990960024      10   88.8   Popcorn10
+5  7558730191       6   90.0     pizza73
+date: 2023-03-22
+payment_type: 2
+total_pay: 469.8 NIS
+seller name: Renee Brammer

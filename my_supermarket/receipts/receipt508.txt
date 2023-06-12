@@ -1,0 +1,15 @@
+customer_name: Patrick Ulatowski
+customer name: Patrick Ulatowski
+productS:            id  amount   price                name
+0  1845106822       2    2.72             Kefli19
+1  3681349550       4   80.00            jahnon31
+2  7570782330      10   41.40          Popcorn105
+3  3147516439       8  112.00           burekas43
+4  9593397002       7  196.00           carlo_927
+5  4372925009       1    8.40             Bisli37
+6  6537548447       5   50.00    freedom_eggs_250
+7  7320822838       9  225.00  Napoleon_cheese_88
+date: 2023-03-10
+payment_type: 3
+total_pay: 715.52 NIS
+seller name: Victoria Hansen

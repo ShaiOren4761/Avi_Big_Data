@@ -1,0 +1,20 @@
+customer_name: Steve Smith
+customer name: Steve Smith
+productS:             id  amount   price        name
+0   3571761302       1    7.00  danone_857
+1   4983586873       3  102.00    cream_59
+2   2643159031      10  150.00      cake52
+3   2477012555       9   72.00        pie4
+4   8326542353       9  180.00     pizza45
+5   8725333102       4   60.00     prezel8
+6   4971830961       9   79.92   Popcorn55
+7   4125074879       2   24.00     lahuh72
+8   7291116312       6   48.00   dunats109
+9   7765660892       9  135.00      ziva25
+10  6519763670       9  135.00    cookie75
+11  9737293118       4   19.28    Bisli106
+12  6855861307      10   60.00    jahnon93
+date: 2023-03-27
+payment_type: 3
+total_pay: 1072.1999999999998 NIS
+seller name: Margaret Mclaughlin

@@ -1,0 +1,25 @@
+customer_name: Ollie Siemens
+customer name: Ollie Siemens
+productS:             id  amount   price                 name
+0   8547769588       7  102.41            Popcorn62
+1   7309319233       6  126.00       sour_cream_877
+2   5475816412       3   21.00             eggs_947
+3    685590998       6   85.56            Popcorn48
+4   5461198035      10  300.00  Napoleon_cheese_826
+5   9149710916       5  155.00             milk_299
+6   6209910809       1    9.00               lafa23
+7   8033178919       8  104.00                pita6
+8   9720097774       1    8.00            burekas75
+9   8374780022       2   19.34             Chips103
+10  1007104476       3   19.05             Chitos31
+11  4232988091       3   28.98             Chitos64
+12  5048146984       1    3.05               Bamba1
+13  1376842029       1   12.00             dunats74
+14  3208335267       6   82.86              Kefli51
+15  9674451366       2   48.00       mozzarella_296
+16  3174141555       4    5.68             Chitos72
+17  2900363969       3   84.00       mozzarella_204
+date: 2023-03-25
+payment_type: 0
+total_pay: 1213.93 NIS
+seller name: Edna Collins

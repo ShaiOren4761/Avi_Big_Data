@@ -1,0 +1,8 @@
+customer_name: John Numbers
+customer name: John Numbers
+productS:            id  amount  price              name
+0  9436845239       9   63.0  organic_eggs_495
+date: 2023-05-23
+payment_type: 0
+total_pay: 63.0 NIS
+seller name: Gary Hudson

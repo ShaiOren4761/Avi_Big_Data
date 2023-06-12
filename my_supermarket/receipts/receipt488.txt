@@ -1,0 +1,11 @@
+customer_name: John Kelly
+customer name: John Kelly
+productS:            id  amount   price        name
+0  9365899564       3   87.00    coco_764
+1  3953812972       2   13.30   Popcorn20
+2  6386429486       5  170.00    yolo_612
+3  3091791439       3   30.18  Pringles13
+date: 2023-04-20
+payment_type: 3
+total_pay: 300.48 NIS
+seller name: Karen Salazar

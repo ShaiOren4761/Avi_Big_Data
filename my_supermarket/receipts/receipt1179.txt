@@ -1,0 +1,13 @@
+customer_name: Leslie Crowell
+customer name: Leslie Crowell
+productS:            id  amount   price       name
+0   233548657       9  101.16    Chips82
+1  8471708882       7   98.00    bread80
+2  5116320542       9   90.09    Chips64
+3  6321717493       3   15.42  Doritos55
+4  8320488918       7   84.00     lafa17
+5  9738649346       1    9.00   milk_881
+date: 2023-04-07
+payment_type: 2
+total_pay: 397.67 NIS
+seller name: Jennifer Roberts

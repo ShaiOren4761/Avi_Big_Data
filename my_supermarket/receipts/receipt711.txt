@@ -1,0 +1,26 @@
+customer_name: Joseph Malkani
+customer name: Joseph Malkani
+productS:             id  amount   price        name
+0   8300182505       3   48.00     hala129
+1   2552970142       8  136.00   bagget123
+2   6795726974       1   19.00    prezel52
+3   3961824178      10  160.00    jahnon29
+4    483525463       2   23.34     Chips68
+5   7783111845       3   22.80   Popcorn61
+6   9115083581       2   26.00    eggs_218
+7   2977739404       5   37.90  Pringles91
+8   9281623915       9  109.44    Chitos10
+9   1311211128       1    5.22     Chips34
+10  6926757119       3   90.00   cream_432
+11  9297630990       6  192.00    yolo_944
+12  5940529682       6   77.52     Bisli81
+13  8344407313       8   64.00     bagget2
+14  5600097503       1   25.00    yolo_993
+15  6373906570      10  200.00      pita46
+16  8134172977       8   46.00   Doritos26
+17  6001323820      10  160.00    pizza111
+18  8918557089       3   63.00   cream_400
+date: 2023-01-16
+payment_type: 1
+total_pay: 1505.22 NIS
+seller name: Ann Hutchens

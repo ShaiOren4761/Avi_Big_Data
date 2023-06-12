@@ -1,0 +1,27 @@
+customer_name: Mildred Zimmerman
+customer name: Mildred Zimmerman
+productS:             id  amount   price               name
+0   7775939481       6   30.00         butter_316
+1   4400051105       5  100.00    sweet_cream_576
+2   3906818305       2   20.00           bagget54
+3   1973279218      10  290.00          milky_651
+4   1888017293       9   55.08           Chitos75
+5   6717226749       7  105.00           carlo_41
+6   6656449325       3   21.00  melted_cheese_789
+7   2542639433       3   30.00            yolo_30
+8   5851729495       6  114.00           prezel35
+9   4237118734       8   74.16            Chips62
+10  9127106020       4   40.12            Chips48
+11  9157852313       1   20.00           coco_730
+12  3154745776       1   12.00            pizza72
+13  6373906570       5  100.00             pita46
+14  5968978896       6   48.00            ziva129
+15  6691628206       2   13.18           Apropo51
+16   303802313       4   59.40            Bamba80
+17   171528809       7   32.20            Bisli54
+18  6648558613       9  162.00           lahuh113
+19  1029201620       7   62.44            Kefli56
+date: 2023-04-03
+payment_type: 1
+total_pay: 1388.5800000000002 NIS
+seller name: Latasha Mace

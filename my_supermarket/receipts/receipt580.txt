@@ -1,0 +1,21 @@
+customer_name: Michael Speight
+customer name: Michael Speight
+productS:             id  amount   price                 name
+0     89900170       9   51.75              Bamba57
+1   5570192467       3   19.89              Bisli27
+2   2352678045       5   45.00           danone_884
+3   2294080808       6  132.00           butter_980
+4   6075240225       9  162.00            bagget122
+5   6263019316      10  122.30              Chips40
+6   9229983198       8   17.36               Chips8
+7   7765721113       3   12.18              Kefli52
+8   5947601958       6  192.00    melted_cheese_620
+9   2614337376      10  160.00             coco_190
+10  3392860430       4  140.00  Napoleon_cheese_138
+11  5685248023       2   12.38             Chitos13
+12  1585628735      10   50.00             jahnon47
+13  3844264438      10  160.00            baklawa17
+date: 2023-03-07
+payment_type: 3
+total_pay: 1276.8600000000001 NIS
+seller name: Hobert Wimberly

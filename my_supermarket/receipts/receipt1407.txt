@@ -1,0 +1,26 @@
+customer_name: Samuel Walsh
+customer name: Samuel Walsh
+productS:             id  amount   price              name
+0   5417916619       4   60.00         prezel122
+1   4884641399       8  152.00           hala127
+2   9533510195       2   50.00        butter_210
+3   2689183677       9  180.00            pita64
+4   6975160313      10  180.00          jahnon66
+5   7475540137      10  145.30          Apropo65
+6   8676919147       3   66.00          yolo_560
+7   2336504051      10   97.40           Bamba88
+8   7009805916       5   70.15          Chitos21
+9   7682156804       8   48.00    sour_cream_525
+10  4728207408       5   65.60          Bamba109
+11  1069135867      10  140.80        Pringles15
+12  9080574295       2   20.00            ziva21
+13  2243087918       3   45.00            lahuh2
+14  3956770685       5  150.00  swiss_cheese_824
+15  4145460189       3   72.00  organic_eggs_565
+16  4102269260      10   73.30        Popcorn100
+17  2534125851       2   16.00    sour_cream_542
+18  7195646839       9   33.93         Doritos80
+date: 2023-01-01
+payment_type: 1
+total_pay: 1665.4799999999998 NIS
+seller name: Kevin Goldberg

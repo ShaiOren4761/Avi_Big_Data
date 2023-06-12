@@ -1,0 +1,25 @@
+customer_name: Henry Reyna
+customer name: Henry Reyna
+productS:             id  amount   price               name
+0   7921641774       9  162.00          milky_360
+1   1930279181       5   55.00            dunats8
+2   5468043552       9   72.00           bagget16
+3   2033078637       7   11.06        Pringles102
+4   4572125048       6   90.00           eggs_896
+5   3748385751       4   49.00            Kefli68
+6   9990461172       3   18.00    freedom_eggs_19
+7   8867379735       7   88.48           Bisli100
+8   4462541723       5   40.00         baklawa112
+9   1713213782       5   50.00           cookie86
+10  6274744865       8  280.00  melted_cheese_848
+11  4198997774       9  144.00           bagget21
+12  6369689620       2   38.00             lafa66
+13  7693680065      10   42.10            Kefli17
+14  3236010084       6   11.70          Doritos63
+15  3154007592      10  170.00            lahuh11
+16  3412469005       8  103.68         Pringles40
+17  6573371979       3    7.92          Chitos101
+date: 2023-01-16
+payment_type: 2
+total_pay: 1432.94 NIS
+seller name: Latasha Mace

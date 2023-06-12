@@ -1,0 +1,13 @@
+customer_name: Terrell Walker
+customer name: Terrell Walker
+productS:            id  amount   price        name
+0  4971830961       9   79.92   Popcorn55
+1  3042531267       9  117.00     pizza41
+2  1667621181       7  147.00  butter_311
+3  1331389344       3   57.00    eggs_830
+4  6301332990       2   40.00      pita94
+5  1055068680       1   30.00    carlo_36
+date: 2023-03-29
+payment_type: 0
+total_pay: 470.92 NIS
+seller name: Karen Salazar

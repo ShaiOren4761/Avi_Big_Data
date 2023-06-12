@@ -1,0 +1,15 @@
+customer_name: Chris Gofton
+customer name: Chris Gofton
+productS:            id  amount   price           name
+0  5555177781       7   98.00     butter_275
+1  1704223320       6   90.00     danone_828
+2  5130384166       1   24.00      milky_453
+3  9966639790      10  290.00       coco_179
+4  1625828004      10   80.10       Apropo50
+5  4363172654       6   73.02     Pringles45
+6  6294206423       4  140.00  goat_milk_739
+7  9226303763       2   32.00      carlo_556
+date: 2023-02-04
+payment_type: 0
+total_pay: 827.12 NIS
+seller name: Kevin Goldberg

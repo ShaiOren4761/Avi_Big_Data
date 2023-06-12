@@ -1,0 +1,20 @@
+customer_name: Natividad Linkovich
+customer name: Natividad Linkovich
+productS:             id  amount   price       name
+0   8066390508      10   62.20    Chips86
+1   6754898235       8   40.00    ziva107
+2   8524995739       6   90.00  milky_740
+3   5130384166       3   72.00  milky_453
+4   5898511304       7   35.00  baklawa47
+5   8244874913       9   69.30     Chips4
+6   8440399015       9   99.00     pita75
+7   5812017382       8  120.00   milk_743
+8   4813826494       7   64.75    Bamba94
+9   9691423370       5   35.55    Bamba86
+10  8949312423       6   22.08  Chitos102
+11  7514149750       5   22.35    Bisli10
+12  8495633508       5   40.00      pie23
+date: 2023-02-27
+payment_type: 0
+total_pay: 772.23 NIS
+seller name: Jennifer Roberts

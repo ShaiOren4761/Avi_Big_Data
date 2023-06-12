@@ -1,0 +1,26 @@
+customer_name: Jack Hall
+customer name: Jack Hall
+productS:             id  amount   price               name
+0   3051049011       3   21.00          bagget112
+1   2573346302       2   62.00          carlo_833
+2   4467952076       2   21.46           Apropo63
+3   9018449645       7   49.00         baklawa110
+4   3527098068       6   90.00    almond_milk_342
+5   1915988351       3   48.00           bagget98
+6   9547923874       8  256.00      goat_milk_438
+7   4064018847       6   72.00           bread118
+8   1051807988       4   52.00             lafa45
+9    671900051       6   32.22           Apropo35
+10  1196326254       5   42.95           Chitos67
+11  8193288512       7   98.00    almond_milk_641
+12  3276023643       9   45.00     sour_cream_324
+13  1976905118       4  136.00   freedom_eggs_251
+14  4382270329       4   60.00             cake80
+15  2057989223       8  120.00      goat_milk_918
+16  9351326770       8   88.00             cake78
+17  4638927079       9  126.00           jahnon48
+18  4273284919       3   66.00  melted_cheese_662
+date: 2023-04-01
+payment_type: 3
+total_pay: 1485.63 NIS
+seller name: Renee Brammer

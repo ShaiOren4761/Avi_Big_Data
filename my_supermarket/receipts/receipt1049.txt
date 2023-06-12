@@ -1,0 +1,10 @@
+customer_name: Sally Fuller
+customer name: Sally Fuller
+productS:            id  amount  price               name
+0  1704223320       9  135.0         danone_828
+1  6880392803       7  105.0  yellow_cheese_809
+2  6187411892       5   70.0          butter_87
+date: 2023-02-03
+payment_type: 2
+total_pay: 310.0 NIS
+seller name: Karen Salazar

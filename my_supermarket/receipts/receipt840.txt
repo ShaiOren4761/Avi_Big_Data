@@ -1,0 +1,16 @@
+customer_name: Eva Chamberlain
+customer name: Eva Chamberlain
+productS:            id  amount   price              name
+0  1907398487       1   22.00  organic_eggs_127
+1  3937935974       8  136.00          bagget17
+2  9634058839       4   59.20         Popcorn50
+3  4644998168       3    8.49          Chitos69
+4  3464017264       8   88.00  melted_cheese_39
+5  9489218276      10  340.00          coco_115
+6  2174114507       6   61.20          Chitos50
+7  6232474323       7  100.66         Popcorn69
+8  5053409659       7   91.00            ziva28
+date: 2023-05-01
+payment_type: 2
+total_pay: 906.5500000000001 NIS
+seller name: Donald Dawson

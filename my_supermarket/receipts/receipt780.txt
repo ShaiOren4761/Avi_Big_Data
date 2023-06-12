@@ -1,0 +1,24 @@
+customer_name: Jeffrey Cunningham
+customer name: Jeffrey Cunningham
+productS:             id  amount   price               name
+0   9894939613       9   90.00              pie81
+1   8488436518       1    4.31          Doritos12
+2   7582563497       3   25.05           Bisli104
+3     11016329      10   70.60            Bisli98
+4   2495400451       2   14.00    sweet_cream_189
+5    542193105       1   14.05            Kefli63
+6   1088470866       1   20.00     mozzarella_131
+7   7548029274       7   98.00  yellow_cheese_200
+8   3618944396       8  144.00           milk_572
+9   7757812731       9   57.15            Kefli81
+10  6259979847       2   12.00             ziva96
+11  6952742186       7  182.00    almond_milk_527
+12  7578664786       8   56.00          burekas69
+13  2172283047       6    6.00         Pringles48
+14  4365311404       2   18.00            cake106
+15  9264219126       6   70.56             Bisli1
+16  5456986182       1   29.00         danone_798
+date: 2023-04-22
+payment_type: 3
+total_pay: 910.72 NIS
+seller name: Debra Pearson

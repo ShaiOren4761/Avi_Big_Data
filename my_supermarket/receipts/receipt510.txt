@@ -1,0 +1,18 @@
+customer_name: Judy Livingstone
+customer name: Judy Livingstone
+productS:             id  amount   price        name
+0   9635709334       7  119.00   cookie128
+1   3809523117      10  110.00   cream_746
+2   4638927079       4   56.00    jahnon48
+3   8013196005       7   96.39   Doritos38
+4   8712532837       2   42.00   milky_712
+5   1883034392       2   24.50    Chitos60
+6   6884133657       7   53.13    Kefli109
+7   1400990954       7   87.01   Popcorn30
+8   9646405432       7   91.00    bagget89
+9   2280035986       7  112.00  baklawa101
+10  3828166456       4   88.00    coco_888
+date: 2023-01-13
+payment_type: 0
+total_pay: 879.03 NIS
+seller name: Ann Hutchens

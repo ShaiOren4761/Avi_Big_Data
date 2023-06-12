@@ -1,0 +1,10 @@
+customer_name: Consuelo Crawford
+customer name: Consuelo Crawford
+productS:            id  amount   price               name
+0  5586977211       9  306.00  yellow_cheese_381
+1  6210018468      10   70.00              pie89
+2  7663271034       1   12.82            Bamba85
+date: 2023-02-06
+payment_type: 0
+total_pay: 388.82 NIS
+seller name: Calvin Manahan

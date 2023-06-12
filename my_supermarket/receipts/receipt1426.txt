@@ -1,0 +1,9 @@
+customer_name: Dwight Pimentel
+customer name: Dwight Pimentel
+productS:            id  amount  price      name
+0  5256326415       2   38.0   lahuh75
+1  9935292793       1   13.0  cookie51
+date: 2023-04-09
+payment_type: 3
+total_pay: 51.0 NIS
+seller name: Harold Mitchell

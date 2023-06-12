@@ -1,0 +1,16 @@
+customer_name: Donna Palmer
+customer name: Donna Palmer
+productS:            id  amount   price              name
+0  3891410334      10  310.00  swiss_cheese_781
+1  9516455596       4   33.16         Doritos57
+2  4746444083       7   56.00          bagget77
+3  4102269260       4   29.32        Popcorn100
+4  4729671290       3   36.00         baklawa38
+5  3680988777       3   27.00          yolo_772
+6  7280834757       3   10.83           Bamba48
+7  1017402352       5   62.70           Chips49
+8  4940474524       2   12.08            Bisli5
+date: 2023-01-31
+payment_type: 0
+total_pay: 577.09 NIS
+seller name: Victoria Hansen

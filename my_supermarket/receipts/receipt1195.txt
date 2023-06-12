@@ -1,0 +1,8 @@
+customer_name: Loretta Sheppard
+customer name: Loretta Sheppard
+productS:            id  amount  price     name
+0  9640864492       6  86.34  Kefli93
+date: 2023-01-11
+payment_type: 0
+total_pay: 86.34 NIS
+seller name: Margaret Mclaughlin

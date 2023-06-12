@@ -1,0 +1,15 @@
+customer_name: Jacob Lopez
+customer name: Jacob Lopez
+productS:            id  amount   price               name
+0   286245913       2    8.96         Pringles78
+1  1296476066       9   90.00          burekas25
+2  6038711946      10  120.00           prezel93
+3  6369689620       3   57.00             lafa66
+4  3545542595       5  165.00           eggs_499
+5  8394347579       7  210.00           milk_288
+6  1282540331       8   88.00   freedom_eggs_919
+7  5388529271       8  264.00  yellow_cheese_457
+date: 2023-01-02
+payment_type: 2
+total_pay: 1002.96 NIS
+seller name: Roberta Lewis

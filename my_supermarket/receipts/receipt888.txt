@@ -1,0 +1,10 @@
+customer_name: Christy Hardesty
+customer name: Christy Hardesty
+productS:            id  amount   price         name
+0  2033078637       1    1.58  Pringles102
+1  3179936635       9  134.46   Pringles21
+2  2310576774       2   20.00       pita15
+date: 2023-04-12
+payment_type: 3
+total_pay: 156.04000000000002 NIS
+seller name: Margaret Mclaughlin

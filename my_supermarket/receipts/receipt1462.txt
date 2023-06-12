@@ -1,0 +1,25 @@
+customer_name: Todd Hobbs
+customer name: Todd Hobbs
+productS:             id  amount   price                name
+0   8025288199       1   20.00             pizza28
+1   5539025220       5   13.65         Pringles100
+2   3956770685       5  150.00    swiss_cheese_824
+3   7918774723       1   11.01          Pringles53
+4   4256065991       4   28.00             pita108
+5   4729513471       7  112.00               pie39
+6   4970569706       7   26.11             Bisli74
+7   3105837268       9   40.77           Doritos71
+8   4630792349       7  103.04          Pringles38
+9   9080324207       9   53.46            Bisli105
+10  8103336581       2   15.38             Bisli85
+11  5211526517      10  160.00          butter_405
+12   326362918       6   41.10             Bamba72
+13  4031141123       5   50.00            milk_154
+14  5998993753       1   10.07             Kefli14
+15  8574922930       4   19.92             Chips26
+16  5695639275       3   11.13            Chitos51
+17  7320822838       7  175.00  Napoleon_cheese_88
+date: 2023-03-04
+payment_type: 1
+total_pay: 1040.6399999999999 NIS
+seller name: Karen Salazar

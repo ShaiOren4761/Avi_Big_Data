@@ -1,0 +1,12 @@
+customer_name: Helen Wilkins
+customer name: Helen Wilkins
+productS:            id  amount  price        name
+0  4382270329       3  45.00      cake80
+1  3468545161       5  62.95  Pringles30
+2  1772128447       4  72.00      lafa88
+3  3512777343       3  27.69     Chips84
+4  6187411892       5  70.00   butter_87
+date: 2023-02-05
+payment_type: 2
+total_pay: 277.64 NIS
+seller name: Edna Collins

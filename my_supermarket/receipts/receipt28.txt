@@ -1,0 +1,10 @@
+customer_name: Linda Luttrell
+customer name: Linda Luttrell
+productS:            id  amount  price       name
+0  7131090783       3  30.00   prezel63
+1   956491903       2  25.58   Chitos59
+2  7388958020       8  98.64  Popcorn96
+date: 2023-01-24
+payment_type: 3
+total_pay: 154.22 NIS
+seller name: Hobert Wimberly

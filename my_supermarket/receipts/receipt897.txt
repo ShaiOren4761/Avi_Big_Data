@@ -1,0 +1,8 @@
+customer_name: Elizabeth Mccombs
+customer name: Elizabeth Mccombs
+productS:            id  amount  price        name
+0  7786713518       3   51.0  danone_216
+date: 2023-04-04
+payment_type: 3
+total_pay: 51.0 NIS
+seller name: Donald Dawson

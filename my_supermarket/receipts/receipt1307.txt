@@ -1,0 +1,14 @@
+customer_name: Melissa Lott
+customer name: Melissa Lott
+productS:            id  amount  price        name
+0  7912421033       7  133.0     pita103
+1  4719445586       7  119.0    baklawa9
+2  1339635353       3   27.9  Popcorn108
+3  9856484426      10   37.6   Doritos54
+4  8258888255       4   33.6  Pringles23
+5  4946769121       3   33.3  Pringles64
+6  4717136282       7  140.0     pizza83
+date: 2023-01-02
+payment_type: 0
+total_pay: 524.4000000000001 NIS
+seller name: Lillian Dolan

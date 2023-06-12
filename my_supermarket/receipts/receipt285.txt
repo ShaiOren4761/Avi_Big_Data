@@ -1,0 +1,24 @@
+customer_name: Helen Scheff
+customer name: Helen Scheff
+productS:             id  amount   price               name
+0   8928094454       4   17.56           Apropo77
+1   2245428483       9  180.00           milk_937
+2   4006106433       5  175.00          carlo_214
+3   9281623915       8   97.28           Chitos10
+4   2381124529       9   14.04         Pringles49
+5   3792538150       7  119.00           carlo_26
+6   5201636612       3   48.00   freedom_eggs_934
+7   5947459517       8  136.00  yellow_cheese_379
+8   3110970287       6  168.00          milky_866
+9   2041208865       6  198.00     sour_cream_382
+10  1900843478       2   32.00     sour_cream_304
+11  8865148278       2   28.86          Popcorn59
+12  5105063630       5   16.55          Doritos92
+13  9106680745       6   67.14         Pringles67
+14  4647988691      10  220.00         butter_948
+15  5205696008       3   39.00   organic_eggs_972
+16  5863438103       2   25.18           Chitos65
+date: 2023-01-15
+payment_type: 1
+total_pay: 1581.6100000000001 NIS
+seller name: Ann Hutchens

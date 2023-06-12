@@ -1,0 +1,11 @@
+customer_name: Michael Dennis
+customer name: Michael Dennis
+productS:            id  amount  price             name
+0  2511914111       3   75.0  almond_milk_332
+1  8617449927       9  108.0        carlo_640
+2  9645840367       8  192.0        milky_484
+3  1433144136       5  100.0  swiss_cheese_80
+date: 2023-02-18
+payment_type: 3
+total_pay: 475.0 NIS
+seller name: Ann Hutchens

@@ -1,0 +1,14 @@
+customer_name: Latesha Williams
+customer name: Latesha Williams
+productS:            id  amount   price        name
+0  3358798015       1   14.87    Chitos77
+1  9635709334       5   85.00   cookie128
+2  1046972231       7  210.00    milk_979
+3  1061642313      10  150.00  butter_924
+4  2771350250       9  119.97     Bamba83
+5  9764216273       3   29.46    Chitos29
+6  2840390615       4   80.00      cake32
+date: 2023-02-16
+payment_type: 2
+total_pay: 689.3000000000001 NIS
+seller name: Calvin Manahan

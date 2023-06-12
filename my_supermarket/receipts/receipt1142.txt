@@ -1,0 +1,14 @@
+customer_name: Leonard Cunningham
+customer name: Leonard Cunningham
+productS:            id  amount   price             name
+0  4319476762       2   10.90          Bamba95
+1  6133965836       8   45.76        Doritos98
+2  3606678437       5  110.00  almond_milk_163
+3  8612556689       3   19.08          Bisli16
+4  9797791629       3    5.01         Chitos80
+5  7659165487       4   76.00        milky_845
+6  3962216956       1    5.88       Pringles70
+date: 2023-02-08
+payment_type: 3
+total_pay: 272.63 NIS
+seller name: Kevin Goldberg

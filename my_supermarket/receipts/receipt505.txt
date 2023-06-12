@@ -1,0 +1,14 @@
+customer_name: Wendy Welder
+customer name: Wendy Welder
+productS:            id  amount   price              name
+0  5907467063      10   10.10          Apropo86
+1  7570782330       3   12.42        Popcorn105
+2  7257773907       6   54.00  freedom_eggs_615
+3  1758939776       2   54.00         carlo_670
+4  2187289392       7   70.00         burekas64
+5  8300182505       7  112.00           hala129
+6  3125486774       1    7.00    sour_cream_726
+date: 2023-04-08
+payment_type: 3
+total_pay: 319.52 NIS
+seller name: Kevin Goldberg

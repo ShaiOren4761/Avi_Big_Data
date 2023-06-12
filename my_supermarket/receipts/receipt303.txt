@@ -1,0 +1,17 @@
+customer_name: Mary Pietrowski
+customer name: Mary Pietrowski
+productS:            id  amount   price          name
+0  4928568369       2   28.54     Popcorn17
+1  6627044735       2   14.00  sour_cream_2
+2  9063117867       8  176.00       milk_81
+3  2974927397       7   33.95      Chitos68
+4  1124282438      10   98.30       Bisli36
+5  3962719146       9  153.00      lahuh125
+6  7621171584       3   30.00    butter_343
+7  4277909247       2   40.00      jahnon38
+8   570075818       8   27.84     Pringles7
+9  2304768886       7   98.00     baklawa56
+date: 2023-01-16
+payment_type: 2
+total_pay: 699.63 NIS
+seller name: Karen Salazar

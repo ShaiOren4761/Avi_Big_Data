@@ -1,0 +1,9 @@
+customer_name: Timothy Rankin
+customer name: Timothy Rankin
+productS:            id  amount   price       name
+0  6901815241       4   41.64  Doritos75
+1  8105638575      10  100.00     cake61
+date: 2023-01-14
+payment_type: 0
+total_pay: 141.64 NIS
+seller name: Latasha Mace

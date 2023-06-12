@@ -1,0 +1,24 @@
+customer_name: Denise Null
+customer name: Denise Null
+productS:             id  amount   price              name
+0   7794184429       1   12.00            cake90
+1   9928266964       1    5.00         carlo_941
+2   7216364706       8   48.00             pie46
+3   1089415206       8  160.00         prezel130
+4   3357141219       6  120.00    mozzarella_822
+5   8307487043       6   48.00  organic_eggs_522
+6   9719100235       8  107.36           Chitos2
+7   5643737214       3   43.05           Bamba23
+8   2810873971       6   79.32       Pringles104
+9   8703160750       9  171.00  freedom_eggs_876
+10  3028206084      10  290.00          yolo_319
+11  7918554865       6   96.00        danone_132
+12  1438788996       8   43.20         Chitos110
+13  5489229213       5   95.00         milky_914
+14  6975160313       6  108.00          jahnon66
+15  5316904074       9  234.00   freedom_eggs_58
+16  6970574985       8   85.84        Pringles62
+date: 2023-01-20
+payment_type: 3
+total_pay: 1745.77 NIS
+seller name: Maria Barnett

@@ -1,0 +1,13 @@
+customer_name: Steven Zuckerman
+customer name: Steven Zuckerman
+productS:            id  amount   price            name
+0  1098901684       8  113.20        Chitos44
+1  6041764487       5   55.00         bagget4
+2  2371009115       1    3.53         Chips61
+3   313901350       3   39.87       Doritos93
+4  7805834734       9  171.00          cake55
+5  7682156804       1    6.00  sour_cream_525
+date: 2023-02-23
+payment_type: 2
+total_pay: 388.6 NIS
+seller name: Harold Mitchell

@@ -1,0 +1,24 @@
+customer_name: Lester Green
+customer name: Lester Green
+productS:             id  amount   price            name
+0   5555177781      10  140.00      butter_275
+1   7009805916       8  112.24        Chitos21
+2   4395623535       7   14.70      Pringles68
+3   7113855989       7  217.00  sour_cream_584
+4   3786025068       6  108.00          pita12
+5   8751186001       8  184.00  sour_cream_732
+6   8435429989       5   85.00   sour_cream_42
+7   3395151208      10  170.00      baklawa126
+8   1755486136       1   11.15        Chips100
+9   6935511269       8   19.20        Kefli104
+10  6737160450       6   81.72       Doritos42
+11  2432406542       6   66.00        yolo_921
+12  8125385269       9  103.86      Pringles97
+13  8244874913      10   77.00          Chips4
+14  3412469005       9  116.64      Pringles40
+15  8836610014       2   20.90       Popcorn87
+16  6010929963      10   79.90        Chips110
+date: 2023-03-18
+payment_type: 0
+total_pay: 1607.3100000000004 NIS
+seller name: Victoria Hansen

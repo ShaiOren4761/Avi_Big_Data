@@ -1,0 +1,17 @@
+customer_name: Brian Rivera
+customer name: Brian Rivera
+productS:            id  amount   price               name
+0  3711971455       1   16.00     sour_cream_645
+1  6284093731       1   18.00           coco_834
+2  1201880787       2   64.00  melted_cheese_298
+3  9123509832       8   65.76         Pringles90
+4  5345802903       9  225.00   organic_eggs_397
+5   526144304       8  103.60          Popcorn14
+6  6462390831       6   47.16            Kefli66
+7  1722468656      10  340.00          cream_394
+8  3627451698       2   34.00  yellow_cheese_536
+9  3284591346       2    6.86             Chips6
+date: 2023-03-19
+payment_type: 0
+total_pay: 920.38 NIS
+seller name: Latasha Mace

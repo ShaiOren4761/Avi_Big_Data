@@ -1,0 +1,20 @@
+customer_name: Frank Brown
+customer name: Frank Brown
+productS:             id  amount   price             name
+0   5270079700       2   36.00           hala69
+1   8102530535      10   21.10          Bamba30
+2   3152564482       4   72.00       baklawa100
+3   6848436141       2   22.56          Chitos8
+4   3687579325       7  126.00           pita73
+5   9248119657       7   12.74         Apropo59
+6   5514243716       8  136.00  almond_milk_563
+7   9450226806      10  130.20         Apropo49
+8   8751186001       6  138.00   sour_cream_732
+9   3417264158       4   41.96         Chitos39
+10  1051106407       5   24.50         Apropo17
+11  4201127387       4    7.36          Bamba65
+12  8132459564       7   21.56         Chitos14
+date: 2023-01-15
+payment_type: 1
+total_pay: 789.98 NIS
+seller name: Karen Salazar

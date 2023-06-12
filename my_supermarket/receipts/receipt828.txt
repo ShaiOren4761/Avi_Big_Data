@@ -1,0 +1,21 @@
+customer_name: Katherine Klingel
+customer name: Katherine Klingel
+productS:             id  amount   price               name
+0   1124282438       7   68.81            Bisli36
+1   7427634731       6   54.00              hala5
+2   1959602540       2   30.00            lafa124
+3   1084042106      10  110.00             pie116
+4   1532916451       1    9.00         baklawa109
+5   8663836737       5   32.55           Chips109
+6   1061642313       1   15.00         butter_924
+7    942428879       2    3.78           Chitos47
+8   1201880787       5  160.00  melted_cheese_298
+9   8697758108       3   30.00             ziva92
+10  8173623073       7   17.15             Bamba2
+11  2847420997       2   36.00            pizza89
+12  6700031739       8   99.84           Bamba105
+13  2290773968       4   57.64           Doritos9
+date: 2023-05-08
+payment_type: 2
+total_pay: 723.77 NIS
+seller name: Roberta Lewis

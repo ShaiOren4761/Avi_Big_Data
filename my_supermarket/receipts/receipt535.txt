@@ -1,0 +1,20 @@
+customer_name: William Hilson
+customer name: William Hilson
+productS:             id  amount   price               name
+0   4855391919       2    4.16           Chitos73
+1   8822430251       5   50.25            Bamba50
+2   5905455430      10   90.00             pizza4
+3   8560760295       1    5.00          baklawa69
+4   3170507234       7  140.00  melted_cheese_353
+5   5268267624       2   36.00         burekas114
+6     89900170       7   40.25            Bamba57
+7   3844264438      10  160.00          baklawa17
+8   9152466157       3   38.94           Bamba106
+9   7514617364       5   65.00            hala104
+10  7794184429       7   84.00             cake90
+11  8941219450      10  160.00           lahuh127
+12  3491034861       3   34.17             Bamba9
+date: 2023-05-07
+payment_type: 2
+total_pay: 907.7699999999999 NIS
+seller name: James Briggs

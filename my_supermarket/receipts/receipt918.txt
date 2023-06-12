@@ -1,0 +1,22 @@
+customer_name: Edward Wilson
+customer name: Edward Wilson
+productS:             id  amount   price                 name
+0   3307177761       7   63.00                pie16
+1   5649646859       1   16.00           danone_148
+2   7952298484       2   54.00            cream_395
+3   9608887219       1   20.00       sour_cream_978
+4   4855391919       4    8.32             Chitos73
+5   1883034392       6   73.50             Chitos60
+6   2856243418      10  190.00             eggs_796
+7   9675080872       9   47.88              Kefli87
+8   2270748748       4   56.00       sweet_cream_76
+9    460672439       9   41.58               Chips0
+10  2840663508       1   10.00             milk_215
+11  1256411102       4   28.00  Napoleon_cheese_546
+12  8842002067       9  261.00    melted_cheese_754
+13  7320822838      10  250.00   Napoleon_cheese_88
+14  1704744494      10  170.00             prezel28
+date: 2023-05-09
+payment_type: 3
+total_pay: 1289.2800000000002 NIS
+seller name: Donald Dawson

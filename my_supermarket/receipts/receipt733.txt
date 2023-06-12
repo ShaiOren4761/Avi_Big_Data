@@ -1,0 +1,24 @@
+customer_name: Vera Kellogg
+customer name: Vera Kellogg
+productS:             id  amount   price               name
+0   7952298484       7  189.00          cream_395
+1    845204275       2   10.98            Bamba41
+2   8163644093       2   30.00            ziva116
+3   4686873380       9   54.00         burekas117
+4   9120124782       1    7.00         butter_617
+5   4522400505       9  114.84           Popcorn8
+6   6481569349       7  238.00   melted_cheese_20
+7   8694530385       5   66.40          Popcorn98
+8   5475816412       1    7.00           eggs_947
+9   4136689739       9  103.68            Apropo9
+10  8884561451       5   65.00  melted_cheese_998
+11  7435947285       3   39.00             hala51
+12   164789150       7   45.15           Apropo33
+13  1154030869      10   66.40            Chips21
+14   814837059       3   22.56            Bamba87
+15  4614452848      10   97.60            Chips13
+16  1512571145       2   54.00          danone_46
+date: 2023-05-23
+payment_type: 1
+total_pay: 1210.61 NIS
+seller name: Latasha Mace

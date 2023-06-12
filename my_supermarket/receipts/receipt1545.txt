@@ -1,0 +1,21 @@
+customer_name: Nestor Faust
+customer name: Nestor Faust
+productS:             id  amount   price               name
+0   2644579592       9  270.00           milk_681
+1   4644998168       7   19.81           Chitos69
+2   4004517395       7   35.00             pita43
+3   8155496029       8  114.80          Popcorn18
+4   1095555146       2   30.00    sweet_cream_368
+5   1845052243       8  200.00  yellow_cheese_964
+6    755756435       1    5.76           Chitos27
+7   4528126301       3   30.00           jahnon24
+8   2597272640       7  231.00   swiss_cheese_774
+9   8757485428       6   42.00           jahnon36
+10  5563309872       1   11.60            Bisli18
+11  3611519662       8   96.00           bread119
+12  9677722913       5   35.00    almond_milk_607
+13   853168992       9   36.90            Bisli12
+date: 2023-03-21
+payment_type: 0
+total_pay: 1157.8700000000001 NIS
+seller name: Donald Dawson

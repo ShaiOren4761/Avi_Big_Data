@@ -1,0 +1,26 @@
+customer_name: Wilbert Womack
+customer name: Wilbert Womack
+productS:             id  amount   price                 name
+0   3236010084       5    9.75            Doritos63
+1   8080753862       5   75.00              bread10
+2   6451537533       7  238.00            cream_838
+3   9997075030       8   64.64             Bisli101
+4   3988232598       6   33.00              Kefli22
+5   1472205104       5   75.00             coco_779
+6   1140201910       6  108.00              lafa113
+7   5364754969       5   53.05             Chitos26
+8   1579847942       7   63.00             bread106
+9   8013196005       4   55.08            Doritos38
+10  7080925202       7  126.00             cream_92
+11  2761172891       5   38.30               Kefli8
+12  7110360678       3   48.00    yellow_cheese_488
+13  1209360500       3   42.00      sweet_cream_165
+14  5838325707       3    9.27              Chips60
+15  7234416649       3   39.84              Chitos6
+16  2930396426       6  168.00  Napoleon_cheese_228
+17  6123663072       4  140.00     organic_eggs_636
+18  6250253840       9  270.00        goat_milk_515
+date: 2023-04-18
+payment_type: 3
+total_pay: 1655.9299999999998 NIS
+seller name: Donald Dawson

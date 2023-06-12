@@ -1,0 +1,20 @@
+customer_name: Eloise White
+customer name: Eloise White
+productS:             id  amount   price              name
+0   2344264448       1   24.00         carlo_603
+1   2181854935       4   28.96           Chitos4
+2   5623310867       3   27.21        Pringles63
+3   7585944710       1    6.00   sweet_cream_249
+4   7175319969       1   12.43           Kefli47
+5   6540646129       2   12.00          cookie37
+6   8140512998       9  288.00         milky_549
+7   3346260313       7   97.16        Pringles82
+8   5582816257       6   48.00  freedom_eggs_421
+9   3464017264      10  110.00  melted_cheese_39
+10  3591865296       9   90.00          jahnon53
+11  2905528585       9  180.00          prezel38
+12  2542639433       4   40.00           yolo_30
+date: 2023-05-06
+payment_type: 1
+total_pay: 963.76 NIS
+seller name: Hobert Wimberly

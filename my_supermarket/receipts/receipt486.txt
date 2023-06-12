@@ -1,0 +1,10 @@
+customer_name: Pamela Buie
+customer name: Pamela Buie
+productS:            id  amount  price               name
+0  4528126301       2   20.0           jahnon24
+1  4273284919       6  132.0  melted_cheese_662
+2  4717136282       8  160.0            pizza83
+date: 2023-04-23
+payment_type: 2
+total_pay: 312.0 NIS
+seller name: Margaret Mclaughlin

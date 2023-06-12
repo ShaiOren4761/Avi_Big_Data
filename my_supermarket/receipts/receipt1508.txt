@@ -1,0 +1,12 @@
+customer_name: Jessica Smith
+customer name: Jessica Smith
+productS:            id  amount   price              name
+0  3420503723       7   90.16         Popcorn45
+1  5345802903       6  150.00  organic_eggs_397
+2   393771400       6   89.28           Bisli51
+3  9281623915       3   36.48          Chitos10
+4  9722328824       2   20.14           Bisli59
+date: 2023-01-09
+payment_type: 0
+total_pay: 386.06000000000006 NIS
+seller name: Latasha Mace

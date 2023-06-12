@@ -1,0 +1,14 @@
+customer_name: Denise Gadbois
+customer name: Denise Gadbois
+productS:            id  amount   price        name
+0  7786713518       5   85.00  danone_216
+1  8857696126      10  120.00  danone_688
+2  8479789672       2   36.00    prezel57
+3  3680988777       4   36.00    yolo_772
+4  6530924413       6   34.74  Pringles74
+5  6443842353       7   31.22     Chips97
+6  9468138759       3   87.00    yolo_362
+date: 2023-03-23
+payment_type: 3
+total_pay: 429.96000000000004 NIS
+seller name: Kevin Goldberg

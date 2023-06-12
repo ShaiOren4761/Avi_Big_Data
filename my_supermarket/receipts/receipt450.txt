@@ -1,0 +1,12 @@
+customer_name: Rebecca Snider
+customer name: Rebecca Snider
+productS:            id  amount   price        name
+0  7905092334       9  101.34   Doritos22
+1  7892097681       3   33.36   Apropo106
+2   483525463      10  116.70     Chips68
+3  1194521312       1   17.00    milk_907
+4  6314784363      10  110.00  baklawa105
+date: 2023-04-18
+payment_type: 1
+total_pay: 378.4 NIS
+seller name: Harold Mitchell

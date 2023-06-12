@@ -1,0 +1,17 @@
+customer_name: Tammy Craycraft
+customer name: Tammy Craycraft
+productS:            id  amount   price               name
+0  9700609320       4   72.00           bagget67
+1  9516455596       5   41.45          Doritos57
+2  5574962737       2   20.00  melted_cheese_725
+3  9737293118       4   19.28           Bisli106
+4  9104369207       3   99.00     sweet_cream_84
+5  9571188926       4   84.00          cream_144
+6  4647988691      10  220.00         butter_948
+7  4325135446       1    2.47           Chitos34
+8  2201636818       8   93.68            Bamba47
+9  9150521060       8  112.00            lahuh22
+date: 2023-01-30
+payment_type: 2
+total_pay: 763.8800000000001 NIS
+seller name: Gary Hudson

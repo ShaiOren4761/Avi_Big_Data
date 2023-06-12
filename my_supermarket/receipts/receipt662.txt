@@ -1,0 +1,25 @@
+customer_name: Hoa King
+customer name: Hoa King
+productS:             id  amount   price               name
+0   7455706051       3   21.00            pizza30
+1   1854528192       2   54.00  melted_cheese_335
+2   8122943676       6   81.72           Bamba107
+3   2688996055       6   78.00          baklawa91
+4   3346260313       6   83.28         Pringles82
+5   9664174242       6   60.00             pita76
+6   2749955651       6  120.00          dunats128
+7   1164211935       6   30.00         danone_954
+8   5143335309       4   40.00              pie44
+9   3388579726       9   45.00           dunats71
+10  7240835911       2   19.40            Bisli69
+11  3639810532       3  105.00  yellow_cheese_841
+12  4408467171       1    9.00            pizza16
+13  5029476225       3   25.14         Pringles83
+14  7996773975       3    6.54           Kefli110
+15  2392208708       6   36.54           Kefli106
+16  6591206693       2   30.00           milk_945
+17  7234416649       8  106.24            Chitos6
+date: 2023-05-03
+payment_type: 1
+total_pay: 950.8599999999999 NIS
+seller name: Calvin Manahan

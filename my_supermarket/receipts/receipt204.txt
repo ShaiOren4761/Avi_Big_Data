@@ -1,0 +1,12 @@
+customer_name: Annie Anderson
+customer name: Annie Anderson
+productS:            id  amount   price           name
+0  2477012555       2   16.00           pie4
+1  5364431963       2   36.00  goat_milk_371
+2  8981106001      10  170.00        hala125
+3  7057852262       3    3.90        Bamba28
+4  8663836737       6   39.06       Chips109
+date: 2023-02-11
+payment_type: 2
+total_pay: 264.96000000000004 NIS
+seller name: Marie Natonabah

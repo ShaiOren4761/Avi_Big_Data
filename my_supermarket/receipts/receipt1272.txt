@@ -1,0 +1,10 @@
+customer_name: Larry Lewis
+customer name: Larry Lewis
+productS:            id  amount  price              name
+0  2099915247       3   39.0          bagget80
+1  7330402309      10  130.0         cream_255
+2  6889096348       3  105.0  swiss_cheese_952
+date: 2023-05-23
+payment_type: 0
+total_pay: 274.0 NIS
+seller name: Roberta Lewis

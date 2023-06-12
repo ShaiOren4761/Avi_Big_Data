@@ -1,0 +1,12 @@
+customer_name: Randall Bolton
+customer name: Randall Bolton
+productS:            id  amount   price              name
+0  1849092684       5  100.00         burekas54
+1  4492288116       5  130.00         milky_109
+2  2869978405       8  160.00  organic_eggs_506
+3  6184760311       4   37.44         Doritos87
+4  1696216092       6   78.00           lahuh81
+date: 2023-05-06
+payment_type: 1
+total_pay: 505.44 NIS
+seller name: Latasha Mace

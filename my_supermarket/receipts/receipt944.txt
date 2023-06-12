@@ -1,0 +1,14 @@
+customer_name: Nicholas Murphy
+customer name: Nicholas Murphy
+productS:            id  amount   price         name
+0  5297947242       5   65.00       lafa93
+1  6493352372       2   10.90      Bisli89
+2  6552424950       2    7.54      Bamba56
+3  2033078637       3    4.74  Pringles102
+4  6080046104       2   18.00     bagget69
+5  4530315044      10  180.00   butter_913
+6  5996941271       3   24.00       ziva64
+date: 2023-05-15
+payment_type: 0
+total_pay: 310.18 NIS
+seller name: Victoria Hansen

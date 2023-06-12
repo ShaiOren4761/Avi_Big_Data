@@ -1,0 +1,27 @@
+customer_name: Joseph Laubhan
+customer name: Joseph Laubhan
+productS:             id  amount   price                 name
+0   1295468515       7   42.00       mozzarella_623
+1   7183303653       8   72.00            baklawa11
+2   9123725436       1    7.90             Apropo57
+3   9535933985       9  162.00              hala116
+4   3149544525       5   45.00               hala94
+5   3907285832       9   81.00     organic_eggs_479
+6   1343228742       3    4.80           Pringles25
+7   4554639108       3   15.00            milky_903
+8   6387990502      10  130.00             coco_958
+9   9773630221       2    9.16             Apropo83
+10  6855861307       4   24.00             jahnon93
+11  7910808698       8   96.00              dunats3
+12  2210840962       6   25.98             Chitos37
+13  8456957754       2    2.26             Apropo37
+14  1055068680       7  210.00             carlo_36
+15  6075240225       9  162.00            bagget122
+16  1337584464       1    4.30            Pringles4
+17  5500736553       6  186.00       mozzarella_551
+18  5461198035       9  270.00  Napoleon_cheese_826
+19  1138610511       8  112.00              jahnon3
+date: 2023-05-19
+payment_type: 1
+total_pay: 1661.3999999999999 NIS
+seller name: Edna Collins

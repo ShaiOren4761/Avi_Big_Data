@@ -1,0 +1,23 @@
+customer_name: David Barnes
+customer name: David Barnes
+productS:             id  amount   price               name
+0   3527098068       8  120.00    almond_milk_342
+1   5502134933       8   23.60          Doritos83
+2   5723903853       4   76.00    sweet_cream_652
+3   3170507234       2   40.00  melted_cheese_353
+4   9962446517       6  114.00            ziva100
+5   9588125325       8  232.00     sour_cream_568
+6   3439083065      10  210.00           eggs_508
+7   3437685530       5  165.00           eggs_722
+8   4093685378       1   12.00             cake39
+9   7404377647       1   10.00     mozzarella_660
+10   922689061       3   12.18            Bisli82
+11  5582816257       6   48.00   freedom_eggs_421
+12  4940474524       5   30.20             Bisli5
+13  1693958641       9  117.00   yellow_cheese_56
+14  9381339255       7   70.00   organic_eggs_431
+15  8571481765       3   27.24          Chitos103
+date: 2023-03-14
+payment_type: 2
+total_pay: 1307.22 NIS
+seller name: Calvin Manahan

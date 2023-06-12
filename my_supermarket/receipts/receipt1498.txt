@@ -1,0 +1,23 @@
+customer_name: John Dias
+customer name: John Dias
+productS:             id  amount   price            name
+0   2241517882       5  150.00        coco_237
+1   5115958410       1    7.15         Chips72
+2   4784103407       6  198.00        yolo_932
+3   3982672944       3   14.58          Bisli0
+4   1111010486       6  162.00        eggs_587
+5   4228714385       7  140.00          ziva10
+6   8986454308       9   22.50        Apropo91
+7   5649646859       1   16.00      danone_148
+8   2779348101       2   24.94      Pringles37
+9   8270950693       7   63.00         ziva121
+10  5048146984       1    3.05          Bamba1
+11   725215094       6   79.92      Pringles35
+12  4095047299       9  279.00      butter_112
+13  7786713518      10  170.00      danone_216
+14  5867809358       7  175.00  sour_cream_864
+15  1968789158       3   48.00        eggs_912
+date: 2023-01-26
+payment_type: 3
+total_pay: 1553.1399999999999 NIS
+seller name: Victoria Hansen

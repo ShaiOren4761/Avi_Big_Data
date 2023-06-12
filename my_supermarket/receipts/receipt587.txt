@@ -1,0 +1,10 @@
+customer_name: Johnny Colman
+customer name: Johnny Colman
+productS:            id  amount  price       name
+0  3737633275       3   33.0   milk_665
+1  9507870080       2    5.7  Doritos45
+2  7921641774       2   36.0  milky_360
+date: 2023-03-24
+payment_type: 2
+total_pay: 74.7 NIS
+seller name: Edna Collins

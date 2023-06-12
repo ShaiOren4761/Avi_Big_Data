@@ -1,0 +1,13 @@
+customer_name: Frank Ivie
+customer name: Frank Ivie
+productS:            id  amount  price              name
+0  9321789214       5   11.0         Doritos86
+1  2969333714       8  120.0        butter_474
+2  7617780373       1   22.0          coco_283
+3  1235203535      10  160.0            hala64
+4  6542284833       5  150.0  freedom_eggs_569
+5  5040508233      10  110.0           cake121
+date: 2023-04-22
+payment_type: 0
+total_pay: 573.0 NIS
+seller name: Harold Mitchell

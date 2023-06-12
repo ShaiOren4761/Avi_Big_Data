@@ -1,0 +1,11 @@
+customer_name: Calvin Werner
+customer name: Calvin Werner
+productS:            id  amount  price       name
+0  5505870883       5   13.5    Apropo3
+1  3591865296       9   90.0   jahnon53
+2  8163644093       9  135.0    ziva116
+3  5622981496      10  100.0  prezel118
+date: 2023-03-07
+payment_type: 3
+total_pay: 338.5 NIS
+seller name: Debra Pearson

@@ -1,0 +1,22 @@
+customer_name: Mary Sanabria
+customer name: Mary Sanabria
+productS:             id  amount   price                 name
+0   7582579975       8  104.40              Bisli68
+1   4973461719       6   50.16             Chitos84
+2   3988232598       3   16.50              Kefli22
+3   4237958087       7   91.00               ziva88
+4   1197125341       3   21.00                ziva5
+5   8511957518       7   56.00            baklawa20
+6   7009805916       5   70.15             Chitos21
+7   5033043483       6  102.00             cookie62
+8   6340747060       4   50.72               Bisli8
+9   3624235443       6  114.00            cream_447
+10  2780672615       2   11.32           Pringles24
+11  5505870883       3    8.10              Apropo3
+12  2552970142       2   34.00            bagget123
+13  3887493220       5   75.00  Napoleon_cheese_634
+14  2574420830       4   27.40              Chips78
+date: 2023-04-26
+payment_type: 0
+total_pay: 831.75 NIS
+seller name: Gary Hudson

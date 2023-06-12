@@ -1,0 +1,11 @@
+customer_name: Daniel Scavuzzo
+customer name: Daniel Scavuzzo
+productS:            id  amount  price              name
+0  7947843896       5  100.0         carlo_160
+1  3572331796       7   98.0  freedom_eggs_135
+2  6989199755       8  128.0  freedom_eggs_646
+3  6429846337      10  128.0           Kefli18
+date: 2023-04-16
+payment_type: 3
+total_pay: 454.0 NIS
+seller name: Donald Dawson

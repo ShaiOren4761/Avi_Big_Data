@@ -1,0 +1,13 @@
+customer_name: Yolanda Powell
+customer name: Yolanda Powell
+productS:            id  amount  price            name
+0  7733328177       6  48.00   almond_milk_3
+1  8727300277       2  28.82      Doritos101
+2  1159146314       2  64.00  sour_cream_349
+3  8617430774       9  75.96       Popcorn28
+4  2373790322       6  56.94       Popcorn90
+5  7822944780       3  31.53         Bisli95
+date: 2023-05-08
+payment_type: 1
+total_pay: 305.25 NIS
+seller name: Calvin Manahan

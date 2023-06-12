@@ -1,0 +1,10 @@
+customer_name: Claude Norwood
+customer name: Claude Norwood
+productS:            id  amount  price               name
+0  9993958786       4   88.0  melted_cheese_193
+1  3809523117       5   55.0          cream_746
+2  7335013978       9  207.0          milky_129
+date: 2023-05-23
+payment_type: 0
+total_pay: 350.0 NIS
+seller name: Karen Salazar

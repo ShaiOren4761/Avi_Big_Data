@@ -1,0 +1,10 @@
+customer_name: Louise Whitman
+customer name: Louise Whitman
+productS:            id  amount  price               name
+0  7974285024       6  108.0  melted_cheese_312
+1  8430807124       9   54.0          baklawa95
+2  4975764253       6   48.0   organic_eggs_894
+date: 2023-03-23
+payment_type: 2
+total_pay: 210.0 NIS
+seller name: Maria Barnett

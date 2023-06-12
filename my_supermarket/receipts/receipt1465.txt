@@ -1,0 +1,25 @@
+customer_name: Myrtle Pezzuti
+customer name: Myrtle Pezzuti
+productS:             id  amount   price                 name
+0   9637074245       8  152.00              prezel1
+1   7406763374       9  261.00             coco_768
+2   6187411892       2   28.00            butter_87
+3   8973369656       2   20.00     swiss_cheese_225
+4   5361976454       5  150.00             milk_429
+5   4686065328       7   54.18             Apropo58
+6   7918554865       9  144.00           danone_132
+7   6755104549       4   68.00      sweet_cream_920
+8   3743356973       2   44.00  Napoleon_cheese_931
+9   8302031610       8   22.64           Popcorn104
+10  6170279972       3   27.00                ziva3
+11  2057910256       1    7.00              bread61
+12   328757625       9   97.47              Bisli78
+13  7282434778       8  280.00            cream_879
+14  2057989223       8  120.00        goat_milk_918
+15  4569224883       3   93.00              eggs_93
+16  3484107479       2   40.00     freedom_eggs_592
+17  5467181574       3   57.00              lafa127
+date: 2023-02-21
+payment_type: 2
+total_pay: 1665.29 NIS
+seller name: Victoria Hansen

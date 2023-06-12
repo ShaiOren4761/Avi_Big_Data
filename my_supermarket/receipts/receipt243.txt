@@ -1,0 +1,9 @@
+customer_name: Linda Stewart
+customer name: Linda Stewart
+productS:            id  amount  price     name
+0  9411065204       6   36.0  hala122
+1  9681559084       5   23.6  Bisli50
+date: 2023-04-06
+payment_type: 3
+total_pay: 59.599999999999994 NIS
+seller name: Lillian Dolan

@@ -1,0 +1,27 @@
+customer_name: Ruth Wanty
+customer name: Ruth Wanty
+productS:             id  amount   price                 name
+0   6575648217       1    2.22              Chitos7
+1   7787901454       1   33.00  Napoleon_cheese_140
+2   7509258090      10  250.00       mozzarella_256
+3   5924874992       1   13.00                pie15
+4   7421320348       1    9.00     freedom_eggs_307
+5   3985971517       8   72.00             carlo_25
+6   3591865296       7   70.00             jahnon53
+7   5947601958       3   96.00    melted_cheese_620
+8   5586099570      10  190.00           butter_462
+9   6577246145       2   34.00               ziva41
+10  8201498864       9   45.00    melted_cheese_475
+11  8125385269       6   69.24           Pringles97
+12  4813826494       6   55.50              Bamba94
+13  8785456030       7   24.71              Bisli34
+14  3154745776       2   24.00              pizza72
+15  8691372447       2   36.00           butter_823
+16  3990018758       3    4.83              Chips80
+17  2268867007       1   12.00           danone_836
+18  5154250141       7  147.00            cream_676
+19  4237012825       4   36.00                pie34
+date: 2023-01-28
+payment_type: 2
+total_pay: 1223.5 NIS
+seller name: Latasha Mace

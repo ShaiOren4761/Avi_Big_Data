@@ -1,0 +1,22 @@
+customer_name: Edward Ferraro
+customer name: Edward Ferraro
+productS:             id  amount   price               name
+0   8277949751       8   42.40           Chitos91
+1   8900185926       1   34.00    swiss_cheese_23
+2    191842199       2   12.04            Bamba74
+3   7270045684      10  200.00             lafa29
+4   6308135118       5   75.00          dunats113
+5   2900363969       3   84.00     mozzarella_204
+6   5116320542       7   70.07            Chips64
+7   5001461930       5   40.00   freedom_eggs_765
+8   1089415206       3   60.00          prezel130
+9   4928568369       5   71.35          Popcorn17
+10  6971485450       2   18.00             cake10
+11  5618596778       8  240.00  yellow_cheese_229
+12  5345802903       1   25.00   organic_eggs_397
+13  8107458353       6  108.00           yolo_999
+14  6797371324       1    3.48           Chitos11
+date: 2023-03-06
+payment_type: 1
+total_pay: 1083.3400000000001 NIS
+seller name: Marie Natonabah

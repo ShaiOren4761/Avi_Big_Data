@@ -1,0 +1,19 @@
+customer_name: Edward Stroupe
+customer name: Edward Stroupe
+productS:             id  amount   price               name
+0   2270748748       8  112.00     sweet_cream_76
+1   9456439749       6  114.00  yellow_cheese_345
+2   1746778465       7   69.51            Kefli43
+3   3906638722       7  140.00              ziva4
+4   1095555146       4   60.00    sweet_cream_368
+5   4853031737       5   28.60         Doritos103
+6   3906218083       7  210.00     sour_cream_707
+7   1763010598       7    9.31           Apropo94
+8   3199666108       2   58.00   freedom_eggs_376
+9   1892494983      10  150.00   freedom_eggs_908
+10  5254092417       1   14.35          Popcorn73
+11  7141618087       3   84.00     mozzarella_923
+date: 2023-01-27
+payment_type: 1
+total_pay: 1049.77 NIS
+seller name: Harold Mitchell

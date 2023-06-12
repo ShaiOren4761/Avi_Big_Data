@@ -1,0 +1,27 @@
+customer_name: Sherri Brown
+customer name: Sherri Brown
+productS:             id  amount   price              name
+0   4589519577       1    9.64          Popcorn3
+1   5860062530       6   54.00         cookie100
+2   8263940839      10   59.90          Chitos30
+3   5332025217       2   14.00    sour_cream_539
+4   2059569885       7   85.33           Bamba20
+5    582008114       4    8.00         Doritos78
+6    654627915      10   96.20           Chips20
+7   1291273773       7   49.00        danone_971
+8    115817300       1   11.46           Apropo6
+9   7698792231       6   66.36         Popcorn70
+10  4686065328       2   15.48          Apropo58
+11  7198696196       9  216.00  swiss_cheese_655
+12  8074399800       7  147.00   sweet_cream_728
+13  7664273782      10  160.00  swiss_cheese_354
+14  5364754969       1   10.61          Chitos26
+15  1061642313       5   75.00        butter_924
+16  4655978150       4   24.00         danone_67
+17  4522400505       5   63.80          Popcorn8
+18   530215131       2    9.10          Apropo81
+19  6975160313       1   18.00          jahnon66
+date: 2023-02-12
+payment_type: 0
+total_pay: 1192.8799999999999 NIS
+seller name: Calvin Manahan

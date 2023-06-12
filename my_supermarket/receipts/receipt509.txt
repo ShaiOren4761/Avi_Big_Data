@@ -1,0 +1,25 @@
+customer_name: India Whittmore
+customer name: India Whittmore
+productS:             id  amount   price              name
+0   1897273670       8   15.20           Bamba34
+1   8928477549       4   36.00          milk_385
+2   7425987265       8   48.00            lafa39
+3   4237958087       3   39.00            ziva88
+4   3572331796      10  140.00  freedom_eggs_135
+5   4784103407       3   99.00          yolo_932
+6   7680435083       8   40.00          jahnon42
+7   9507870080      10   28.50         Doritos45
+8   1111010486       6  162.00          eggs_587
+9   3539700204       2   11.90          Chitos83
+10  7616820827       6   12.18       Pringles101
+11  5786235291       1    3.99           Kefli46
+12  7475540137       4   58.12          Apropo65
+13  4860159750       5  100.00          jahnon79
+14  8192028722      10  340.00   sweet_cream_468
+15  8281106225      10  230.00   organic_eggs_47
+16  8244874913       7   53.90            Chips4
+17  8103336581       6   46.14           Bisli85
+date: 2023-04-06
+payment_type: 1
+total_pay: 1463.93 NIS
+seller name: Donald Dawson

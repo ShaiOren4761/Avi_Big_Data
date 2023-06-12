@@ -1,0 +1,18 @@
+customer_name: Daniel Hofman
+customer name: Daniel Hofman
+productS:             id  amount   price               name
+0   8918075819       8  216.00  melted_cheese_548
+1   3360759680       4   30.88         Doritos105
+2   9197683164       9  171.00              pie60
+3   3110870276       9   37.44             Bamba5
+4   5025707230       8  120.00          prezel109
+5   7195646839       8   30.16          Doritos80
+6   8663836737       9   58.59           Chips109
+7   8961298070       2   60.00          cream_142
+8   4784103407       8  264.00           yolo_932
+9   3125486774      10   70.00     sour_cream_726
+10  1945244665       9  297.00          milky_581
+date: 2023-02-26
+payment_type: 0
+total_pay: 1355.07 NIS
+seller name: Margaret Mclaughlin

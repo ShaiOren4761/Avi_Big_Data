@@ -1,0 +1,11 @@
+customer_name: Joann Mitchem
+customer name: Joann Mitchem
+productS:            id  amount  price                 name
+0  7165750776       2  40.00  Napoleon_cheese_597
+1  5954974120       7  70.14            Doritos50
+2  3807085671       3  29.22              Kefli20
+3  4307187063       3  40.83           Pringles27
+date: 2023-01-12
+payment_type: 2
+total_pay: 180.19 NIS
+seller name: Margaret Mclaughlin

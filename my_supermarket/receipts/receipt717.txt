@@ -1,0 +1,19 @@
+customer_name: Tyler Nunez
+customer name: Tyler Nunez
+productS:             id  amount   price                 name
+0   8479789672       3   54.00             prezel57
+1   6351703797       5   55.00               cake97
+2   8928094454       4   17.56             Apropo77
+3     25951910       4   12.60             Apropo19
+4   3887493220       9  135.00  Napoleon_cheese_634
+5   8612556689       1    6.36              Bisli16
+6   9931563104       3    8.22            Doritos34
+7   5492482020       3   35.79             Apropo18
+8   6537548447       8   80.00     freedom_eggs_250
+9   2291098673      10  130.00  Napoleon_cheese_470
+10  4332911857       4  116.00       sour_cream_797
+11  7267361313       8   16.00             Apropo22
+date: 2023-01-27
+payment_type: 3
+total_pay: 666.53 NIS
+seller name: Gary Hudson

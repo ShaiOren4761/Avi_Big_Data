@@ -1,0 +1,26 @@
+customer_name: Pauline Gribbin
+customer name: Pauline Gribbin
+productS:             id  amount   price               name
+0   7196278210       9   53.73            Chitos3
+1   8928477549       8   72.00           milk_385
+2   3906218083       5  150.00     sour_cream_707
+3   7113855989       2   62.00     sour_cream_584
+4   3346073524       7   36.19            Bisli83
+5   1201880787       5  160.00  melted_cheese_298
+6   5151217560      10   16.30            Bamba97
+7   7912490898       7   16.80          Popcorn25
+8   2280035986       9  144.00         baklawa101
+9   6540646129       3   18.00           cookie37
+10  5870840984       6  210.00         danone_973
+11  1892494983       2   30.00   freedom_eggs_908
+12  1639908482       2    5.02           Apropo80
+13  5585620342       9   56.34            Bisli94
+14  9386745633       2   26.00          cream_599
+15  2052421405      10  113.40            Bamba29
+16  6170279972       9   81.00              ziva3
+17  7578506730       9  108.00           prezel66
+18  3581118027       8   58.00          Apropo101
+date: 2023-05-11
+payment_type: 0
+total_pay: 1416.78 NIS
+seller name: Marie Natonabah

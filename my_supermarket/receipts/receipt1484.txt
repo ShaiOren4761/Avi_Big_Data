@@ -1,0 +1,15 @@
+customer_name: Dolly Harris
+customer name: Dolly Harris
+productS:            id  amount  price             name
+0  8259175265       6  78.00       danone_567
+1  3494705008       5  40.00  swiss_cheese_90
+2  9152466157       7  90.86         Bamba106
+3  9401112537       3  10.35        Pringles9
+4  4193149318       4   4.32         Chips105
+5  8217636774       2  16.00           pita68
+6  5656993571       5  27.95         Kefli100
+7  3652468555       3  60.00        baklawa73
+date: 2023-01-04
+payment_type: 1
+total_pay: 327.48 NIS
+seller name: Edna Collins

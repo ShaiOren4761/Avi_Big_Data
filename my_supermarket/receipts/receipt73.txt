@@ -1,0 +1,24 @@
+customer_name: John Buker
+customer name: John Buker
+productS:             id  amount   price               name
+0   1518260232       3   42.00           bagget79
+1   6807110928       4   47.32            Chips70
+2   9771125876       9  225.00  yellow_cheese_766
+3   7660009487       3  102.00         butter_714
+4   8931603073       9  118.71           Apropo89
+5   5555177781       6   84.00         butter_275
+6   6805999275       8  120.00           eggs_155
+7   3346260313       3   41.64         Pringles82
+8   6918751799       1   13.21            Bisli52
+9   4746444083       5   40.00           bagget77
+10  2691268800       8  120.00             hala52
+11  9018449645       4   28.00         baklawa110
+12  9080574295      10  100.00             ziva21
+13  4121831702       1   12.45            Kefli77
+14  5053409659       8  104.00             ziva28
+15  4740215780       4   72.00           eggs_528
+16  3594885722       7   35.00           yolo_702
+date: 2023-04-08
+payment_type: 0
+total_pay: 1305.3300000000002 NIS
+seller name: Debra Pearson

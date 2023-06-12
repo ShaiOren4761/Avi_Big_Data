@@ -1,0 +1,17 @@
+customer_name: Jorge Swanson
+customer name: Jorge Swanson
+productS:            id  amount   price              name
+0  6481569349      10  340.00  melted_cheese_20
+1  9727688032       9  153.00          milk_723
+2  1535164453       6   65.76           Kefli28
+3  3051049011       7   49.00         bagget112
+4  7229311712       9  153.00            pita31
+5  2566387516       5   47.95          Chips107
+6  6373906570       3   60.00            pita46
+7  9308028357       8  104.96           Bamba19
+8  5016059677       1   12.00         cookie102
+9  1753634257       2   42.00         carlo_664
+date: 2023-01-21
+payment_type: 1
+total_pay: 1027.67 NIS
+seller name: Karen Salazar

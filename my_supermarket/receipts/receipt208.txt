@@ -1,0 +1,15 @@
+customer_name: Rebecca Mora
+customer name: Rebecca Mora
+productS:            id  amount   price                 name
+0  5345802903       5  125.00     organic_eggs_397
+1  7698792231       7   77.42            Popcorn70
+2  6950052495       5   65.00             jahnon49
+3  1677841571       5   41.30              Kefli97
+4  8132274340       8   88.00            milky_922
+5  6517614489       6  180.00       sour_cream_391
+6  1465135792       1   20.00  Napoleon_cheese_151
+7  8373411908       1    1.83             Chitos63
+date: 2023-03-28
+payment_type: 3
+total_pay: 598.5500000000001 NIS
+seller name: Ann Hutchens

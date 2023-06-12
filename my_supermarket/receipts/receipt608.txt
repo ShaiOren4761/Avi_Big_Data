@@ -1,0 +1,17 @@
+customer_name: Dolores Zoellner
+customer name: Dolores Zoellner
+productS:            id  amount   price             name
+0  8900185926       5  170.00  swiss_cheese_23
+1  9655758473       7  119.00           cake58
+2  8053610047      10  280.00   sour_cream_856
+3  8440399015       2   22.00           pita75
+4  2695216580       5   65.00          Kefli98
+5  5241138763       2   26.00         bagget22
+6  8737389857       5   65.00        carlo_119
+7  4865712712       2   10.00           hala84
+8  4084017914       5  100.00          pizza82
+9  1746778465       5   49.65          Kefli43
+date: 2023-02-19
+payment_type: 3
+total_pay: 906.65 NIS
+seller name: Marie Natonabah

@@ -1,0 +1,8 @@
+customer_name: Rachel Spencer
+customer name: Rachel Spencer
+productS:            id  amount  price              name
+0  8952765865       9   45.0  organic_eggs_456
+date: 2023-03-29
+payment_type: 3
+total_pay: 45.0 NIS
+seller name: Roberta Lewis

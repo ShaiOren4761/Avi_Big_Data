@@ -1,0 +1,22 @@
+customer_name: James Jamal
+customer name: James Jamal
+productS:             id  amount   price              name
+0   6793938238       2   18.40          Bamba101
+1   3277164675       7  154.00          coco_910
+2    115817300       2   22.92           Apropo6
+3   5972140342       9  117.00  freedom_eggs_496
+4   4765004348       8  200.00  organic_eggs_744
+5   8198331591       6   39.54          Chitos36
+6   6683148162       3   14.04        Popcorn106
+7   3447023908       7   46.90           Chips96
+8   5880031329       5   55.00            ziva53
+9   6133965836       3   17.16         Doritos98
+10  9580962846      10  100.00           pita127
+11  2499090485       6   66.00          carlo_17
+12  5963004709       3  105.00    mozzarella_476
+13  6582967065       5   38.15        Pringles50
+14  8082961165       4   32.00           eggs_53
+date: 2023-01-05
+payment_type: 2
+total_pay: 1026.1099999999997 NIS
+seller name: Hobert Wimberly

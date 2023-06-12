@@ -1,0 +1,20 @@
+customer_name: Carolyn Borrero
+customer name: Carolyn Borrero
+productS:             id  amount   price                 name
+0   2034725218       7  210.00       sour_cream_690
+1   6462390831       9   70.74              Kefli66
+2   2499168099      10   90.00               milk_5
+3   5805333708       5  140.00    yellow_cheese_850
+4   1759409367       3    4.38              Bisli46
+5   6259979847       1    6.00               ziva96
+6   4958296306       2   48.00  Napoleon_cheese_242
+7   2644619575       1    1.21            Doritos53
+8   8354318545       4   24.00             eggs_692
+9   4911802914      10  310.00           butter_821
+10  3756521895      10   50.00               hala87
+11  8547769588       5   73.15            Popcorn62
+12  1575541708       8  240.00     organic_eggs_516
+date: 2023-03-18
+payment_type: 2
+total_pay: 1267.48 NIS
+seller name: Gary Hudson

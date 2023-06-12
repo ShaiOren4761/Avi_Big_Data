@@ -1,0 +1,16 @@
+customer_name: Frank Brown
+customer name: Frank Brown
+productS:            id  amount   price              name
+0  7481478676       3   54.00          eggs_492
+1  4975764253       4   32.00  organic_eggs_894
+2  6979473379       4   44.00        baklawa108
+3   266149272       7   16.45          Chitos28
+4  8845551457       6    6.60          Chitos17
+5  8361643664       5   40.00         jahnon110
+6  9123509832       9   73.98        Pringles90
+7  1841586885       6  210.00        butter_663
+8  7022061558       2   11.82          Chitos52
+date: 2023-01-29
+payment_type: 1
+total_pay: 488.84999999999997 NIS
+seller name: James Briggs

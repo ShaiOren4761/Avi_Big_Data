@@ -1,0 +1,17 @@
+customer_name: Jeremy Dixon
+customer name: Jeremy Dixon
+productS:            id  amount  price              name
+0  6221547554       9  90.00            bread6
+1  1639908482       6  15.06          Apropo80
+2  4406179452       3  33.00          jahnon70
+3  7291950679       5  45.00          prezel30
+4  2172283047       8   8.00        Pringles48
+5  2865564642       7  82.39        Pringles43
+6  6797371324       4  13.92          Chitos11
+7  5205696008       5  65.00  organic_eggs_972
+8  8420396310       9  63.18         Doritos48
+9  6565397268       4  22.44          Apropo99
+date: 2023-03-09
+payment_type: 1
+total_pay: 437.99 NIS
+seller name: Margaret Mclaughlin

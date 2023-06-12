@@ -1,0 +1,20 @@
+customer_name: Lucille Edwards
+customer name: Lucille Edwards
+productS:             id  amount   price            name
+0   9422796976       7   29.68         Kefli94
+1   9468138759       9  261.00        yolo_362
+2   5276125137       6   19.08         Chips54
+3   6259979847       4   24.00          ziva96
+4   8136048042       3   15.00  mozzarella_825
+5   2676439156       9  288.00        milk_533
+6   4042995571      10   60.00      butter_855
+7   2339625165       7   98.21       Popcorn33
+8   1733411177       3    5.70         Bisli31
+9   6756279248       2   20.00         coco_77
+10  1930608790       3   37.71         Bamba99
+11  3711971455       5   80.00  sour_cream_645
+12  4472529594       3   21.00        jahnon51
+date: 2023-05-06
+payment_type: 0
+total_pay: 959.3800000000001 NIS
+seller name: Kevin Goldberg

@@ -1,0 +1,22 @@
+customer_name: Peter Mccracken
+customer name: Peter Mccracken
+productS:             id  amount   price                 name
+0   4970569706       6   22.38              Bisli74
+1   9248119657       2    3.64             Apropo59
+2   4853031737       9   51.48           Doritos103
+3   2388791138       4   44.00            burekas30
+4   4002030823       7   32.13              Chips93
+5   1424648616       5   90.00  Napoleon_cheese_347
+6   5715951929      10  119.20              Apropo1
+7   2662878840       5   62.90              Chips50
+8   5828803674       3   33.00    melted_cheese_401
+9   5614825031       8  256.00     organic_eggs_145
+10  1046972231       6  180.00             milk_979
+11  3093917812       2   12.26             Popcorn7
+12  6001323820       3   48.00             pizza111
+13  8279567119       9  252.00              coco_71
+14  2259358824       7  203.00     swiss_cheese_540
+date: 2023-01-02
+payment_type: 2
+total_pay: 1409.99 NIS
+seller name: Margaret Mclaughlin

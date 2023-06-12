@@ -1,0 +1,25 @@
+customer_name: Dora Renteria
+customer name: Dora Renteria
+productS:             id  amount   price                 name
+0   1550128282       5  115.00            milky_114
+1   3120195154       6  138.00            cream_643
+2   7855915319       6   90.00            burekas50
+3   3743356973       3   66.00  Napoleon_cheese_931
+4   2713640790       1    6.04              Kefli90
+5   5989249977      10  160.00              lahuh12
+6   7320822838       8  200.00   Napoleon_cheese_88
+7   8224622045       9   54.00              pita117
+8   4447447283       5  105.00  Napoleon_cheese_775
+9   5982332854      10  200.00             jahnon58
+10  9246180563      10  190.00     freedom_eggs_537
+11  7660828820       2   68.00             eggs_510
+12  2267559230       3   30.00               ziva38
+13  4950177826       2   58.00        goat_milk_933
+14  4272080883       2   60.00             coco_420
+15  9261950131       9  234.00            milky_803
+16  2969333714       9  135.00           butter_474
+17  9724099313       1   15.00           butter_399
+date: 2023-04-03
+payment_type: 2
+total_pay: 1924.04 NIS
+seller name: Harold Mitchell

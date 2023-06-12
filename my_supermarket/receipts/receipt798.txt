@@ -1,0 +1,8 @@
+customer_name: Diane Stilwell
+customer name: Diane Stilwell
+productS:           id  amount  price     name
+0  568081851       9  50.58  Bisli91
+date: 2023-04-28
+payment_type: 3
+total_pay: 50.58 NIS
+seller name: Maria Barnett

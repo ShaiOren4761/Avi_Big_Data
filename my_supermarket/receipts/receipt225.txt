@@ -1,0 +1,25 @@
+customer_name: Michael Jean
+customer name: Michael Jean
+productS:             id  amount   price             name
+0   6080269809       8   80.16          Chips14
+1   4064018847       2   24.00         bread118
+2   2400900521       7   46.41          Bamba21
+3   3403309398       9  234.00  almond_milk_241
+4   6010929963       9   71.91         Chips110
+5   2477012555       2   16.00             pie4
+6   7196278210       2   11.94          Chitos3
+7   2329759333       3   27.00  sweet_cream_769
+8   6041032292      10   13.00          Bisli90
+9   2274571933       7   98.00          bread67
+10  7433662161       9   48.78          Chips35
+11  7777758933      10   73.10          Bamba78
+12  9956234120       2   38.00         cookie44
+13  5259931691       9  162.00           ziva70
+14   280748644       7   22.33         Chitos48
+15  6221547554       7   70.00           bread6
+16  7406763374      10  290.00         coco_768
+17  1151627695       2   64.00       butter_949
+date: 2023-01-30
+payment_type: 0
+total_pay: 1390.63 NIS
+seller name: Harold Mitchell

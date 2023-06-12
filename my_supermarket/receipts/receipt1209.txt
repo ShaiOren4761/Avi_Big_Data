@@ -1,0 +1,14 @@
+customer_name: Archie Anderson
+customer name: Archie Anderson
+productS:            id  amount  price             name
+0  3478731598       2  10.00           ziva23
+1  5947865049       6  42.00  swiss_cheese_91
+2  8961298070       1  30.00        cream_142
+3  8801879675       7   8.89         Chips102
+4  4500383528       8  96.00        carlo_212
+5  6633171984       4  52.00       danone_287
+6  7382005014       7  70.00         bread100
+date: 2023-02-24
+payment_type: 2
+total_pay: 308.89 NIS
+seller name: Latasha Mace

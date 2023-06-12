@@ -1,0 +1,16 @@
+customer_name: Jonna Roby
+customer name: Jonna Roby
+productS:            id  amount   price        name
+0  1907371334       5   35.60     Bamba96
+1  2304968963       8   16.40     Bisli63
+2  1959602540       5   75.00     lafa124
+3  2025371219       7   26.81     Bamba71
+4   573251583       4   27.72  Pringles99
+5  6346027854       5   52.30    Chips106
+6  1573371180       5   55.00   dunats116
+7  9851982261       9  288.00   cream_902
+8  4480910552       4   80.00    dunats98
+date: 2023-02-18
+payment_type: 1
+total_pay: 656.83 NIS
+seller name: Donald Dawson

@@ -1,0 +1,15 @@
+customer_name: Christopher Hall
+customer name: Christopher Hall
+productS:            id  amount   price             name
+0  8247514592       7   39.83        Doritos13
+1  4364698190      10   32.90       Popcorn103
+2  2406582356       6   10.44          Chips45
+3  1029201620      10   89.20          Kefli56
+4  5043070029       8   61.36          Bamba10
+5  2239512161      10  200.00           lafa99
+6  2847699985      10   90.00        baklawa49
+7  5493928801       1   21.00  almond_milk_158
+date: 2023-03-12
+payment_type: 3
+total_pay: 544.73 NIS
+seller name: Latasha Mace

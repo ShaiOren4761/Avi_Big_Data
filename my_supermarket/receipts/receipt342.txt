@@ -1,0 +1,11 @@
+customer_name: Joe Conwell
+customer name: Joe Conwell
+productS:            id  amount  price              name
+0  4114355509       9  135.0  freedom_eggs_566
+1  8782329935       3    9.0           Kefli34
+2  9645840367       1   24.0         milky_484
+3  5607103657       3   75.0  swiss_cheese_543
+date: 2023-01-22
+payment_type: 2
+total_pay: 243.0 NIS
+seller name: Debra Pearson

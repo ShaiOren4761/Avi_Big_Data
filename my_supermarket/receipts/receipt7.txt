@@ -1,0 +1,20 @@
+customer_name: Timothy Rankin
+customer name: Timothy Rankin
+productS:             id  amount   price                 name
+0     25951910       4   12.60             Apropo19
+1   4480625771      10  110.00            cream_960
+2   3711971455       5   80.00       sour_cream_645
+3   6910603180       4   43.04              Bamba76
+4   1691629683       4   38.64              Bisli79
+5   4013336724       2   54.00              milk_35
+6   3276023643       1    5.00       sour_cream_324
+7   2204368721       3   37.23              Kefli58
+8   4037036019       7  105.00            prezel126
+9   9321789214       2    4.40            Doritos86
+10  8189918112       1   31.00  Napoleon_cheese_220
+11  2946696126      10  150.00               ziva42
+12  2582423137       3   42.00               hala25
+date: 2023-03-06
+payment_type: 2
+total_pay: 712.91 NIS
+seller name: James Briggs

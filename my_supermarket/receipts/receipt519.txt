@@ -1,0 +1,15 @@
+customer_name: Felecia Walker
+customer name: Felecia Walker
+productS:            id  amount   price             name
+0  8558689670       7  245.00  sweet_cream_407
+1  9761339853       7   84.00           cake77
+2  6884133657       8   60.72         Kefli109
+3  6455418856       6  132.00         coco_458
+4  8120799669       1    4.15        Doritos14
+5  9653744229       1   12.70           Kefli5
+6  7899063920       9   83.16           Chips9
+7  6276898700      10  110.00         prezel53
+date: 2023-01-13
+payment_type: 1
+total_pay: 731.73 NIS
+seller name: Maria Barnett

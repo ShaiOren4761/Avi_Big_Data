@@ -1,0 +1,20 @@
+customer_name: Jennifer Neville
+customer name: Jennifer Neville
+productS:             id  amount   price             name
+0   1843408960       6   66.00            pie28
+1   4238431067       3   16.77          Bisli76
+2   6752500298       8   53.76          Apropo4
+3   7585944710       4   24.00  sweet_cream_249
+4   6744255800       3   11.49         Bisli108
+5   7877030455       5   85.00         jahnon52
+6   4618116534       4   20.00          bread40
+7   9568368978       9  171.00    goat_milk_680
+8   8619156307       9  108.00         bagget43
+9   6752500298       8   53.76          Apropo4
+10  7735953284       8   28.72          Bamba32
+11  6568985984       6   60.00           lafa25
+12  2243087918       3   45.00           lahuh2
+date: 2023-04-12
+payment_type: 0
+total_pay: 743.5 NIS
+seller name: Victoria Hansen

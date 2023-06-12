@@ -1,0 +1,12 @@
+customer_name: Richard Jefferson
+customer name: Richard Jefferson
+productS:            id  amount   price      name
+0  6935511269       5   12.00  Kefli104
+1  8255574282       9   54.00   lahuh50
+2  4977676118       9   83.61   Kefli24
+3  6469425642       9  153.00  pizza114
+4   328757625       4   43.32   Bisli78
+date: 2023-01-17
+payment_type: 1
+total_pay: 345.93 NIS
+seller name: Gary Hudson

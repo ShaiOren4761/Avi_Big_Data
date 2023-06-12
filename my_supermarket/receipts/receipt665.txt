@@ -1,0 +1,12 @@
+customer_name: Samantha May
+customer name: Samantha May
+productS:            id  amount   price             name
+0  3343316184       1    7.00         bagget63
+1  2615226126       8  272.00  almond_milk_911
+2  6683148162       8   37.44       Popcorn106
+3  7471595532       9   45.90         Popcorn2
+4  2177277294       7  203.00         yolo_710
+date: 2023-03-23
+payment_type: 1
+total_pay: 565.3399999999999 NIS
+seller name: Marie Natonabah

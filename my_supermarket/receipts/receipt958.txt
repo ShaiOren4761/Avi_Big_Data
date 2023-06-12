@@ -1,0 +1,23 @@
+customer_name: Bertha Saenz
+customer name: Bertha Saenz
+productS:             id  amount   price              name
+0   4655978150       7   42.00         danone_67
+1   2177277294       1   29.00          yolo_710
+2   7444396554       8  152.00           hala111
+3   7269028736       6   26.34          Apropo98
+4   2260491839       2   42.00     goat_milk_292
+5   6098053049       7  210.00  swiss_cheese_869
+6   6568985984       2   20.00            lafa25
+7   2491132087       7   42.00        baklawa111
+8   9154232267       6   48.00         baklawa59
+9   3359006814       5   74.15           Bisli30
+10  6737160450       3   40.86         Doritos42
+11  1957150902       6   42.00             pie78
+12  8723057968       8  192.00  organic_eggs_439
+13  7653871813       2   66.00    mozzarella_677
+14  8676919147      10  220.00          yolo_560
+15  6162064724       9  126.00           pizza68
+date: 2023-01-09
+payment_type: 3
+total_pay: 1372.35 NIS
+seller name: Debra Pearson

@@ -1,0 +1,20 @@
+customer_name: Marvin Keller
+customer name: Marvin Keller
+productS:             id  amount  price                 name
+0   9993436197       7   84.0        goat_milk_792
+1   8540776534      10  320.0           butter_459
+2   4644998168      10   28.3             Chitos69
+3   6952742186       5  130.0      almond_milk_527
+4   1209360500       1   14.0      sweet_cream_165
+5   3051580212       1   11.0              lahuh83
+6   4784697350       6  114.0    melted_cheese_534
+7   6782540217      10  150.0  Napoleon_cheese_152
+8   1272963697       1   29.0       sour_cream_535
+9   7210241659       9  198.0        goat_milk_861
+10  9088276628       4   40.0             bagget33
+11  8711725546       2   24.0        goat_milk_437
+12  4447447283       4   84.0  Napoleon_cheese_775
+date: 2023-05-11
+payment_type: 3
+total_pay: 1226.3 NIS
+seller name: Hobert Wimberly

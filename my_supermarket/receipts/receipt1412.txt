@@ -1,0 +1,21 @@
+customer_name: Kenneth Herrera
+customer name: Kenneth Herrera
+productS:             id  amount   price               name
+0    755756435       7   40.32           Chitos27
+1   7198922741      10  270.00           eggs_900
+2   4961948928       5   60.00          burekas27
+3   6451537533       6  204.00          cream_838
+4   5113271759       4  140.00   freedom_eggs_209
+5   8384893530       2   28.00           jahnon55
+6   8682876615       3   20.58            Chips37
+7   2162003842       5   13.75         Pringles86
+8   2213725065       8  104.00            bread94
+9   1769012145       5   45.00             ziva52
+10  1051106407       3   14.70           Apropo17
+11  4877541930       3   33.00  melted_cheese_265
+12  6481569349       2   68.00   melted_cheese_20
+13  6609101402       8   96.00   swiss_cheese_785
+date: 2023-01-22
+payment_type: 1
+total_pay: 1137.35 NIS
+seller name: Calvin Manahan

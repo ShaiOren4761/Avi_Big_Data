@@ -1,0 +1,27 @@
+customer_name: Frank Trotman
+customer name: Frank Trotman
+productS:             id  amount   price               name
+0   2219725592       8  144.00      goat_milk_637
+1   9551526127       3   24.00           prezel97
+2   7293801939       1   18.00             pita37
+3   2605775354       2   12.00  melted_cheese_191
+4   1026345405       1    1.11          Doritos81
+5   7291116312       1    8.00          dunats109
+6   7257792576       1    1.56            Chips65
+7   2063554095       4  140.00   swiss_cheese_851
+8   6692495016       8   68.56         Pringles57
+9   9653744229      10  127.00             Kefli5
+10  2294080808       6  132.00         butter_980
+11  8952910504       9   14.13          Pringles0
+12  4003132469       9  306.00           milk_669
+13  2396574023       9   54.00      goat_milk_659
+14  1021857923       7  105.00            cake123
+15  3676009716      10   22.30            Bisli28
+16  3545542595       5  165.00           eggs_499
+17  9185491707       8   90.16           Apropo75
+18  1733411177      10   19.00            Bisli31
+19  8258854322       2   16.00         danone_638
+date: 2023-04-13
+payment_type: 3
+total_pay: 1467.8200000000002 NIS
+seller name: Kevin Goldberg

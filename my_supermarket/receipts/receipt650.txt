@@ -1,0 +1,10 @@
+customer_name: Blanche Garcia
+customer name: Blanche Garcia
+productS:            id  amount  price      name
+0  1512994245       4  68.00  bread102
+1  6918751799       7  92.47   Bisli52
+2  8020666066       1   4.73  Apropo67
+date: 2023-03-19
+payment_type: 2
+total_pay: 165.2 NIS
+seller name: Maria Barnett

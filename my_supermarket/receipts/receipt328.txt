@@ -1,0 +1,26 @@
+customer_name: Pamela Lee
+customer name: Pamela Lee
+productS:             id  amount   price              name
+0   8999494479       5   85.00         milky_585
+1   3423857847       2   26.00         cookie116
+2   7414250634       2    2.00           Chips28
+3   8265295087       8  112.00          yolo_561
+4   3512358813       9  118.98          Chitos55
+5   3294955150       5   80.00          dunats49
+6   8120799669       4   16.60         Doritos14
+7   7179438945       4   12.08          Chitos41
+8   2851496583       4   56.00     goat_milk_843
+9   9695062353       3   24.00          cookie71
+10  3061070448       4  100.00  organic_eggs_939
+11  8337651701       4   16.88           Bamba52
+12  2037612808       3   60.00         cookie115
+13  9961748196       7   61.81            Bamba6
+14  7987176712       5   65.00           bread69
+15  8651737989       1   20.00          milk_239
+16  7179438945       2    6.04          Chitos41
+17  1536911185       6   76.02         Doritos60
+18  1296476066       1   10.00         burekas25
+date: 2023-04-14
+payment_type: 1
+total_pay: 948.4100000000001 NIS
+seller name: Ann Hutchens

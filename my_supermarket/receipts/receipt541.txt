@@ -1,0 +1,18 @@
+customer_name: Peggy Brown
+customer name: Peggy Brown
+productS:             id  amount   price              name
+0   7218507452       4   72.00    sour_cream_590
+1   3199666108       1   29.00  freedom_eggs_376
+2   5770177100       6   72.00            lafa38
+3   9901431095       9  180.00           bread54
+4   8524995739       8  120.00         milky_740
+5   2887000834       6   46.38         Doritos37
+6   7458172393       3   15.39          Chitos18
+7     68189602       3   44.46        Pringles77
+8   6938257437       4   14.36           Kefli59
+9   3988232598       8   44.00           Kefli22
+10  8703160750       9  171.00  freedom_eggs_876
+date: 2023-03-23
+payment_type: 3
+total_pay: 808.59 NIS
+seller name: Renee Brammer

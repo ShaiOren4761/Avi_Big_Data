@@ -1,0 +1,19 @@
+customer_name: Harold Bain
+customer name: Harold Bain
+productS:             id  amount   price              name
+0   3235493911       9   28.08         Popcorn22
+1   8320021804       5   53.80          Apropo15
+2   3468545161       1   12.59        Pringles30
+3   6101575647       5   75.00          pizza101
+4   6132408530       5   25.00          lahuh126
+5   9900176262       7  140.00            hala33
+6   1336259815       2   18.18         Doritos66
+7   9436845239       8   56.00  organic_eggs_495
+8   8125385269       6   69.24        Pringles97
+9   3987622247       3   66.00          yolo_559
+10  4323140915       9  189.00         milky_755
+11  6913485453       9   90.00          prezel94
+date: 2023-04-02
+payment_type: 3
+total_pay: 822.8900000000001 NIS
+seller name: Kevin Goldberg

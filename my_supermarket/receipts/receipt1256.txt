@@ -1,0 +1,11 @@
+customer_name: Phillip Gegenheimer
+customer name: Phillip Gegenheimer
+productS:            id  amount  price        name
+0  4216298667       2   40.0   baklawa24
+1  7848327923      10  116.3  Doritos110
+2  1344173222       3   81.0   carlo_906
+3  3173739186       5  135.0    yolo_995
+date: 2023-03-15
+payment_type: 0
+total_pay: 372.3 NIS
+seller name: Debra Pearson

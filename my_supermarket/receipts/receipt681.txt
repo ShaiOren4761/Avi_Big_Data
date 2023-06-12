@@ -1,0 +1,18 @@
+customer_name: Shirley Miller
+customer name: Shirley Miller
+productS:             id  amount  price              name
+0   7359376015       2   26.0            hala61
+1   1119623569      10   90.0         prezel105
+2   3187274481       3   15.0         carlo_110
+3   1264663960       5   70.0          jahnon21
+4   1557355699       3  102.0  organic_eggs_854
+5   2426139111       3   15.0           pizza99
+6   2304968963       2    4.1           Bisli63
+7   1571583051       8  200.0    mozzarella_689
+8   2986957607       2   36.0           lahuh93
+9   1472205104       6   90.0          coco_779
+10  9395713515       3  102.0        danone_270
+date: 2023-01-18
+payment_type: 3
+total_pay: 750.1 NIS
+seller name: Latasha Mace

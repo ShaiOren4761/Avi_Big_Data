@@ -1,0 +1,15 @@
+customer_name: James Villarreal
+customer name: James Villarreal
+productS:            id  amount   price              name
+0  7643343820      10  124.10           Bamba18
+1  1675279550       4   44.52           Apropo5
+2  7435947285      10  130.00            hala51
+3  8224822307       6   36.00          yolo_898
+4  3752660882       3    7.47          Apropo11
+5  7558730191      10  150.00           pizza73
+6  1172711187       9   54.00         burekas38
+7  7959612046       7  231.00  swiss_cheese_194
+date: 2023-05-25
+payment_type: 2
+total_pay: 777.09 NIS
+seller name: Jennifer Roberts

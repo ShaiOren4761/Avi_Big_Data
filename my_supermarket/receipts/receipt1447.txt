@@ -1,0 +1,23 @@
+customer_name: Stephanie Beltran
+customer name: Stephanie Beltran
+productS:             id  amount   price              name
+0   2381124529      10   15.60        Pringles49
+1   8056680284       8  240.00          milky_12
+2   5316904074       3   78.00   freedom_eggs_58
+3   3061070448      10  250.00  organic_eggs_939
+4   3110970287       4  112.00         milky_866
+5   8380903199       6   79.56            Bisli2
+6    685590998       4   57.04         Popcorn48
+7   1713213782       3   30.00          cookie86
+8   5364754969       3   31.83          Chitos26
+9   5040508233       3   33.00           cake121
+10  8066390508       5   31.10           Chips86
+11  8489584430       8  168.00   almond_milk_467
+12  5429491242       4   68.00   almond_milk_469
+13  9172103534       1    4.78           Kefli82
+14  2373462207       9  297.00         cream_897
+15  9056438479       1    8.78        Doritos106
+date: 2023-03-14
+payment_type: 1
+total_pay: 1504.69 NIS
+seller name: Debra Pearson

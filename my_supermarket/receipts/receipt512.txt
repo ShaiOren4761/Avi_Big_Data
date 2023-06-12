@@ -1,0 +1,13 @@
+customer_name: Thomas Chandler
+customer name: Thomas Chandler
+productS:            id  amount   price        name
+0  7855915319       8  120.00   burekas50
+1  1416007187       8  104.00       lafa3
+2  7239232397       5   27.25  Pringles76
+3  7899419890       4   58.20     Bamba64
+4  4562876616       6   54.00    coco_351
+5  9080574295       8   80.00      ziva21
+date: 2023-01-09
+payment_type: 0
+total_pay: 443.45 NIS
+seller name: Renee Brammer

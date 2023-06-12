@@ -1,0 +1,24 @@
+customer_name: Ashley Petronella
+customer name: Ashley Petronella
+productS:             id  amount   price                 name
+0   9007518868       4   28.00               hala31
+1   2695216580       3   39.00              Kefli98
+2   6807358674       4   60.00     organic_eggs_997
+3   5972674016       4   92.00            milky_786
+4   2207366818       7  119.00            milky_555
+5   7458172393       7   35.91             Chitos18
+6   5515448485       9  171.00     yellow_cheese_65
+7   2337054084       9   90.00      organic_eggs_63
+8   2264942498       4   40.36           Pringles72
+9   3822377326       7   53.06              Bamba36
+10  1300932938       7   61.25             Chitos76
+11  6689691915       9   54.00               lahuh7
+12  2542639433       1   10.00              yolo_30
+13  9768117593      10  190.00  Napoleon_cheese_814
+14  4447937050       5   45.00              lahuh47
+15  5792012068       5  120.00             yolo_928
+16  2052421405       4   45.36              Bamba29
+date: 2023-02-27
+payment_type: 2
+total_pay: 1253.9399999999998 NIS
+seller name: Maria Barnett

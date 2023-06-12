@@ -1,0 +1,12 @@
+customer_name: George Prince
+customer name: George Prince
+productS:            id  amount  price              name
+0  1945244665       9  297.0         milky_581
+1  4280459754       9  252.0          coco_416
+2  5684868233       8   64.0            pita39
+3  5201636612      10  160.0  freedom_eggs_934
+4  8432226837      10  210.0   almond_milk_982
+date: 2023-02-19
+payment_type: 1
+total_pay: 983.0 NIS
+seller name: Maria Barnett

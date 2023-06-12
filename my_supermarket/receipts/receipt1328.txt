@@ -1,0 +1,10 @@
+customer_name: Steven Thomas
+customer name: Steven Thomas
+productS:            id  amount   price             name
+0  1062078498       4   29.52         Chitos45
+1  5971019777       9   46.26       Pringles60
+2  7987422271       5  110.00  almond_milk_320
+date: 2023-03-08
+payment_type: 2
+total_pay: 185.78 NIS
+seller name: Donald Dawson

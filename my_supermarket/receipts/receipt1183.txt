@@ -1,0 +1,27 @@
+customer_name: Eddie Moritz
+customer name: Eddie Moritz
+productS:             id  amount   price                 name
+0   9588125325       7  203.00       sour_cream_568
+1   6482960301       7   84.00       mozzarella_123
+2   4198997774       8  128.00             bagget21
+3   9634058839       9  133.20            Popcorn50
+4   8952910504       3    4.71            Pringles0
+5   5494674577      10   50.00               hala58
+6   4255674664       4   52.00              hala118
+7   9802769522       2   17.38            Popcorn26
+8   4037036019       3   45.00            prezel126
+9   7865783737       2   32.00              pita120
+10  9737293118       8   38.56             Bisli106
+11  4257662409       1   30.00  Napoleon_cheese_875
+12  6693710853       5   35.00      almond_milk_170
+13  7914612327       5   14.30            Popcorn34
+14  9331128732       4   68.00              bread86
+15  9925783239       9  126.00               lafa76
+16  7368280735       8   41.76             Doritos8
+17   572567400       4   29.88             Bamba110
+18  9819779158       7   35.00              lahuh36
+19  8224622045       1    6.00              pita117
+date: 2023-03-10
+payment_type: 1
+total_pay: 1173.7900000000002 NIS
+seller name: Edna Collins

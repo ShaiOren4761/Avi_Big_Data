@@ -1,0 +1,12 @@
+customer_name: Loyd Ostermann
+customer name: Loyd Ostermann
+productS:            id  amount  price        name
+0  4365311404       4  36.00     cake106
+1  7259730126       7  31.36     Chips19
+2  7684748577       5  43.65   Doritos52
+3  7290516510       1   6.06    Apropo29
+4  2294080808       2  44.00  butter_980
+date: 2023-03-17
+payment_type: 0
+total_pay: 161.07 NIS
+seller name: Donald Dawson

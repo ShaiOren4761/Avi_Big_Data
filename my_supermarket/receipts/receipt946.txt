@@ -1,0 +1,9 @@
+customer_name: Frank Brown
+customer name: Frank Brown
+productS:            id  amount  price       name
+0  3110970287       3   84.0  milky_866
+1  4013336724       5  135.0    milk_35
+date: 2023-02-03
+payment_type: 3
+total_pay: 219.0 NIS
+seller name: Karen Salazar

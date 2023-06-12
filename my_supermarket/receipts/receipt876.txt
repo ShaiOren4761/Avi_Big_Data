@@ -1,0 +1,16 @@
+customer_name: Brandon Wooten
+customer name: Brandon Wooten
+productS:            id  amount   price               name
+0  7703128719      10   70.00  melted_cheese_177
+1  8857696126       5   60.00         danone_688
+2  5259931691       7  126.00             ziva70
+3  9259431829       4   49.20            Chips33
+4  7558730191       8  120.00            pizza73
+5  3125486774       7   49.00     sour_cream_726
+6   654627915       4   38.48            Chips20
+7  5835867867       5   15.10            Bisli29
+8  8711725546       1   12.00      goat_milk_437
+date: 2023-01-29
+payment_type: 3
+total_pay: 539.78 NIS
+seller name: Lillian Dolan

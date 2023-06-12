@@ -1,0 +1,8 @@
+customer_name: Marion Horton
+customer name: Marion Horton
+productS:            id  amount  price     name
+0  2435499459       6  46.86  Bamba22
+date: 2023-04-26
+payment_type: 1
+total_pay: 46.86 NIS
+seller name: Hobert Wimberly

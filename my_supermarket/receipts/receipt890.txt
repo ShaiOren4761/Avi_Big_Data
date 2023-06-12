@@ -1,0 +1,18 @@
+customer_name: Gwendolyn Orth
+customer name: Gwendolyn Orth
+productS:             id  amount   price               name
+0   3639810532       6  210.00  yellow_cheese_841
+1   3764019617       7   41.72           Chitos49
+2    364214406       3   33.81          Pringles6
+3   1945244665       5  165.00          milky_581
+4   2869978405       9  180.00   organic_eggs_506
+5   2404373360       3    9.90         Pringles28
+6   4911802914       3   93.00         butter_821
+7   5548012137       8  160.00          burekas35
+8   6716362648       2   24.00   swiss_cheese_550
+9   4728207408       8  104.96           Bamba109
+10  5345802903       9  225.00   organic_eggs_397
+date: 2023-04-13
+payment_type: 1
+total_pay: 1247.3899999999999 NIS
+seller name: Roberta Lewis

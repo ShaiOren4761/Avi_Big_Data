@@ -1,0 +1,17 @@
+customer_name: William Johnson
+customer name: William Johnson
+productS:            id  amount   price               name
+0  8120799669       1    4.15          Doritos14
+1  5403762420      10  120.00  yellow_cheese_697
+2  3535624320       6  126.00  melted_cheese_691
+3  9051261268       1   18.00           yolo_673
+4  8369438862       8   96.00    almond_milk_715
+5  7619859060       1    5.00          jahnon103
+6  7765721113       2    8.12            Kefli52
+7  4190725054       6   66.00   swiss_cheese_523
+8  3425525105       8   96.72           Chips108
+9  8711725546      10  120.00      goat_milk_437
+date: 2023-02-02
+payment_type: 1
+total_pay: 659.99 NIS
+seller name: Harold Mitchell

@@ -1,0 +1,21 @@
+customer_name: Michael Tippens
+customer name: Michael Tippens
+productS:             id  amount   price               name
+0   6999375752       6   71.28         Pringles71
+1   4323140915       9  189.00          milky_755
+2   5862250831       5   55.00          burekas32
+3    435498330       7   42.42            Bamba93
+4   4699625420       9   45.00   freedom_eggs_139
+5   4943543146       6   90.00    sweet_cream_811
+6   2268629743       7   12.39          Popcorn79
+7   1686846932       1    7.00   swiss_cheese_188
+8   3192107145       8  104.00  yellow_cheese_187
+9   9162930837       3   51.00              pie58
+10  1159146314       3   96.00     sour_cream_349
+11  5364431963       3   54.00      goat_milk_371
+12  2758441497       8  240.00     sour_cream_849
+13  4778426497      10  290.00   swiss_cheese_981
+date: 2023-02-21
+payment_type: 1
+total_pay: 1347.09 NIS
+seller name: Latasha Mace

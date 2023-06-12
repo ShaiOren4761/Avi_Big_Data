@@ -1,0 +1,27 @@
+customer_name: Marie Ramos
+customer name: Marie Ramos
+productS:             id  amount   price               name
+0   3262928019       8   34.80          Doritos20
+1   3478731598       8   40.00             ziva23
+2   1412142417       5   30.00          baklawa50
+3    956491903       2   25.58           Chitos59
+4   6131636355       9  135.00     sour_cream_217
+5   2242014772       6  108.00           cookie17
+6   8580459919       4   42.04            Kefli96
+7   7914612327       1    2.86          Popcorn34
+8   2887000834       6   46.38          Doritos37
+9   3961824178       1   16.00           jahnon29
+10  4950177826       3   87.00      goat_milk_933
+11  8013196005       4   55.08          Doritos38
+12  1124584031       9   81.00   freedom_eggs_373
+13  3091791439       8   80.48         Pringles13
+14  3578084870       9  144.00            hala105
+15  9651003287       4   48.80            Chips46
+16  1235203535       3   48.00             hala64
+17  8016138992       2   26.00  melted_cheese_330
+18  2948885200       3   16.98            Bamba37
+19  8638366391      10  150.00            lahuh37
+date: 2023-01-31
+payment_type: 2
+total_pay: 1218.0 NIS
+seller name: Lillian Dolan

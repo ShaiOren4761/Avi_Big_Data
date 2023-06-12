@@ -1,0 +1,8 @@
+customer_name: Steven Parker
+customer name: Steven Parker
+productS:            id  amount  price      name
+0  9256288476       2   70.0  coco_174
+date: 2023-03-26
+payment_type: 2
+total_pay: 70.0 NIS
+seller name: Harold Mitchell

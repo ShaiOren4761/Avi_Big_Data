@@ -1,0 +1,12 @@
+customer_name: Jessica Rock
+customer name: Jessica Rock
+productS:            id  amount  price              name
+0  8596443419       9  31.68           Bisli53
+1  5563309872       3  34.80           Bisli18
+2  7267361313       8  16.00          Apropo22
+3  8247514592       6  34.14         Doritos13
+4  4511378222       2  36.00  yellow_cheese_89
+date: 2023-04-26
+payment_type: 3
+total_pay: 152.62 NIS
+seller name: Kevin Goldberg

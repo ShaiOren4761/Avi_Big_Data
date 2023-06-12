@@ -1,0 +1,23 @@
+customer_name: Bridget Walla
+customer name: Bridget Walla
+productS:             id  amount   price                 name
+0   7855915319       7  105.00            burekas50
+1   2676439156       3   96.00             milk_533
+2   8034346112      10   70.00             eggs_868
+3   7727802001       7   86.73           Popcorn102
+4   5539025220       9   24.57          Pringles100
+5   8189918112       5  155.00  Napoleon_cheese_220
+6   4950177826       6  174.00        goat_milk_933
+7   1892494983       1   15.00     freedom_eggs_908
+8   3083766553       7  105.00               lafa65
+9   3707009974       2   16.00      sweet_cream_455
+10  4686873380       2   12.00           burekas117
+11  5967245804       5   50.00               hala98
+12  6683489857       1    7.55             Popcorn0
+13  2219725592       3   54.00        goat_milk_637
+14  7108689034       5   10.30            Popcorn67
+15  7068100856       7  182.00     organic_eggs_108
+date: 2023-05-21
+payment_type: 2
+total_pay: 1163.1499999999999 NIS
+seller name: Calvin Manahan

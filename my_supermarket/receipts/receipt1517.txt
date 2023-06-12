@@ -1,0 +1,26 @@
+customer_name: Brian Bushovisky
+customer name: Brian Bushovisky
+productS:             id  amount   price              name
+0   8938542471       5   20.50           Bisli96
+1   3269418251       4   84.00          eggs_223
+2   2344264448       1   24.00         carlo_603
+3   7150156420       2   28.00          yolo_504
+4   3269418251      10  210.00          eggs_223
+5   8300182505       2   32.00           hala129
+6   9727748071       3  102.00         cream_440
+7   4325492461       9   42.57           Bamba42
+8   6870092376       9   31.95           Bamba92
+9   1062078498       4   29.52          Chitos45
+10  5050469915       2   12.00          eggs_873
+11  2304968963       6   12.30           Bisli63
+12  6989199755       3   48.00  freedom_eggs_646
+13   326362918       9   61.65           Bamba72
+14  1906127390       9  225.00      goat_milk_28
+15  4145460189       2   48.00  organic_eggs_565
+16  7108689034       1    2.06         Popcorn67
+17  8865148278       8  115.44         Popcorn59
+18  2534125851       5   40.00    sour_cream_542
+date: 2023-03-02
+payment_type: 3
+total_pay: 1168.99 NIS
+seller name: Edna Collins

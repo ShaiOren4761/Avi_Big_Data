@@ -1,0 +1,17 @@
+customer_name: Zachary Belew
+customer name: Zachary Belew
+productS:            id  amount   price               name
+0  2887000834       1    7.73          Doritos37
+1  5107035587       7   21.77            Bisli42
+2  4719445586       2   34.00           baklawa9
+3  3763061895       7  140.00  yellow_cheese_808
+4  3064273311       8   56.00   swiss_cheese_771
+5  5996941271       4   32.00             ziva64
+6  8952765865       6   30.00   organic_eggs_456
+7  9507870080       3    8.55          Doritos45
+8  4752365757       5   27.15           Chitos87
+9  8574922930       7   34.86            Chips26
+date: 2023-05-26
+payment_type: 3
+total_pay: 392.06 NIS
+seller name: Margaret Mclaughlin

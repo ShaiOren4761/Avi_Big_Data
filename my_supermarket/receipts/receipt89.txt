@@ -1,0 +1,25 @@
+customer_name: Francisco Sweeney
+customer name: Francisco Sweeney
+productS:             id  amount   price            name
+0   7653871813      10  330.00  mozzarella_677
+1   7702543510       7   91.00         lahuh78
+2   6250433842      10  190.00         pizza50
+3   3191321146       4   44.32       Doritos90
+4   1291273773       2   14.00      danone_971
+5   4641650733       8   72.16         Bamba63
+6   5786235291       8   31.92         Kefli46
+7   9569923077       7   57.89         Chips25
+8    313901350       9  119.61       Doritos93
+9   1279225261       3   19.71       Doritos68
+10  3058483730       2   26.00          cake74
+11  3543097542       6   30.36         Chips67
+12   604713082       7   60.69         Apropo7
+13  7803644674       7  126.00          ziva82
+14  6244068245       5   49.55          Bamba0
+15  7255316406       8  104.00      danone_276
+16  5570192467       7   46.41         Bisli27
+17  7141618087       7  196.00  mozzarella_923
+date: 2023-03-26
+payment_type: 2
+total_pay: 1609.6200000000001 NIS
+seller name: Debra Pearson

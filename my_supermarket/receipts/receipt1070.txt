@@ -1,0 +1,13 @@
+customer_name: John Donohoe
+customer name: John Donohoe
+productS:            id  amount  price             name
+0  7863214881       7  140.0       butter_367
+1  6634687432       7   98.0         dunats15
+2  8440399015       8   88.0           pita75
+3  8575410665       3   15.0       danone_445
+4  4652228356       3   57.0         eggs_558
+5  8192028722       7  238.0  sweet_cream_468
+date: 2023-01-21
+payment_type: 2
+total_pay: 636.0 NIS
+seller name: Victoria Hansen

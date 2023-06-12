@@ -1,0 +1,18 @@
+customer_name: Erick Kinsler
+customer name: Erick Kinsler
+productS:             id  amount   price              name
+0   5757349106       6   66.00          milk_513
+1   1172711187       9   54.00         burekas38
+2   9641721123       8   20.08           Chips22
+3    146465367       4   35.88         Doritos84
+4   7234749736       6   54.00    sour_cream_930
+5   6064791707       3   66.00  organic_eggs_389
+6   4630792349       5   73.60        Pringles38
+7   8238421558       9  225.00  freedom_eggs_501
+8   3478731598       4   20.00            ziva23
+9   7359376015       1   13.00            hala61
+10  6568985984       7   70.00            lafa25
+date: 2023-04-10
+payment_type: 0
+total_pay: 697.56 NIS
+seller name: Lillian Dolan

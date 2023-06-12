@@ -1,0 +1,15 @@
+customer_name: Joan Rastorfer
+customer name: Joan Rastorfer
+productS:            id  amount   price        name
+0  9629518661       3   33.00    yolo_248
+1  4973461719       5   41.80    Chitos84
+2  9309788096      10  100.00       pie74
+3  9589195585       2   12.00   burekas62
+4  4645522651       5   55.00      pita77
+5  2946696126       6   90.00      ziva42
+6  8866418915       5   14.75  Pringles33
+7  6441877331       5  110.00    milk_366
+date: 2023-03-24
+payment_type: 1
+total_pay: 456.55 NIS
+seller name: Roberta Lewis

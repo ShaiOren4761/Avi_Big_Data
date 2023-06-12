@@ -1,0 +1,24 @@
+customer_name: Lisa Brashear
+customer name: Lisa Brashear
+productS:             id  amount   price             name
+0   2900363969       5  140.00   mozzarella_204
+1   5359341453       8   80.00           bread4
+2   9925783239       5   70.00           lafa76
+3   3932773476       3   36.96       Pringles59
+4   3187274481       9   45.00        carlo_110
+5   8145026289       6   53.34         Apropo95
+6   9962446517       3   57.00          ziva100
+7   2059569885       4   48.76          Bamba20
+8   2119044389       2   12.00          lahuh46
+9   5841405074       2    7.00        Doritos21
+10  6276898700       2   22.00         prezel53
+11  2514722240       2   36.00        jahnon130
+12  4545755994      10   75.00        Popcorn81
+13  7371422605       3   57.00  almond_milk_264
+14  3988383350       2   24.00           hala62
+15  4891088436       7  126.00        cream_436
+16  7768458743       2    7.18           Kefli4
+date: 2023-02-09
+payment_type: 0
+total_pay: 897.2399999999999 NIS
+seller name: Victoria Hansen

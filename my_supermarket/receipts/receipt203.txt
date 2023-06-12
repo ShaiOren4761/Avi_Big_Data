@@ -1,0 +1,21 @@
+customer_name: Jeri Battle
+customer name: Jeri Battle
+productS:             id  amount   price                name
+0   9572830963       3   19.68            Chitos98
+1   5167955986       6   84.06           Popcorn49
+2   4784697350       2   38.00   melted_cheese_534
+3    685590998       6   85.56           Popcorn48
+4   9259431829      10  123.00             Chips33
+5   2392969327       8  272.00            yolo_369
+6   7643343820       2   24.82             Bamba18
+7   4232988091       6   57.96            Chitos64
+8   6518306191       4   60.00             lafa129
+9   9414611643       1   16.00     almond_milk_604
+10  1376842029       3   36.00            dunats74
+11  8949321630       7  196.00  Napoleon_cheese_50
+12  7021370720       1   18.00            milk_570
+13  8225433463       8   72.80            Apropo31
+date: 2023-03-29
+payment_type: 1
+total_pay: 1103.8799999999999 NIS
+seller name: James Briggs

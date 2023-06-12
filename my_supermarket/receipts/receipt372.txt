@@ -1,0 +1,8 @@
+customer_name: Evelyn Pompa
+customer name: Evelyn Pompa
+productS:            id  amount  price      name
+0  2253671177       7  161.0  eggs_820
+date: 2023-01-18
+payment_type: 3
+total_pay: 161.0 NIS
+seller name: Hobert Wimberly

@@ -1,0 +1,25 @@
+customer_name: Ken Jackson
+customer name: Ken Jackson
+productS:             id  amount   price                name
+0   8433856102       5   65.00            yolo_477
+1    115817300      10  114.60             Apropo6
+2   1680982376       6   66.00            lahuh105
+3   5996941271       8   64.00              ziva64
+4   2357080802       6   72.00            bagget29
+5   4798208097       7  168.00     almond_milk_487
+6   8270950693       3   27.00             ziva121
+7   8259175265      10  130.00          danone_567
+8   3786025068       1   18.00              pita12
+9   1839542719       3   21.00            jahnon87
+10  1580632915       9  135.00  Napoleon_cheese_45
+11  5582816257      10   80.00    freedom_eggs_421
+12  1694118809       4   54.92            Apropo43
+13  3988232598       7   38.50             Kefli22
+14  1387493234       6  180.00            coco_872
+15  3512777343       5   46.15             Chips84
+16  2415394970       2   16.00          danone_909
+17  2693524936       7   82.25          Pringles98
+date: 2023-02-23
+payment_type: 2
+total_pay: 1378.42 NIS
+seller name: Victoria Hansen

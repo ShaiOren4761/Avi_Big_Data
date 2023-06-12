@@ -1,0 +1,15 @@
+customer_name: Cynthia Allen
+customer name: Cynthia Allen
+productS:            id  amount   price            name
+0  9507870080       5   14.25       Doritos45
+1  1725132439      10  140.00       baklawa23
+2  6815416935       6   64.26       Apropo110
+3  5706653469       9   80.37       Doritos85
+4  1331389344       6  114.00        eggs_830
+5  3571761302       7   49.00      danone_857
+6  8632966315       7   14.07          Bamba8
+7  5441346410       7  182.00  sour_cream_957
+date: 2023-05-16
+payment_type: 1
+total_pay: 657.95 NIS
+seller name: Donald Dawson

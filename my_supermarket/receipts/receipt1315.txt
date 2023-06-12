@@ -1,0 +1,20 @@
+customer_name: Linda Camp
+customer name: Linda Camp
+productS:             id  amount   price                 name
+0   9060954198      10  350.00  Napoleon_cheese_683
+1   9549836584       6   72.00                lafa2
+2   7848407376       9  216.00           butter_478
+3   2195738734       6   96.00      sweet_cream_956
+4   5993594738       4   20.00               ziva24
+5   8213997519       6   84.00             yolo_694
+6   3606678437       5  110.00      almond_milk_163
+7   8713068851       5  160.00             milk_813
+8   5475477255       7  112.00             jahnon63
+9   5345802903       9  225.00     organic_eggs_397
+10  8115468682       6   12.42              Bamba58
+11  9674451366       1   24.00       mozzarella_296
+12  4607860483       9  108.00        goat_milk_425
+date: 2023-05-09
+payment_type: 0
+total_pay: 1589.42 NIS
+seller name: James Briggs

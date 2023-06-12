@@ -1,0 +1,23 @@
+customer_name: Samuel Walsh
+customer name: Samuel Walsh
+productS:             id  amount   price               name
+0   6797493127       4   76.00   freedom_eggs_682
+1   9593397002       1   28.00          carlo_927
+2   7582579975      10  130.50            Bisli68
+3   8881318457       3    8.55            Bamba33
+4   1159146314      10  320.00     sour_cream_349
+5   3654254468       9   22.05          Chitos107
+6   8777872859       4  116.00           yolo_733
+7   6807358674       8  120.00   organic_eggs_997
+8   1295468515       6   36.00     mozzarella_623
+9   8636031956       1   27.00  yellow_cheese_258
+10  5656993571       6   33.54           Kefli100
+11  1463834928       9   63.00           pizza103
+12  9195817971       7  119.00         burekas108
+13  8193211906       9   91.62          Doritos30
+14  6098053049       7  210.00   swiss_cheese_869
+15  1337584464      10   43.00          Pringles4
+date: 2023-02-09
+payment_type: 1
+total_pay: 1444.2599999999998 NIS
+seller name: Calvin Manahan

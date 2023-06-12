@@ -1,0 +1,15 @@
+customer_name: Lonnie Brewer
+customer name: Lonnie Brewer
+productS:            id  amount  price              name
+0  4331253984       1    8.0            pita69
+1  9329690189       7   42.0     goat_milk_591
+2  7578664786       5   35.0         burekas69
+3  8898084643       1   18.0  freedom_eggs_130
+4  7444396554      10  190.0           hala111
+5  6591206693       3   45.0          milk_945
+6  1670410375       8   96.0          cookie46
+7  8889736554       2   12.0        burekas105
+date: 2023-01-24
+payment_type: 1
+total_pay: 446.0 NIS
+seller name: Renee Brammer

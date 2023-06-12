@@ -1,0 +1,11 @@
+customer_name: Terry Davis
+customer name: Terry Davis
+productS:            id  amount  price            name
+0  5812017382       3   45.0        milk_743
+1  2847699985       6   54.0       baklawa49
+2  9430890185       6   96.0      baklawa103
+3  5190856560       4  100.0  sour_cream_819
+date: 2023-02-03
+payment_type: 0
+total_pay: 295.0 NIS
+seller name: Lillian Dolan

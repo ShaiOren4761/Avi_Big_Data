@@ -1,0 +1,16 @@
+customer_name: Myrtle Mayo
+customer name: Myrtle Mayo
+productS:            id  amount   price                 name
+0  8270950693       6   54.00              ziva121
+1  5905455430       7   63.00               pizza4
+2  8011419334       7   69.30              Kefli65
+3  7432196780       3   54.00  Napoleon_cheese_157
+4  9633973355       1    2.65              Kefli50
+5  2290773968       8  115.28             Doritos9
+6  4145343815       3   45.00             coco_588
+7  3655922135       7   75.18            Popcorn19
+8  2643159031       4   60.00               cake52
+date: 2023-01-31
+payment_type: 2
+total_pay: 538.4100000000001 NIS
+seller name: Ann Hutchens

@@ -1,0 +1,18 @@
+customer_name: Lawrence Gordon
+customer name: Lawrence Gordon
+productS:             id  amount   price               name
+0   7485387735       2   60.00      goat_milk_261
+1   5505870883      10   27.00            Apropo3
+2   6383271604       8   97.84          Popcorn68
+3   5812017382       5   75.00           milk_743
+4   3140717400       8  120.00           yolo_100
+5   5600097503       4  100.00           yolo_993
+6   4802619719       7   42.35            Bamba84
+7   3294955150       4   64.00           dunats49
+8   4864994361       8   88.00  yellow_cheese_917
+9   1713213782       3   30.00           cookie86
+10  9805965278       5   32.55            Kefli54
+date: 2023-05-18
+payment_type: 1
+total_pay: 736.74 NIS
+seller name: Gary Hudson

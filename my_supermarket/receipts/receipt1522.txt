@@ -1,0 +1,17 @@
+customer_name: Jordan Meskill
+customer name: Jordan Meskill
+productS:            id  amount   price               name
+0  6563510544       7   56.00           eggs_812
+1  1532916451       7   63.00         baklawa109
+2  1623050821       7   60.41           Apropo41
+3  1554067584       4   72.00         butter_867
+4  5422325640       6   66.00          milky_430
+5  3862605342       3   24.21            Bisli26
+6  2294080808       7  154.00         butter_980
+7  3745981239       6   30.00             pita27
+8  5313065057       6   60.00  yellow_cheese_817
+9  1336885731       1    1.50           Apropo36
+date: 2023-03-01
+payment_type: 1
+total_pay: 587.1199999999999 NIS
+seller name: Margaret Mclaughlin

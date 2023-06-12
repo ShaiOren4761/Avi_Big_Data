@@ -1,0 +1,12 @@
+customer_name: Frances Arenas
+customer name: Frances Arenas
+productS:            id  amount  price                 name
+0  1725132439       3  42.00            baklawa23
+1  5421813302       9  72.00  Napoleon_cheese_116
+2  7080608728       4  14.28              Kefli91
+3  1735212715       2  15.70              Chips99
+4  8114203701       5  60.00            burekas83
+date: 2023-03-28
+payment_type: 3
+total_pay: 203.98 NIS
+seller name: Lillian Dolan

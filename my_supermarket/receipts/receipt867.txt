@@ -1,0 +1,11 @@
+customer_name: Bradley Shores
+customer name: Bradley Shores
+productS:            id  amount   price        name
+0  7290516510       5   30.30    Apropo29
+1  5982332854       9  180.00    jahnon58
+2  8871223251       8   91.92  Pringles14
+3  4102269260      10   73.30  Popcorn100
+date: 2023-04-30
+payment_type: 1
+total_pay: 375.52000000000004 NIS
+seller name: Roberta Lewis

@@ -1,0 +1,23 @@
+customer_name: David Danielson
+customer name: David Danielson
+productS:             id  amount   price                 name
+0   1825576367       3    9.51              Bamba51
+1   3867965938       4  120.00            danone_74
+2   5862250831       9   99.00            burekas32
+3   6979473379       7   77.00           baklawa108
+4   8471812490       7   77.00  Napoleon_cheese_951
+5   3042531267       7   91.00              pizza41
+6   2478208226       2   14.00             cookie32
+7   3545542595       8  264.00             eggs_499
+8   8945456646       6   24.96             Chitos58
+9   6953664656       8  128.00     melted_cheese_29
+10  1098862419       1   16.00             eggs_935
+11  9468138759       2   58.00             yolo_362
+12  9154232267       3   24.00            baklawa59
+13  1001223381       9   63.00     organic_eggs_126
+14  8857696126       1   12.00           danone_688
+15  4498407429       3   60.00            jahnon117
+date: 2023-03-26
+payment_type: 0
+total_pay: 1137.47 NIS
+seller name: Edna Collins

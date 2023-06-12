@@ -1,0 +1,23 @@
+customer_name: Renee Demaio
+customer name: Renee Demaio
+productS:             id  amount   price               name
+0    572796454       5   35.90           Doritos0
+1   2912876054       1   13.71          Doritos18
+2   1667621181      10  210.00         butter_311
+3   2668939231       5   24.30            Kefli32
+4   8562313207       7   42.00  melted_cheese_181
+5   8182821041       7   49.00            lahuh33
+6   4047322107      10  170.00    sweet_cream_800
+7   6255675487       8  104.00          jahnon104
+8   4112952795      10  150.00            bread66
+9   8247514592       2   11.38          Doritos13
+10  9964179243      10   90.00             hala66
+11  4232988091       5   48.30           Chitos64
+12  6285966709       9  153.00            pizza21
+13  4630792349       1   14.72         Pringles38
+14  1880696888       5   85.00     sour_cream_254
+15  7865783737       5   80.00            pita120
+date: 2023-02-26
+payment_type: 3
+total_pay: 1281.3100000000002 NIS
+seller name: Victoria Hansen

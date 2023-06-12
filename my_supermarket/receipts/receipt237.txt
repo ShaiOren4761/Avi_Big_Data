@@ -1,0 +1,25 @@
+customer_name: Patricia Frazier
+customer name: Patricia Frazier
+productS:             id  amount   price                 name
+0   3598428134       6   90.00            baklawa71
+1   8624886662       6   16.50              Bamba55
+2   3611519662       6   72.00             bread119
+3   6659610320       3    9.69              Kefli64
+4   9029477329       3   18.15              Bisli62
+5   5255985477       3    3.75              Bamba67
+6   6226024598       6   54.00               lafa62
+7   5558317486       1    2.73              Bamba27
+8   1465135792       4   80.00  Napoleon_cheese_151
+9   9811701321       8  144.00              lahuh13
+10  1912932901       4   60.00              ziva123
+11  1416007187       1   13.00                lafa3
+12  8713068851       6  192.00             milk_813
+13  3423857847       6   78.00            cookie116
+14  1159146314       9  288.00       sour_cream_349
+15  9571188926       4   84.00            cream_144
+16  2406582356       7   12.18              Chips45
+17  3520084617       2   32.00              pizza69
+date: 2023-03-11
+payment_type: 0
+total_pay: 1250.0000000000002 NIS
+seller name: Calvin Manahan

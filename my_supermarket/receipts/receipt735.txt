@@ -1,0 +1,21 @@
+customer_name: Thomas Doll
+customer name: Thomas Doll
+productS:             id  amount   price               name
+0    519529375       8  117.44             Bamba3
+1   1577139568       5  135.00  melted_cheese_859
+2   3425525105       8   96.72           Chips108
+3   7455259414       3   36.00          milky_541
+4   4280459754       9  252.00           coco_416
+5   2771350250       4   53.32            Bamba83
+6   3730630814       7   42.00          prezel102
+7   3730630814       1    6.00          prezel102
+8   6433147279       5   65.00    sweet_cream_653
+9   5600097503      10  250.00           yolo_993
+10  7229311712       8  136.00             pita31
+11  6768927548       8   42.72            Bisli71
+12  6373906570       5  100.00             pita46
+13  2210840962       6   25.98           Chitos37
+date: 2023-05-20
+payment_type: 0
+total_pay: 1358.18 NIS
+seller name: Gary Hudson

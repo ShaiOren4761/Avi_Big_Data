@@ -1,0 +1,10 @@
+customer_name: Cornell Flores
+customer name: Cornell Flores
+productS:            id  amount   price        name
+0  8371788692      10  170.00  danone_966
+1  4667558042       1   11.16      Bisli7
+2  1572770551       4    8.48     Bisli88
+date: 2023-03-21
+payment_type: 3
+total_pay: 189.64 NIS
+seller name: Margaret Mclaughlin

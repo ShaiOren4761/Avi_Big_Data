@@ -1,0 +1,27 @@
+customer_name: Jill Moore
+customer name: Jill Moore
+productS:             id  amount   price                 name
+0   4780392938       9   33.30              Kefli61
+1   5303405342       3   18.00                pie90
+2   3325531833       1    6.00     melted_cheese_57
+3   6828481114       5   75.00      almond_milk_334
+4   5557914031       3   38.82          Pringles109
+5   6820171813       7   97.44              Bisli86
+6   1862486576       9  234.00  Napoleon_cheese_698
+7   4345905587       9  117.00                pie96
+8   7884155194       7  210.00       sour_cream_359
+9   8473917808       4    9.12             Chitos96
+10  3141057906       1    6.00               ziva68
+11  2278399226       3    6.24             Chitos94
+12  6226285441       7   91.00              lahuh88
+13  8072443628       3   40.11           Pringles18
+14  8244874913       9   69.30               Chips4
+15  2991470508       4   28.00             bagget37
+16  7211068631       2   17.24            Doritos15
+17  5920085347      10   44.70               Kefli1
+18  6051907717       2   21.56               Bisli4
+19  3084987021       5   70.00              hala106
+date: 2023-05-02
+payment_type: 1
+total_pay: 1232.83 NIS
+seller name: Hobert Wimberly

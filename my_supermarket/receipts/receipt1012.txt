@@ -1,0 +1,10 @@
+customer_name: Jonathon Cox
+customer name: Jonathon Cox
+productS:            id  amount  price      name
+0  3346073524       1   5.17   Bisli83
+1  3594885722       6  30.00  yolo_702
+2  5053409659       3  39.00    ziva28
+date: 2023-04-06
+payment_type: 1
+total_pay: 74.17 NIS
+seller name: Calvin Manahan

@@ -1,0 +1,19 @@
+customer_name: Donald Holt
+customer name: Donald Holt
+productS:             id  amount   price             name
+0   4940474524       2   12.08           Bisli5
+1   2233592051      10  180.00         cookie47
+2   4873026452       5   10.10        Popcorn16
+3   2600883359       1   16.00         milky_51
+4   8354318545       9   54.00         eggs_692
+5   8662802681       9  315.00  sweet_cream_301
+6   5588961603      10   90.00          pizza14
+7   3844264438      10  160.00        baklawa17
+8   7783111845       5   38.00        Popcorn61
+9   1900654099       4   44.00       burekas129
+10  3652468555       4   80.00        baklawa73
+11  5555177781       4   56.00       butter_275
+date: 2023-02-20
+payment_type: 0
+total_pay: 1055.18 NIS
+seller name: Harold Mitchell

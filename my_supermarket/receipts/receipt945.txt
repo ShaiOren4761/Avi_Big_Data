@@ -1,0 +1,27 @@
+customer_name: Timothy Iuliucci
+customer name: Timothy Iuliucci
+productS:             id  amount   price              name
+0   5154250141      10  210.00         cream_676
+1   4237118734       1    9.27           Chips62
+2   8467002596       6  210.00  swiss_cheese_847
+3   3617302008       4   72.00     goat_milk_423
+4   2986957607       1   18.00           lahuh93
+5   6356815915       7   63.00    mozzarella_331
+6   2052421405       5   56.70           Bamba29
+7   8053610047       9  252.00    sour_cream_856
+8   4673789046       9  144.00           pizza49
+9   2690299007       3    6.72         Doritos29
+10   649276310       9   51.30        Pringles81
+11  6530924413       3   17.37        Pringles74
+12  6993284475       8  128.00          bread111
+13  2392438326       5   85.00          bread127
+14  7173103129       7   91.00            ziva89
+15  2304178533       3   54.00   swiss_cheese_11
+16  5539025220       7   19.11       Pringles100
+17  4032342296       8   93.76           Bamba90
+18  6455418856       5  110.00          coco_458
+19  8326542353       7  140.00           pizza45
+date: 2023-04-13
+payment_type: 1
+total_pay: 1831.2299999999998 NIS
+seller name: Ann Hutchens

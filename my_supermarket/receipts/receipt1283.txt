@@ -1,0 +1,15 @@
+customer_name: Henry Franty
+customer name: Henry Franty
+productS:            id  amount   price               name
+0  6697202301       6  162.00    almond_milk_449
+1  4595980137       1   15.00    sweet_cream_955
+2  4154196711       6  102.00           jahnon33
+3  2512815450       4   22.00            Kefli16
+4  5592520586       8  200.00  melted_cheese_226
+5  8574922930       9   44.82            Chips26
+6  7422138392       8   31.20           Bisli110
+7  4088928724       8   48.00           jahnon50
+date: 2023-05-14
+payment_type: 0
+total_pay: 625.0200000000001 NIS
+seller name: Jennifer Roberts

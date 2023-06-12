@@ -1,0 +1,24 @@
+customer_name: Leo Gilchrist
+customer name: Leo Gilchrist
+productS:             id  amount   price             name
+0   6926757119      10  300.00        cream_432
+1   3759175081       2   24.06         Apropo61
+2   8248050978       3   30.00        cookie111
+3   9738649346       1    9.00         milk_881
+4   6884133657       6   45.54         Kefli109
+5      5773476       6   58.14          Kefli99
+6   4767716121       3   18.00        burekas10
+7   7208545380       3   20.10        Chitos100
+8   2222980914       8  120.00         bread124
+9   4686873380       1    6.00       burekas117
+10  6184760311       7   65.52        Doritos87
+11  5107874449       1    5.89       Pringles54
+12  1137463705       1   18.00       butter_674
+13  6568985984      10  100.00           lafa25
+14  9931563104      10   27.40        Doritos34
+15  8193288512       2   28.00  almond_milk_641
+16  1579108255       9   27.00         Apropo82
+date: 2023-05-14
+payment_type: 0
+total_pay: 902.65 NIS
+seller name: Maria Barnett

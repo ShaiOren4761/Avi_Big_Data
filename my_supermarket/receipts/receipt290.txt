@@ -1,0 +1,25 @@
+customer_name: Terry Zabawa
+customer name: Terry Zabawa
+productS:             id  amount   price                 name
+0   2608662914       2   36.00       mozzarella_282
+1   9078119206      10   85.10              Chips76
+2   6657428362       3    3.06              Bamba77
+3   4190725054       2   22.00     swiss_cheese_523
+4   3716667614       1   32.00         goat_milk_69
+5   3796503079       4   24.00           danone_780
+6   1089415206       6  120.00            prezel130
+7   6755104549       5   85.00      sweet_cream_920
+8   9804717928       3   33.00              pizza24
+9   8999494479       7  119.00            milky_585
+10  1759409367       6    8.76              Bisli46
+11  7421320348       6   54.00     freedom_eggs_307
+12  5313065057       6   60.00    yellow_cheese_817
+13  9154232267       8   64.00            baklawa59
+14  9579364634       1   10.00               lafa97
+15  7481478676       7  126.00             eggs_492
+16  2694063260       9   90.00  Napoleon_cheese_377
+17  8531924378       1   11.02              Kefli92
+date: 2023-01-20
+payment_type: 2
+total_pay: 982.9399999999999 NIS
+seller name: Maria Barnett

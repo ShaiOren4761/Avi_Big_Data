@@ -1,0 +1,27 @@
+customer_name: Jennifer Markham
+customer name: Jennifer Markham
+productS:             id  amount   price              name
+0   4230631256       1    7.69        Pringles26
+1   3705391036       8    9.84           Kefli88
+2   2096032396       5   30.00           pizza25
+3   1457276062       3   39.00          lahuh116
+4   2422487844       7   84.00            hala63
+5   2339625165       6   84.18         Popcorn33
+6   3586877152      10   80.70           Bamba16
+7   4198997774      10  160.00          bagget21
+8   5201481390       9   90.00            hala41
+9   9021688057       8  101.76           Bamba11
+10  8818071597       6   78.00  freedom_eggs_983
+11  4632126045       9  108.00           cookie7
+12  7761125269       9  117.00         milky_519
+13  5264741580       1    6.00         cream_756
+14  8869158925       5   75.00          prezel32
+15  7167324081       9   45.00           pizza75
+16   251910878       9   41.67         Pringles1
+17  9568368978       9  171.00     goat_milk_680
+18  7195646839       6   22.62         Doritos80
+19  4876247716       6   84.00     goat_milk_753
+date: 2023-01-31
+payment_type: 1
+total_pay: 1435.46 NIS
+seller name: Gary Hudson

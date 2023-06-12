@@ -1,0 +1,13 @@
+customer_name: Tommie Guerrero
+customer name: Tommie Guerrero
+productS:            id  amount  price             name
+0  2086444758       4   24.0  sweet_cream_272
+1  2758441497       3   90.0   sour_cream_849
+2  6708201576       5   30.0          pizza18
+3  9259431829      10  123.0          Chips33
+4  1088470866       3   60.0   mozzarella_131
+5  7320566045       8   11.6        Pringles2
+date: 2023-04-28
+payment_type: 0
+total_pay: 338.6 NIS
+seller name: Hobert Wimberly

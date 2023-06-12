@@ -1,0 +1,25 @@
+customer_name: Linda Stewart
+customer name: Linda Stewart
+productS:             id  amount   price              name
+0   1295468515       3   18.00    mozzarella_623
+1   9524222058       4   18.64           Kefli85
+2   9118223949       3   42.00          coco_124
+3   8066679807       9  234.00  melted_cheese_32
+4   3876018141       3   44.46           Kefli33
+5   6519763670       3   45.00          cookie75
+6   3447023908       6   40.20           Chips96
+7   6187757115       9  171.00           pizza40
+8   7835865295       7   98.00         carlo_562
+9    566659074       1    2.33          Chitos97
+10  3596743165       7  126.00         milky_832
+11  6877111813       3   57.00          cookie16
+12  1311211128       7   36.54           Chips34
+13  3266952190       6   60.00           cake105
+14  9127247225       5   47.35        Popcorn101
+15  9997614154       6   51.60          Apropo54
+16  7016251808       6  102.00     goat_milk_502
+17  3346073524       5   25.85           Bisli83
+date: 2023-05-23
+payment_type: 1
+total_pay: 1219.9699999999998 NIS
+seller name: Edna Collins

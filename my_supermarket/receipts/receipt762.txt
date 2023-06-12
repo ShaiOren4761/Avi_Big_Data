@@ -1,0 +1,11 @@
+customer_name: Michael Armstrong
+customer name: Michael Armstrong
+productS:            id  amount  price       name
+0  7582563497       8   66.8   Bisli104
+1  9991409125       2   16.0     ziva67
+2  3084987021       1   14.0    hala106
+3  4602058305       3   78.0  milky_595
+date: 2023-05-16
+payment_type: 3
+total_pay: 174.8 NIS
+seller name: Edna Collins

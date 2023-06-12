@@ -1,0 +1,13 @@
+customer_name: Michael Aaron
+customer name: Michael Aaron
+productS:            id  amount   price        name
+0  3813014517       8   88.00    yolo_953
+1  1451572801      10  100.00      cake18
+2  7786713518       7  119.00  danone_216
+3  4777133330       2   30.00  butter_402
+4  9142362227       7  161.00  butter_340
+5  6346027854       6   62.76    Chips106
+date: 2023-01-04
+payment_type: 1
+total_pay: 560.76 NIS
+seller name: Karen Salazar

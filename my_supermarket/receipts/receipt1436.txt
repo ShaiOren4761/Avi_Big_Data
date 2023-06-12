@@ -1,0 +1,15 @@
+customer_name: Joseph Robinson
+customer name: Joseph Robinson
+productS:            id  amount   price               name
+0  2000264446       2   16.00         burekas102
+1  5100868625       8  112.96          Popcorn86
+2  7059519572       5   40.00           cookie61
+3  6867076363       8  160.00  yellow_cheese_835
+4  8145026289       6   53.34           Apropo95
+5  5757349106       4   44.00           milk_513
+6  1308820579      10   50.00         danone_450
+7  4154196711       6  102.00           jahnon33
+date: 2023-01-27
+payment_type: 2
+total_pay: 578.3 NIS
+seller name: Latasha Mace

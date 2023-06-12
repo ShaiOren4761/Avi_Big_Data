@@ -1,0 +1,18 @@
+customer_name: Joel Mclain
+customer name: Joel Mclain
+productS:             id  amount   price            name
+0   2413705759       4   59.80      Doritos102
+1   6232474323       8  115.04       Popcorn69
+2   1492864825       1   18.00  mozzarella_657
+3   8459956964       4   44.60         Chips66
+4   2267559230       6   60.00          ziva38
+5    542193105       3   42.15         Kefli63
+6   8056680284       3   90.00        milky_12
+7     68189602       9  133.38      Pringles77
+8   8473853818       2   48.00  mozzarella_965
+9   7960767630       1    2.57      Pringles11
+10  8753095548       8   15.76        Doritos6
+date: 2023-02-07
+payment_type: 3
+total_pay: 629.3000000000001 NIS
+seller name: Victoria Hansen

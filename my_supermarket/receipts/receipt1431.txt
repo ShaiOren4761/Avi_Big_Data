@@ -1,0 +1,19 @@
+customer_name: Sandra Lynch
+customer name: Sandra Lynch
+productS:             id  amount   price              name
+0   6552424950       6   22.62           Bamba56
+1   9651003287       2   24.40           Chips46
+2   2092120627       2   18.32          Apropo16
+3   2012161283       9   81.00          prezel45
+4   4778426497       2   58.00  swiss_cheese_981
+5   5472565073       8   80.00          dunats94
+6   8452100283       1   15.00             pita8
+7   8168812017      10  127.80          Chitos40
+8   8524995739       6   90.00         milky_740
+9   8364502634       2   38.00          dunats31
+10  7570782330       4   16.56        Popcorn105
+11  9051261268       9  162.00          yolo_673
+date: 2023-03-28
+payment_type: 3
+total_pay: 733.7 NIS
+seller name: Hobert Wimberly

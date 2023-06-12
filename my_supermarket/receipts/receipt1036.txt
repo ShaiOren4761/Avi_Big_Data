@@ -1,0 +1,11 @@
+customer_name: Robert Doucette
+customer name: Robert Doucette
+productS:            id  amount  price       name
+0  9640864492       1  14.39    Kefli93
+1  1370780372       3  37.20    Bisli84
+2  3906818305       4  40.00   bagget54
+3  9856484426       9  33.84  Doritos54
+date: 2023-03-17
+payment_type: 0
+total_pay: 125.43 NIS
+seller name: Edna Collins

@@ -1,0 +1,12 @@
+customer_name: Helen Jackson
+customer name: Helen Jackson
+productS:            id  amount  price               name
+0  7259730126       7  31.36            Chips19
+1  5010882932       4  72.00  yellow_cheese_494
+2  3347104847       2  32.00      goat_milk_829
+3  5211526517       1  16.00         butter_405
+4  5364431963       2  36.00      goat_milk_371
+date: 2023-01-25
+payment_type: 3
+total_pay: 187.36 NIS
+seller name: Marie Natonabah

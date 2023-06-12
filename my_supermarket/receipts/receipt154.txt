@@ -1,0 +1,11 @@
+customer_name: Carroll Baldwin
+customer name: Carroll Baldwin
+productS:            id  amount   price      name
+0  8132459564       2    6.16  Chitos14
+1  4340233956       9  180.00   bread60
+2  4145343815       8  120.00  coco_588
+3  7431426883       4   84.00  milk_984
+date: 2023-03-29
+payment_type: 2
+total_pay: 390.15999999999997 NIS
+seller name: Lillian Dolan

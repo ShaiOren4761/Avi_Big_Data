@@ -15,3 +15,6 @@ def create_graphs(dfS, clmn):
     plt.hist(dfS[clmn])
     plt.title(f"hist of {clmn}")
     plt.show()
+
+
+

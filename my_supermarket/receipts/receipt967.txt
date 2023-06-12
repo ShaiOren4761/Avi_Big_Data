@@ -1,0 +1,24 @@
+customer_name: Dorothy Cohen
+customer name: Dorothy Cohen
+productS:             id  amount   price              name
+0   1745426392       3   93.00        butter_818
+1   1134679325      10  140.00         bagget109
+2   8247514592      10   56.90         Doritos13
+3   8613116650       3    6.45           Bisli40
+4   5961411699       1   17.00          bagget31
+5   4114355509       4   60.00  freedom_eggs_566
+6   4249659579       7   99.75          Bamba108
+7   6191048986       7   88.76           Kefli13
+8   5623310867       5   45.35        Pringles63
+9   4746444083       3   24.00          bagget77
+10  9080574295       1   10.00            ziva21
+11  7054127409       7  105.00         dunats120
+12  2929399599       2   34.00  freedom_eggs_758
+13  5577952889       1   19.00           lafa111
+14  2974927397      10   48.50          Chitos68
+15  8145026289       6   53.34          Apropo95
+16  9340650481       7   49.00        danone_990
+date: 2023-04-16
+payment_type: 3
+total_pay: 950.05 NIS
+seller name: Jennifer Roberts

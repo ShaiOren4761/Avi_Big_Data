@@ -1,0 +1,27 @@
+customer_name: Nicole White
+customer name: Nicole White
+productS:             id  amount   price                 name
+0   8547712538       9  243.00      sweet_cream_281
+1   9411065204       6   36.00              hala122
+2   1535164453       6   65.76              Kefli28
+3   3157657996       9  117.00      yellow_cheese_6
+4   3051049011       9   63.00            bagget112
+5   9651797289       8   35.12             Apropo12
+6   9106680745      10  111.90           Pringles67
+7   5569191280      10  150.00            jahnon106
+8   2529318508      10   97.00              Kefli48
+9   4084017914       7  140.00              pizza82
+10  1417403314       8  280.00            carlo_244
+11  5766312840       4  120.00        goat_milk_684
+12  7293801939       1   18.00               pita37
+13  3743356973       4   88.00  Napoleon_cheese_931
+14  8731173114       5   65.00             prezel48
+15  9521500829       8  272.00             coco_269
+16  2735283284       9   81.00            burekas13
+17  4174327879       7  119.00                pie38
+18  4890604804       4   64.00    melted_cheese_146
+19  1976905118       3  102.00     freedom_eggs_251
+date: 2023-04-22
+payment_type: 3
+total_pay: 2267.7799999999997 NIS
+seller name: Donald Dawson

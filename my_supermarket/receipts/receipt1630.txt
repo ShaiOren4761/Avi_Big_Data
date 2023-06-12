@@ -1,0 +1,9 @@
+customer_name: Mary Blevins
+customer name: Mary Blevins
+productS:            id  amount  price        name
+0  2446778172       6  27.48  Pringles69
+1  5924874992       2  26.00       pie15
+date: 2023-04-14
+payment_type: 0
+total_pay: 53.480000000000004 NIS
+seller name: Harold Mitchell

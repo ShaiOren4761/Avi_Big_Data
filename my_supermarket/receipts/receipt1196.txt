@@ -1,0 +1,26 @@
+customer_name: Diane Stilwell
+customer name: Diane Stilwell
+productS:             id  amount   price               name
+0    280748644       8   25.52           Chitos48
+1   3598217568       8   96.00           jahnon61
+2   6717226749       4   60.00           carlo_41
+3   1111010486       7  189.00           eggs_587
+4    217063952       9  100.26           Chitos78
+5   3624877999       5   62.90           Chitos81
+6   2352678045       8   72.00         danone_884
+7   4595980137      10  150.00    sweet_cream_955
+8   5954974120      10  100.20          Doritos50
+9   1893166475       8   40.00         danone_761
+10  7488629629       9  171.00             pie115
+11  8636031956       1   27.00  yellow_cheese_258
+12  8443059545       6   60.00     sour_cream_480
+13  2181854935       7   50.68            Chitos4
+14  3092882458       1    5.00           cookie38
+15   233548657       6   67.44            Chips82
+16  6185641664       5   40.00          baklawa89
+17  2012161283       2   18.00           prezel45
+18  5465097747      10  140.20           Apropo14
+date: 2023-03-16
+payment_type: 0
+total_pay: 1475.2 NIS
+seller name: Karen Salazar

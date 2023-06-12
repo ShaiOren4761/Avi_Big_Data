@@ -1,0 +1,24 @@
+customer_name: Timothy Grant
+customer name: Timothy Grant
+productS:             id  amount   price               name
+0   6692495016       7   59.99         Pringles57
+1   3591865296       3   30.00           jahnon53
+2   4406179452       4   44.00           jahnon70
+3   3591865296       2   20.00           jahnon53
+4   6668408768       1   12.00  melted_cheese_133
+5   3598428134       1   15.00          baklawa71
+6   7771190167       8  216.00           milky_21
+7   4610905587       3   66.00         danone_580
+8   2722643439       2   40.00            ziva119
+9   9779931181       8  160.00      goat_milk_205
+10  5996612644       1   11.00            lafa106
+11  7371422605       9  171.00    almond_milk_264
+12  8259175265       6   78.00         danone_567
+13  7819271677      10   29.10            Kefli42
+14  3547937399      10   80.00     sour_cream_161
+15  8467002596       3  105.00   swiss_cheese_847
+16  5314818278       8  136.00          cream_147
+date: 2023-05-16
+payment_type: 2
+total_pay: 1273.0900000000001 NIS
+seller name: Gary Hudson

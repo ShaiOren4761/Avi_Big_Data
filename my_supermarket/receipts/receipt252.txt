@@ -1,0 +1,15 @@
+customer_name: Federico Strong
+customer name: Federico Strong
+productS:            id  amount   price        name
+0  5460603855       9  135.00    lahuh115
+1  7827587070       2   22.00     hala110
+2  9144063279       4    4.56  Pringles31
+3  5924537891       2   23.44    Chitos20
+4  4896253974       5   40.00   cream_222
+5  3581688547       2   14.00     bagget1
+6  6392530513       5   51.60   Popcorn36
+7  6419917584      10  240.00    eggs_346
+date: 2023-03-09
+payment_type: 0
+total_pay: 530.6 NIS
+seller name: Harold Mitchell

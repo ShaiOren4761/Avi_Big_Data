@@ -1,0 +1,27 @@
+customer_name: Mary Do
+customer name: Mary Do
+productS:             id  amount   price                 name
+0   8471708882       8  112.00              bread80
+1   3105837268       6   27.18            Doritos71
+2   9937364002       2   54.00       almond_milk_64
+3   5684868233       1    8.00               pita39
+4   7678696918       3   42.42             Chitos56
+5   3962781541       5   55.00               pita36
+6   1575541708       6  180.00     organic_eggs_516
+7   6183995829       9  315.00            cream_977
+8   4395623535       7   14.70           Pringles68
+9   5130384166       8  192.00            milky_453
+10  1759484236       4   72.00              bread17
+11  7409256592       4   53.72            Popcorn72
+12  5250120636       1   12.91              Kefli44
+13  1787738210       6   56.76             Chitos95
+14  8224822307       3   18.00             yolo_898
+15   115817300       4   45.84              Apropo6
+16  5656993571       7   39.13             Kefli100
+17  6191048986       9  114.12              Kefli13
+18  4155033178      10  270.00  Napoleon_cheese_268
+19  7635078777       6   30.54            Popcorn80
+date: 2023-04-25
+payment_type: 2
+total_pay: 1713.3200000000002 NIS
+seller name: Latasha Mace

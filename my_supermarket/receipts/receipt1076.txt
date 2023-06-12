@@ -1,0 +1,25 @@
+customer_name: Leona Patterson
+customer name: Leona Patterson
+productS:             id  amount   price               name
+0   9523581047       7   63.07          Popcorn15
+1   4216298667       6  120.00          baklawa24
+2   7178247045       3   15.36         Pringles87
+3   6041032292       5    6.50            Bisli90
+4   2195738734       4   64.00    sweet_cream_956
+5   4364698190       6   19.74         Popcorn103
+6   5913893649       3   27.00              pie53
+7   3763061895       8  160.00  yellow_cheese_808
+8   2878026816       2   50.00    sweet_cream_619
+9   2243087918       9  135.00             lahuh2
+10  4332911857       6  174.00     sour_cream_797
+11  4943543146       9  135.00    sweet_cream_811
+12    89900170       7   40.25            Bamba57
+13  5970254634       6   76.08          Doritos46
+14  6342613445       9   54.00              pie42
+15  2174114507       7   71.40           Chitos50
+16  3528488014       7   79.87         Pringles93
+17  2607059345      10  120.00         burekas104
+date: 2023-05-10
+payment_type: 1
+total_pay: 1411.27 NIS
+seller name: Lillian Dolan

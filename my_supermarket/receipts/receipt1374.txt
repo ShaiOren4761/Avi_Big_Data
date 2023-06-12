@@ -1,0 +1,27 @@
+customer_name: Daniel Rose
+customer name: Daniel Rose
+productS:             id  amount   price               name
+0    568081851       4   22.48            Bisli91
+1   4994587480      10   50.00            hala103
+2   9080574295       6   60.00             ziva21
+3   7733328177       4   32.00      almond_milk_3
+4   5493928801       8  168.00    almond_milk_158
+5   8961298070       3   90.00          cream_142
+6    233548657       1   11.24            Chips82
+7   1686031406       9   28.62            Chips77
+8   4614452848       3   29.28            Chips13
+9   1234742425       9  134.19            Bamba75
+10  8206179143       3   30.18          Popcorn24
+11  5595785308       6   40.74          Doritos41
+12  4864994361       1   11.00  yellow_cheese_917
+13  5972674016       2   46.00          milky_786
+14  5937163279       4   56.00           milk_486
+15  5996941271       8   64.00             ziva64
+16  5053409659       7   91.00             ziva28
+17  5388529271       7  231.00  yellow_cheese_457
+18  7514149750       4   17.88            Bisli10
+19  4767466914       1   19.00             pita58
+date: 2023-03-26
+payment_type: 3
+total_pay: 1232.6100000000001 NIS
+seller name: Lillian Dolan

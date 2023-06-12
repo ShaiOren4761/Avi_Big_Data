@@ -1,0 +1,22 @@
+customer_name: William Ashley
+customer name: William Ashley
+productS:             id  amount   price                 name
+0   6274744865       8  280.00    melted_cheese_848
+1   9231831135       4   52.00            burekas52
+2   7899419890       6   87.30              Bamba64
+3   2029010389       8  280.00       sour_cream_757
+4   2655813440       4  124.00  Napoleon_cheese_297
+5   2336504051       3   29.22              Bamba88
+6   4647988691       3   66.00           butter_948
+7   6417558996       4   52.00             milk_518
+8   2607059345       7   84.00           burekas104
+9   6284093731       9  162.00             coco_834
+10  7485253472       6  108.00               pita17
+11  8224822307       3   18.00             yolo_898
+12  4849831320       9   40.05              Bamba73
+13   891634019       6   87.30              Bamba69
+14  1893166475       5   25.00           danone_761
+date: 2023-03-10
+payment_type: 0
+total_pay: 1494.87 NIS
+seller name: Jennifer Roberts

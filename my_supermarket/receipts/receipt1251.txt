@@ -1,0 +1,20 @@
+customer_name: Jose Tarr
+customer name: Jose Tarr
+productS:             id  amount   price                name
+0   4264478238       2   38.00            dunats96
+1   1387493234       8  240.00            coco_872
+2   2137174922      10  200.00            bagget34
+3   1512571145      10  270.00           danone_46
+4   1843408960       1   11.00               pie28
+5   1387493234       1   30.00            coco_872
+6   3982862012       6   72.00             bread89
+7    813753283       5   61.25           Doritos72
+8   9508571103       5  155.00            milk_505
+9   9607340475       3   81.00  Napoleon_cheese_10
+10  7727457880       9  117.00            yolo_916
+11  3906818305       2   20.00            bagget54
+12  4545755994       8   60.00           Popcorn81
+date: 2023-05-17
+payment_type: 3
+total_pay: 1355.25 NIS
+seller name: Gary Hudson

@@ -1,0 +1,18 @@
+customer_name: Arthur Bryant
+customer name: Arthur Bryant
+productS:             id  amount   price              name
+0   7148783653       1   10.45        Pringles39
+1   1138610511       8  112.00           jahnon3
+2    927866049      10   15.60           Apropo2
+3   2491132087       2   12.00        baklawa111
+4   6676542296       4  128.00    mozzarella_573
+5   8033178919       5   65.00             pita6
+6   4280459754       7  196.00          coco_416
+7   6871192773       6  114.00          yolo_647
+8   6493352372       1    5.45           Bisli89
+9   9990461172       8   48.00   freedom_eggs_19
+10  8086573779       1   18.00  organic_eggs_882
+date: 2023-03-02
+payment_type: 1
+total_pay: 724.5 NIS
+seller name: Jennifer Roberts

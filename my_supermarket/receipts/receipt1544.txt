@@ -1,0 +1,12 @@
+customer_name: Mario Thomas
+customer name: Mario Thomas
+productS:            id  amount   price            name
+0  8564655621       7   23.10      Pringles44
+1  7722194059       3   16.44         Chips15
+2  5471486765       9  106.83        Apropo78
+3  9937364002       9  243.00  almond_milk_64
+4  6659610320       2    6.46         Kefli64
+date: 2023-04-26
+payment_type: 2
+total_pay: 395.83 NIS
+seller name: Ann Hutchens

@@ -1,0 +1,12 @@
+customer_name: Nicole Hall
+customer name: Nicole Hall
+productS:            id  amount   price       name
+0  9297630990       7  224.00   yolo_944
+1  5422325640       7   77.00  milky_430
+2  4238431067       8   44.72    Bisli76
+3  7375449681       6   90.00     pita74
+4  9572998223       7   63.00  cream_718
+date: 2023-02-26
+payment_type: 1
+total_pay: 498.72 NIS
+seller name: Calvin Manahan

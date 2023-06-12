@@ -1,0 +1,21 @@
+customer_name: Troy Morace
+customer name: Troy Morace
+productS:             id  amount   price            name
+0   9803573108       7  140.00  mozzarella_802
+1   8213997519       1   14.00        yolo_694
+2   5050469915       6   36.00        eggs_873
+3   3152564482       8  144.00      baklawa100
+4   9351326770       9   99.00          cake78
+5   3586877152       5   40.35         Bamba16
+6   5167955986       7   98.07       Popcorn49
+7   4572125048      10  150.00        eggs_896
+8   6573371979       7   18.48       Chitos101
+9   6417558996       1   13.00        milk_518
+10  5725567251       7  147.00        cream_16
+11   286245913       1    4.48      Pringles78
+12    68189602      10  148.20      Pringles77
+13  3451993598       9   99.00       milky_675
+date: 2023-05-23
+payment_type: 3
+total_pay: 1151.5800000000002 NIS
+seller name: Harold Mitchell

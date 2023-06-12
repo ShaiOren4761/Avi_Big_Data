@@ -1,0 +1,24 @@
+customer_name: Mary Collins
+customer name: Mary Collins
+productS:             id  amount   price               name
+0   5143335309      10  100.00              pie44
+1   3235493911       2    6.24          Popcorn22
+2   5588961603       3   27.00            pizza14
+3   8232637125       4    9.40             Bisli3
+4   6326417710       9  100.89            Bamba40
+5   2245428483       1   20.00           milk_937
+6   2991470508       7   49.00           bagget37
+7   8818071597       1   13.00   freedom_eggs_983
+8    313901350       4   53.16          Doritos93
+9   8999494479       9  153.00          milky_585
+10  1704744494       6  102.00           prezel28
+11  7983454343       5   58.55            Kefli86
+12  2059334179       7   42.49           Chitos33
+13  8163644093       4   60.00            ziva116
+14  8016138992       8  104.00  melted_cheese_330
+15  3586877152       5   40.35            Bamba16
+16  3425525105       1   12.09           Chips108
+date: 2023-03-18
+payment_type: 2
+total_pay: 951.1700000000001 NIS
+seller name: Donald Dawson

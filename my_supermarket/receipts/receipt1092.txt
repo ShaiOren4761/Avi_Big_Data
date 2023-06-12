@@ -1,0 +1,27 @@
+customer_name: Dorothy Grisham
+customer name: Dorothy Grisham
+productS:             id  amount   price               name
+0   5364431963       8  144.00      goat_milk_371
+1   6453422789       6   21.06            Kefli49
+2   9961748196       1    8.83             Bamba6
+3   6989199755       2   32.00   freedom_eggs_646
+4   2245428483       9  180.00           milk_937
+5   5211385254       5   95.00             hala17
+6   5623670825      10   27.60           Apropo60
+7   7514617364       4   52.00            hala104
+8   9080324207       2   11.88           Bisli105
+9   4784697350       3   57.00  melted_cheese_534
+10  3346260313       6   83.28         Pringles82
+11  3326077837       6  102.00              pita2
+12  3759175081       4   48.12           Apropo61
+13  9987211151      10  110.60          Doritos11
+14  8636031956       8  216.00  yellow_cheese_258
+15  2495400451       4   28.00    sweet_cream_189
+16  8443059545       9   90.00     sour_cream_480
+17  4802619719       4   24.20            Bamba84
+18  1536911185       8  101.36          Doritos60
+19  7476842574       4  140.00          cream_278
+date: 2023-03-04
+payment_type: 0
+total_pay: 1572.9299999999998 NIS
+seller name: Kevin Goldberg

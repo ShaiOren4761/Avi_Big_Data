@@ -1,0 +1,17 @@
+customer_name: Bertha Sneed
+customer name: Bertha Sneed
+productS:            id  amount   price                 name
+0  3438227168       2   14.00              pizza12
+1  5776977613       4  104.00       mozzarella_341
+2  1048883950       8   64.00                pie37
+3  9875471235       2   36.00             cookie54
+4  9287189828      10  260.00    melted_cheese_291
+5  2526334412       4   32.00               hala81
+6  8189918112       3   93.00  Napoleon_cheese_220
+7  6877111813       7  133.00             cookie16
+8  7918774723       8   88.08           Pringles53
+9  9819779158       8   40.00              lahuh36
+date: 2023-01-09
+payment_type: 1
+total_pay: 864.08 NIS
+seller name: Roberta Lewis

@@ -1,0 +1,23 @@
+customer_name: Robert Connors
+customer name: Robert Connors
+productS:             id  amount   price              name
+0   5961411699       1   17.00          bagget31
+1   1849092684       3   60.00         burekas54
+2   9593397002       8  224.00         carlo_927
+3   8737389857       7   91.00         carlo_119
+4   7982281469       1   17.00  swiss_cheese_994
+5    344756703      10   36.80         Doritos16
+6   6568985984       5   50.00            lafa25
+7   5682444771       6   42.00  freedom_eggs_842
+8   3953812972       4   26.60         Popcorn20
+9   1939409965       1    7.95           Chips55
+10  7002149324       4  112.00      goat_milk_31
+11  3962719146       5   85.00          lahuh125
+12  1001909905       6  114.00           bread95
+13  5492482020       6   71.58          Apropo18
+14  7877030455       9  153.00          jahnon52
+15  6537548447       5   50.00  freedom_eggs_250
+date: 2023-04-27
+payment_type: 2
+total_pay: 1157.93 NIS
+seller name: Lillian Dolan

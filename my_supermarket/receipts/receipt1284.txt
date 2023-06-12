@@ -1,0 +1,16 @@
+customer_name: Michael Moneyhun
+customer name: Michael Moneyhun
+productS:            id  amount   price             name
+0  2856243418       6  114.00         eggs_796
+1   217063952       4   44.56         Chitos78
+2  1915988351       6   96.00         bagget98
+3  8712532837       3   63.00        milky_712
+4  7783111845       3   22.80        Popcorn61
+5  3655445922       6   54.00  almond_milk_741
+6  6198977314       1   11.00            lafa1
+7  9332818515       9   72.00        milky_671
+8  8454787915       6  114.00          pita119
+date: 2023-04-12
+payment_type: 1
+total_pay: 591.36 NIS
+seller name: Calvin Manahan

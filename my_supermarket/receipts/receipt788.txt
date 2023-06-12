@@ -1,0 +1,19 @@
+customer_name: Evelyn Pompa
+customer name: Evelyn Pompa
+productS:             id  amount   price              name
+0   5838325707       8   24.72           Chips60
+1   2057989223      10  150.00     goat_milk_918
+2   4014691943       8  224.00        danone_594
+3   9805965278       4   26.04           Kefli54
+4   4595593965      10  140.90        Pringles61
+5   2174114507       5   51.00          Chitos50
+6   7057301556       3   34.20           Bisli41
+7   8238421558       7  175.00  freedom_eggs_501
+8   6629425883       1   35.00  freedom_eggs_521
+9   5867809358      10  250.00    sour_cream_864
+10  1490927315       1   29.00          coco_414
+11  9674451366      10  240.00    mozzarella_296
+date: 2023-01-27
+payment_type: 3
+total_pay: 1379.8600000000001 NIS
+seller name: Renee Brammer

@@ -1,0 +1,9 @@
+customer_name: Donald Robinson
+customer name: Donald Robinson
+productS:            id  amount  price             name
+0  7240835911       2   19.4          Bisli69
+1  9712626937       4  108.0  almond_milk_622
+date: 2023-01-13
+payment_type: 0
+total_pay: 127.4 NIS
+seller name: Harold Mitchell

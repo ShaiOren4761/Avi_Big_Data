@@ -1,0 +1,9 @@
+customer_name: William Splawn
+customer name: William Splawn
+productS:            id  amount  price               name
+0  3535624320       3   63.0  melted_cheese_691
+1  7517728424      10  120.0           milk_630
+date: 2023-01-22
+payment_type: 0
+total_pay: 183.0 NIS
+seller name: Edna Collins

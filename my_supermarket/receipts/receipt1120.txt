@@ -1,0 +1,27 @@
+customer_name: Eleanor Ayers
+customer name: Eleanor Ayers
+productS:             id  amount   price              name
+0   2851496583      10  140.00     goat_milk_843
+1   7476842574       3  105.00         cream_278
+2   2912876054       9  123.39         Doritos18
+3   3679901541       5   55.00            hala82
+4   2290773968       9  129.69          Doritos9
+5     11016329      10   70.60           Bisli98
+6   5770177100       2   24.00            lafa38
+7   7359264101      10   24.70           Chips58
+8   5649239279       1   11.76          Apropo34
+9   6910603180       9   96.84           Bamba76
+10  8580755882       2   19.60           Bamba17
+11  6807110928       3   35.49           Chips70
+12  6899169585       3   20.49           Bamba12
+13  7234416649       1   13.28           Chitos6
+14  3909794159       5   18.70           Chips47
+15  7542179498       3   16.26          Chitos19
+16  5000405727       9  153.00         prezel110
+17  4635028516       1   19.00  organic_eggs_398
+18  9018449645      10   70.00        baklawa110
+19  7235819554       4  108.00         carlo_667
+date: 2023-01-17
+payment_type: 0
+total_pay: 1254.8000000000002 NIS
+seller name: Margaret Mclaughlin

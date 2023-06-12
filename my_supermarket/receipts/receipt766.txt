@@ -1,0 +1,12 @@
+customer_name: Shirley Smith
+customer name: Shirley Smith
+productS:            id  amount   price       name
+0  7455259414       8   96.00  milky_541
+1  5684868233       4   32.00     pita39
+2  3962781541       8   88.00     pita36
+3  3598428134       7  105.00  baklawa71
+4  9797791629       6   10.02   Chitos80
+date: 2023-05-11
+payment_type: 1
+total_pay: 331.02 NIS
+seller name: Latasha Mace

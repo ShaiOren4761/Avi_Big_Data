@@ -1,0 +1,17 @@
+customer_name: Steven Parsons
+customer name: Steven Parsons
+productS:            id  amount   price              name
+0   344756703       8   29.44         Doritos16
+1  7257773907       6   54.00  freedom_eggs_615
+2  7643343820       4   49.64           Bamba18
+3   629551312       5   48.85           Bamba59
+4  6715129951       2   11.16         Doritos31
+5  8905114408       1    6.00          bagget38
+6  1209360500       3   42.00   sweet_cream_165
+7  5525858491       8   80.00         jahnon126
+8  1489776684       2   30.00  swiss_cheese_988
+9  5143335309      10  100.00             pie44
+date: 2023-01-03
+payment_type: 1
+total_pay: 451.09 NIS
+seller name: Gary Hudson

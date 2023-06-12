@@ -1,0 +1,12 @@
+customer_name: Paula Mata
+customer name: Paula Mata
+productS:            id  amount   price             name
+0  7509258090       2   50.00   mozzarella_256
+1  2499168099      10   90.00           milk_5
+2  6462390831       7   55.02          Kefli66
+3  4602058305      10  260.00        milky_595
+4  8192028722       5  170.00  sweet_cream_468
+date: 2023-04-28
+payment_type: 2
+total_pay: 625.02 NIS
+seller name: Ann Hutchens

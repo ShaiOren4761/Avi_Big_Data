@@ -1,0 +1,10 @@
+customer_name: Raymond Mann
+customer name: Raymond Mann
+productS:            id  amount  price      name
+0  5685248023      10   61.9  Chitos13
+1  5738533372       5   80.0   bread28
+2  3611519662       6   72.0  bread119
+date: 2023-02-26
+payment_type: 2
+total_pay: 213.9 NIS
+seller name: Roberta Lewis

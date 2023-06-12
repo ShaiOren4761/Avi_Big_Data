@@ -1,0 +1,24 @@
+customer_name: Terry Ramirez
+customer name: Terry Ramirez
+productS:             id  amount   price                 name
+0   2107552123       1    7.20               Kefli2
+1   9621270583       9  116.64             Apropo44
+2   2991470508       3   21.00             bagget37
+3   4471797447       6   66.00  Napoleon_cheese_507
+4   7303503865       2   36.00      sweet_cream_454
+5   5752892349      10   74.80            Popcorn51
+6   7169410023       3   24.00              lahuh14
+7   4340233956       1   20.00              bread60
+8   8371766927      10   46.50              Chips53
+9   5472565073       6   60.00             dunats94
+10  3624877999       5   62.90             Chitos81
+11  3443220274       6   36.00             pizza115
+12  7291116312       7   56.00            dunats109
+13  3344749200       9  288.00       mozzarella_529
+14  7680435083       1    5.00             jahnon42
+15  6568985984      10  100.00               lafa25
+16  7133792807      10  120.00             coco_309
+date: 2023-05-24
+payment_type: 3
+total_pay: 1140.04 NIS
+seller name: Victoria Hansen

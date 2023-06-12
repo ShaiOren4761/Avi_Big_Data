@@ -1,0 +1,25 @@
+customer_name: Sharron Nevills
+customer name: Sharron Nevills
+productS:             id  amount   price               name
+0   5812017382       9  135.00           milk_743
+1   7548029274       3   42.00  yellow_cheese_200
+2   6691628206       6   39.54           Apropo51
+3   5029476225       9   75.42         Pringles83
+4   2512815450       7   38.50            Kefli16
+5   7195640975       4   52.00             ziva47
+6   4939724717       2   66.00      goat_milk_938
+7   6131636355      10  150.00     sour_cream_217
+8   5766312840       2   60.00      goat_milk_684
+9   3982672944       2    9.72             Bisli0
+10  4037036019       1   15.00          prezel126
+11  4216016676       3   87.00     mozzarella_199
+12  9635709334       7  119.00          cookie128
+13  3260308396       4   68.00   swiss_cheese_763
+14  6913485453       1   10.00           prezel94
+15  7091514077       9   61.83          Popcorn41
+16  1457276062      10  130.00           lahuh116
+17  8134172977       8   46.00          Doritos26
+date: 2023-01-16
+payment_type: 1
+total_pay: 1205.01 NIS
+seller name: Victoria Hansen

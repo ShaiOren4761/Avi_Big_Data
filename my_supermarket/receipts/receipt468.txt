@@ -1,0 +1,10 @@
+customer_name: Ronald Palmer
+customer name: Ronald Palmer
+productS:            id  amount  price                 name
+0  6392530513       8  82.56            Popcorn36
+1  2694063260       6  60.00  Napoleon_cheese_377
+2  4125074879       4  48.00              lahuh72
+date: 2023-05-04
+payment_type: 0
+total_pay: 190.56 NIS
+seller name: Gary Hudson

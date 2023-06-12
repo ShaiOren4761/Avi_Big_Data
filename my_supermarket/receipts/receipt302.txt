@@ -1,0 +1,10 @@
+customer_name: Cameron Garcia
+customer name: Cameron Garcia
+productS:            id  amount   price       name
+0  2037612808       5  100.00  cookie115
+1  7892097681       1   11.12  Apropo106
+2  8344407313       6   48.00    bagget2
+date: 2023-01-27
+payment_type: 2
+total_pay: 159.12 NIS
+seller name: Margaret Mclaughlin

@@ -1,0 +1,15 @@
+customer_name: Freddie Anderson
+customer name: Freddie Anderson
+productS:            id  amount   price            name
+0  5500736553       1   31.00  mozzarella_551
+1  4985539569       7  224.00        eggs_658
+2  4027939168       3   24.00       baklawa74
+3  8283358007       3   51.00          hala91
+4  1111087818       9   44.19         Kefli95
+5  5154250141       4   84.00       cream_676
+6  2713640790       6   36.24         Kefli90
+7  8507176962       3    8.94         Bisli61
+date: 2023-02-08
+payment_type: 2
+total_pay: 503.37 NIS
+seller name: James Briggs

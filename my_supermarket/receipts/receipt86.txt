@@ -1,0 +1,14 @@
+customer_name: Maurice Farmer
+customer name: Maurice Farmer
+productS:            id  amount   price                 name
+0  1239857379       3    5.07            Doritos62
+1  8438578466       7   42.70            Popcorn38
+2  8283358007       6  102.00               hala91
+3  4136689739       2   23.04              Apropo9
+4  6562818466       9   99.00  Napoleon_cheese_810
+5  2086444758       5   30.00      sweet_cream_272
+6  4569224883       2   62.00              eggs_93
+date: 2023-05-24
+payment_type: 2
+total_pay: 363.80999999999995 NIS
+seller name: Karen Salazar

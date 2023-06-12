@@ -1,0 +1,26 @@
+customer_name: Kattie Long
+customer name: Kattie Long
+productS:             id  amount   price                 name
+0   1424648616       7  126.00  Napoleon_cheese_347
+1   5475477255       4   64.00             jahnon63
+2   6161264777       1   16.00               ziva32
+3   2582423137       4   56.00               hala25
+4   5586099570       5   95.00           butter_462
+5   9977993703       1    9.87              Bisli77
+6   6330280004       1   15.00              bread55
+7   5515448485       8  152.00     yellow_cheese_65
+8   4006106433       1   35.00            carlo_214
+9   9553253185       4   24.00             dunats58
+10  9937364002       8  216.00       almond_milk_64
+11  2969333714       7  105.00           butter_474
+12  4784697350      10  190.00    melted_cheese_534
+13  6052439119       6   53.34             Chitos57
+14  9727748071       9  306.00            cream_440
+15  4458546051       5   63.90           Pringles12
+16  1088470866       5  100.00       mozzarella_131
+17  7978895612       7   11.62              Bisli66
+18   845204275       3   16.47              Bamba41
+date: 2023-03-28
+payment_type: 1
+total_pay: 1655.1999999999998 NIS
+seller name: Harold Mitchell

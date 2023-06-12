@@ -1,0 +1,22 @@
+customer_name: Vera Kellogg
+customer name: Vera Kellogg
+productS:             id  amount   price              name
+0    573251583       9   62.37        Pringles99
+1   2222980914       7  105.00          bread124
+2   9903705557       1    5.98         Chitos108
+3   2406582356       8   13.92           Chips45
+4   8103336581       4   30.76           Bisli85
+5   9990461172       4   24.00   freedom_eggs_19
+6   5656993571       8   44.72          Kefli100
+7   9321789214       1    2.20         Doritos86
+8   7167324081       2   10.00           pizza75
+9   9229983198       6   13.02            Chips8
+10  3199666108       3   87.00  freedom_eggs_376
+11  5600097503      10  250.00          yolo_993
+12  1555021268       5   40.00    sour_cream_252
+13  3906818305       9   90.00          bagget54
+14  8961098720       9  153.00             pie76
+date: 2023-01-09
+payment_type: 3
+total_pay: 931.97 NIS
+seller name: Calvin Manahan

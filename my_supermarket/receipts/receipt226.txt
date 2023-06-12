@@ -1,0 +1,12 @@
+customer_name: Rex Nelson
+customer name: Rex Nelson
+productS:            id  amount   price             name
+0  5052171723       2   24.74         Apropo68
+1  2969333714       7  105.00       butter_474
+2  6634687432       7   98.00         dunats15
+3  4510349719       4   80.00  almond_milk_713
+4  5977258801       7   23.03          Bamba61
+date: 2023-04-22
+payment_type: 3
+total_pay: 330.77 NIS
+seller name: Karen Salazar

@@ -1,0 +1,14 @@
+customer_name: Henry Straka
+customer name: Henry Straka
+productS:            id  amount  price        name
+0  5791437051       2  26.00       cake4
+1  5753746907       4  59.16     Bisli60
+2  8258888255       6  50.40  Pringles23
+3  3591327412       2  30.00     pizza39
+4  3962719146       1  17.00    lahuh125
+5  9096353977       5  40.00      hala47
+6  4289435339      10  49.90     Bamba35
+date: 2023-03-01
+payment_type: 2
+total_pay: 272.46000000000004 NIS
+seller name: Karen Salazar

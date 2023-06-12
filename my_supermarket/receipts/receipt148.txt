@@ -1,0 +1,21 @@
+customer_name: Steven Springer
+customer name: Steven Springer
+productS:             id  amount   price              name
+0   2379558286       5   65.00           bread79
+1   2513513163       1   15.00    sour_cream_783
+2   9282429607       2   16.96         Popcorn71
+3   8609028206       2   16.00         jahnon119
+4   7915163122       2   40.00            ziva83
+5   2400900521       6   39.78           Bamba21
+6   4802705112       1   14.13            Chips5
+7   2388791138       9   99.00         burekas30
+8   7855915319       3   45.00         burekas50
+9   8710802059       9  144.00  yellow_cheese_99
+10  1751798780       5   45.00    mozzarella_134
+11  8783938277       5   35.55          Chitos92
+12  3302879083       6   66.00            hala48
+13  7303503865      10  180.00   sweet_cream_454
+date: 2023-04-30
+payment_type: 3
+total_pay: 821.42 NIS
+seller name: Margaret Mclaughlin

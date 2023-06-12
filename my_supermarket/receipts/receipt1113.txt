@@ -1,0 +1,16 @@
+customer_name: Daniel Sellers
+customer name: Daniel Sellers
+productS:            id  amount   price       name
+0  9571188926       3   63.00  cream_144
+1  1989956362       7   82.53    Kefli71
+2  8571481765       4   36.32  Chitos103
+3  2478208226       9   63.00   cookie32
+4  4575974214       4   28.00  carlo_553
+5  9259431829       2   24.60    Chips33
+6  7211068631       4   34.48  Doritos15
+7  5254092417       7  100.45  Popcorn73
+8  5970254634       6   76.08  Doritos46
+date: 2023-04-12
+payment_type: 1
+total_pay: 508.46000000000004 NIS
+seller name: Harold Mitchell

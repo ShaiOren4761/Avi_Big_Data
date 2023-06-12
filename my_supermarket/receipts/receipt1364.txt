@@ -1,0 +1,24 @@
+customer_name: Darren Wimberly
+customer name: Darren Wimberly
+productS:             id  amount   price                 name
+0   5256326415       1   19.00              lahuh75
+1   7203370109       2   36.00             milk_372
+2   1691629683       9   86.94              Bisli79
+3   8172603002       7   74.76              Chips11
+4   8466415306       1   17.00             yolo_571
+5   6180330833       1    9.00       sour_cream_628
+6   2654725552       8  112.00           danone_991
+7   8785460024       2   56.00  Napoleon_cheese_650
+8   4216298667       6  120.00            baklawa24
+9   2438706989       1    4.90            Doritos35
+10  6051907717       7   75.46               Bisli4
+11  6950052495       7   91.00             jahnon49
+12  8371766927       7   32.55              Chips53
+13  1900654099       8   88.00           burekas129
+14  3230215599       8   96.00     organic_eggs_716
+15  5173324484       2   28.96              Kefli55
+16  6180330833       2   18.00       sour_cream_628
+date: 2023-02-02
+payment_type: 2
+total_pay: 965.57 NIS
+seller name: Renee Brammer

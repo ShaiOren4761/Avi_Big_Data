@@ -1,0 +1,12 @@
+customer_name: Virginia Hazelton
+customer name: Virginia Hazelton
+productS:            id  amount   price       name
+0  6326417710       9  100.89    Bamba40
+1  8479789672       6  108.00   prezel57
+2  2743393698       7  119.00   eggs_390
+3  4027939168       3   24.00  baklawa74
+4  9922250933       4   48.00  prezel104
+date: 2023-05-02
+payment_type: 2
+total_pay: 399.89 NIS
+seller name: Debra Pearson

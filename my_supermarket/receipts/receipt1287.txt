@@ -1,0 +1,14 @@
+customer_name: Monica Schug
+customer name: Monica Schug
+productS:            id  amount   price                name
+0  5783246925       2   18.74           Doritos25
+1  8713068851       7  224.00            milk_813
+2  4878564849       3   40.17             Chips79
+3  9651003287       1   12.20             Chips46
+4  4644998168      10   28.30            Chitos69
+5  9779931181       4   80.00       goat_milk_205
+6  8006653806       8  200.00  Napoleon_cheese_82
+date: 2023-01-09
+payment_type: 1
+total_pay: 603.4100000000001 NIS
+seller name: Kevin Goldberg

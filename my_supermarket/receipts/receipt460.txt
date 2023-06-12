@@ -1,0 +1,18 @@
+customer_name: Darnell Miller
+customer name: Darnell Miller
+productS:             id  amount   price              name
+0   1062361589       5  115.00          eggs_365
+1   8073898249       2    6.88          Apropo73
+2    313901350       8  106.32         Doritos93
+3   7190703453       8  128.00  swiss_cheese_410
+4   5656267851       2   24.42          Popcorn9
+5   9803573108      10  200.00    mozzarella_802
+6   6185641664       2   16.00         baklawa89
+7   6008017704       4   52.00            pita35
+8   4458546051       6   76.68        Pringles12
+9   9510445822      10   90.00           bread77
+10  8173623073       9   22.05            Bamba2
+date: 2023-04-19
+payment_type: 3
+total_pay: 837.3499999999999 NIS
+seller name: Lillian Dolan

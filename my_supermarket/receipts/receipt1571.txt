@@ -1,0 +1,13 @@
+customer_name: Donald Ramirez
+customer name: Donald Ramirez
+productS:            id  amount   price             name
+0  8416764864       2   12.00  almond_milk_846
+1  6768927548       3   16.02          Bisli71
+2  8584680793       8  128.00        prezel117
+3  4277909247       4   80.00         jahnon38
+4  7444396554       3   57.00          hala111
+5  9049790023       5  145.00       danone_426
+date: 2023-03-11
+payment_type: 2
+total_pay: 438.02 NIS
+seller name: Donald Dawson

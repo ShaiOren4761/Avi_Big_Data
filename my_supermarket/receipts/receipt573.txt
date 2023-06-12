@@ -1,0 +1,15 @@
+customer_name: Nancy Murray
+customer name: Nancy Murray
+productS:            id  amount   price           name
+0  7842386392       9  189.00  goat_milk_266
+1  3024586735       1    6.82        Bisli47
+2  3326077837       2   34.00          pita2
+3  7757812731       6   38.10        Kefli81
+4  4228714385       3   60.00         ziva10
+5  9152338043       7   42.00      Doritos82
+6  5598382184       5   85.00        pita125
+7  3571761302       6   42.00     danone_857
+date: 2023-04-09
+payment_type: 3
+total_pay: 496.91999999999996 NIS
+seller name: Kevin Goldberg

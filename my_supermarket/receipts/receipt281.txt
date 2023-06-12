@@ -1,0 +1,19 @@
+customer_name: Thomas Piper
+customer name: Thomas Piper
+productS:             id  amount   price            name
+0   6797371324       2    6.96        Chitos11
+1   5297947242       5   65.00          lafa93
+2   9727828047      10   90.00  sour_cream_946
+3   2513513163       6   90.00  sour_cream_783
+4   1229596131       1   12.00         lafa103
+5   3058483730       6   78.00          cake74
+6   2888103591       2   30.00         hala130
+7   8134172977       1    5.75       Doritos26
+8   6603082238       6   36.00       baklawa25
+9   7142817758       7  133.00        milky_95
+10  1354853704       6   30.24         Chips89
+11  6602947010       2   40.00       bagget113
+date: 2023-05-11
+payment_type: 2
+total_pay: 616.95 NIS
+seller name: Debra Pearson

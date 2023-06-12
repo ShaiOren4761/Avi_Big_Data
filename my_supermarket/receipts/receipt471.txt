@@ -1,0 +1,27 @@
+customer_name: Herman Hickman
+customer name: Herman Hickman
+productS:             id  amount   price              name
+0   5970254634       1   12.68         Doritos46
+1   3730630814       4   24.00         prezel102
+2   9579364634       7   70.00            lafa97
+3   4208814624       7  119.00  freedom_eggs_452
+4   5706653469       2   17.86         Doritos85
+5   5205696008       5   65.00  organic_eggs_972
+6   3865963497       8   40.00         burekas51
+7   3602451803       6  108.00         burekas44
+8   9386745633       1   13.00         cream_599
+9   3147370279      10   57.10        Pringles84
+10   542193105       5   70.25           Kefli63
+11  9332818515       4   32.00         milky_671
+12  6582967065       1    7.63        Pringles50
+13  9843899114       7   98.00         milky_339
+14  8619156307       9  108.00          bagget43
+15  8258888255       6   50.40        Pringles23
+16  2357080802       3   36.00          bagget29
+17  7021370720      10  180.00          milk_570
+18  6340747060       6   76.08            Bisli8
+19  3873476146       9   97.92           Kefli57
+date: 2023-03-03
+payment_type: 2
+total_pay: 1282.92 NIS
+seller name: Gary Hudson

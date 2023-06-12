@@ -1,0 +1,20 @@
+customer_name: Mandie Curran
+customer name: Mandie Curran
+productS:             id  amount   price                 name
+0   1171308362       2   21.66             Apropo62
+1   7001071714       1   14.79            Popcorn83
+2   8125385269       7   80.78           Pringles97
+3   8485095250       2   64.00  Napoleon_cheese_310
+4   5585678335       2   70.00            carlo_136
+5   1002013553       4   96.00            milky_286
+6   2422487844       7   84.00               hala63
+7   5685248023      10   61.90             Chitos13
+8   8931603073       9  118.71             Apropo89
+9   6236178652       5  145.00              coco_86
+10  4920993093       3   90.00           butter_314
+11  9962446517       9  171.00              ziva100
+12  7265102537       5  165.00            danone_34
+date: 2023-01-23
+payment_type: 0
+total_pay: 1182.8400000000001 NIS
+seller name: Latasha Mace

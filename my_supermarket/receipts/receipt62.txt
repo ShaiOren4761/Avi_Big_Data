@@ -1,0 +1,11 @@
+customer_name: Kim Beach
+customer name: Kim Beach
+productS:            id  amount  price       name
+0  3961824178       3  48.00   jahnon29
+1  4683430901      10  95.50    Chips69
+2  3747177917       4  44.44  Popcorn74
+3  6768290091       1   2.19    Chitos5
+date: 2023-04-24
+payment_type: 1
+total_pay: 190.13 NIS
+seller name: Latasha Mace

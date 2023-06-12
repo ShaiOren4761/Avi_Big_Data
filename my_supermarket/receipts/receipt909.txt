@@ -1,0 +1,15 @@
+customer_name: William Humann
+customer name: William Humann
+productS:            id  amount  price         name
+0  8607936222      10  53.90  Pringles105
+1  1063608998       1  27.00   butter_871
+2  1694118809       2  27.46     Apropo43
+3  2884440608       4  12.84    Doritos65
+4  9619085841       6  84.00       pizza1
+5  4859089853       5  55.00    baklawa85
+6  2582423137       3  42.00       hala25
+7  3998010367       1  17.00     prezel13
+date: 2023-01-20
+payment_type: 1
+total_pay: 319.20000000000005 NIS
+seller name: Renee Brammer

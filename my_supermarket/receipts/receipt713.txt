@@ -1,0 +1,22 @@
+customer_name: Jonathon Cox
+customer name: Jonathon Cox
+productS:             id  amount   price           name
+0   4382270329       4   60.00         cake80
+1   3906638722       5  100.00          ziva4
+2   4865712712      10   50.00         hala84
+3   4950177826       7  203.00  goat_milk_933
+4   8584680793       8  128.00      prezel117
+5   2408420254       1   12.90      Popcorn31
+6   3447023908       3   20.10        Chips96
+7    509846372       6   51.78     Doritos107
+8   7542179498       7   37.94       Chitos19
+9   3547642598       9  126.00      burekas48
+10  3598217568       7   84.00       jahnon61
+11  8918557089      10  210.00      cream_400
+12  8961098720       2   34.00          pie76
+13  5115958410       6   42.90        Chips72
+14  6511506630       1   10.00       dunats27
+date: 2023-04-07
+payment_type: 1
+total_pay: 1170.6200000000001 NIS
+seller name: Calvin Manahan

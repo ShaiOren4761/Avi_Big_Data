@@ -1,0 +1,22 @@
+customer_name: Wayne Leigh
+customer name: Wayne Leigh
+productS:             id  amount   price               name
+0    853168992       9   36.90            Bisli12
+1   8056680284       2   60.00           milky_12
+2   9450226806       4   52.08           Apropo49
+3   8421851715       5   55.00          baklawa87
+4   1154030869       4   26.56            Chips21
+5   4938601857       1    9.00             ziva79
+6   5250581902       6   72.00  yellow_cheese_364
+7   6129255814       2   28.14          Doritos59
+8   3974756121       3   21.27            Chips39
+9   7059519572       3   24.00           cookie61
+10  3269418251       6  126.00           eggs_223
+11  2320865379       8   88.00     sweet_cream_94
+12  3235560218      10  100.00              pie68
+13  1282540331       4   44.00   freedom_eggs_919
+14  1300932938       6   52.50           Chitos76
+date: 2023-02-15
+payment_type: 1
+total_pay: 795.45 NIS
+seller name: Calvin Manahan

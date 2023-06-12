@@ -1,0 +1,27 @@
+customer_name: Judy Hesseltine
+customer name: Judy Hesseltine
+productS:             id  amount   price               name
+0   5638514408       2   20.98           Doritos1
+1   5098531930      10  140.00      sour_cream_49
+2   3105964402       6   38.46          Doritos19
+3   2511914111       7  175.00    almond_milk_332
+4   1854528192       8  216.00  melted_cheese_335
+5   9653744229       6   76.20             Kefli5
+6   4970569706       3   11.19            Bisli74
+7   4363172654       3   36.51         Pringles45
+8   9894939613       3   30.00              pie81
+9   4004511853       1   13.00    almond_milk_285
+10  3987622247       5  110.00           yolo_559
+11  5963004709       6  210.00     mozzarella_476
+12  8255574282      10   60.00            lahuh50
+13  8168812017       4   51.12           Chitos40
+14  9719100235       3   40.26            Chitos2
+15  3828823724       5   30.00   swiss_cheese_727
+16  5061582836       3   33.90          Popcorn32
+17  7762335215       3   51.00           lahuh111
+18  9655758473       8  136.00             cake58
+19  5115958410      10   71.50            Chips72
+date: 2023-04-10
+payment_type: 0
+total_pay: 1551.1200000000001 NIS
+seller name: Gary Hudson

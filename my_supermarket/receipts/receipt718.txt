@@ -1,0 +1,26 @@
+customer_name: Christy Hardesty
+customer name: Christy Hardesty
+productS:             id  amount   price              name
+0   3680988777       2   18.00          yolo_772
+1   1354853704      10   50.40           Chips89
+2   2827514290       6   16.80          Apropo38
+3   8731173114       9  117.00          prezel48
+4    351767791       4   33.76           Bisli93
+5   1036326015       8  256.00         milky_976
+6   5613801821      10   80.00    mozzarella_380
+7   8258888255       7   58.80        Pringles23
+8   2529493320       2   58.00          milk_451
+9   2852116043       6  114.00           pizza79
+10  7669441721       1    2.23         Doritos44
+11  6271769728      10  150.00            cake54
+12  2063554095       8  280.00  swiss_cheese_851
+13  1319476675      10  280.00     goat_milk_434
+14  8648153464       9   81.00         jahnon118
+15  7009805916      10  140.30          Chitos21
+16  1261273897       5   75.00          yolo_666
+17  2856243418       5   95.00          eggs_796
+18  1119623569       4   36.00         prezel105
+date: 2023-02-08
+payment_type: 3
+total_pay: 1942.29 NIS
+seller name: Harold Mitchell

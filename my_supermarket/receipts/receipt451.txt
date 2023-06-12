@@ -1,0 +1,22 @@
+customer_name: Gladys Bass
+customer name: Gladys Bass
+productS:             id  amount   price             name
+0     71270289       6   30.90          Chips10
+1   2033078637       9   14.22      Pringles102
+2   6209910809       8   72.00           lafa23
+3   3093917812       4   24.52         Popcorn7
+4   4449285211       7   35.00           ziva34
+5   3359006814       2   29.66          Bisli30
+6   9651797289       6   26.34         Apropo12
+7   6330280004      10  150.00          bread55
+8   8034346112       4   28.00         eggs_868
+9    164789150       3   19.35         Apropo33
+10  8456957754       3    3.39         Apropo37
+11  4358550117       2   16.00  almond_milk_427
+12  7877030455       7  119.00         jahnon52
+13  7978895612       4    6.64          Bisli66
+14  2446778172       8   36.64       Pringles69
+date: 2023-01-20
+payment_type: 3
+total_pay: 611.66 NIS
+seller name: Maria Barnett

@@ -1,0 +1,16 @@
+customer_name: Vanesa Bible
+customer name: Vanesa Bible
+productS:            id  amount   price           name
+0  7274739715       2   32.00        pita128
+1  2268629743       8   14.16      Popcorn79
+2  4237118734       6   55.62        Chips62
+3  8134299553       9  144.00      baklawa82
+4  4855857750       4   76.00      burekas85
+5  4937476280       5  125.00  goat_milk_517
+6  1186321505       1    9.00         cake21
+7  2494120653       7   84.00      cream_201
+8  7133792807       7   84.00       coco_309
+date: 2023-02-10
+payment_type: 0
+total_pay: 623.78 NIS
+seller name: Kevin Goldberg

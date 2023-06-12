@@ -1,0 +1,23 @@
+customer_name: Maria Haskins
+customer name: Maria Haskins
+productS:             id  amount   price              name
+0   8571506821       6  108.00          milk_465
+1   1197125341       2   14.00             ziva5
+2   8823433575       8  216.00     goat_milk_721
+3   6284093731       1   18.00          coco_834
+4   5829732486       3   24.00             pie77
+5   8571481765       1    9.08         Chitos103
+6   6797493127       8  152.00  freedom_eggs_682
+7   5913893649       3   27.00             pie53
+8   2280035986       4   64.00        baklawa101
+9   1061642313       7  105.00        butter_924
+10  4728207408       9  118.08          Bamba109
+11  1048883950       9   72.00             pie37
+12  5569191280       4   60.00         jahnon106
+13  1391976952       8   96.72           Chips12
+14  2750428382      10  120.00            pie120
+15  9107244139       4  116.00   freedom_eggs_62
+date: 2023-03-28
+payment_type: 1
+total_pay: 1319.8799999999999 NIS
+seller name: Margaret Mclaughlin

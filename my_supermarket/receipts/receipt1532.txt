@@ -1,0 +1,25 @@
+customer_name: Mary Cross
+customer name: Mary Cross
+productS:             id  amount   price             name
+0   4472529594       8   56.00         jahnon51
+1   3478731598       9   45.00           ziva23
+2   9462740449       2    3.54          Chitos0
+3   8742142227       9   95.67         Apropo39
+4   1876741966       4   52.00            cake6
+5   7481197822       7  112.00           pita47
+6   4088928724       4   24.00         jahnon50
+7   7009805916       9  126.27         Chitos21
+8   3628124225      10  190.00          pizza13
+9   4064018847       1   12.00         bread118
+10  4928568369       6   85.62        Popcorn17
+11  9689010272       3   21.00        milky_621
+12  8246760721       5   44.75          Kefli29
+13  5598382184       3   51.00          pita125
+14  8700915743       8  104.00          bread52
+15  5963004709       8  280.00   mozzarella_476
+16  8145026289       4   35.56         Apropo95
+17  3606678437       2   44.00  almond_milk_163
+date: 2023-02-22
+payment_type: 0
+total_pay: 1382.4099999999999 NIS
+seller name: Margaret Mclaughlin

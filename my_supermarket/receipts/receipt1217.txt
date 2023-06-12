@@ -1,0 +1,24 @@
+customer_name: Viola Housh
+customer name: Viola Housh
+productS:             id  amount   price               name
+0   3986042881       2   12.02          Doritos70
+1   7334053725       2   28.00         danone_234
+2   9872061983       7   35.00            lahuh79
+3   4938601857       1    9.00             ziva79
+4   9523581047       4   36.04          Popcorn15
+5   8872045982       7  133.00          baklawa12
+6   3551239292       7  105.00           yolo_532
+7   8632053761       7   53.83            Bamba82
+8   4032342296       5   58.60            Bamba90
+9   8246760721       3   26.85            Kefli29
+10  8928094454       9   39.51           Apropo77
+11  9713992589       2   18.00          baklawa80
+12  9641721123      10   25.10            Chips22
+13     5773476       9   87.21            Kefli99
+14  6910920311       8  128.00            cake104
+15  4877541930       4   44.00  melted_cheese_265
+16  9633973355       6   15.90            Kefli50
+date: 2023-04-18
+payment_type: 1
+total_pay: 855.0600000000001 NIS
+seller name: Lillian Dolan

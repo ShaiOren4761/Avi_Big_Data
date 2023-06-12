@@ -1,0 +1,12 @@
+customer_name: Sondra Adams
+customer name: Sondra Adams
+productS:            id  amount   price            name
+0  1062361589       9  207.00        eggs_365
+1  4440652590       3   90.00        milk_795
+2  5316301932       7   63.00      butter_564
+3  2570448727       7   53.34         Bisli24
+4  1163005494      10  300.00  mozzarella_901
+date: 2023-03-27
+payment_type: 2
+total_pay: 713.34 NIS
+seller name: Hobert Wimberly

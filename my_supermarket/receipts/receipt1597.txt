@@ -1,0 +1,9 @@
+customer_name: Kristy Picciano
+customer name: Kristy Picciano
+productS:            id  amount  price      name
+0  1167640942       7  85.26  Apropo27
+1  2827514290       1   2.80  Apropo38
+date: 2023-01-24
+payment_type: 3
+total_pay: 88.05999999999999 NIS
+seller name: Renee Brammer

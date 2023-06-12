@@ -1,0 +1,23 @@
+customer_name: John Stone
+customer name: John Stone
+productS:             id  amount   price              name
+0   9700244844       3   87.00         carlo_606
+1   7996773975       5   10.90          Kefli110
+2   4340233956       8  160.00           bread60
+3   1234742425      10  149.10           Bamba75
+4   6301332990       3   60.00            pita94
+5   1758939776       1   27.00         carlo_670
+6   8089948135       2   50.00  organic_eggs_219
+7   7570782330       3   12.42        Popcorn105
+8   6236178652       3   87.00           coco_86
+9   8613116650       6   12.90           Bisli40
+10  4798208097       5  120.00   almond_milk_487
+11  7142817758      10  190.00          milky_95
+12  5555177781       9  126.00        butter_275
+13  6871192773       8  152.00          yolo_647
+14  6910920311       6   96.00           cake104
+15   942428879       5    9.45          Chitos47
+date: 2023-02-09
+payment_type: 2
+total_pay: 1349.77 NIS
+seller name: Roberta Lewis

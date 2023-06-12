@@ -1,0 +1,19 @@
+customer_name: Tyra Brady
+customer name: Tyra Brady
+productS:             id  amount   price                 name
+0   6508352741       8   96.00               cake75
+1   6594002831       9   63.27            Doritos88
+2   2974927397       1    4.85             Chitos68
+3   9646405432       6   78.00             bagget89
+4   9278353235       9  216.00     yellow_cheese_97
+5   1256500641       3   42.30              Bisli92
+6   2683277403       4   24.00    melted_cheese_552
+7   4332911857       9  261.00       sour_cream_797
+8   2750428382       4   48.00               pie120
+9   4408467171       8   72.00              pizza16
+10  9209438957       2   56.00           butter_720
+11  1256411102       9   63.00  Napoleon_cheese_546
+date: 2023-03-05
+payment_type: 2
+total_pay: 1024.42 NIS
+seller name: Hobert Wimberly

@@ -1,0 +1,20 @@
+customer_name: Pamela Lee
+customer name: Pamela Lee
+productS:             id  amount   price               name
+0   7240835911      10   97.00            Bisli69
+1   1572770551       7   14.84            Bisli88
+2   7409256592       2   26.86          Popcorn72
+3   5493928801       2   42.00    almond_milk_158
+4   1976905118       1   34.00   freedom_eggs_251
+5   9551526127       1    8.00           prezel97
+6   8757485428      10   70.00           jahnon36
+7   2494513938       2   32.00          carlo_232
+8    826694978       7  104.86          Doritos95
+9   5726291607       6   42.00             lafa95
+10  9944104930       3   78.00  melted_cheese_526
+11  3325531833      10   60.00   melted_cheese_57
+12  6187757115       6  114.00            pizza40
+date: 2023-03-09
+payment_type: 3
+total_pay: 723.56 NIS
+seller name: Debra Pearson

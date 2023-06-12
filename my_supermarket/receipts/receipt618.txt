@@ -1,0 +1,8 @@
+customer_name: Anna Walker
+customer name: Anna Walker
+productS:            id  amount  price      name
+0  5184353572       6   62.7  Apropo69
+date: 2023-05-11
+payment_type: 2
+total_pay: 62.699999999999996 NIS
+seller name: James Briggs

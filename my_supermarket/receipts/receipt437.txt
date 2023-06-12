@@ -1,0 +1,25 @@
+customer_name: Patrick Ulatowski
+customer name: Patrick Ulatowski
+productS:             id  amount   price               name
+0   1937118997       3   40.41          Popcorn66
+1   2935869658       4   40.00          carlo_618
+2   1163005494       7  210.00     mozzarella_901
+3   9302863261      10  310.00    almond_milk_711
+4   5972473177       7   77.00            pizza15
+5   7142931855       3   21.00            cake127
+6   3105837268       9   40.77          Doritos71
+7   8918075819       9  243.00  melted_cheese_548
+8   6668408768       1   12.00  melted_cheese_133
+9   6482960301       4   48.00     mozzarella_123
+10  4113332672       6  120.00         danone_862
+11  2336504051       5   48.70            Bamba88
+12  3280736401       1   15.00          burekas36
+13  2014517286       1   16.00          cream_489
+14  3611519662       5   60.00           bread119
+15  7517728424       2   24.00           milk_630
+16  3304788224       9  153.00         burekas111
+17  7335013978       8  184.00          milky_129
+date: 2023-04-11
+payment_type: 1
+total_pay: 1662.8799999999999 NIS
+seller name: Harold Mitchell

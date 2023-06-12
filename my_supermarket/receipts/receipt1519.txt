@@ -1,0 +1,21 @@
+customer_name: Jane Smith
+customer name: Jane Smith
+productS:             id  amount   price               name
+0   3763061895       2   40.00  yellow_cheese_808
+1   3586877152      10   80.70            Bamba16
+2   5947459517       1   17.00  yellow_cheese_379
+3   5600097503       5  125.00           yolo_993
+4   4917133472       9   81.00           bagget56
+5   4395759406       3   54.00           prezel27
+6   5585620342       9   56.34            Bisli94
+7   2713640790       7   42.28            Kefli90
+8   6910603180       5   53.80            Bamba76
+9   5295620818       3   40.02           Bisli109
+10  4920993093       7  210.00         butter_314
+11  2529318508       1    9.70            Kefli48
+12  6396785113       9  108.00     sour_cream_686
+13  6516800392       3   75.00         danone_579
+date: 2023-02-08
+payment_type: 3
+total_pay: 992.8399999999999 NIS
+seller name: Kevin Goldberg

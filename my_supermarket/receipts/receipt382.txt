@@ -1,0 +1,15 @@
+customer_name: Daniel Ojeda
+customer name: Daniel Ojeda
+productS:            id  amount   price              name
+0  4769549964       1    3.65        Pringles95
+1  8132459564       5   15.40          Chitos14
+2  6537204810       3  102.00        butter_890
+3  8782329935       7   21.00           Kefli34
+4  3982862012       5   60.00           bread89
+5  9641721123       8   20.08           Chips22
+6  6481569349       4  136.00  melted_cheese_20
+7  6883417806       5  100.00        butter_352
+date: 2023-03-18
+payment_type: 1
+total_pay: 458.13 NIS
+seller name: Calvin Manahan

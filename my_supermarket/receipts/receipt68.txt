@@ -1,0 +1,15 @@
+customer_name: Michelle Cook
+customer name: Michelle Cook
+productS:            id  amount   price                 name
+0  7892097681       2   22.24            Apropo106
+1  5173324484       5   72.40              Kefli55
+2  7703128719       6   42.00    melted_cheese_177
+3  4673789046       2   32.00              pizza49
+4  3262928019       5   21.75            Doritos20
+5  5421741940       7   47.39              Chips17
+6  5838549040       9   99.00             bagget81
+7  6513038711       4  120.00  Napoleon_cheese_547
+date: 2023-01-27
+payment_type: 3
+total_pay: 456.78 NIS
+seller name: Kevin Goldberg

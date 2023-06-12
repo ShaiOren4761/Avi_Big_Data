@@ -1,0 +1,17 @@
+customer_name: Helen Lehman
+customer name: Helen Lehman
+productS:            id  amount  price               name
+0  1937118997      10  134.7          Popcorn66
+1  3294955150       1   16.0           dunats49
+2  8307487043       3   24.0   organic_eggs_522
+3  7485253472       8  144.0             pita17
+4  2543398031       9  171.0         danone_490
+5  1883034392       2   24.5           Chitos60
+6  7142817758       6  114.0           milky_95
+7  3083766553       4   60.0             lafa65
+8  7818934137       4  140.0         butter_629
+9  2920059897       1   17.0  melted_cheese_262
+date: 2023-03-01
+payment_type: 2
+total_pay: 845.2 NIS
+seller name: Lillian Dolan

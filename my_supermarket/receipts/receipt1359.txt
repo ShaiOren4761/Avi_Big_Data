@@ -1,0 +1,8 @@
+customer_name: Frank Guyette
+customer name: Frank Guyette
+productS:            id  amount  price        name
+0  5316301932       8   72.0  butter_564
+date: 2023-04-05
+payment_type: 3
+total_pay: 72.0 NIS
+seller name: James Briggs

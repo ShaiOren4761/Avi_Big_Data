@@ -1,0 +1,21 @@
+customer_name: Robert Law
+customer name: Robert Law
+productS:             id  amount   price              name
+0   3711971455       9  144.00    sour_cream_645
+1   7952740321      10   63.00           Bisli11
+2   8596550264       5   60.00  swiss_cheese_709
+3   8767413918       6   48.00            hala54
+4   8723057968       7  168.00  organic_eggs_439
+5   7234749736       8   72.00    sour_cream_930
+6   7848327923       1   11.63        Doritos110
+7   6691628206       1    6.59          Apropo51
+8   4237958087       5   65.00            ziva88
+9    922689061       2    8.12           Bisli82
+10  3529150487       2   19.88           Chips38
+11  1412142417       6   36.00         baklawa50
+12  8719685930       4   55.88         Popcorn56
+13  9205194255       3    6.84           Bamba91
+date: 2023-04-09
+payment_type: 1
+total_pay: 764.94 NIS
+seller name: Harold Mitchell

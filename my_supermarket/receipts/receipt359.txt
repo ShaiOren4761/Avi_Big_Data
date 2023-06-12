@@ -1,0 +1,19 @@
+customer_name: Dawn Mcintire
+customer name: Dawn Mcintire
+productS:             id  amount   price              name
+0   8489584430       3   63.00   almond_milk_467
+1   3279725841       4   46.92           Kefli41
+2   8818071597       9  117.00  freedom_eggs_983
+3   2853965541       1    6.85           Bisli15
+4   1131218704       2    2.38        Pringles92
+5   5264741580       9   54.00         cream_756
+6   4358550117       5   40.00   almond_milk_427
+7   6051907717       5   53.90            Bisli4
+8   7089280322       5   59.60            Bisli9
+9   6629425883       3  105.00  freedom_eggs_521
+10  6647405500       9   99.00          dunats32
+11  2107595825      10  118.90          Apropo55
+date: 2023-02-24
+payment_type: 1
+total_pay: 766.55 NIS
+seller name: Renee Brammer

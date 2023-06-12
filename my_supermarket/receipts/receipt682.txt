@@ -1,0 +1,12 @@
+customer_name: Joseph Robinson
+customer name: Joseph Robinson
+productS:            id  amount  price               name
+0  3027428803       5  41.80           Apropo79
+1  5403762420       1  12.00  yellow_cheese_697
+2  3619996033       1  19.00           eggs_805
+3  5776977613       3  78.00     mozzarella_341
+4  4232988091       4  38.64           Chitos64
+date: 2023-05-11
+payment_type: 0
+total_pay: 189.44 NIS
+seller name: Ann Hutchens

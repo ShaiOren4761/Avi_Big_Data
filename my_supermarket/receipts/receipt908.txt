@@ -1,0 +1,13 @@
+customer_name: Henry Bauer
+customer name: Henry Bauer
+productS:            id  amount   price        name
+0  1300932938       9   78.75    Chitos76
+1  3280736401       1   15.00   burekas36
+2  4395623535       6   12.60  Pringles68
+3  1268915376      10   89.40     Chips63
+4  9051261268       6  108.00    yolo_673
+5  3796503079       6   36.00  danone_780
+date: 2023-04-07
+payment_type: 0
+total_pay: 339.75 NIS
+seller name: Ann Hutchens

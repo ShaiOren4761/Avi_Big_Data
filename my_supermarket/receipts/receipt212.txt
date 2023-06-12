@@ -1,0 +1,13 @@
+customer_name: Daniel Marshall
+customer name: Daniel Marshall
+productS:            id  amount   price       name
+0  5558317486       9   24.57    Bamba27
+1  2680645196       9  162.00  cream_654
+2  3118998644       7   92.19  Chitos106
+3  7835865295       6   84.00  carlo_562
+4  1307466509       2   12.00  carlo_180
+5  3489324048       1   17.00      pie18
+date: 2023-02-17
+payment_type: 3
+total_pay: 391.76 NIS
+seller name: Karen Salazar

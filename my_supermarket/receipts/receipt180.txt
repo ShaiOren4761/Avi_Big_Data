@@ -1,0 +1,15 @@
+customer_name: Ruth Cheek
+customer name: Ruth Cheek
+productS:            id  amount   price                 name
+0  2905528585       2   40.00             prezel38
+1  9966639790       9  261.00             coco_179
+2  8636031956       7  189.00    yellow_cheese_258
+3  2922052037       9  126.00            bagget115
+4  7432196780       5   90.00  Napoleon_cheese_157
+5  7765721113       6   24.36              Kefli52
+6  6516800392       8  200.00           danone_579
+7  4973461719       7   58.52             Chitos84
+date: 2023-02-22
+payment_type: 2
+total_pay: 988.88 NIS
+seller name: Margaret Mclaughlin

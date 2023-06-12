@@ -1,0 +1,25 @@
+customer_name: Sonya Rivera
+customer name: Sonya Rivera
+productS:             id  amount   price               name
+0   7385053522       4    9.72           Doritos7
+1   7935269504       2   26.52          Popcorn40
+2   5996612644       8   88.00            lafa106
+3   7524099509       4   45.76         Pringles65
+4   8867646932       9   99.00             ziva13
+5   3236010084       6   11.70          Doritos63
+6   8535119636       9   72.00          prezel124
+7   9661068492       7   70.00           cookie58
+8   9838003751       3   60.00             pita24
+9   5574962737       5   50.00  melted_cheese_725
+10  3990018758       3    4.83            Chips80
+11  8247514592       4   22.76          Doritos13
+12  8450215412       6   36.00          burekas33
+13   942428879       2    3.78           Chitos47
+14  3578084870       1   16.00            hala105
+15  6617370123       6   90.00             pita33
+16  3906818305       8   80.00           bagget54
+17  8264465300       9  126.00           yolo_531
+date: 2023-03-04
+payment_type: 0
+total_pay: 912.07 NIS
+seller name: Harold Mitchell

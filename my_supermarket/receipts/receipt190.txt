@@ -1,0 +1,24 @@
+customer_name: Michael Williams
+customer name: Michael Williams
+productS:             id  amount   price               name
+0   2654725552       4   56.00         danone_991
+1   7436255460       6   96.00  melted_cheese_598
+2   9096353977       3   24.00             hala47
+3   8369438862       5   60.00    almond_milk_715
+4   8163644093       8  120.00            ziva116
+5   9764216273       2   19.64           Chitos29
+6   9966639790       5  145.00           coco_179
+7   8617430774       7   59.08          Popcorn28
+8   9251938571       9   90.00    almond_milk_791
+9   2057989223       1   15.00      goat_milk_918
+10   191842199       1    6.02            Bamba74
+11   813753283       7   85.75          Doritos72
+12  1021857923      10  150.00            cake123
+13  4150905730       5   30.00           dunats17
+14  9928266964      10   50.00          carlo_941
+15  2774931560       8  112.00             cake31
+16  2204368721       2   24.82            Kefli58
+date: 2023-04-09
+payment_type: 1
+total_pay: 1143.31 NIS
+seller name: Donald Dawson

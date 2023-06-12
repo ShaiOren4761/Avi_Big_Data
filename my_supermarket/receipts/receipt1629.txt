@@ -1,0 +1,25 @@
+customer_name: Paul Brown
+customer name: Paul Brown
+productS:             id  amount   price             name
+0   9343935433       7   91.00         cookie24
+1   2408420254       7   90.30        Popcorn31
+2     25951910       8   25.20         Apropo19
+3   4480625771       2   22.00        cream_960
+4   5539025220       6   16.38      Pringles100
+5   8193288512       4   56.00  almond_milk_641
+6   7952811878       6   89.46        Doritos10
+7   8223303910       8  120.00         milk_461
+8   8013196005       1   13.77        Doritos38
+9   2662878840       2   25.16          Chips50
+10  8609028206       9   72.00        jahnon119
+11  2304178533       2   36.00  swiss_cheese_11
+12  7385053522       4    9.72         Doritos7
+13  4938601857       8   72.00           ziva79
+14  8876382393       6   54.00         coco_412
+15  9976631583       1   26.00         coco_889
+16  5983060206       8   96.00   sour_cream_685
+17  8945456646       3   12.48         Chitos58
+date: 2023-02-19
+payment_type: 3
+total_pay: 927.47 NIS
+seller name: Roberta Lewis

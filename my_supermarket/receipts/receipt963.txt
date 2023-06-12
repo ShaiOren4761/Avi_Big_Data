@@ -1,0 +1,15 @@
+customer_name: Theresa Lowe
+customer name: Theresa Lowe
+productS:            id  amount   price               name
+0  8562313207       7   42.00  melted_cheese_181
+1  2946696126      10  150.00             ziva42
+2  5736353788       9  126.00             ziva55
+3  9414611643       4   64.00    almond_milk_604
+4  8102530535       9   18.99            Bamba30
+5  4775814056       6    7.26            Bamba68
+6  9957889614       2   26.00             pita22
+7  4865712712       1    5.00             hala84
+date: 2023-05-01
+payment_type: 1
+total_pay: 439.25 NIS
+seller name: James Briggs

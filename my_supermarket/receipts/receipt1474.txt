@@ -1,0 +1,21 @@
+customer_name: Raymond Culbertson
+customer name: Raymond Culbertson
+productS:             id  amount   price                name
+0   6662554860       7   56.00             hala120
+1   7628878105       4   60.00               pie51
+2   7138233209       8   82.56            Chitos89
+3   2674303534       6   72.00             bread26
+4   5493097263       6   27.90            Bisli102
+5   8006653806       5  125.00  Napoleon_cheese_82
+6   9900176262       2   40.00              hala33
+7   6996730348       5   29.75            Chitos15
+8   3611519662       7   84.00            bread119
+9   7234416649       8  106.24             Chitos6
+10  4440652590       5  150.00            milk_795
+11  8076538622       5   70.00             pita118
+12  4530315044       5   90.00          butter_913
+13  6805999275      10  150.00            eggs_155
+date: 2023-04-19
+payment_type: 1
+total_pay: 1143.45 NIS
+seller name: Latasha Mace

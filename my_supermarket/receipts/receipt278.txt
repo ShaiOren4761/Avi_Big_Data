@@ -1,0 +1,22 @@
+customer_name: Scott Harper
+customer name: Scott Harper
+productS:             id  amount   price              name
+0   5557914031       6   77.64       Pringles109
+1   9409077580       5   68.55            Kefli9
+2   2242014772       6  108.00          cookie17
+3   9261950131       3   78.00         milky_803
+4   5595785308       4   27.16         Doritos41
+5   8999085346       9   44.55        Popcorn109
+6   5582816257       9   72.00  freedom_eggs_421
+7   4022293040      10  105.20         Popcorn21
+8    344756703       3   11.04         Doritos16
+9    542193105       8  112.40           Kefli63
+10  2388008773       8   80.00         milky_865
+11  9123725436       6   47.40          Apropo57
+12  9195817971       8  136.00        burekas108
+13  8712532837      10  210.00         milky_712
+14  7899063920       8   73.92            Chips9
+date: 2023-01-09
+payment_type: 1
+total_pay: 1251.8600000000001 NIS
+seller name: Donald Dawson

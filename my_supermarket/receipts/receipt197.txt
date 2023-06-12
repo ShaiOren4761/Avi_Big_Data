@@ -1,0 +1,18 @@
+customer_name: Linda Baird
+customer name: Linda Baird
+productS:             id  amount   price        name
+0   9736541013       4   84.00    coco_463
+1   5973405333       4   92.00    milk_815
+2   3358798015       3   44.61    Chitos77
+3   6697639307       1   10.00    coco_762
+4   2701682566      10  130.00    cookie65
+5   9547362318       7  105.00   dunats126
+6   2371009115       9   31.77     Chips61
+7   2582423137       2   28.00      hala25
+8   5846565267       8   80.00  butter_804
+9   5318905372       5   50.95     Kefli35
+10  2278399226       8   16.64    Chitos94
+date: 2023-02-12
+payment_type: 0
+total_pay: 672.97 NIS
+seller name: Victoria Hansen

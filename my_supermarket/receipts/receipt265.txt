@@ -1,0 +1,10 @@
+customer_name: Charlotte Nelson
+customer name: Charlotte Nelson
+productS:            id  amount  price       name
+0  9507870080      10  28.50  Doritos45
+1  3182656010       3  10.14    Kefli15
+2  7311331817       2   3.88  Popcorn94
+date: 2023-03-15
+payment_type: 1
+total_pay: 42.52 NIS
+seller name: Calvin Manahan

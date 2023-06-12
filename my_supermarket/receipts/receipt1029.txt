@@ -1,0 +1,25 @@
+customer_name: Kenneth Dear
+customer name: Kenneth Dear
+productS:             id  amount  price               name
+0   7198681233       8   80.0          jahnon102
+1   5627558519       3   60.0    almond_milk_315
+2   3628124225       5   95.0            pizza13
+3   1555021268       1    8.0     sour_cream_252
+4   6761541713       5   95.0             cake93
+5   2695216580       9  117.0            Kefli98
+6   5645144241       9   63.0      mozzarella_60
+7   1680982376       4   44.0           lahuh105
+8   5592520586      10  250.0  melted_cheese_226
+9   1098139760       3   63.0           eggs_302
+10  2587815060       4   44.0            lafa109
+11  9447408425       7   91.0           lahuh128
+12  8155496029       4   57.4          Popcorn18
+13  5705065148       7   42.0           bagget99
+14  5643737214      10  143.5            Bamba23
+15  5645144241       9   63.0      mozzarella_60
+16  9851982261       8  256.0          cream_902
+17  1897273670       4    7.6            Bamba34
+date: 2023-05-20
+payment_type: 0
+total_pay: 1579.5 NIS
+seller name: Renee Brammer

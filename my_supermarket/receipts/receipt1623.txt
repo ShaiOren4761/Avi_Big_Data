@@ -1,0 +1,27 @@
+customer_name: Timothy Gonzalez
+customer name: Timothy Gonzalez
+productS:             id  amount   price              name
+0   6186431336       3   90.00         cream_943
+1   7141014171       6   48.00          milk_322
+2   3344749200       6  192.00    mozzarella_529
+3   6271612500       6   30.00           pizza47
+4   6045791910       5   25.00            ziva46
+5   2929399599       4   68.00  freedom_eggs_758
+6   2722643439       6  120.00           ziva119
+7   3937935974       3   51.00          bagget17
+8   8005803993      10   70.00            pie104
+9   6523953105       6   72.00          bread117
+10  7137576161       7   98.00          carlo_40
+11  4610697680       9  117.00           pita105
+12  9569923077      10   82.70           Chips25
+13  5282923998      10  140.00        danone_196
+14  7659165487       2   38.00         milky_845
+15  8066390508       9   55.98           Chips86
+16   115817300       5   57.30           Apropo6
+17  3813014517       4   44.00          yolo_953
+18  3906218083       6  180.00    sour_cream_707
+19  2794548670       3   18.03         Popcorn29
+date: 2023-03-15
+payment_type: 1
+total_pay: 1597.01 NIS
+seller name: Roberta Lewis

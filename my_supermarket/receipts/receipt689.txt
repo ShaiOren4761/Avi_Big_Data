@@ -1,0 +1,25 @@
+customer_name: David Hardinger
+customer name: David Hardinger
+productS:             id  amount   price               name
+0    115817300       8   91.68            Apropo6
+1   4095047299      10  310.00         butter_112
+2   8919244457       3   33.00             hala35
+3   6971485450       1    9.00             cake10
+4   7335013978       5  115.00          milky_129
+5   6877111813       1   19.00           cookie16
+6   9593397002       8  224.00          carlo_927
+7   8160932095       6   36.00              pita1
+8   3439083065       7  147.00           eggs_508
+9   5303405342       6   36.00              pie90
+10   328757625       4   43.32            Bisli78
+11  8140512998       1   32.00          milky_549
+12  9430890185       4   64.00         baklawa103
+13  7762335215       8  136.00           lahuh111
+14  3763061895       1   20.00  yellow_cheese_808
+15  8400090994       3   18.00          burekas74
+16  8663836737       2   13.02           Chips109
+17  5638514408       7   73.43           Doritos1
+date: 2023-02-18
+payment_type: 1
+total_pay: 1420.45 NIS
+seller name: Harold Mitchell

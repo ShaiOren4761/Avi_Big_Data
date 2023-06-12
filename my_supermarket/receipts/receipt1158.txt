@@ -1,0 +1,20 @@
+customer_name: Jared Beck
+customer name: Jared Beck
+productS:             id  amount   price              name
+0   7471595532       2   10.20          Popcorn2
+1   5120443668       4   28.00            lafa68
+2   4719445586       7  119.00          baklawa9
+3   2534125851       4   32.00    sour_cream_542
+4   7166066205       1   12.54         Popcorn37
+5   9021688057       5   63.60           Bamba11
+6   5725567251       3   63.00          cream_16
+7   7362098225       6   36.00         dunats107
+8   1575541708       2   60.00  organic_eggs_516
+9   9937186615       8  152.00         cream_106
+10  6959515824       4    5.64           Chips75
+11  4942058623       8   58.72          Chitos71
+12  1874149203       6   69.54          Apropo26
+date: 2023-04-17
+payment_type: 2
+total_pay: 710.2399999999999 NIS
+seller name: Karen Salazar

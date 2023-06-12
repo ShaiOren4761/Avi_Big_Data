@@ -1,0 +1,22 @@
+customer_name: Kay Gallaher
+customer name: Kay Gallaher
+productS:             id  amount   price               name
+0   9321789214       8   17.60          Doritos86
+1   3127728273       9  162.00           carlo_22
+2   6340747060      10  126.80             Bisli8
+3    286245913       2    8.96         Pringles78
+4   9489218276       2   68.00           coco_115
+5   2920059897       4   68.00  melted_cheese_262
+6   8224622045       9   54.00            pita117
+7   4277909247       7  140.00           jahnon38
+8   2677214581       7  126.00   swiss_cheese_279
+9   8712532837       2   42.00          milky_712
+10  3167340190       7   70.00  melted_cheese_326
+11  9205194255       8   18.24            Bamba91
+12  6353327521       4  140.00         danone_403
+13  9256288476       6  210.00           coco_174
+14  5505870883       4   10.80            Apropo3
+date: 2023-03-10
+payment_type: 0
+total_pay: 1262.3999999999999 NIS
+seller name: Donald Dawson

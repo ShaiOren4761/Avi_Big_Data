@@ -1,0 +1,11 @@
+customer_name: Erin Roberts
+customer name: Erin Roberts
+productS:            id  amount   price      name
+0  9063117867       3   66.00   milk_81
+1  8223303910       7  105.00  milk_461
+2  8580755882      10   98.00   Bamba17
+3  9229983198       9   19.53    Chips8
+date: 2023-05-18
+payment_type: 3
+total_pay: 288.53 NIS
+seller name: Marie Natonabah

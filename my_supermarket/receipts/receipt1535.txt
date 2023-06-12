@@ -1,0 +1,18 @@
+customer_name: Joseph Stanley
+customer name: Joseph Stanley
+productS:             id  amount   price                 name
+0   5510676704       4   92.00      freedom_eggs_13
+1   6639540099       6   84.00    melted_cheese_600
+2   2529934302       4   36.00             pizza119
+3   3655922135      10  107.40            Popcorn19
+4   9171962647       3   96.00  Napoleon_cheese_435
+5   5429491242      10  170.00      almond_milk_469
+6   9157920855       9  279.00             coco_356
+7   4973461719       4   33.44             Chitos84
+8   8126594595       8   79.20            Apropo103
+9   1693440897       1    6.00       mozzarella_639
+10  3789389737       9   54.00       mozzarella_182
+date: 2023-03-29
+payment_type: 3
+total_pay: 1037.04 NIS
+seller name: Harold Mitchell

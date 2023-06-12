@@ -1,0 +1,15 @@
+customer_name: Margaret Smith
+customer name: Margaret Smith
+productS:            id  amount   price                name
+0  6132408530       1    5.00            lahuh126
+1  5569191280       3   45.00           jahnon106
+2  3154745776       7   84.00             pizza72
+3  7320822838       5  125.00  Napoleon_cheese_88
+4  1784890348       5   40.00           milky_706
+5  8325669587       9   63.36           Popcorn11
+6  6918751799      10  132.10             Bisli52
+7  1300932938      10   87.50            Chitos76
+date: 2023-02-18
+payment_type: 3
+total_pay: 581.96 NIS
+seller name: Harold Mitchell

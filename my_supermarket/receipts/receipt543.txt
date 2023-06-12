@@ -1,0 +1,18 @@
+customer_name: Maggie Morton
+customer name: Maggie Morton
+productS:             id  amount   price               name
+0   6429846337       5   64.00            Kefli18
+1   5388529271       6  198.00  yellow_cheese_457
+2   5250120636       1   12.91            Kefli44
+3   8560760295       3   15.00          baklawa69
+4   2162003842       9   24.75         Pringles86
+5   2679268342       5   30.00          baklawa76
+6   9838003751       7  140.00             pita24
+7   9727748071       2   68.00          cream_440
+8   2241517882       5  150.00           coco_237
+9   2336504051       9   87.66            Bamba88
+10  7546689252       3   22.44           Apropo90
+date: 2023-05-02
+payment_type: 2
+total_pay: 812.7600000000001 NIS
+seller name: Gary Hudson

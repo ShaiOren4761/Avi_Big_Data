@@ -1,0 +1,15 @@
+customer_name: John Kelly
+customer name: John Kelly
+productS:            id  amount   price              name
+0  1522229505       5   59.75          Apropo28
+1  7247121175       8  104.00            hala44
+2  4606619337       1    7.00         burekas23
+3  6191048986       6   76.08           Kefli13
+4  5276125137       5   15.90           Chips54
+5  3974756121       1    7.09           Chips39
+6  5867262543       6  126.00          eggs_705
+7  8893627979       2   52.00  swiss_cheese_481
+date: 2023-01-28
+payment_type: 3
+total_pay: 447.81999999999994 NIS
+seller name: James Briggs

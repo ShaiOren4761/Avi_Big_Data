@@ -1,0 +1,8 @@
+customer_name: Tracy Obrien
+customer name: Tracy Obrien
+productS:            id  amount  price             name
+0  6709681343      10  170.0  sweet_cream_749
+date: 2023-04-29
+payment_type: 0
+total_pay: 170.0 NIS
+seller name: Victoria Hansen

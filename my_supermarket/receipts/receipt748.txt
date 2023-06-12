@@ -1,0 +1,22 @@
+customer_name: Gilbert King
+customer name: Gilbert King
+productS:             id  amount   price                 name
+0   9562721616      10  120.00               ziva56
+1   2791798877       5   57.70          Pringles106
+2   5725567251       7  147.00             cream_16
+3   1884941779       2   36.00             jahnon95
+4   5461198035       4  120.00  Napoleon_cheese_826
+5   4520157863       3   13.44            Doritos73
+6   1930608790       2   25.14              Bamba99
+7   9442622061       5   55.00           butter_963
+8   2267559230       6   60.00               ziva38
+9   6970574985       2   21.46           Pringles62
+10  3343316184       7   49.00             bagget63
+11   983000324       3   34.11            Popcorn97
+12  1907371334       4   28.48              Bamba96
+13  1438788996       8   43.20            Chitos110
+14  9593093677      10   60.00                lafa7
+date: 2023-05-11
+payment_type: 2
+total_pay: 870.5300000000001 NIS
+seller name: Hobert Wimberly

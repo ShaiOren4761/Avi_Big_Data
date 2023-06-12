@@ -1,0 +1,14 @@
+customer_name: Hattie Watson
+customer name: Hattie Watson
+productS:            id  amount   price              name
+0  5471486765       3   35.61          Apropo78
+1  7912421033       1   19.00           pita103
+2  3572331796       1   14.00  freedom_eggs_135
+3  5781446230       8  104.40           Bisli55
+4  8115468682       1    2.07           Bamba58
+5  7274339697       3   45.00    mozzarella_777
+6  2507869915       8   48.00        danone_904
+date: 2023-03-26
+payment_type: 0
+total_pay: 268.08 NIS
+seller name: Lillian Dolan

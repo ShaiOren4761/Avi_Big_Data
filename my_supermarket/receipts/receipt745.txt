@@ -1,0 +1,24 @@
+customer_name: David Gregory
+customer name: David Gregory
+productS:             id  amount   price               name
+0   6439556476       5    9.40          Doritos51
+1   2243087918      10  150.00             lahuh2
+2   2268867007       5   60.00         danone_836
+3   3676009716       4    8.92            Bisli28
+4   1205004788       6  156.00     sour_cream_837
+5   1242971943       1    6.24            Bamba24
+6   3208335267       3   41.43            Kefli51
+7   5792012068       6  144.00           yolo_928
+8   1088470866       4   80.00     mozzarella_131
+9   3745981239       6   30.00             pita27
+10  9771125876       4  100.00  yellow_cheese_766
+11  9976631583      10  260.00           coco_889
+12  3741097609       5  100.00            ziva102
+13  6921646176       2   22.00           eggs_605
+14  3038504121       1   20.00           prezel39
+15  5514243716       7  119.00    almond_milk_563
+16  7712761420       5  165.00   swiss_cheese_719
+date: 2023-04-14
+payment_type: 2
+total_pay: 1471.99 NIS
+seller name: Kevin Goldberg

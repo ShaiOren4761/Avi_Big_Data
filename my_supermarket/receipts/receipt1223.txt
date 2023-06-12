@@ -1,0 +1,14 @@
+customer_name: Sean Smith
+customer name: Sean Smith
+productS:            id  amount  price      name
+0  5938828520       2  30.00   lahuh10
+1  1535164453       8  87.68   Kefli28
+2  7142931855       1   7.00   cake127
+3  2096032396       4  24.00   pizza25
+4  1585628735       6  30.00  jahnon47
+5  3989026102       3  93.00  coco_203
+6  1058144674       6  96.00    pie110
+date: 2023-02-14
+payment_type: 1
+total_pay: 367.68 NIS
+seller name: Hobert Wimberly

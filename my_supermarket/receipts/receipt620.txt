@@ -1,0 +1,23 @@
+customer_name: Irma Phillips
+customer name: Irma Phillips
+productS:             id  amount   price               name
+0   9663627214       9   63.00             pizza8
+1   4769549964       1    3.65         Pringles95
+2   6187411892       4   56.00          butter_87
+3   7786713518       9  153.00         danone_216
+4   1039632254       2   38.00            cookie6
+5   8710802059       8  128.00   yellow_cheese_99
+6   9259431829       3   36.90            Chips33
+7   3737633275       9   99.00           milk_665
+8   2041208865       6  198.00     sour_cream_382
+9   9593093677       9   54.00              lafa7
+10  5388529271       6  198.00  yellow_cheese_457
+11  9450226806       7   91.14           Apropo49
+12  1433144136      10  200.00    swiss_cheese_80
+13  2022130734       6   66.00          baklawa33
+14  1311211128       8   41.76            Chips34
+15  7359264101       1    2.47            Chips58
+date: 2023-04-26
+payment_type: 0
+total_pay: 1428.92 NIS
+seller name: Edna Collins

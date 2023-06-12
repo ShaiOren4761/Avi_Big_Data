@@ -1,0 +1,20 @@
+customer_name: Harmony Wilkins
+customer name: Harmony Wilkins
+productS:             id  amount   price             name
+0   3754161372      10  160.00          bread15
+1   7293801939       2   36.00           pita37
+2   3030491915       2   44.00        carlo_616
+3   3403309398       8  208.00  almond_milk_241
+4   6926757119       5  150.00        cream_432
+5   7978895612       1    1.66          Bisli66
+6   8560504323       8   89.76       Pringles20
+7   6647405500       9   99.00         dunats32
+8   9321789214       8   17.60        Doritos86
+9   1550128282       4   92.00        milky_114
+10  3026394770       7   99.05        Doritos23
+11  8053610047       6  168.00   sour_cream_856
+12  2304919530       9   52.29         Apropo42
+date: 2023-03-08
+payment_type: 2
+total_pay: 1217.36 NIS
+seller name: Gary Hudson

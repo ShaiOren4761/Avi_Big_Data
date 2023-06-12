@@ -1,0 +1,12 @@
+customer_name: Annie Duke
+customer name: Annie Duke
+productS:            id  amount   price                 name
+0  3795208268       5   69.45            Popcorn13
+1  3517063441       7   84.00              pizza76
+2  9309788096       6   60.00                pie74
+3  2352678045       9   81.00           danone_884
+4  1465135792      10  200.00  Napoleon_cheese_151
+date: 2023-04-05
+payment_type: 3
+total_pay: 494.45 NIS
+seller name: Lillian Dolan

@@ -1,0 +1,23 @@
+customer_name: Johnnie Rosenbaum
+customer name: Johnnie Rosenbaum
+productS:             id  amount   price                 name
+0   9580962846       1   10.00              pita127
+1   1845106822       6    8.16              Kefli19
+2   6443842353       1    4.46              Chips97
+3    303802313       5   74.25              Bamba80
+4   3010500337       3   78.00           butter_989
+5   1272963697       6  174.00       sour_cream_535
+6   1268915376       6   53.64              Chips63
+7   7678696918       8  113.12             Chitos56
+8   6646722158       7  112.00  Napoleon_cheese_363
+9   8648153464       7   63.00            jahnon118
+10   251910878       9   41.67            Pringles1
+11  9149527174      10   60.00  Napoleon_cheese_306
+12  5781446230       2   26.10              Bisli55
+13  3061070448       7  175.00     organic_eggs_939
+14  6880392803       3   45.00    yellow_cheese_809
+15  9165585488       9  180.00            cookie117
+date: 2023-05-27
+payment_type: 2
+total_pay: 1218.4 NIS
+seller name: Donald Dawson

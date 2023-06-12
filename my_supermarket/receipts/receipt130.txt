@@ -1,0 +1,11 @@
+customer_name: Reginald Jauregui
+customer name: Reginald Jauregui
+productS:            id  amount   price        name
+0  4031129353       6   32.64     Chips94
+1  5130384166       9  216.00   milky_453
+2  7425987265       3   18.00      lafa39
+3  3528488014       2   22.82  Pringles93
+date: 2023-03-17
+payment_type: 2
+total_pay: 289.46 NIS
+seller name: Latasha Mace

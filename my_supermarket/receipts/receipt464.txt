@@ -1,0 +1,18 @@
+customer_name: Anna Mccall
+customer name: Anna Mccall
+productS:             id  amount   price        name
+0   7987176712       3   39.00     bread69
+1   4150905730       3   18.00    dunats17
+2   5656267851       4   48.84    Popcorn9
+3   7688435434       3   69.00    milk_230
+4   5029476225       9   75.42  Pringles83
+5   7211068631       3   25.86   Doritos15
+6   9063117867       2   44.00     milk_81
+7   7693680065       9   37.89     Kefli17
+8   4820659597       8  176.00    milk_303
+9     71270289       2   10.30     Chips10
+10  6386429486       6  204.00    yolo_612
+date: 2023-04-03
+payment_type: 3
+total_pay: 748.31 NIS
+seller name: Renee Brammer

@@ -1,0 +1,10 @@
+customer_name: Jack Alexandre
+customer name: Jack Alexandre
+productS:            id  amount   price            name
+0  6363307740       7   10.99         Chips71
+1  6482960301       7   84.00  mozzarella_123
+2  7485387735       7  210.00   goat_milk_261
+date: 2023-02-21
+payment_type: 0
+total_pay: 304.99 NIS
+seller name: Maria Barnett

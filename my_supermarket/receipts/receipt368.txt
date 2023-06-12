@@ -1,0 +1,14 @@
+customer_name: Jeffrey Ochoa
+customer name: Jeffrey Ochoa
+productS:            id  amount   price            name
+0  4908348754       2   38.00         bread58
+1   604713082       5   43.35         Apropo7
+2  7254608117      10  110.00       bagget107
+3  7131090783       8   80.00        prezel63
+4   526217812       2    8.88       Doritos39
+5  9661068492       9   90.00        cookie58
+6  4332911857       9  261.00  sour_cream_797
+date: 2023-04-10
+payment_type: 3
+total_pay: 631.23 NIS
+seller name: Marie Natonabah

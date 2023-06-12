@@ -1,0 +1,25 @@
+customer_name: Wendy Welder
+customer name: Wendy Welder
+productS:             id  amount   price              name
+0   4908348754       1   19.00           bread58
+1   1907398487       9  198.00  organic_eggs_127
+2   1675279550       2   22.26           Apropo5
+3   7777758933       9   65.79           Bamba78
+4   2679268342       3   18.00         baklawa76
+5   3551239292       1   15.00          yolo_532
+6   1239857379       5    8.45         Doritos62
+7   8140512998       6  192.00         milky_549
+8   2063554095       2   70.00  swiss_cheese_851
+9    498061809       8  112.32        Doritos100
+10  5205181698       6  150.00  swiss_cheese_464
+11  8361643664      10   80.00         jahnon110
+12  5083081758       3   24.00            pita88
+13  2107595825       2   23.78          Apropo55
+14  2885592727       6   73.50         Doritos67
+15  2679268342       3   18.00         baklawa76
+16  8924429372      10  130.00            ziva84
+17  5100868625      10  141.20         Popcorn86
+date: 2023-03-12
+payment_type: 1
+total_pay: 1361.3 NIS
+seller name: Kevin Goldberg

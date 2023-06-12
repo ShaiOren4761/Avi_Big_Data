@@ -1,0 +1,17 @@
+customer_name: Anthony Day
+customer name: Anthony Day
+productS:            id  amount   price              name
+0  9572998223       9   81.00         cream_718
+1  2529493320       7  203.00          milk_451
+2  9653744229      10  127.00            Kefli5
+3   217063952       3   33.42          Chitos78
+4  1046972231       7  210.00          milk_979
+5  7481478676       5   90.00          eggs_492
+6  3484107479       8  160.00  freedom_eggs_592
+7  5924537891       4   46.88          Chitos20
+8  4228714385       3   60.00            ziva10
+9   280283640       9   55.98          Chitos90
+date: 2023-01-01
+payment_type: 3
+total_pay: 1067.28 NIS
+seller name: Margaret Mclaughlin

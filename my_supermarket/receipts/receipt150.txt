@@ -1,0 +1,22 @@
+customer_name: Sylvia Jefferson
+customer name: Sylvia Jefferson
+productS:             id  amount   price               name
+0   1572770551       6   12.72            Bisli88
+1   9634058839       9  133.20          Popcorn50
+2   3655666396      10  130.00            lahuh41
+3   9360549288       3  105.00  Napoleon_cheese_4
+4   5738533372       3   48.00            bread28
+5   9646405432       3   39.00           bagget89
+6   4145343815       1   15.00           coco_588
+7   7688435434      10  230.00           milk_230
+8   2059569885      10  121.90            Bamba20
+9   2922167230      10  200.00            ziva127
+10  8853524696       9   18.81          Popcorn63
+11  9456439749       3   57.00  yellow_cheese_345
+12  8361643664       3   24.00          jahnon110
+13  7927554268       6   66.00             lafa26
+14  2827514290      10   28.00           Apropo38
+date: 2023-01-07
+payment_type: 0
+total_pay: 1228.63 NIS
+seller name: Karen Salazar

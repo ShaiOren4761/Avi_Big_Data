@@ -1,0 +1,27 @@
+customer_name: Thomas Shaw
+customer name: Thomas Shaw
+productS:             id  amount   price               name
+0   8945456646       1    4.16           Chitos58
+1   8818071597       1   13.00   freedom_eggs_983
+2   3083766553       7  105.00             lafa65
+3   8121338030       5   11.20           Chitos32
+4   1787738210       9   85.14           Chitos95
+5   4150905730       6   36.00           dunats17
+6   8201498864       6   30.00  melted_cheese_475
+7   6768927548       4   21.36            Bisli71
+8   3627451698       5   85.00  yellow_cheese_536
+9   2662878840       9  113.22            Chips50
+10  1573371180       6   66.00          dunats116
+11  9149710916       1   31.00           milk_299
+12  7173103129       1   13.00             ziva89
+13  1849092684       2   40.00          burekas54
+14  6321717493       5   25.70          Doritos55
+15  6683489857       4   30.20           Popcorn0
+16  8871223251       8   91.92         Pringles14
+17  9805965278       1    6.51            Kefli54
+18  2494120653       7   84.00          cream_201
+19  6124019874       2   32.00           dunats66
+date: 2023-03-20
+payment_type: 3
+total_pay: 924.4100000000001 NIS
+seller name: Lillian Dolan

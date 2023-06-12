@@ -1,0 +1,19 @@
+customer_name: Lillie Carlson
+customer name: Lillie Carlson
+productS:             id  amount   price              name
+0   7589658457       2   24.00              pie7
+1   5656267851       1   12.21          Popcorn9
+2   5271692066       7   49.00          jahnon94
+3   9797791629       6   10.02          Chitos80
+4   4994587480       8   40.00           hala103
+5   7978099468       3   18.00        danone_387
+6   4314586465       3   42.39          Apropo53
+7   4201127387       4    7.36           Bamba65
+8   7682156804       8   48.00    sour_cream_525
+9   6146770998       5  175.00          eggs_672
+10  5682444771       6   42.00  freedom_eggs_842
+11  7455259414       8   96.00         milky_541
+date: 2023-04-23
+payment_type: 0
+total_pay: 563.98 NIS
+seller name: Debra Pearson

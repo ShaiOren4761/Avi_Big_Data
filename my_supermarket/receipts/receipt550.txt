@@ -1,0 +1,15 @@
+customer_name: Elizabeth Longhurst
+customer name: Elizabeth Longhurst
+productS:            id  amount   price           name
+0  2942599073       3   21.00      cookie126
+1    68189602       6   88.92     Pringles77
+2  7378954285       3   38.10        Bisli14
+3  8034346112       3   21.00       eggs_868
+4  7056806452      10  270.00  mozzarella_66
+5  4790640514       2   20.00      cookie104
+6  5471486765       2   23.74       Apropo78
+7  5222746808       2   28.00          pie67
+date: 2023-01-28
+payment_type: 3
+total_pay: 510.76 NIS
+seller name: Calvin Manahan

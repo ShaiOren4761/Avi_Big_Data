@@ -1,0 +1,16 @@
+customer_name: Eddie Rasch
+customer name: Eddie Rasch
+productS:            id  amount  price           name
+0  5824643850       9  81.00  goat_milk_178
+1  2361525566       7  98.00      milky_192
+2  5706653469       3  26.79      Doritos85
+3  5920085347      10  44.70         Kefli1
+4  6276898700       3  33.00       prezel53
+5  4530315044       5  90.00     butter_913
+6  7765386072       2  26.00      carlo_166
+7  6210018468       8  56.00          pie89
+8  9550186768      10  80.00      burekas34
+date: 2023-01-19
+payment_type: 2
+total_pay: 535.49 NIS
+seller name: Edna Collins

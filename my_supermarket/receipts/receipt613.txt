@@ -1,0 +1,24 @@
+customer_name: Jon Muszynski
+customer name: Jon Muszynski
+productS:             id  amount   price               name
+0   2713640790       8   48.32            Kefli90
+1    233548657       5   56.20            Chips82
+2   3451795281       6  120.00           dunats37
+3   4428864833       2   46.00     mozzarella_444
+4   2513513163       6   90.00     sour_cream_783
+5   3982672944       8   38.88             Bisli0
+6   8869158925       1   15.00           prezel32
+7   1888017293       2   12.24           Chitos75
+8   3535624320       9  189.00  melted_cheese_691
+9   9412340770       6   86.82            Chips29
+10  5083081758       5   40.00             pita88
+11  1874149203       6   69.54           Apropo26
+12  7025067555      10  250.00    sweet_cream_631
+13  5502444567       8  216.00         danone_724
+14  8354355213       8   88.00          baklawa40
+15  9278353235      10  240.00   yellow_cheese_97
+16  9436845239       8   56.00   organic_eggs_495
+date: 2023-04-07
+payment_type: 1
+total_pay: 1662.0 NIS
+seller name: Hobert Wimberly

@@ -1,0 +1,24 @@
+customer_name: Sasha Harrison
+customer name: Sasha Harrison
+productS:             id  amount   price              name
+0   2278399226       5   10.40          Chitos94
+1   7899419890       3   43.65           Bamba64
+2   1907398487      10  220.00  organic_eggs_127
+3   3208335267       1   13.81           Kefli51
+4   7687852018       2   40.00        danone_545
+5   7054127409       3   45.00         dunats120
+6   9928266964       4   20.00         carlo_941
+7   5802499144      10   61.70           Kefli10
+8   3866791635       4   52.00            lafa16
+9   9629792815       7  101.71          Doritos4
+10  9061184229       7   91.00           lahuh51
+11  7131090783       4   40.00          prezel63
+12  3420489603       9  153.00           pita115
+13  4027939168       3   24.00         baklawa74
+14  9092334022       5   85.00        butter_632
+15  1843408960       7   77.00             pie28
+16    89900170       9   51.75           Bamba57
+date: 2023-01-08
+payment_type: 2
+total_pay: 1130.02 NIS
+seller name: Maria Barnett

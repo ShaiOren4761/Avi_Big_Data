@@ -1,0 +1,10 @@
+customer_name: Carol Standley
+customer name: Carol Standley
+productS:            id  amount  price       name
+0  8918557089      10  210.0  cream_400
+1  5040508233       2   22.0    cake121
+2  5475477255       5   80.0   jahnon63
+date: 2023-01-18
+payment_type: 0
+total_pay: 312.0 NIS
+seller name: Margaret Mclaughlin

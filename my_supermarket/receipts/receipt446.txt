@@ -1,0 +1,15 @@
+customer_name: Randy Allen
+customer name: Randy Allen
+productS:            id  amount   price               name
+0  9635709334      10  170.00          cookie128
+1  5805333708       8  224.00  yellow_cheese_850
+2  3365162672       4   52.00          cookie127
+3  9675080872       4   21.28            Kefli87
+4  5752892349      10   74.80          Popcorn51
+5  7175319969       4   49.72            Kefli47
+6  2352678045       3   27.00         danone_884
+7  1667621181       3   63.00         butter_311
+date: 2023-01-02
+payment_type: 2
+total_pay: 681.8 NIS
+seller name: Gary Hudson

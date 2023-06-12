@@ -1,0 +1,26 @@
+customer_name: Randy Underwood
+customer name: Randy Underwood
+productS:             id  amount   price                 name
+0   2211262363       4   13.52              Chips52
+1   5144865594       7   44.31              Bisli58
+2   8430807124       9   54.00            baklawa95
+3   9621445959      10  260.00        goat_milk_586
+4   3644585880       3   99.00  Napoleon_cheese_887
+5   2478208226       9   63.00             cookie32
+6   7741520770       6   54.00               lafa51
+7   5475816412       2   14.00             eggs_947
+8   2851496583       9  126.00        goat_milk_843
+9    654627915       9   86.58              Chips20
+10  6564984120       6   36.00            cream_844
+11  5905716407      10  160.00               cake40
+12  9315198715       8   35.76              Bisli99
+13  5983060206       8   96.00       sour_cream_685
+14  1088470866       4   80.00       mozzarella_131
+15  9209438957      10  280.00           butter_720
+16  8074399800       1   21.00      sweet_cream_728
+17  9997075030      10   80.80             Bisli101
+18  2690299007       3    6.72            Doritos29
+date: 2023-05-13
+payment_type: 3
+total_pay: 1610.69 NIS
+seller name: Harold Mitchell

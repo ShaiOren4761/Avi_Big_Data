@@ -1,0 +1,21 @@
+customer_name: William Corriveau
+customer name: William Corriveau
+productS:             id  amount   price             name
+0   5303816257      10   90.80          Bisli44
+1   5841405074       3   10.50        Doritos21
+2   7777758933       1    7.31          Bamba78
+3   9803573108       5  100.00   mozzarella_802
+4   5256326415      10  190.00          lahuh75
+5   6913485453       6   60.00         prezel94
+6   4002030823       1    4.59          Chips93
+7   8869158925       9  135.00         prezel32
+8   7669441721       3    6.69        Doritos44
+9   4595593965       8  112.72       Pringles61
+10  7688435434      10  230.00         milk_230
+11  8747910273       9   99.00          bread16
+12  1957150902       1    7.00            pie78
+13  6433147279       6   78.00  sweet_cream_653
+date: 2023-01-23
+payment_type: 2
+total_pay: 1131.6100000000001 NIS
+seller name: Margaret Mclaughlin

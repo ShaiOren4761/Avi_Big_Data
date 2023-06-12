@@ -1,0 +1,15 @@
+customer_name: Agnes Biondo
+customer name: Agnes Biondo
+productS:            id  amount   price              name
+0  6629425883       8  280.00  freedom_eggs_521
+1  4658881975      10   94.80           Bisli48
+2  4820659597       6  132.00          milk_303
+3  4037036019       3   45.00         prezel126
+4  9107244139       6  174.00   freedom_eggs_62
+5  2914366619       2   34.00        butter_274
+6  6236178652       9  261.00           coco_86
+7  3179936635       9  134.46        Pringles21
+date: 2023-03-17
+payment_type: 3
+total_pay: 1155.26 NIS
+seller name: Debra Pearson

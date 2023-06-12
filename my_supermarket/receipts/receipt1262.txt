@@ -1,0 +1,10 @@
+customer_name: Joseph Betts
+customer name: Joseph Betts
+productS:            id  amount  price       name
+0  8033178919       9  117.0      pita6
+1  7197645647       4   40.0   prezel98
+2  9219002647       1    6.0  cream_329
+date: 2023-05-23
+payment_type: 3
+total_pay: 163.0 NIS
+seller name: Renee Brammer

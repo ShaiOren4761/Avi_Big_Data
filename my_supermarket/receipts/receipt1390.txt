@@ -1,0 +1,11 @@
+customer_name: Scott Woodley
+customer name: Scott Woodley
+productS:            id  amount   price       name
+0  9336270689       6   78.00  milky_392
+1  4002030823       8   36.72    Chips93
+2  3028197875      10  150.00     cake14
+3  1361553835       2   16.38   Bisli103
+date: 2023-02-25
+payment_type: 3
+total_pay: 281.1 NIS
+seller name: Harold Mitchell

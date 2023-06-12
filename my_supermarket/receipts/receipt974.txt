@@ -1,0 +1,22 @@
+customer_name: Richard Campbell
+customer name: Richard Campbell
+productS:             id  amount   price            name
+0   5040508233       1   11.00         cake121
+1   4618116534       8   40.00         bread40
+2   9205194255       1    2.28         Bamba91
+3   8136048042       5   25.00  mozzarella_825
+4   8259175265       9  117.00      danone_567
+5   4602940748       4   13.68         Chips27
+6   6285966709       3   51.00         pizza21
+7   9700244844       5  145.00       carlo_606
+8   5268267624       2   36.00      burekas114
+9   7406763374       3   87.00        coco_768
+10  3134606320       9  225.00       carlo_172
+11  1164211935       9   45.00      danone_954
+12  5649239279       9  105.84        Apropo34
+13  1704223320      10  150.00      danone_828
+14  5162244505       7   84.00   goat_milk_538
+date: 2023-01-14
+payment_type: 0
+total_pay: 1137.8000000000002 NIS
+seller name: Calvin Manahan

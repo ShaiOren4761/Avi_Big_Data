@@ -1,0 +1,17 @@
+customer_name: William Hilson
+customer name: William Hilson
+productS:            id  amount   price                name
+0  7195646839       8   30.16           Doritos80
+1  2494120653       9  108.00           cream_201
+2  5757349106       8   88.00            milk_513
+3  8949321630       7  196.00  Napoleon_cheese_50
+4  8089948135       9  225.00    organic_eggs_219
+5  9553253185       2   12.00            dunats58
+6  3619996033       3   57.00            eggs_805
+7  5256326415       2   38.00             lahuh75
+8  5586977211       9  306.00   yellow_cheese_381
+9  5614825031      10  320.00    organic_eggs_145
+date: 2023-01-01
+payment_type: 2
+total_pay: 1380.1599999999999 NIS
+seller name: Margaret Mclaughlin

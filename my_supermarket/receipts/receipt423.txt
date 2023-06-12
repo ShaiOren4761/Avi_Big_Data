@@ -1,0 +1,15 @@
+customer_name: Matthew Willis
+customer name: Matthew Willis
+productS:            id  amount   price            name
+0  3756521895       2   10.00          hala87
+1  2400900521       4   26.52         Bamba21
+2  8810797379       1   11.96         Bamba98
+3  3066593031       2   15.80          Chips3
+4  4983586873       2   68.00        cream_59
+5  6383557822       6  150.00  sour_cream_245
+6  4939724717       4  132.00   goat_milk_938
+7  2665394526       2   20.00          pita92
+date: 2023-05-27
+payment_type: 3
+total_pay: 434.28 NIS
+seller name: Renee Brammer

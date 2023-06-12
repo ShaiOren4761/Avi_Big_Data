@@ -1,0 +1,13 @@
+customer_name: Gloria Baskin
+customer name: Gloria Baskin
+productS:            id  amount   price           name
+0  6098730056       6  120.00        bread25
+1  9621445959       4  104.00  goat_milk_586
+2  1525259785       8   40.00        lahuh64
+3  1641228787       7   49.00         hala36
+4  1766580728       3   18.24        Chips51
+5  8924429372       5   65.00         ziva84
+date: 2023-04-08
+payment_type: 0
+total_pay: 396.24 NIS
+seller name: Latasha Mace

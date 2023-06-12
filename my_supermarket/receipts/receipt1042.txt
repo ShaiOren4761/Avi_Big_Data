@@ -1,0 +1,23 @@
+customer_name: Brian Weissman
+customer name: Brian Weissman
+productS:             id  amount   price             name
+0   7987422271       3   66.00  almond_milk_320
+1   6271769728       1   15.00           cake54
+2   9520083839       7   74.34          Kefli74
+3   6285966709       6  102.00          pizza21
+4   3517063441       8   96.00          pizza76
+5   6617282738       9  198.00         yolo_747
+6   4554639108       9   45.00        milky_903
+7   4728775862      10  115.70       Pringles75
+8   7430661217       7   35.00          pizza31
+9   2477012555       2   16.00             pie4
+10   629551312       3   29.31          Bamba59
+11  2438706989       5   24.50        Doritos35
+12  9127106020       2   20.06          Chips48
+13  9466452957       8   56.40          Chips42
+14  9107244139       9  261.00  freedom_eggs_62
+15  4813826494       2   18.50          Bamba94
+date: 2023-04-11
+payment_type: 1
+total_pay: 1172.81 NIS
+seller name: Hobert Wimberly

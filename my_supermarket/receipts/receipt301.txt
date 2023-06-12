@@ -1,0 +1,25 @@
+customer_name: Sheila Schamber
+customer name: Sheila Schamber
+productS:             id  amount   price              name
+0    922689061       3   12.18           Bisli82
+1   3500757595       9  108.00          jahnon98
+2   9894939613      10  100.00             pie81
+3   5829732486       6   48.00             pie77
+4   6132994468      10  180.00            cake64
+5   8066679807       1   26.00  melted_cheese_32
+6   8132459564       8   24.64          Chitos14
+7   2556946318       3    5.58           Chips56
+8   5970254634       3   38.04         Doritos46
+9   8149097266       7  126.00            pizza2
+10  5158318608       7   94.99          Apropo56
+11  3437685530       7  231.00          eggs_722
+12  1370780372       6   74.40           Bisli84
+13  2360854822       5  140.00         butter_61
+14  5475477255      10  160.00          jahnon63
+15  1256500641       1   14.10           Bisli92
+16   164789150       4   25.80          Apropo33
+17  3578107083       4  136.00  organic_eggs_614
+date: 2023-04-07
+payment_type: 3
+total_pay: 1544.7299999999998 NIS
+seller name: Jennifer Roberts

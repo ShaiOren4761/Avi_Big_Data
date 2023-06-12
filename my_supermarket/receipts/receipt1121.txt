@@ -1,0 +1,25 @@
+customer_name: James Webster
+customer name: James Webster
+productS:             id  amount   price               name
+0   7091514077       9   61.83          Popcorn41
+1   9034802017       6   54.00      goat_milk_759
+2   7137576161       4   56.00           carlo_40
+3   7878537365       3   41.22           Chitos42
+4   4647988691       7  154.00         butter_948
+5   8488229050      10  180.00             lafa84
+6   6647405500       8   88.00           dunats32
+7   1828072930       7  182.00   freedom_eggs_926
+8   6451537533       3  102.00          cream_838
+9   6099185729       1   16.00           yolo_125
+10  4090957209       8   80.00             cake38
+11  4205383942       6   66.30           Apropo48
+12  7509258090       9  225.00     mozzarella_256
+13  8132274340       6   66.00          milky_922
+14  2693524936       5   58.75         Pringles98
+15  2739272402       3   45.00             lafa89
+16  5805333708       1   28.00  yellow_cheese_850
+17  8337651701       5   21.10            Bamba52
+date: 2023-04-25
+payment_type: 3
+total_pay: 1525.1999999999998 NIS
+seller name: Marie Natonabah

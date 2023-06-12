@@ -1,0 +1,23 @@
+customer_name: Amy Wade
+customer name: Amy Wade
+productS:             id  amount   price               name
+0   5158918133       3   19.35          Popcorn65
+1   7311331817       4    7.76          Popcorn94
+2   5201481390       6   60.00             hala41
+3   4864354379       1   21.00   freedom_eggs_118
+4   6516800392      10  250.00         danone_579
+5   4904827202       5   49.35            Bisli20
+6   1907398487       9  198.00   organic_eggs_127
+7   2991470508       1    7.00           bagget37
+8   7733328177       8   64.00      almond_milk_3
+9   2361525566       8  112.00          milky_192
+10  4664569490       3   30.00             hala88
+11  4595593965       2   28.18         Pringles61
+12  6247672416       2   60.00  melted_cheese_409
+13  1472205104       8  120.00           coco_779
+14  1592988925       5   29.20             Kefli3
+15  4013336724       7  189.00            milk_35
+date: 2023-03-03
+payment_type: 3
+total_pay: 1244.84 NIS
+seller name: Latasha Mace

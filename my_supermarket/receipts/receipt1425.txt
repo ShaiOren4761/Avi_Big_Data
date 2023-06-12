@@ -1,0 +1,25 @@
+customer_name: Jordan Fowler
+customer name: Jordan Fowler
+productS:             id  amount   price              name
+0   1677841571       3   24.78           Kefli97
+1   2432406542       7   77.00          yolo_921
+2   7687852018       1   20.00        danone_545
+3   6080046104      10   90.00          bagget69
+4   3802704082       7  140.00            pita82
+5   1036326015       8  256.00         milky_976
+6   1391976952       3   36.27           Chips12
+7   3650024987       9  117.00          pizza107
+8   1256500641       1   14.10           Bisli92
+9   2211262363       4   13.52           Chips52
+10  1140201910       9  162.00           lafa113
+11  5569191280       4   60.00         jahnon106
+12  8495247521       6   48.00           milky_1
+13    89900170       7   40.25           Bamba57
+14  2722643439       2   40.00           ziva119
+15  1282540331       6   66.00  freedom_eggs_919
+16  9430196639       4   18.92         Doritos96
+17  4937476280       2   50.00     goat_milk_517
+date: 2023-01-12
+payment_type: 0
+total_pay: 1273.8400000000001 NIS
+seller name: Jennifer Roberts

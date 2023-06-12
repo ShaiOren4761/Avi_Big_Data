@@ -1,0 +1,17 @@
+customer_name: Rafaela Johnston
+customer name: Rafaela Johnston
+productS:            id  amount   price               name
+0  4408467171       5   45.00            pizza16
+1  4728775862       3   34.71         Pringles75
+2  9405902825       4   32.00           lahuh103
+3  6639540099       8  112.00  melted_cheese_600
+4  5556139998       1    8.42          Pringles8
+5  8638366391      10  150.00            lahuh37
+6  7470546062       2   34.00          baklawa14
+7  1186321505       7   63.00             cake21
+8   326362918       3   20.55            Bamba72
+9  6406673582       4   25.08           Apropo30
+date: 2023-05-25
+payment_type: 2
+total_pay: 524.76 NIS
+seller name: Jennifer Roberts

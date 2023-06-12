@@ -1,0 +1,9 @@
+customer_name: Jack Loney
+customer name: Jack Loney
+productS:            id  amount  price      name
+0  3737633275       3   33.0  milk_665
+1  9962446517       7  133.0   ziva100
+date: 2023-01-15
+payment_type: 2
+total_pay: 166.0 NIS
+seller name: Debra Pearson

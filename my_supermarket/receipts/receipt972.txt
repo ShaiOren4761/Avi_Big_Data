@@ -1,0 +1,13 @@
+customer_name: Thomas Gaona
+customer name: Thomas Gaona
+productS:            id  amount   price       name
+0  4090957209       5   50.00     cake38
+1  5050469915      10   60.00   eggs_873
+2  9653744229       8  101.60     Kefli5
+3  3236010084       8   15.60  Doritos63
+4  4447937050       6   54.00    lahuh47
+5  4825554194       4   19.76  Popcorn64
+date: 2023-04-15
+payment_type: 1
+total_pay: 300.96 NIS
+seller name: Marie Natonabah

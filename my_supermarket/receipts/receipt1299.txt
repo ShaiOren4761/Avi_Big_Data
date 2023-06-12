@@ -1,0 +1,13 @@
+customer_name: Sandra Henrickson
+customer name: Sandra Henrickson
+productS:            id  amount   price              name
+0  6430007880       3   48.00  melted_cheese_83
+1  8206179143       1   10.06         Popcorn24
+2  5468645626       1    5.31           Bamba13
+3  4802705112       5   70.65            Chips5
+4  9535571722       1    5.00           pizza93
+5  7949385042      10  142.80        Pringles51
+date: 2023-02-05
+payment_type: 2
+total_pay: 281.82 NIS
+seller name: Kevin Goldberg

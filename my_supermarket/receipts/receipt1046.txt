@@ -1,0 +1,14 @@
+customer_name: Leonard Perry
+customer name: Leonard Perry
+productS:            id  amount   price              name
+0  7949385042       2   28.56        Pringles51
+1  8818071597       6   78.00  freedom_eggs_983
+2  9811701321       1   18.00           lahuh13
+3  1134679325       4   56.00         bagget109
+4  1841586885      10  350.00        butter_663
+5  9414611643       6   96.00   almond_milk_604
+6  7771555433       9  306.00          eggs_433
+date: 2023-02-28
+payment_type: 2
+total_pay: 932.56 NIS
+seller name: James Briggs

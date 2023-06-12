@@ -1,0 +1,21 @@
+customer_name: Jocelyn Mcculough
+customer name: Jocelyn Mcculough
+productS:             id  amount   price                 name
+0   5432886345       8  216.00    melted_cheese_986
+1   7944577583       8   80.00     swiss_cheese_206
+2   5130384166       4   96.00            milky_453
+3   3679901541       8   88.00               hala82
+4   6648558613       8  144.00             lahuh113
+5   9144063279       4    4.56           Pringles31
+6    629551312       2   19.54              Bamba59
+7   9637074245       6  114.00              prezel1
+8   3234429088       6  102.00               hala10
+9   6899468663       8  232.00           butter_224
+10  9277558358       8  128.00            carlo_601
+11  6646722158       9  144.00  Napoleon_cheese_363
+12  5366179129      10   37.60             Chitos16
+13  9078119206      10   85.10              Chips76
+date: 2023-04-02
+payment_type: 1
+total_pay: 1490.7999999999997 NIS
+seller name: Marie Natonabah

@@ -1,0 +1,9 @@
+customer_name: William Spady
+customer name: William Spady
+productS:            id  amount  price            name
+0  9608887219       9  180.0  sour_cream_978
+1  3581688547       8   56.0         bagget1
+date: 2023-05-09
+payment_type: 3
+total_pay: 236.0 NIS
+seller name: Latasha Mace

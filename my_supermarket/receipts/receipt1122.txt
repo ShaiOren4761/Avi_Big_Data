@@ -1,0 +1,20 @@
+customer_name: Alex Hoskins
+customer name: Alex Hoskins
+productS:             id  amount   price                 name
+0   4382270329       9  135.00               cake80
+1   1001223381       2   14.00     organic_eggs_126
+2   2487428167       5  160.00  Napoleon_cheese_895
+3   5611189375       2   54.00  Napoleon_cheese_627
+4   6693710853       8   56.00      almond_milk_170
+5   3598428134      10  150.00            baklawa71
+6   5954974120       9   90.18            Doritos50
+7   7091514077       6   41.22            Popcorn41
+8     11005776       4   44.64              Kefli76
+9   7110360678       4   64.00    yellow_cheese_488
+10  7698792231       6   66.36            Popcorn70
+11  9619085841       6   84.00               pizza1
+12  8767413918       4   32.00               hala54
+date: 2023-03-02
+payment_type: 0
+total_pay: 991.4 NIS
+seller name: Karen Salazar

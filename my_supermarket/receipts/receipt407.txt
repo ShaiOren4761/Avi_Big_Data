@@ -1,0 +1,20 @@
+customer_name: Richard Hacker
+customer name: Richard Hacker
+productS:             id  amount   price            name
+0   7142817758       9  171.00        milky_95
+1   3028206084       5  145.00        yolo_319
+2   6537482266       7  133.00        cookie96
+3   6688905897       2   11.00        Chitos70
+4   6247951073       1    1.62         Kefli84
+5   8872853252       9   54.00         lahuh90
+6   9152338043       9   54.00       Doritos82
+7   7091514077       7   48.09       Popcorn41
+8   7198681233       4   40.00       jahnon102
+9   8549053258       5   38.75        Apropo52
+10  7234749736       4   36.00  sour_cream_930
+11  1957150902       8   56.00           pie78
+12  9109643970       6   66.00        bread108
+date: 2023-02-17
+payment_type: 1
+total_pay: 854.46 NIS
+seller name: Gary Hudson

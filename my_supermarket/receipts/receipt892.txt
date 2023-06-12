@@ -1,0 +1,14 @@
+customer_name: Michael Littlewood
+customer name: Michael Littlewood
+productS:            id  amount   price                 name
+0  3182656010       1    3.38              Kefli15
+1  4610905587       9  198.00           danone_580
+2  8710782035       3   28.80             Chitos66
+3  8080753862       1   15.00              bread10
+4  6562818466       5   55.00  Napoleon_cheese_810
+5  2137174922       7  140.00             bagget34
+6  5204257446       6   72.00            carlo_633
+date: 2023-03-04
+payment_type: 2
+total_pay: 512.1800000000001 NIS
+seller name: Latasha Mace

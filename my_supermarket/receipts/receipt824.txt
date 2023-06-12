@@ -1,0 +1,12 @@
+customer_name: Theresa Lowe
+customer name: Theresa Lowe
+productS:            id  amount  price      name
+0  1007104476       8  50.80  Chitos31
+1  4084017914       3  60.00   pizza82
+2  3909794159       1   3.74   Chips47
+3  1876741966       6  78.00     cake6
+4  9172103534       3  14.34   Kefli82
+date: 2023-04-07
+payment_type: 0
+total_pay: 206.88 NIS
+seller name: Maria Barnett

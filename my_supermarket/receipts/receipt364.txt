@@ -1,0 +1,23 @@
+customer_name: Steve Duncan
+customer name: Steve Duncan
+productS:             id  amount   price               name
+0    259200784       4   50.64            Bisli43
+1   8089100411       1    5.96          Apropo109
+2   1535164453       6   65.76            Kefli28
+3   2693524936       5   58.75         Pringles98
+4   4890604804      10  160.00  melted_cheese_146
+5   8134172977       6   34.50          Doritos26
+6   8264045578       2   26.00           jahnon84
+7   8973369656      10  100.00   swiss_cheese_225
+8   9738649346      10   90.00           milk_881
+9   9571188926       3   63.00          cream_144
+10  5448066148       3   38.64            Kefli73
+11  9331128732       3   51.00            bread86
+12  7002149324       1   28.00       goat_milk_31
+13   460672439       4   18.48             Chips0
+14   259200784       3   37.98            Bisli43
+15  6689691915       6   36.00             lahuh7
+date: 2023-01-20
+payment_type: 0
+total_pay: 864.71 NIS
+seller name: Roberta Lewis

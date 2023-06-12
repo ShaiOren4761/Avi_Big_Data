@@ -1,0 +1,25 @@
+customer_name: Cynthia Ayres
+customer name: Cynthia Ayres
+productS:             id  amount   price                 name
+0   1532916451       7   63.00           baklawa109
+1   7458172393       3   15.39             Chitos18
+2   2904169114       1    8.55             Popcorn1
+3   6518306191       8  120.00              lafa129
+4   3010500337       7  182.00           butter_989
+5   2213725065       7   91.00              bread94
+6   2853965541       4   27.40              Bisli15
+7   2905528585       3   60.00             prezel38
+8   9656433780       1   14.00           baklawa128
+9   7293801939      10  180.00               pita37
+10  1421807099       5   44.50            Popcorn39
+11  1235203535       9  144.00               hala64
+12  3624235443       6  114.00            cream_447
+13  2328994516       9   63.00  Napoleon_cheese_610
+14  6336132061       8   65.76              Chips81
+15  5570192467       1    6.63              Bisli27
+16  8924429372       3   39.00               ziva84
+17  1268915376       7   62.58              Chips63
+date: 2023-04-20
+payment_type: 1
+total_pay: 1300.81 NIS
+seller name: Edna Collins

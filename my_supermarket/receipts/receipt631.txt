@@ -1,0 +1,23 @@
+customer_name: Cynthia Perry
+customer name: Cynthia Perry
+productS:             id  amount  price        name
+0   9773630221      10  45.80    Apropo83
+1   6346027854       8  83.68    Chips106
+2   9157852313       4  80.00    coco_730
+3   1336259815       8  72.72   Doritos66
+4   3228334563       5  95.00     bread70
+5   2435499459       2  15.62     Bamba22
+6   6346714677       5  30.00    eggs_357
+7   6045791910       7  35.00      ziva46
+8   1063608998       2  54.00  butter_871
+9   1766580728       3  18.24     Chips51
+10  9524222058       8  37.28     Kefli85
+11  7234416649       4  53.12     Chitos6
+12  6038711946       1  12.00    prezel93
+13  5860062530       5  45.00   cookie100
+14  7359376015       7  91.00      hala61
+15  2339625165       5  70.15   Popcorn33
+date: 2023-02-06
+payment_type: 0
+total_pay: 838.61 NIS
+seller name: Ann Hutchens

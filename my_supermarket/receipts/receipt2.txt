@@ -1,0 +1,27 @@
+customer_name: Donna Ebert
+customer name: Donna Ebert
+productS:             id  amount   price               name
+0   4137018925       5   80.00      goat_milk_975
+1   8592069146      10  340.00      goat_milk_497
+2   6185641664       7   56.00          baklawa89
+3   8842002067       6  174.00  melted_cheese_754
+4   1124282438       9   88.47            Bisli36
+5   2204368721       6   74.46            Kefli58
+6   6843284895       6   96.00           prezel96
+7   7359376015       2   26.00             hala61
+8   5410447157      10  150.00             pita20
+9   7822944780      10  105.10            Bisli95
+10  9894939613       9   90.00              pie81
+11  2847699985       9   81.00          baklawa49
+12  6768290091       4    8.76            Chitos5
+13  4205383942       1   11.05           Apropo48
+14  4058952238       7   75.81         Pringles79
+15  3269915391       3   51.00           pizza108
+16  9316835841      10   61.40         Pringles41
+17  4425595497       1   13.26          Popcorn57
+18  6796826274       8  104.00           eggs_493
+19  3489324048       5   85.00              pie18
+date: 2023-04-02
+payment_type: 2
+total_pay: 1771.31 NIS
+seller name: Marie Natonabah

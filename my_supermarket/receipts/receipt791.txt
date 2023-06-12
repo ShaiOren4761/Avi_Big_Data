@@ -1,0 +1,26 @@
+customer_name: Robert Grieb
+customer name: Robert Grieb
+productS:             id  amount   price               name
+0   1880696888       4   68.00     sour_cream_254
+1   3206726695       5  170.00  melted_cheese_752
+2   8221029655      10   60.00           burekas3
+3   5828923614       6  144.00          cream_169
+4    584949926       7   81.41          Doritos49
+5   9593397002       8  224.00          carlo_927
+6   7524099509       9  102.96         Pringles65
+7   7958609756       7  189.00         butter_648
+8   2381124529       8   12.48         Pringles49
+9   2034725218       5  150.00     sour_cream_690
+10  2059334179       5   30.35           Chitos33
+11  4917133472       9   81.00           bagget56
+12  3716667614       7  224.00       goat_milk_69
+13  5958925871      10  180.00           cookie84
+14  6996730348       1    5.95           Chitos15
+15  6180330833       2   18.00     sour_cream_628
+16  1572770551       4    8.48            Bisli88
+17  8549053258       7   54.25           Apropo52
+18  7023102480       6   74.22            Bisli45
+date: 2023-02-18
+payment_type: 2
+total_pay: 1878.1 NIS
+seller name: Donald Dawson

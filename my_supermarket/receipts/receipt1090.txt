@@ -1,0 +1,13 @@
+customer_name: Shirley Tuttle
+customer name: Shirley Tuttle
+productS:            id  amount   price       name
+0  1935731218       1    8.10    Bisli25
+1  5158918133       8   51.60  Popcorn65
+2  9752569972       3   29.10   Popcorn4
+3  6132994468      10  180.00     cake64
+4  7057301556       5   57.00    Bisli41
+5   351767791       7   59.08    Bisli93
+date: 2023-01-19
+payment_type: 0
+total_pay: 384.88 NIS
+seller name: Calvin Manahan

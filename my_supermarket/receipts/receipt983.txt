@@ -1,0 +1,25 @@
+customer_name: Chantal Villarreal
+customer name: Chantal Villarreal
+productS:             id  amount   price                 name
+0   4064018847       8   96.00             bread118
+1   7195646839       4   15.08            Doritos80
+2   9719100235       1   13.42              Chitos2
+3   5656267851       1   12.21             Popcorn9
+4   8083442721       6  114.00           danone_415
+5    942428879       1    1.89             Chitos47
+6   7165750776       4   80.00  Napoleon_cheese_597
+7    746906274       4   38.80           Pringles94
+8   5972674016       1   23.00            milky_786
+9   9937564411      10   70.00              bagget7
+10  2253671177       7  161.00             eggs_820
+11  9582119892       1   10.00             bagget84
+12  7787901454       8  264.00  Napoleon_cheese_140
+13  3842613896       6   69.90            Doritos61
+14  3791691625       3   21.00               cake22
+15  1722468656       5  170.00            cream_394
+16  4365311404       9   81.00              cake106
+17  8619156307       6   72.00             bagget43
+date: 2023-02-01
+payment_type: 1
+total_pay: 1313.3000000000002 NIS
+seller name: Debra Pearson

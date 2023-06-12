@@ -1,0 +1,8 @@
+customer_name: Helen Cunanan
+customer name: Helen Cunanan
+productS:            id  amount  price       name
+0  7914612327       1   2.86  Popcorn34
+date: 2023-04-28
+payment_type: 3
+total_pay: 2.86 NIS
+seller name: Lillian Dolan

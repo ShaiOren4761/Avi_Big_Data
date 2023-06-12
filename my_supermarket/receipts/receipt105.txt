@@ -1,0 +1,22 @@
+customer_name: Christina Andrade
+customer name: Christina Andrade
+productS:             id  amount   price                 name
+0   3707009974       7   56.00      sweet_cream_455
+1   1286076301       5   26.15            Doritos99
+2   5611189375       2   54.00  Napoleon_cheese_627
+3   2337054084       6   60.00      organic_eggs_63
+4   6321717493       5   25.70            Doritos55
+5   5996941271       6   48.00               ziva64
+6   7458172393       2   10.26             Chitos18
+7   8777872859       1   29.00             yolo_733
+8   2887000834       7   54.11            Doritos37
+9   3488189928       8   79.36             Apropo32
+10  3443220274       9   54.00             pizza115
+11  7509258090       5  125.00       mozzarella_256
+12  9681559084       3   14.16              Bisli50
+13  5000405727       4   68.00            prezel110
+14  8663836737       8   52.08             Chips109
+date: 2023-03-01
+payment_type: 1
+total_pay: 755.82 NIS
+seller name: Donald Dawson

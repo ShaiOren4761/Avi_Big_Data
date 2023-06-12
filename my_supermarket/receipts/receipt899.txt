@@ -1,0 +1,17 @@
+customer_name: Debra Vanblarcom
+customer name: Debra Vanblarcom
+productS:            id  amount   price       name
+0  2371009115       8   28.24    Chips61
+1  4237118734       2   18.54    Chips62
+2  8919244457       3   33.00     hala35
+3  7211068631       9   77.58  Doritos15
+4  9655758473      10  170.00     cake58
+5  6689691915      10   60.00     lahuh7
+6  2664876455       1    7.00     lafa73
+7  2976107493       8  136.00  carlo_243
+8  1897191034       7  105.00   cookie22
+9  3596743165       5   90.00  milky_832
+date: 2023-01-21
+payment_type: 2
+total_pay: 725.36 NIS
+seller name: Gary Hudson

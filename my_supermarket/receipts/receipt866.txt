@@ -1,0 +1,20 @@
+customer_name: Peggy Roberts
+customer name: Peggy Roberts
+productS:             id  amount   price              name
+0   2312999978       8   64.00            lafa22
+1   6577246145       6  102.00            ziva41
+2   8952910504       1    1.57         Pringles0
+3   2570334162       6   36.00  swiss_cheese_959
+4   3990018758       7   11.27           Chips80
+5   9937186615       9  171.00         cream_106
+6   5643737214       5   71.75           Bamba23
+7   7775939481       7   35.00        butter_316
+8   8531924378       4   44.08           Kefli92
+9    115817300       1   11.46           Apropo6
+10  6273766830       9   42.93         Doritos47
+11   746906274       5   48.50        Pringles94
+12  6720135342       2   64.00    mozzarella_511
+date: 2023-04-09
+payment_type: 3
+total_pay: 703.5600000000001 NIS
+seller name: Marie Natonabah

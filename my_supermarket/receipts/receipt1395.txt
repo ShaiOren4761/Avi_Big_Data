@@ -1,0 +1,23 @@
+customer_name: Luis Yentsch
+customer name: Luis Yentsch
+productS:             id  amount   price              name
+0   1694118809       2   27.46          Apropo43
+1   2059569885       1   12.19           Bamba20
+2   9007518868       3   21.00            hala31
+3   2912876054       1   13.71         Doritos18
+4   6392530513       8   82.56         Popcorn36
+5   4031129353      10   54.40           Chips94
+6   1387493234       3   90.00          coco_872
+7   7409256592       4   53.72         Popcorn72
+8   8056680284       4  120.00          milky_12
+9   6194323600       4   88.00         milky_198
+10  1704744494       6  102.00          prezel28
+11  3578107083       8  272.00  organic_eggs_614
+12  8152386501       9   63.00           ziva115
+13  1689700368       2   36.00        butter_751
+14  9689010272       9   63.00         milky_621
+15  8560504323       5   56.10        Pringles20
+date: 2023-03-01
+payment_type: 3
+total_pay: 1155.1399999999999 NIS
+seller name: Margaret Mclaughlin

@@ -1,0 +1,25 @@
+customer_name: William Hilson
+customer name: William Hilson
+productS:             id  amount   price               name
+0   3277164675       9  198.00           coco_910
+1   7952740321       6   37.80            Bisli11
+2   8919244457       4   44.00             hala35
+3   4014691943       4  112.00         danone_594
+4   3801007810       9  252.00          milky_150
+5   6871192773      10  190.00           yolo_647
+6   1048883950       1    8.00              pie37
+7   6213216289       5  175.00           coco_915
+8    573251583       7   48.51         Pringles99
+9   9297630990       6  192.00           yolo_944
+10  7278222533       7   49.00              pie64
+11  4939724717       5  165.00      goat_milk_938
+12  3989026102       7  217.00           coco_203
+13  1492861839       2   11.08         Pringles96
+14  9582119892       4   40.00           bagget84
+15  4876247716       1   14.00      goat_milk_753
+16  5725567251       5  105.00           cream_16
+17  9993958786      10  220.00  melted_cheese_193
+date: 2023-01-01
+payment_type: 1
+total_pay: 2078.39 NIS
+seller name: Gary Hudson

@@ -1,0 +1,25 @@
+customer_name: Amy Miller
+customer name: Amy Miller
+productS:             id  amount   price              name
+0   8547712538       3   81.00   sweet_cream_281
+1   1039632254       2   38.00           cookie6
+2   2329926122       4   96.00         milky_202
+3   5786311035       5   50.00            hala95
+4   4849831320       5   22.25           Bamba73
+5   3907285832       9   81.00  organic_eggs_479
+6   2280035986       1   16.00        baklawa101
+7   7905092334       8   90.08         Doritos22
+8   2177277294       7  203.00          yolo_710
+9   7421320348      10   90.00  freedom_eggs_307
+10  6683148162       8   37.44        Popcorn106
+11  3375423706       7  245.00         cream_318
+12  8374780022      10   96.70          Chips103
+13  2840390615       4   80.00            cake32
+14  3026394770       6   84.90         Doritos23
+15  3346260313       6   83.28        Pringles82
+16  3347104847       8  128.00     goat_milk_829
+17  3658018501       1   10.00            cake60
+date: 2023-04-05
+payment_type: 1
+total_pay: 1532.65 NIS
+seller name: Renee Brammer

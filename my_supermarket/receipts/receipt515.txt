@@ -1,0 +1,8 @@
+customer_name: Mary Perez
+customer name: Mary Perez
+productS:            id  amount  price    name
+0  8542592736       3   27.0  hala38
+date: 2023-04-09
+payment_type: 0
+total_pay: 27.0 NIS
+seller name: Victoria Hansen

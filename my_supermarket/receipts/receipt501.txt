@@ -1,0 +1,11 @@
+customer_name: Brenda Lankford
+customer name: Brenda Lankford
+productS:            id  amount  price               name
+0  5766312840      10  300.0      goat_milk_684
+1  6591206693       2   30.0           milk_945
+2  8918075819       8  216.0  melted_cheese_548
+3  8111822563      10  140.0             hala19
+date: 2023-03-12
+payment_type: 2
+total_pay: 686.0 NIS
+seller name: Lillian Dolan

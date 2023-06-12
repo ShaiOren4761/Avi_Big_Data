@@ -1,0 +1,23 @@
+customer_name: Vincent Johnson
+customer name: Vincent Johnson
+productS:             id  amount   price               name
+0   2689183677       5  100.00             pita64
+1   4673789046       4   64.00            pizza49
+2   5916624078       4   52.00             cake83
+3   3867965938       5  150.00          danone_74
+4   6249891642      10   49.80          Popcorn77
+5   1205004788       2   52.00     sour_cream_837
+6   1882836449       9   62.91            Kefli70
+7   7253780030       9   78.39           Apropo96
+8   5228617410       3   16.02            Bamba54
+9   1468087028       4   76.00         baklawa117
+10  5268267624      10  180.00         burekas114
+11   629551312       5   48.85            Bamba59
+12  1670998951       1   13.91            Bamba49
+13  9287189828       8  208.00  melted_cheese_291
+14  7762335215       2   34.00           lahuh111
+15  9287189828       9  234.00  melted_cheese_291
+date: 2023-04-04
+payment_type: 2
+total_pay: 1419.88 NIS
+seller name: Gary Hudson

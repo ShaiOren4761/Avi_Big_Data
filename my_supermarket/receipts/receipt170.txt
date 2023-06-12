@@ -1,0 +1,16 @@
+customer_name: Lynette Harrison
+customer name: Lynette Harrison
+productS:            id  amount   price            name
+0  2690299007       9   20.16       Doritos29
+1  2884440608       8   25.68       Doritos65
+2  3147465906       6  198.00      danone_408
+3  3989026102      10  310.00        coco_203
+4  8082961165      10   80.00         eggs_53
+5  5295620818       5   66.70        Bisli109
+6  4361142315       7  133.00  mozzarella_530
+7  7216364706       9   54.00           pie46
+8  1938148235       3   39.00        cookie48
+date: 2023-01-24
+payment_type: 1
+total_pay: 926.5400000000001 NIS
+seller name: Marie Natonabah

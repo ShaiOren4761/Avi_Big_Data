@@ -1,0 +1,20 @@
+customer_name: Eva Chamberlain
+customer name: Eva Chamberlain
+productS:             id  amount   price        name
+0   5457953261       5   49.80    Apropo45
+1    528761576       6   14.34    Chitos54
+2   8488229050       9  162.00      lafa84
+3   3091791439       1   10.06  Pringles13
+4   1784890348       6   48.00   milky_706
+5   6564984120      10   60.00   cream_844
+6   9271334447       6   80.52   Popcorn43
+7   9485362329       7  119.00    jahnon20
+8   9123725436       5   39.50    Apropo57
+9   4589519577       2   19.28    Popcorn3
+10   351767791       5   42.20     Bisli93
+11  3581688547       2   14.00     bagget1
+12  4325135446       3    7.41    Chitos34
+date: 2023-04-18
+payment_type: 0
+total_pay: 666.11 NIS
+seller name: Marie Natonabah

@@ -1,0 +1,17 @@
+customer_name: Brenda Lankford
+customer name: Brenda Lankford
+productS:            id  amount   price               name
+0  3228109340      10  320.00     mozzarella_509
+1  4019887150       8   96.00            lahuh28
+2  9783880731       6   48.00             cake72
+3  6768290091       5   10.95            Chitos5
+4    71270289       8   41.20            Chips10
+5  1376842029       3   36.00           dunats74
+6  3042531267       8  104.00            pizza41
+7  2605775354       4   24.00  melted_cheese_191
+8  1532887885       4   76.00             ziva54
+9  8072443628       1   13.37         Pringles18
+date: 2023-02-11
+payment_type: 3
+total_pay: 769.52 NIS
+seller name: Debra Pearson

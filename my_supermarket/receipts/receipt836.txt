@@ -1,0 +1,26 @@
+customer_name: Keith Crumb
+customer name: Keith Crumb
+productS:             id  amount   price               name
+0   2033078637       7   11.06        Pringles102
+1   3437685530      10  330.00           eggs_722
+2   2305590984       8   48.00    almond_milk_122
+3   8823433575       2   54.00      goat_milk_721
+4   3803863592       9   58.41           Chitos99
+5   2499090485       6   66.00           carlo_17
+6   9315198715       7   31.29            Bisli99
+7   5585620342      10   62.60            Bisli94
+8   4829982038      10  320.00     mozzarella_929
+9   7257792576       4    6.24            Chips65
+10  4137018925       4   64.00      goat_milk_975
+11  4635028516       6  114.00   organic_eggs_398
+12  2107595825      10  118.90           Apropo55
+13  6691628206       9   59.31           Apropo51
+14  7406763374       8  232.00           coco_768
+15  4238431067       1    5.59            Bisli76
+16  5682444771       9   63.00   freedom_eggs_842
+17  3368914102       3   54.00  melted_cheese_491
+18  4237958087       7   91.00             ziva88
+date: 2023-03-14
+payment_type: 2
+total_pay: 1789.3999999999999 NIS
+seller name: Calvin Manahan

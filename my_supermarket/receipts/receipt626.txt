@@ -1,0 +1,19 @@
+customer_name: Shane Tillery
+customer name: Shane Tillery
+productS:             id  amount   price            name
+0   4855857750       8  152.00       burekas85
+1   5619542781       3   38.91         Bisli65
+2   6045791910       9   45.00          ziva46
+3   1235203535       9  144.00          hala64
+4   4602058305       8  208.00       milky_595
+5   5500736553       6  186.00  mozzarella_551
+6     11005776       8   89.28         Kefli76
+7   9181433540       1    5.00        cookie69
+8   3412469005       7   90.72      Pringles40
+9   7311331817       2    3.88       Popcorn94
+10  8056680284      10  300.00        milky_12
+11  2574420830       3   20.55         Chips78
+date: 2023-01-10
+payment_type: 1
+total_pay: 1283.34 NIS
+seller name: Lillian Dolan

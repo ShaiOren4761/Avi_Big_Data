@@ -1,0 +1,22 @@
+customer_name: Jennifer Peterson
+customer name: Jennifer Peterson
+productS:             id  amount   price               name
+0   9331128732       2   34.00            bread86
+1   3228334563       3   57.00            bread70
+2   7558730191       3   45.00            pizza73
+3   8134299553       6   96.00          baklawa82
+4   1370780372      10  124.00            Bisli84
+5   2133973391       1    5.00             lafa61
+6   1754437141       6  132.00    almond_milk_745
+7   4216016676       1   29.00     mozzarella_199
+8   5715320344       6  114.00   organic_eggs_750
+9   7762335215       1   17.00           lahuh111
+10  4480910552       7  140.00           dunats98
+11  5592520586       3   75.00  melted_cheese_226
+12  7470546062       2   34.00          baklawa14
+13  6273766830       7   33.39          Doritos47
+14   259200784       7   88.62            Bisli43
+date: 2023-02-11
+payment_type: 3
+total_pay: 1024.01 NIS
+seller name: Donald Dawson

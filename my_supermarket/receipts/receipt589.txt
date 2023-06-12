@@ -1,0 +1,21 @@
+customer_name: Kelly Perkins
+customer name: Kelly Perkins
+productS:             id  amount   price                 name
+0   2677214581       3   54.00     swiss_cheese_279
+1   5489229213       1   19.00            milky_914
+2   1376842029       8   96.00             dunats74
+3   9157920855      10  310.00             coco_356
+4   1171308362       3   32.49             Apropo62
+5   9689010272      10   70.00            milky_621
+6   4933377541       2   25.66              Kefli53
+7   8467002596       2   70.00     swiss_cheese_847
+8   6562818466       1   11.00  Napoleon_cheese_810
+9   7935269504       8  106.08            Popcorn40
+10  6386429486       2   68.00             yolo_612
+11  7069014748       6   66.60            Pringles3
+12  2991470508       8   56.00             bagget37
+13  5149780229       2   12.00             dunats13
+date: 2023-04-01
+payment_type: 3
+total_pay: 996.83 NIS
+seller name: Kevin Goldberg

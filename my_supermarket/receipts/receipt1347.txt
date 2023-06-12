@@ -1,0 +1,16 @@
+customer_name: Sara Smith
+customer name: Sara Smith
+productS:            id  amount   price         name
+0  5065905057       4   36.00    jahnon112
+1  8263940839       8   47.92     Chitos30
+2  2373790322      10   94.90    Popcorn90
+3  6210018468       5   35.00        pie89
+4  2914366619       3   51.00   butter_274
+5  7255316406       5   65.00   danone_276
+6  8005803993       2   14.00       pie104
+7  2791798877       9  103.86  Pringles106
+8  5940529682       8  103.36      Bisli81
+date: 2023-03-09
+payment_type: 2
+total_pay: 551.04 NIS
+seller name: Maria Barnett

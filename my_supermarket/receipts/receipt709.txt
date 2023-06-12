@@ -1,0 +1,25 @@
+customer_name: Keith Hogan
+customer name: Keith Hogan
+productS:             id  amount   price                 name
+0   6089881891       8   64.00    yellow_cheese_860
+1   5656681747       5   71.35           Pringles46
+2   8264045578       4   52.00             jahnon84
+3   9106680745       4   44.76           Pringles67
+4   2432406542       1   11.00             yolo_921
+5   1465135792       6  120.00  Napoleon_cheese_151
+6   4249659579       8  114.00             Bamba108
+7   1893166475       8   40.00           danone_761
+8   6562818466       2   22.00  Napoleon_cheese_810
+9   6462390831       5   39.30              Kefli66
+10  2408420254       8  103.20            Popcorn31
+11  1900843478      10  160.00       sour_cream_304
+12   259200784       1   12.66              Bisli43
+13  3360759680       7   54.04           Doritos105
+14  7806183310       6   66.00              lafa101
+15  8542592736       5   45.00               hala38
+16  3388045895       7   88.62             Chitos12
+17   164789150       7   45.15             Apropo33
+date: 2023-01-31
+payment_type: 0
+total_pay: 1153.08 NIS
+seller name: Debra Pearson

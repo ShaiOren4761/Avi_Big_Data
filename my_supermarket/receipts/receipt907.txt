@@ -1,0 +1,11 @@
+customer_name: Jesus Morrison
+customer name: Jesus Morrison
+productS:            id  amount   price             name
+0  5158918133       9   58.05        Popcorn65
+1  4602940748       3   10.26          Chips27
+2  5493928801       9  189.00  almond_milk_158
+3  6459364043       2   14.00         coco_863
+date: 2023-02-15
+payment_type: 0
+total_pay: 271.31 NIS
+seller name: Ann Hutchens

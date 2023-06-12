@@ -1,0 +1,13 @@
+customer_name: Robert Slaton
+customer name: Robert Slaton
+productS:            id  amount   price                 name
+0  4447447283       8  168.00  Napoleon_cheese_775
+1  8893627979       7  182.00     swiss_cheese_481
+2  6820171813       3   41.76              Bisli86
+3  3147370279       8   45.68           Pringles84
+4  2929399599       7  119.00     freedom_eggs_758
+5  9520083839       2   21.24              Kefli74
+date: 2023-04-08
+payment_type: 3
+total_pay: 577.6800000000001 NIS
+seller name: James Briggs

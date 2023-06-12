@@ -1,0 +1,19 @@
+customer_name: Karen Doward
+customer name: Karen Doward
+productS:             id  amount   price              name
+0   5052171723       7   86.59          Apropo68
+1   7927554268       8   88.00            lafa26
+2   4575974214       1    7.00         carlo_553
+3   6697639307      10  100.00          coco_762
+4   7822256089       1   29.00  freedom_eggs_417
+5   3494705008       1    8.00   swiss_cheese_90
+6   6367879085       1   35.00    mozzarella_338
+7   7665903977       9   45.00         burekas98
+8   4031129353       2   10.88           Chips94
+9   5880031329       7   77.00            ziva53
+10  8344407313       8   64.00           bagget2
+11  1813515064       8  112.00  organic_eggs_892
+date: 2023-02-14
+payment_type: 3
+total_pay: 662.47 NIS
+seller name: Margaret Mclaughlin

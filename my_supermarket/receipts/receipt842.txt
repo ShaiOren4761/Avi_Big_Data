@@ -1,0 +1,26 @@
+customer_name: Donna Mcculough
+customer name: Donna Mcculough
+productS:             id  amount   price                 name
+0   5585678335       6  210.00            carlo_136
+1   7458172393       7   35.91             Chitos18
+2   7138233209       9   92.88             Chitos89
+3   9768117593       2   38.00  Napoleon_cheese_814
+4   7362098225       9   54.00            dunats107
+5   4746444083       9   72.00             bagget77
+6   5600097503       9  225.00             yolo_993
+7   2176397388       8   51.52            Doritos97
+8   6953664656       2   32.00     melted_cheese_29
+9   9635709334       7  119.00            cookie128
+10  4939724717       5  165.00        goat_milk_938
+11  6191048986       3   38.04              Kefli13
+12  4049469565       8  280.00            cream_520
+13  7514617364       7   91.00              hala104
+14  4988246603      10   47.60            Doritos79
+15  2404373360       8   26.40           Pringles28
+16  7371422605       9  171.00      almond_milk_264
+17  6518306191       4   60.00              lafa129
+18  2360854822       6  168.00            butter_61
+date: 2023-03-04
+payment_type: 2
+total_pay: 1977.35 NIS
+seller name: Edna Collins

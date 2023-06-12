@@ -1,0 +1,12 @@
+customer_name: Mandie Curran
+customer name: Mandie Curran
+productS:            id  amount  price                 name
+0  9851982261      10  320.0            cream_902
+1  7335013978       5  115.0            milky_129
+2  2688996055       1   13.0            baklawa91
+3  9321789214       2    4.4            Doritos86
+4  6513038711       7  210.0  Napoleon_cheese_547
+date: 2023-02-02
+payment_type: 2
+total_pay: 662.4 NIS
+seller name: Victoria Hansen

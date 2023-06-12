@@ -1,0 +1,10 @@
+customer_name: Steven Glenn
+customer name: Steven Glenn
+productS:            id  amount  price     name
+0  9691423370       2  14.22  Bamba86
+1  4487044092       5  37.50  Bamba43
+2  4884641399       5  95.00  hala127
+date: 2023-01-17
+payment_type: 0
+total_pay: 146.72 NIS
+seller name: Debra Pearson

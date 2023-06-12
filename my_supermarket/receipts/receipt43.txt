@@ -1,0 +1,8 @@
+customer_name: Maria Eoff
+customer name: Maria Eoff
+productS:           id  amount   price     name
+0  542193105       9  126.45  Kefli63
+date: 2023-04-01
+payment_type: 1
+total_pay: 126.45 NIS
+seller name: Lillian Dolan

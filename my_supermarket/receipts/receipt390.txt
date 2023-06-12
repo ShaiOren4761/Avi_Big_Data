@@ -1,0 +1,17 @@
+customer_name: Herman Heath
+customer name: Herman Heath
+productS:            id  amount   price              name
+0  7291950679       3   27.00          prezel30
+1  8712532837       3   63.00         milky_712
+2  1813515064       6   84.00  organic_eggs_892
+3  1001909905      10  190.00           bread95
+4  4917133472       2   18.00          bagget56
+5  7080925202       2   36.00          cream_92
+6  6954325156       9  113.85        Pringles32
+7  9843899114       9  126.00         milky_339
+8  9264219126       2   23.52            Bisli1
+9  6162064724       9  126.00           pizza68
+date: 2023-05-07
+payment_type: 1
+total_pay: 807.37 NIS
+seller name: Lillian Dolan

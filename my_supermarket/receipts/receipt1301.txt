@@ -1,0 +1,11 @@
+customer_name: Diane Shepherd
+customer name: Diane Shepherd
+productS:            id  amount  price              name
+0  8663836737       4  26.04          Chips109
+1    27374486       3  20.40        Pringles89
+2  8480431121       6  54.00     sour_cream_55
+3  6123663072       1  35.00  organic_eggs_636
+date: 2023-03-14
+payment_type: 2
+total_pay: 135.44 NIS
+seller name: Jennifer Roberts

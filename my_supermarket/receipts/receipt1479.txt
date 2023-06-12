@@ -1,0 +1,23 @@
+customer_name: Angle Taylor
+customer name: Angle Taylor
+productS:             id  amount   price              name
+0   3865963497       1    5.00         burekas51
+1   9987687163       5   45.00        danone_186
+2   1039632254       2   38.00           cookie6
+3    542193105       2   28.10           Kefli63
+4   1893015119       9   81.00           ziva122
+5   5083595627       8  256.00        butter_149
+6   2169933669      10  290.00          milky_70
+7   6852407953       3   57.00     goat_milk_886
+8   1151627695       7  224.00        butter_949
+9   7944577583       6   60.00  swiss_cheese_206
+10  1745426392       3   93.00        butter_818
+11   907411748       2    8.04           Kefli80
+12  9903705557       7   41.86         Chitos108
+13  8056096195       1    9.29           Kefli21
+14   498061809       3   42.12        Doritos100
+15  3173739186       1   27.00          yolo_995
+date: 2023-03-13
+payment_type: 2
+total_pay: 1305.4099999999996 NIS
+seller name: Jennifer Roberts

@@ -1,0 +1,17 @@
+customer_name: Larry Walston
+customer name: Larry Walston
+productS:            id  amount   price                 name
+0  6542284833       3   90.00     freedom_eggs_569
+1  4946769121       8   88.80           Pringles64
+2  4681688963      10  280.00            cream_503
+3  6513038711       4  120.00  Napoleon_cheese_547
+4  5558317486       2    5.46              Bamba27
+5  3375423706       6  210.00            cream_318
+6  4933377541       3   38.49              Kefli53
+7  8300182505       1   16.00              hala129
+8  6871192773       2   38.00             yolo_647
+9  1989956362       1   11.79              Kefli71
+date: 2023-04-26
+payment_type: 2
+total_pay: 898.54 NIS
+seller name: Maria Barnett

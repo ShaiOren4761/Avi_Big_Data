@@ -1,0 +1,9 @@
+customer_name: Maurice Paquette
+customer name: Maurice Paquette
+productS:            id  amount  price     name
+0  3040672854       1   4.24  Bisli38
+1  9805965278       5  32.55  Kefli54
+date: 2023-03-08
+payment_type: 0
+total_pay: 36.79 NIS
+seller name: Maria Barnett

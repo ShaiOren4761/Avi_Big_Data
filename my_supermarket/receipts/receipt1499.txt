@@ -1,0 +1,11 @@
+customer_name: Josiah Cahill
+customer name: Josiah Cahill
+productS:            id  amount   price            name
+0  8172603002       8   85.44         Chips11
+1  9737293118      10   48.20        Bisli106
+2  5210580242       3   15.00         pita112
+3  2900363969       8  224.00  mozzarella_204
+date: 2023-02-19
+payment_type: 0
+total_pay: 372.64 NIS
+seller name: Margaret Mclaughlin

@@ -1,0 +1,10 @@
+customer_name: Bob Dacruz
+customer name: Bob Dacruz
+productS:            id  amount   price        name
+0  9405902825       6   48.00    lahuh103
+1  9144063279       2    2.28  Pringles31
+2  4961948928      10  120.00   burekas27
+date: 2023-04-30
+payment_type: 1
+total_pay: 170.28 NIS
+seller name: Marie Natonabah

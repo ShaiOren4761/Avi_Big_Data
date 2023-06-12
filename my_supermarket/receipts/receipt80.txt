@@ -1,0 +1,21 @@
+customer_name: Debra Hinderliter
+customer name: Debra Hinderliter
+productS:             id  amount   price               name
+0   5695639275       2    7.42           Chitos51
+1   7518629726       3   15.00   freedom_eggs_679
+2   2662572813       2   16.00           milk_176
+3   4042995571       5   30.00         butter_855
+4   4059815665       7  154.00  yellow_cheese_448
+5   7188925832       5   37.25            Bamba44
+6   2678867075       7   61.95            Chips90
+7   8459956964       5   55.75            Chips66
+8   6180901817       2   18.00             cake73
+9   4237012825       2   18.00              pie34
+10  6672844068       4   72.00   organic_eggs_167
+11  2974927397       3   14.55           Chitos68
+12  2213725065       8  104.00            bread94
+13  3235493911       1    3.12          Popcorn22
+date: 2023-01-09
+payment_type: 3
+total_pay: 607.0400000000001 NIS
+seller name: Maria Barnett

@@ -1,0 +1,20 @@
+customer_name: Nelson Feazel
+customer name: Nelson Feazel
+productS:             id  amount   price           name
+0   1772128447       3   54.00         lafa88
+1   6530924413       2   11.58     Pringles74
+2   4611888912       1   14.00  goat_milk_120
+3   5690811118       9  171.00        pizza97
+4   8560760295      10   50.00      baklawa69
+5   7254608117       1   11.00      bagget107
+6   5417916619      10  150.00      prezel122
+7   3304788224       2   34.00     burekas111
+8   6508352741       9  108.00         cake75
+9   3986042881       4   24.04      Doritos70
+10  6284093731       2   36.00       coco_834
+11  3447023908       6   40.20        Chips96
+12  4032342296       1   11.72        Bamba90
+date: 2023-03-01
+payment_type: 1
+total_pay: 715.54 NIS
+seller name: Renee Brammer

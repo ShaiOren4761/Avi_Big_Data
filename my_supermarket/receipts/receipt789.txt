@@ -1,0 +1,24 @@
+customer_name: Nancy Delmonte
+customer name: Nancy Delmonte
+productS:             id  amount   price            name
+0   5043070029       1    7.67         Bamba10
+1   5256326415       9  171.00         lahuh75
+2   6082982260       7  140.00          cake70
+3   6901815241       2   20.82       Doritos75
+4   3147516439       2   28.00       burekas43
+5   4090987227       6   72.00          ziva85
+6   3325678383       3    4.05       Doritos28
+7   5656681747      10  142.70      Pringles46
+8   5824643850      10   90.00   goat_milk_178
+9   1525259785       8   40.00         lahuh64
+10  5937163279       1   14.00        milk_486
+11  3042531267       6   78.00         pizza41
+12  2566387516       1    9.59        Chips107
+13  7113855989       1   31.00  sour_cream_584
+14  6346714677       4   24.00        eggs_357
+15  7698792231       7   77.42       Popcorn70
+16  2779348101       1   12.47      Pringles37
+date: 2023-02-19
+payment_type: 1
+total_pay: 962.72 NIS
+seller name: Maria Barnett

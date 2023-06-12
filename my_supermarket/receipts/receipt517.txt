@@ -1,0 +1,16 @@
+customer_name: Jason Douglas
+customer name: Jason Douglas
+productS:            id  amount   price        name
+0  4978594159       3   45.00   dunats129
+1  7643343820       7   86.87     Bamba18
+2  2243087918       7  105.00      lahuh2
+3  3906818305       1   10.00    bagget54
+4  5908529954       3   69.00     milky_8
+5  3796503079       6   36.00  danone_780
+6  8511957518       6   48.00   baklawa20
+7  6575648217      10   22.20     Chitos7
+8   344756703       6   22.08   Doritos16
+date: 2023-04-25
+payment_type: 0
+total_pay: 444.15 NIS
+seller name: Marie Natonabah

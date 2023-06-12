@@ -1,0 +1,16 @@
+customer_name: Donna Bonaccorsi
+customer name: Donna Bonaccorsi
+productS:            id  amount   price        name
+0  5786235291       7   27.93     Kefli46
+1  1055068680       9  270.00    carlo_36
+2  1239857379       8   13.52   Doritos62
+3  5477096021      10   48.60     Bisli73
+4  8121338030       5   11.20    Chitos32
+5  4230631256       4   30.76  Pringles26
+6  4310860415       7   12.53     Kefli26
+7  9851982261       8  256.00   cream_902
+8  6455418856       4   88.00    coco_458
+date: 2023-05-04
+payment_type: 0
+total_pay: 758.54 NIS
+seller name: Latasha Mace

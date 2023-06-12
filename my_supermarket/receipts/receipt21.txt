@@ -1,0 +1,22 @@
+customer_name: Elliot Swartz
+customer name: Elliot Swartz
+productS:             id  amount   price               name
+0   4059815665      10  220.00  yellow_cheese_448
+1   4113332672      10  200.00         danone_862
+2   7179438945       6   18.12           Chitos41
+3   3179936635       4   59.76         Pringles21
+4   2614337376       6   96.00           coco_190
+5   1532916451      10   90.00         baklawa109
+6   9123725436       3   23.70           Apropo57
+7   5695639275       8   29.68           Chitos51
+8   9713992589       4   36.00          baklawa80
+9   8157214774       7  119.00           dunats87
+10  2172114298      10  116.70            Bamba66
+11  4988246603       2    9.52          Doritos79
+12  8613116650       3    6.45            Bisli40
+13    71270289       2   10.30            Chips10
+14  8591156424       2   24.00             lafa11
+date: 2023-04-23
+payment_type: 1
+total_pay: 1059.23 NIS
+seller name: James Briggs

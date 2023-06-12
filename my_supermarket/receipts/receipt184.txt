@@ -1,0 +1,9 @@
+customer_name: Theresa Bruley
+customer name: Theresa Bruley
+productS:            id  amount  price      name
+0  1522229505       8   95.6  Apropo28
+1  2644579592       4  120.0  milk_681
+date: 2023-04-27
+payment_type: 1
+total_pay: 215.6 NIS
+seller name: Karen Salazar

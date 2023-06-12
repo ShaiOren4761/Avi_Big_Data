@@ -1,0 +1,9 @@
+customer_name: Cynthia Derringer
+customer name: Cynthia Derringer
+productS:            id  amount  price       name
+0  4801118426       4  49.92   Chitos25
+1  1002013553       2  48.00  milky_286
+date: 2023-02-18
+payment_type: 1
+total_pay: 97.92 NIS
+seller name: Jennifer Roberts

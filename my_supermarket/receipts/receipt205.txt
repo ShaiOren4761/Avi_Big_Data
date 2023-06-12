@@ -1,0 +1,22 @@
+customer_name: Louie Goldberger
+customer name: Louie Goldberger
+productS:             id  amount   price               name
+0   3491034861       1   11.39             Bamba9
+1   8872045982       2   38.00          baklawa12
+2   6124019874       9  144.00           dunats66
+3   8636031956       8  216.00  yellow_cheese_258
+4   9485362329       8  136.00           jahnon20
+5   9264219126       8   94.08             Bisli1
+6   1184765994       8  120.00            bread92
+7   3957252196       5   65.00  yellow_cheese_246
+8   8810797379       7   83.72            Bamba98
+9   8420396310       5   35.10          Doritos48
+10  5264741580       9   54.00          cream_756
+11  1195196172       7   84.00           baklawa5
+12  8985250004       1    9.00          baklawa35
+13  3403309398       5  130.00    almond_milk_241
+14  9819779158       8   40.00            lahuh36
+date: 2023-02-27
+payment_type: 0
+total_pay: 1260.29 NIS
+seller name: Donald Dawson

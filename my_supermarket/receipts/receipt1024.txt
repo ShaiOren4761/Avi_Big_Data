@@ -1,0 +1,24 @@
+customer_name: Leonard Bowlin
+customer name: Leonard Bowlin
+productS:             id  amount   price               name
+0   9182914498      10  160.00   swiss_cheese_370
+1   9485362329       2   34.00           jahnon20
+2   5493097263       8   37.20           Bisli102
+3   2614337376       1   16.00           coco_190
+4   9550186768       8   64.00          burekas34
+5   9123725436      10   79.00           Apropo57
+6   2840390615       1   20.00             cake32
+7   8201498864       7   35.00  melted_cheese_475
+8   4855391919       6   12.48           Chitos73
+9   5297947242       1   13.00             lafa93
+10  3262338147       3   48.00             pie121
+11  6530993782       4   50.28          Doritos58
+12  6884133657       2   15.18           Kefli109
+13  3343316184       1    7.00           bagget63
+14  2381124529       9   14.04         Pringles49
+15  5648092427       6  210.00   freedom_eggs_593
+16  7406763374       5  145.00           coco_768
+date: 2023-02-12
+payment_type: 0
+total_pay: 960.18 NIS
+seller name: Donald Dawson

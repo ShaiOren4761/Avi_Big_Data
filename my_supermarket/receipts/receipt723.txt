@@ -1,0 +1,23 @@
+customer_name: Daniel Huynh
+customer name: Daniel Huynh
+productS:             id  amount   price            name
+0   6342613445       9   54.00           pie42
+1   2780672615       5   28.30      Pringles24
+2   7017763745       2   10.00      burekas118
+3   8473853818       1   24.00  mozzarella_965
+4   2978194228       9  108.00        coco_961
+5   1281050931       1    5.00       baklawa86
+6   4323140915       9  189.00       milky_755
+7   6249891642       2    9.96       Popcorn77
+8   8682876615      10   68.60         Chips37
+9   4891088436       1   18.00       cream_436
+10  9080574295       1   10.00          ziva21
+11  8691372447       6  108.00      butter_823
+12  6913485453      10  100.00        prezel94
+13  5130384166      10  240.00       milky_453
+14  5052171723       2   24.74        Apropo68
+15  7274339697       3   45.00  mozzarella_777
+date: 2023-01-08
+payment_type: 1
+total_pay: 1042.6 NIS
+seller name: Ann Hutchens

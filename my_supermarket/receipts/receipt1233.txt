@@ -1,0 +1,13 @@
+customer_name: Bernard Dodd
+customer name: Bernard Dodd
+productS:            id  amount  price           name
+0  2494120653       1   12.0      cream_201
+1  8872045982       5   95.0      baklawa12
+2  1769108574      10  330.0  goat_milk_853
+3  2691268800       2   30.0         hala52
+4  1533047748       9  144.0      burekas37
+5  6568985984       9   90.0         lafa25
+date: 2023-02-24
+payment_type: 0
+total_pay: 701.0 NIS
+seller name: Victoria Hansen

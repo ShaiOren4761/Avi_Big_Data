@@ -1,0 +1,26 @@
+customer_name: Nicole Soto
+customer name: Nicole Soto
+productS:             id  amount   price              name
+0   9663627214      10   70.00            pizza8
+1   8319875692       4  136.00  yellow_cheese_44
+2   7982281469       6  102.00  swiss_cheese_994
+3   9061184229       9  117.00           lahuh51
+4   7978895612       8   13.28           Bisli66
+5   9727688032       3   51.00          milk_723
+6    444191581       9   75.33           Kefli45
+7   5052171723       2   24.74          Apropo68
+8   9838003751       4   80.00            pita24
+9   9080324207       6   35.64          Bisli105
+10  9637074245       9  171.00           prezel1
+11  1958460856       9  135.00   sweet_cream_608
+12  3551239292      10  150.00          yolo_532
+13  6482960301       6   72.00    mozzarella_123
+14  4382270329       1   15.00            cake80
+15  8206179143       2   20.12         Popcorn24
+16  1183447836       6   19.74          Chitos22
+17  4358550117      10   80.00   almond_milk_427
+18  5715951929       6   71.52           Apropo1
+date: 2023-04-24
+payment_type: 2
+total_pay: 1439.37 NIS
+seller name: Ann Hutchens

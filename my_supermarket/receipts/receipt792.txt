@@ -1,0 +1,11 @@
+customer_name: Donald Durk
+customer name: Donald Durk
+productS:            id  amount   price       name
+0   533239321       3   13.32  Doritos33
+1  9501290439       5  155.00   eggs_840
+2  5841405074       5   17.50  Doritos21
+3  4575974214       3   21.00  carlo_553
+date: 2023-05-05
+payment_type: 0
+total_pay: 206.82 NIS
+seller name: Edna Collins

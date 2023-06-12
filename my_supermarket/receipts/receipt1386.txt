@@ -1,0 +1,13 @@
+customer_name: Pamela Friesenhahn
+customer name: Pamela Friesenhahn
+productS:            id  amount   price                 name
+0  6562818466      10  110.00  Napoleon_cheese_810
+1  8193288512       5   70.00      almond_milk_641
+2  3141057906       8   48.00               ziva68
+3  3235493911       6   18.72            Popcorn22
+4  5556139998       5   42.10            Pringles8
+5  5622981496       3   30.00            prezel118
+date: 2023-02-04
+payment_type: 2
+total_pay: 318.82 NIS
+seller name: Karen Salazar

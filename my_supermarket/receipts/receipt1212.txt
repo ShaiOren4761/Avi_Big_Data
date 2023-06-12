@@ -1,0 +1,22 @@
+customer_name: Theodore Nguyen
+customer name: Theodore Nguyen
+productS:             id  amount   price               name
+0   1159146314       4  128.00     sour_cream_349
+1   8416764864       8   48.00    almond_milk_846
+2   3761577613       5   60.00    sweet_cream_327
+3   6187757115       5   95.00            pizza40
+4   4150905730       1    6.00           dunats17
+5   7118657070       3   54.00  melted_cheese_773
+6   5908890653       9  279.00  yellow_cheese_197
+7   9246180563       4   76.00   freedom_eggs_537
+8   3064273311       9   63.00   swiss_cheese_771
+9   2634271179       6   13.02           Chitos23
+10  3581118027       5   36.25          Apropo101
+11  9343935433       5   65.00           cookie24
+12  4820659597       3   66.00           milk_303
+13  6367879085       4  140.00     mozzarella_338
+14  5781446230       3   39.15            Bisli55
+date: 2023-02-28
+payment_type: 1
+total_pay: 1168.42 NIS
+seller name: Gary Hudson

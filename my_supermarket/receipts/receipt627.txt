@@ -1,0 +1,21 @@
+customer_name: Trena Elbert
+customer name: Trena Elbert
+productS:             id  amount   price            name
+0   2388008773       5   50.00       milky_865
+1   1602351303       8   72.00         bagget6
+2   8555895174       2   32.00        bagget94
+3   7524099509      10  114.40      Pringles65
+4   8797189629       1   34.00  sour_cream_300
+5   8905114408      10   60.00        bagget38
+6   9316835841       4   24.56      Pringles41
+7   3828166456       7  154.00        coco_888
+8   9851982261       5  160.00       cream_902
+9   4575052433       3   42.93       Apropo102
+10  2442255240       7  112.00        yolo_184
+11  5656681747      10  142.70      Pringles46
+12  9386745633       5   65.00       cream_599
+13  6568985984      10  100.00          lafa25
+date: 2023-01-07
+payment_type: 0
+total_pay: 1163.59 NIS
+seller name: Victoria Hansen

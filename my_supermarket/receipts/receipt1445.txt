@@ -1,0 +1,24 @@
+customer_name: Christine Carr
+customer name: Christine Carr
+productS:             id  amount   price              name
+0   8723503333       8  118.48           Bamba60
+1   4497390421       1   18.00          prezel72
+2   1194521312       7  119.00          milk_907
+3   2413705759       4   59.80        Doritos102
+4   8691372447       5   90.00        butter_823
+5   3985971517       3   27.00          carlo_25
+6   7455706051       4   28.00           pizza30
+7   9088276628       3   30.00          bagget33
+8   8797189629       9  306.00    sour_cream_300
+9   8719685930      10  139.70         Popcorn56
+10  7664273782       9  144.00  swiss_cheese_354
+11  6301332990       8  160.00            pita94
+12  5812017382       5   75.00          milk_743
+13  4572125048       6   90.00          eggs_896
+14  1192443913       9   41.49        Pringles52
+15  9580962846      10  100.00           pita127
+16  8694530385       9  119.52         Popcorn98
+date: 2023-04-11
+payment_type: 3
+total_pay: 1665.99 NIS
+seller name: Harold Mitchell

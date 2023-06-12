@@ -1,0 +1,11 @@
+customer_name: Andrew Weber
+customer name: Andrew Weber
+productS:            id  amount   price      name
+0  8713068851       5  160.00  milk_813
+1  4526042131       5   60.00  dunats89
+2  2025371219       6   22.98   Bamba71
+3  8431823798       8   63.44   Chips32
+date: 2023-05-03
+payment_type: 2
+total_pay: 306.41999999999996 NIS
+seller name: Ann Hutchens

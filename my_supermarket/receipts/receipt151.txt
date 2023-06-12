@@ -1,0 +1,24 @@
+customer_name: Robert Wilfong
+customer name: Robert Wilfong
+productS:             id  amount   price                 name
+0   1532989376       5   24.75             Kefli101
+1   4253045215       9  104.40              Chips43
+2   5851729495       4   76.00             prezel35
+3   6720135342       1   32.00       mozzarella_511
+4   2900363969      10  280.00       mozzarella_204
+5   4813826494       2   18.50              Bamba94
+6   2991470508      10   70.00             bagget37
+7   2283245491       1    7.00       sour_cream_308
+8   2162003842       4   11.00           Pringles86
+9   8961098720       1   17.00                pie76
+10  1677841571       5   41.30              Kefli97
+11  4084017914       7  140.00              pizza82
+12  4471797447       8   88.00  Napoleon_cheese_507
+13  2542639433       1   10.00              yolo_30
+14  5510676704       7  161.00      freedom_eggs_13
+15  2807805116       9   67.68           Pringles58
+16   460672439       6   27.72               Chips0
+date: 2023-03-07
+payment_type: 0
+total_pay: 1176.35 NIS
+seller name: Karen Salazar

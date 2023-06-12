@@ -1,0 +1,13 @@
+customer_name: Daniel Ojeda
+customer name: Daniel Ojeda
+productS:            id  amount   price        name
+0  2679268342       6   36.00   baklawa76
+1  6899169585       4   27.32     Bamba12
+2  5204257446       1   12.00   carlo_633
+3  7374620838       9  180.00     pizza17
+4  5555177781      10  140.00  butter_275
+5  2518301145       7  105.00    dunats40
+date: 2023-05-03
+payment_type: 2
+total_pay: 500.32 NIS
+seller name: Harold Mitchell

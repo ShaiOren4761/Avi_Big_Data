@@ -1,0 +1,17 @@
+customer_name: Yolanda Custer
+customer name: Yolanda Custer
+productS:            id  amount   price                 name
+0  1667127127       7   70.00                ziva7
+1  5920085347       5   22.35               Kefli1
+2  7433662161       1    5.42              Chips35
+3  2406582356       1    1.74              Chips45
+4  6513038711       3   90.00  Napoleon_cheese_547
+5  7606201261       9   90.27              Bisli17
+6  9646405432       8  104.00             bagget89
+7  7218507452      10  180.00       sour_cream_590
+8  6516800392       7  175.00           danone_579
+9  4884641399       3   57.00              hala127
+date: 2023-01-11
+payment_type: 0
+total_pay: 795.78 NIS
+seller name: Gary Hudson

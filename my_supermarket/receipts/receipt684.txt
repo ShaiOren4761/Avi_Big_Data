@@ -1,0 +1,9 @@
+customer_name: Virginia Lewis
+customer name: Virginia Lewis
+productS:            id  amount   price       name
+0  7905092334       9  101.34  Doritos22
+1  7912490898       8   19.20  Popcorn25
+date: 2023-03-23
+payment_type: 1
+total_pay: 120.54 NIS
+seller name: Marie Natonabah

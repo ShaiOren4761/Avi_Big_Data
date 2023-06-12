@@ -1,0 +1,15 @@
+customer_name: Rachel Brassfield
+customer name: Rachel Brassfield
+productS:            id  amount   price               name
+0  5468043552       8   64.00           bagget16
+1  4801118426       8   99.84           Chitos25
+2  2552970142      10  170.00          bagget123
+3  6852407953       5   95.00      goat_milk_886
+4  5586977211       2   68.00  yellow_cheese_381
+5  9395713515       6  204.00         danone_270
+6  2495400451      10   70.00    sweet_cream_189
+7  9029477329       8   48.40            Bisli62
+date: 2023-01-15
+payment_type: 0
+total_pay: 819.24 NIS
+seller name: Latasha Mace

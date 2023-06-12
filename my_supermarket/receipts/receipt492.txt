@@ -1,0 +1,18 @@
+customer_name: Beverly Thompson
+customer name: Beverly Thompson
+productS:             id  amount   price              name
+0   2668939231       6   29.16           Kefli32
+1   9271334447       7   93.94         Popcorn43
+2   5656993571       5   27.95          Kefli100
+3   2929399599       7  119.00  freedom_eggs_758
+4   2211262363       2    6.76           Chips52
+5   3187274481       6   30.00         carlo_110
+6   1339635353       5   46.50        Popcorn108
+7   1397942092       8  104.00   almond_milk_794
+8   5270079700       1   18.00            hala69
+9   7790758336       8   40.00            pita83
+10  6807358674       5   75.00  organic_eggs_997
+date: 2023-04-11
+payment_type: 0
+total_pay: 590.31 NIS
+seller name: Lillian Dolan

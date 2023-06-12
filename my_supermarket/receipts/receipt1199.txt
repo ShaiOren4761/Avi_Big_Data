@@ -1,0 +1,23 @@
+customer_name: Jeremy Mitchell
+customer name: Jeremy Mitchell
+productS:             id  amount   price               name
+0   7952298484       1   27.00          cream_395
+1   2379558286       7   91.00            bread79
+2   7291116312       8   64.00          dunats109
+3   1579847942       3   27.00           bread106
+4   1089415206       7  140.00          prezel130
+5   3598217568       8   96.00           jahnon61
+6   8574922930       7   34.86            Chips26
+7   3105837268       2    9.06          Doritos71
+8   7761125269       3   39.00          milky_519
+9   7057301556       8   91.20            Bisli41
+10  8326542353       4   80.00            pizza45
+11  6787324739       6  102.00             hala42
+12  8624886662       6   16.50            Bamba55
+13  5757349106       3   33.00           milk_513
+14  4500383528       9  108.00          carlo_212
+15  8918075819       8  216.00  melted_cheese_548
+date: 2023-05-20
+payment_type: 2
+total_pay: 1174.6200000000001 NIS
+seller name: Jennifer Roberts

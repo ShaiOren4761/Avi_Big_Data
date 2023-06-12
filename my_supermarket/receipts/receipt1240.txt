@@ -1,0 +1,15 @@
+customer_name: Jean Dangelo
+customer name: Jean Dangelo
+productS:            id  amount   price             name
+0  4711463498       6   62.76         Chitos62
+1  3655445922       9   81.00  almond_milk_741
+2  7741520770       5   45.00           lafa51
+3  5456986182      10  290.00       danone_798
+4  8224622045       9   54.00          pita117
+5  7169410023       8   64.00          lahuh14
+6  5622981496       8   80.00        prezel118
+7  8574922930       7   34.86          Chips26
+date: 2023-01-15
+payment_type: 0
+total_pay: 711.62 NIS
+seller name: Jennifer Roberts

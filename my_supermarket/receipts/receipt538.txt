@@ -1,0 +1,18 @@
+customer_name: Elizabeth Judy
+customer name: Elizabeth Judy
+productS:             id  amount   price              name
+0   3720294442       8  120.00           ziva126
+1   4470985252       1   11.00              pie9
+2   7822256089       1   29.00  freedom_eggs_417
+3   8985250004       7   63.00         baklawa35
+4   7680435083       1    5.00          jahnon42
+5   9689010272       7   49.00         milky_621
+6   5920085347       6   26.82            Kefli1
+7   3545542595       5  165.00          eggs_499
+8   2371009115       5   17.65           Chips61
+9    438029122       1   14.80          Apropo76
+10  5441346410       3   78.00    sour_cream_957
+date: 2023-03-05
+payment_type: 1
+total_pay: 579.27 NIS
+seller name: Ann Hutchens

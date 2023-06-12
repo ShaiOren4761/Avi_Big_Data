@@ -1,0 +1,12 @@
+customer_name: Eva Chamberlain
+customer name: Eva Chamberlain
+productS:            id  amount   price               name
+0  1089415206       5  100.00          prezel130
+1  6274744865       1   35.00  melted_cheese_848
+2   942428879       5    9.45           Chitos47
+3  9993436197       1   12.00      goat_milk_792
+4  7982281469       8  136.00   swiss_cheese_994
+date: 2023-05-22
+payment_type: 1
+total_pay: 292.45 NIS
+seller name: Harold Mitchell

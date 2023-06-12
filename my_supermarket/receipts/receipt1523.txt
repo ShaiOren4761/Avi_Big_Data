@@ -1,0 +1,23 @@
+customer_name: Kerry Anthony
+customer name: Kerry Anthony
+productS:             id  amount   price        name
+0   9411065204       7   42.00     hala122
+1   4658881975       6   56.88     Bisli48
+2   2415394970       2   16.00  danone_909
+3   2491132087       5   30.00  baklawa111
+4   2735283284       4   36.00   burekas13
+5   1197125341       5   35.00       ziva5
+6   5727725096      10  260.00   cream_635
+7   7775939481       6   30.00  butter_316
+8   8578588751       2    9.76     Bisli22
+9   1897273670       3    5.70     Bamba34
+10  9922250933       7   84.00   prezel104
+11  7727457880       4   52.00    yolo_916
+12  4238431067       2   11.18     Bisli76
+13  3326077837       3   51.00       pita2
+14  2371009115       7   24.71     Chips61
+15  9804717928       5   55.00     pizza24
+date: 2023-01-04
+payment_type: 0
+total_pay: 799.23 NIS
+seller name: Jennifer Roberts

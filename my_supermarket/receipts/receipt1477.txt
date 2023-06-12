@@ -1,0 +1,20 @@
+customer_name: Jerry Truong
+customer name: Jerry Truong
+productS:             id  amount   price               name
+0   7293801939       7  126.00             pita37
+1   3774827234       7   63.00             ziva99
+2   5052171723       5   61.85           Apropo68
+3   2400900521       1    6.63            Bamba21
+4   5250120636       5   64.55            Kefli44
+5   3147370279      10   57.10         Pringles84
+6   1163005494       4  120.00     mozzarella_901
+7   7436255460       4   64.00  melted_cheese_598
+8   6327186471       1   14.10            Kefli25
+9   1694118809       1   13.73           Apropo43
+10  8163644093       6   90.00            ziva116
+11  4577693563       2   60.00           milk_441
+12  8781272050       7  147.00          carlo_729
+date: 2023-01-30
+payment_type: 1
+total_pay: 887.9600000000002 NIS
+seller name: Victoria Hansen

@@ -1,0 +1,19 @@
+customer_name: Christopher Sower
+customer name: Christopher Sower
+productS:             id  amount   price               name
+0   5033043483       4   68.00           cookie62
+1   5870840984       7  245.00         danone_973
+2   3720294442       3   45.00            ziva126
+3   5838325707       1    3.09            Chips60
+4   7558730191       9  135.00            pizza73
+5   6523953105       4   48.00           bread117
+6     84220975       3   32.79            Chips95
+7   8126594595       9   89.10          Apropo103
+8   9538962680       7   49.00            bread14
+9   9529424906       7  119.00    organic_eggs_52
+10  5052171723       3   37.11           Apropo68
+11  9993958786       2   44.00  melted_cheese_193
+date: 2023-01-25
+payment_type: 3
+total_pay: 915.0899999999999 NIS
+seller name: Victoria Hansen

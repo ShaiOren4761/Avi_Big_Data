@@ -1,0 +1,15 @@
+customer_name: Phillip Gegenheimer
+customer name: Phillip Gegenheimer
+productS:            id  amount  price              name
+0  7231876954      10  90.40          Apropo13
+1  3572331796       5  70.00  freedom_eggs_135
+2  8126594595       2  19.80         Apropo103
+3  1352074162      10  20.20           Kefli79
+4  6692495016       3  25.71        Pringles57
+5  1573371180       5  55.00         dunats116
+6  5614825031       2  64.00  organic_eggs_145
+7  8919244457       4  44.00            hala35
+date: 2023-02-05
+payment_type: 3
+total_pay: 389.11 NIS
+seller name: Karen Salazar

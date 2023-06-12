@@ -1,0 +1,9 @@
+customer_name: Anna Walker
+customer name: Anna Walker
+productS:            id  amount   price     name
+0  4013336724       2   54.00  milk_35
+1  4121831702       9  112.05  Kefli77
+date: 2023-05-08
+payment_type: 3
+total_pay: 166.05 NIS
+seller name: James Briggs

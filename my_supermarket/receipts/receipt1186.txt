@@ -1,0 +1,21 @@
+customer_name: Otto Warrington
+customer name: Otto Warrington
+productS:             id  amount  price              name
+0   6133965836       1   5.72         Doritos98
+1   2201636818       6  70.26           Bamba47
+2   5649239279       7  82.32          Apropo34
+3   8213997519       2  28.00          yolo_694
+4   9875471235       5  90.00          cookie54
+5   3711971455       4  64.00    sour_cream_645
+6   3654254468       5  12.25         Chitos107
+7   2004151852       2  58.00          coco_350
+8   2654725552       3  42.00        danone_991
+9   9202978884       3  72.00  freedom_eggs_731
+10  4686065328       7  54.18          Apropo58
+11  9056438479       9  79.02        Doritos106
+12  3936047966       7  98.00            hala76
+13  2850871128       3  66.00        danone_388
+date: 2023-04-13
+payment_type: 2
+total_pay: 821.7499999999999 NIS
+seller name: Renee Brammer

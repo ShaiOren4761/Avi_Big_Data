@@ -1,0 +1,15 @@
+customer_name: Marilyn Tart
+customer name: Marilyn Tart
+productS:            id  amount   price            name
+0  2691268800       8  120.00          hala52
+1  4209285379       5   31.75       Popcorn82
+2  7680435083       9   45.00        jahnon42
+3  7218507452       3   54.00  sour_cream_590
+4  9018449645       3   21.00      baklawa110
+5  3970763903       9  135.00        cookie14
+6  1119623569       9   81.00       prezel105
+7  2406582356       3    5.22         Chips45
+date: 2023-01-23
+payment_type: 3
+total_pay: 492.97 NIS
+seller name: Lillian Dolan

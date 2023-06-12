@@ -1,0 +1,12 @@
+customer_name: Virgil Driskell
+customer name: Virgil Driskell
+productS:            id  amount   price       name
+0  2137174922       5  100.00   bagget34
+1  8757485428      10   70.00   jahnon36
+2  9282429607       8   67.84  Popcorn71
+3  6226285441       7   91.00    lahuh88
+4  2739272402       3   45.00     lafa89
+date: 2023-01-09
+payment_type: 3
+total_pay: 373.84000000000003 NIS
+seller name: Lillian Dolan

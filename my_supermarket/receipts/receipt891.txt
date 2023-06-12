@@ -1,0 +1,22 @@
+customer_name: Steve Bissell
+customer name: Steve Bissell
+productS:             id  amount   price              name
+0   8662802681       5  175.00   sweet_cream_301
+1   5649239279       8   94.08          Apropo34
+2   1331389344       3   57.00          eggs_830
+3   1880696888       6  102.00    sour_cream_254
+4   4977676118       4   37.16           Kefli24
+5   3654534988      10   90.00         carlo_936
+6   6082982260       1   20.00            cake70
+7   2455556083       9  216.00  swiss_cheese_260
+8   5053409659      10  130.00            ziva28
+9   7342084592       5   45.00          jahnon13
+10  2329926122       8  192.00         milky_202
+11  3741097609       6  120.00           ziva102
+12  3152653071       2   22.28           Bamba81
+13  8433856102       6   78.00          yolo_477
+14  8224622045       9   54.00           pita117
+date: 2023-01-21
+payment_type: 1
+total_pay: 1432.52 NIS
+seller name: Ann Hutchens

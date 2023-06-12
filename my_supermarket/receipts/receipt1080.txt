@@ -1,0 +1,24 @@
+customer_name: Elizabeth Anderson
+customer name: Elizabeth Anderson
+productS:             id  amount   price               name
+0   3332215288       2   30.00           eggs_524
+1   3167340190       1   10.00  melted_cheese_326
+2   9761339853       1   12.00             cake77
+3   6453422789       9   31.59            Kefli49
+4   4237958087       5   65.00             ziva88
+5   3027428803       8   66.88           Apropo79
+6   1339635353       7   65.10         Popcorn108
+7   8842194644       8   80.00             hala23
+8   5753734815       1   14.00          prezel120
+9   3998010367       9  153.00           prezel13
+10  2177277294       8  232.00           yolo_710
+11  5353205962       2   18.00           dunats22
+12  6843284895       4   64.00           prezel96
+13  2552970142       6  102.00          bagget123
+14  9507870080       3    8.55          Doritos45
+15  2037612808       4   80.00          cookie115
+16  5963004709       3  105.00     mozzarella_476
+date: 2023-04-17
+payment_type: 1
+total_pay: 1137.12 NIS
+seller name: Jennifer Roberts

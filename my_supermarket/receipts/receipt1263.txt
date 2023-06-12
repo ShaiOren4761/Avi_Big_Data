@@ -1,0 +1,23 @@
+customer_name: Ruth Walter
+customer name: Ruth Walter
+productS:             id  amount   price             name
+0   9737293118       1    4.82         Bisli106
+1   8529721168       7   49.00         coco_885
+2   9127247225       4   37.88       Popcorn101
+3   6209910809       4   36.00           lafa23
+4   9107244139       2   58.00  freedom_eggs_62
+5   8156582134       3   54.00       danone_446
+6   8511957518       1    8.00        baklawa20
+7   6396785113       5   60.00   sour_cream_686
+8   3796503079       3   18.00       danone_780
+9   4340233956       5  100.00          bread60
+10  8371788692       1   17.00       danone_966
+11  7330402309       8  104.00        cream_255
+12  6938257437      10   35.90          Kefli59
+13  8473917808       4    9.12         Chitos96
+14  3844264438       4   64.00        baklawa17
+15  4658881975       2   18.96          Bisli48
+date: 2023-02-22
+payment_type: 3
+total_pay: 674.6800000000001 NIS
+seller name: Edna Collins

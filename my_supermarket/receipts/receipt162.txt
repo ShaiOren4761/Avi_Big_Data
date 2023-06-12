@@ -1,0 +1,26 @@
+customer_name: Jessica Lovato
+customer name: Jessica Lovato
+productS:             id  amount   price               name
+0   8247877124       7   34.51            Chips18
+1   4595593965       6   84.54         Pringles61
+2   4095047299       1   31.00         butter_112
+3   9214557961      10  122.20            Kefli67
+4   3655445922       3   27.00    almond_milk_741
+5   8132459564       1    3.08           Chitos14
+6   7495528142       1    9.00  yellow_cheese_893
+7   3260308396       4   68.00   swiss_cheese_763
+8   6826639581       8   96.00           bagget25
+9   4500383528       4   48.00          carlo_212
+10  2259358824       6  174.00   swiss_cheese_540
+11  1659941880       4   20.00    almond_milk_738
+12  2542639433       1   10.00            yolo_30
+13  6609101402       3   36.00   swiss_cheese_785
+14  3149544525       8   72.00             hala94
+15  5795134344       6   78.00   organic_eggs_211
+16  6353327521       1   35.00         danone_403
+17  7118657070      10  180.00  melted_cheese_773
+18  1713213782       1   10.00           cookie86
+date: 2023-01-29
+payment_type: 3
+total_pay: 1138.33 NIS
+seller name: Harold Mitchell

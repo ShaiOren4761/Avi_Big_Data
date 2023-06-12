@@ -1,0 +1,26 @@
+customer_name: Steven Halverson
+customer name: Steven Halverson
+productS:             id  amount   price               name
+0   4102269260       8   58.64         Popcorn100
+1   2812937424       5   71.25           Apropo40
+2   3602451803       5   90.00          burekas44
+3   4630792349       4   58.88         Pringles38
+4   1893015119       4   36.00            ziva122
+5   5143335309       1   10.00              pie44
+6   1535164453       3   32.88            Kefli28
+7   6843126333       5  130.00          cream_442
+8   7818934137       3  105.00         butter_629
+9   2597272640       7  231.00   swiss_cheese_774
+10  3439083065       6  126.00           eggs_508
+11  7865783737       1   16.00            pita120
+12  6519763670       9  135.00           cookie75
+13  7974285024       6  108.00  melted_cheese_312
+14  1990960024       4   35.52          Popcorn10
+15  8676919147       9  198.00           yolo_560
+16  2119044389       2   12.00            lahuh46
+17   146465367       8   71.76          Doritos84
+18  3084987021       9  126.00            hala106
+date: 2023-04-14
+payment_type: 0
+total_pay: 1651.93 NIS
+seller name: Victoria Hansen

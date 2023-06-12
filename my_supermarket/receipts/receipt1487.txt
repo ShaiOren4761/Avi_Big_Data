@@ -1,0 +1,10 @@
+customer_name: Troy Vassar
+customer name: Troy Vassar
+productS:            id  amount  price              name
+0  6855861307       5   30.0          jahnon93
+1  2929399599       7  119.0  freedom_eggs_758
+2  1095555146       9  135.0   sweet_cream_368
+date: 2023-03-25
+payment_type: 2
+total_pay: 284.0 NIS
+seller name: Debra Pearson

@@ -1,0 +1,14 @@
+customer_name: Leslie May
+customer name: Leslie May
+productS:            id  amount   price        name
+0  2176397388       2   12.88   Doritos97
+1  6008017704       6   78.00      pita35
+2   845204275       1    5.49     Bamba41
+3   845204275       3   16.47     Bamba41
+4  5741966469       8  160.00      pita81
+5  8320488918       6   72.00      lafa17
+6  4307187063       2   27.22  Pringles27
+date: 2023-03-26
+payment_type: 3
+total_pay: 372.05999999999995 NIS
+seller name: Kevin Goldberg

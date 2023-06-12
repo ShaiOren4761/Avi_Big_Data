@@ -1,0 +1,15 @@
+customer_name: Mary Blevins
+customer name: Mary Blevins
+productS:            id  amount   price           name
+0  9843899114      10  140.00      milky_339
+1  4937476280       3   75.00  goat_milk_517
+2  6443842353       1    4.46        Chips97
+3  1022657703       1   26.00        milk_48
+4  9277558358       1   16.00      carlo_601
+5  9236591680       4   27.40       Apropo46
+6  9029477329       2   12.10        Bisli62
+7  1903831919       6   96.00      burekas72
+date: 2023-03-15
+payment_type: 3
+total_pay: 396.96000000000004 NIS
+seller name: Ann Hutchens

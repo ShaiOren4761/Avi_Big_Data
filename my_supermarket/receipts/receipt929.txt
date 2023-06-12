@@ -1,0 +1,27 @@
+customer_name: Mack Creasy
+customer name: Mack Creasy
+productS:             id  amount   price               name
+0   4683430901       9   85.95            Chips69
+1   6901815241       3   31.23          Doritos75
+2   4372925009       1    8.40            Bisli37
+3   5838549040       3   33.00           bagget81
+4   6979473379       5   55.00         baklawa108
+5   2774931560       1   14.00             cake31
+6   1784890348       2   16.00          milky_706
+7   9447408425       9  117.00           lahuh128
+8   9674451366       4   96.00     mozzarella_296
+9   1774345469       3   36.00   organic_eggs_233
+10  6568985984       8   80.00             lafa25
+11  6552424950       9   33.93            Bamba56
+12  7340570376       5   38.70           Apropo84
+13   922689061       6   24.36            Bisli82
+14  8160932095       5   30.00              pita1
+15  7768458743       5   17.95             Kefli4
+16  3460515475       2   16.00          carlo_466
+17  8918075819       4  108.00  melted_cheese_548
+18  5250120636       8  103.28            Kefli44
+19  6641263053       3   30.00             ziva60
+date: 2023-04-28
+payment_type: 2
+total_pay: 974.8000000000001 NIS
+seller name: Margaret Mclaughlin

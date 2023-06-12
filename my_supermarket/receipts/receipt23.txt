@@ -1,0 +1,20 @@
+customer_name: Erlene Militello
+customer name: Erlene Militello
+productS:             id  amount   price        name
+0   7362098225      10   60.00   dunats107
+1   8574922930       3   14.94     Chips26
+2   8466415306       5   85.00    yolo_571
+3   6340747060       1   12.68      Bisli8
+4   5211526517       3   48.00  butter_405
+5   1387493234       4  120.00    coco_872
+6   3528488014       8   91.28  Pringles93
+7   7909835073       3   29.58    Bamba100
+8   1722468656       5  170.00   cream_394
+9   1296476066      10  100.00   burekas25
+10  5410447157       3   45.00      pita20
+11  4013336724       6  162.00     milk_35
+12  2491132087       6   36.00  baklawa111
+date: 2023-03-06
+payment_type: 3
+total_pay: 974.48 NIS
+seller name: Roberta Lewis

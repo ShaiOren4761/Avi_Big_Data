@@ -1,0 +1,23 @@
+customer_name: Steven Madson
+customer name: Steven Madson
+productS:             id  amount   price                 name
+0   5338151616       6  114.00               pita49
+1   3844264438       5   80.00            baklawa17
+2   1041583581       4   20.68              Bisli97
+3   7270045684       3   60.00               lafa29
+4   7909835073       4   39.44             Bamba100
+5   7340570376       6   46.44             Apropo84
+6   5574962737       5   50.00    melted_cheese_725
+7   1167640942       6   73.08             Apropo27
+8   8193288512       4   56.00      almond_milk_641
+9   1862486576       4  104.00  Napoleon_cheese_698
+10  9331128732       5   85.00              bread86
+11  4059815665       9  198.00    yellow_cheese_448
+12  2379420414       7  238.00             carlo_37
+13  2357080802       9  108.00             bagget29
+14  8706307707       2   24.50              Kefli75
+15  3152653071      10  111.40              Bamba81
+date: 2023-05-26
+payment_type: 0
+total_pay: 1408.54 NIS
+seller name: Calvin Manahan

@@ -1,0 +1,25 @@
+customer_name: Carol Robinson
+customer name: Carol Robinson
+productS:             id  amount   price             name
+0   5361976454       9  270.00         milk_429
+1   2373790322       9   85.41        Popcorn90
+2   8082961165       3   24.00          eggs_53
+3   7291802637      10   90.00         bagget72
+4   3654254468       7   17.15        Chitos107
+5   2260491839       9  189.00    goat_milk_292
+6   6952742186       2   52.00  almond_milk_527
+7   8265295087       2   28.00         yolo_561
+8   3234429088       2   34.00           hala10
+9   6099185729       1   16.00         yolo_125
+10  6124843993       6  102.00           pita84
+11  3529150487       3   29.82          Chips38
+12  8270950693       3   27.00          ziva121
+13  2974927397       4   19.40         Chitos68
+14  7195640975       6   78.00           ziva47
+15  9855380718      10   99.90       Doritos104
+16  7912421033       7  133.00          pita103
+17  4686873380       5   30.00       burekas117
+date: 2023-02-24
+payment_type: 0
+total_pay: 1324.68 NIS
+seller name: Gary Hudson

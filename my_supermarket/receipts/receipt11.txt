@@ -1,0 +1,22 @@
+customer_name: Hattie Watson
+customer name: Hattie Watson
+productS:             id  amount   price                 name
+0   7787901454       6  198.00  Napoleon_cheese_140
+1   1926949251       2   12.92             Chips101
+2   8800191832       4   96.00       sour_cream_700
+3   7141618087       4  112.00       mozzarella_923
+4   2014517286       7  112.00            cream_489
+5   3225957631       8  264.00             yolo_987
+6    582008114       7   14.00            Doritos78
+7   1939409965       9   71.55              Chips55
+8   6692495016      10   85.70           Pringles57
+9   7080925202       2   36.00             cream_92
+10  9450226806       4   52.08             Apropo49
+11  5947601958       6  192.00    melted_cheese_620
+12  7830393090       9   53.01           Pringles36
+13  1110458406       3   36.00      sweet_cream_827
+14  4198997774      10  160.00             bagget21
+date: 2023-02-21
+payment_type: 3
+total_pay: 1495.26 NIS
+seller name: Kevin Goldberg

@@ -1,0 +1,23 @@
+customer_name: Carol Edwards
+customer name: Carol Edwards
+productS:             id  amount   price                 name
+0   8149097266       4   72.00               pizza2
+1   7787901454      10  330.00  Napoleon_cheese_140
+2   7255316406       9  117.00           danone_276
+3   1089415206       2   40.00            prezel130
+4   6971485450       2   18.00               cake10
+5   8438578466       5   30.50            Popcorn38
+6   8163644093       9  135.00              ziva116
+7   2201636818       9  105.39              Bamba47
+8   1907371334       1    7.12              Bamba96
+9   8420396310       9   63.18            Doritos48
+10  3813014517       5   55.00             yolo_953
+11  8712532837       2   42.00            milky_712
+12  4638927079       8  112.00             jahnon48
+13  6672844068       4   72.00     organic_eggs_167
+14  5937163279       5   70.00             milk_486
+15  9977601717       9  117.00               lafa71
+date: 2023-02-19
+payment_type: 2
+total_pay: 1386.19 NIS
+seller name: Jennifer Roberts

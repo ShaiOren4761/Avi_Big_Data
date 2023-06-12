@@ -1,0 +1,23 @@
+customer_name: Frankie Nutt
+customer name: Frankie Nutt
+productS:             id  amount   price        name
+0   6417558996       2   26.00    milk_518
+1   5548012137       2   40.00   burekas35
+2   6537204810       4  136.00  butter_890
+3   1194521312       1   17.00    milk_907
+4   2981661278       2   28.00    jahnon69
+5   6330280004       2   30.00     bread55
+6   1022657703       1   26.00     milk_48
+7   7698792231       6   66.36   Popcorn70
+8   1885332084       8  144.00    eggs_277
+9   7311331817       8   15.52   Popcorn94
+10  4746444083       2   16.00    bagget77
+11  7614312337       8   72.00      cake12
+12  3141057906       5   30.00      ziva68
+13  9181433540       7   35.00    cookie69
+14   845204275       7   38.43     Bamba41
+15  4232988091       7   67.62    Chitos64
+date: 2023-03-16
+payment_type: 2
+total_pay: 787.93 NIS
+seller name: Renee Brammer

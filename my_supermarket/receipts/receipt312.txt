@@ -1,0 +1,23 @@
+customer_name: Clifton Babers
+customer name: Clifton Babers
+productS:             id  amount   price               name
+0   4345905587       4   52.00              pie96
+1   7771190167      10  270.00           milky_21
+2   4938601857       7   63.00             ziva79
+3   6944364365       9   49.68            Bamba15
+4   7344401931       7   46.27          Doritos56
+5   3173739186       1   27.00           yolo_995
+6   2304919530       4   23.24           Apropo42
+7   6089881891       4   32.00  yellow_cheese_860
+8   9120903673       1    9.00              pie71
+9   4802705112       5   70.65             Chips5
+10  1235606404       1    7.91          Popcorn99
+11  6641263053       1   10.00             ziva60
+12  1579847942       3   27.00           bread106
+13  3962216956       2   11.76         Pringles70
+14  3460515475       2   16.00          carlo_466
+15  7918554865       2   32.00         danone_132
+date: 2023-03-18
+payment_type: 1
+total_pay: 747.5099999999999 NIS
+seller name: Karen Salazar

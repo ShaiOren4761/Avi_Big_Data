@@ -1,0 +1,8 @@
+customer_name: Matthew Willis
+customer name: Matthew Willis
+productS:            id  amount  price        name
+0  6537204810       4  136.0  butter_890
+date: 2023-02-22
+payment_type: 3
+total_pay: 136.0 NIS
+seller name: Ann Hutchens

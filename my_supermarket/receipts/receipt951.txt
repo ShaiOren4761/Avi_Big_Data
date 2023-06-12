@@ -1,0 +1,19 @@
+customer_name: Albert Pitts
+customer name: Albert Pitts
+productS:             id  amount   price               name
+0   8201498864      10   50.00  melted_cheese_475
+1   8959311254       7   77.00          danone_72
+2   6950052495       6   78.00           jahnon49
+3   8456957754       3    3.39           Apropo37
+4   2098844776       6   90.00           dunats18
+5   3280736401       2   30.00          burekas36
+6    191842199      10   60.20            Bamba74
+7   8669937299      10   65.60            Bisli75
+8   2691268800       5   75.00             hala52
+9   5471486765       5   59.35           Apropo78
+10  8320021804      10  107.60           Apropo15
+11  2922167230       4   80.00            ziva127
+date: 2023-04-03
+payment_type: 1
+total_pay: 776.14 NIS
+seller name: Karen Salazar

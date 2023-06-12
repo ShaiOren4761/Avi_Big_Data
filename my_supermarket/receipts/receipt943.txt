@@ -1,0 +1,23 @@
+customer_name: Michael Kugler
+customer name: Michael Kugler
+productS:             id  amount   price             name
+0   9992075459       2   26.94         Chitos85
+1   6657428362       4    4.08          Bamba77
+2   7631218024       3   38.67         Bamba104
+3   7001071714       7  103.53        Popcorn83
+4   7198922741      10  270.00         eggs_900
+5   6796826274       4   52.00         eggs_493
+6   6075240225       1   18.00        bagget122
+7    907411748       9   36.18          Kefli80
+8   8560760295       6   30.00        baklawa69
+9   5913893649       7   63.00            pie53
+10  2304178533       3   54.00  swiss_cheese_11
+11  5268101843       4   68.00          bread23
+12  1213796842       1    2.57         Chitos61
+13  8952910504      10   15.70        Pringles0
+14  1818017005       7   16.73          Chips44
+15  2404373360       7   23.10       Pringles28
+date: 2023-05-20
+payment_type: 3
+total_pay: 822.5000000000001 NIS
+seller name: Gary Hudson

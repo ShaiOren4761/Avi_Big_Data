@@ -1,0 +1,23 @@
+customer_name: Concetta Ohler
+customer name: Concetta Ohler
+productS:             id  amount   price              name
+0   4825554194       4   19.76         Popcorn64
+1   1762992509       8   40.00          coco_257
+2   6889339038       4   32.00          milk_801
+3   6797371324       7   24.36          Chitos11
+4   7059519572       2   16.00          cookie61
+5   9792975978       9   54.00           cake126
+6   2413705759       9  134.55        Doritos102
+7   2210840962       4   17.32          Chitos37
+8   4635028516       2   38.00  organic_eggs_398
+9   1098139760       5  105.00          eggs_302
+10  9214557961       5   61.10           Kefli67
+11  6848436141       6   67.68           Chitos8
+12  6908218156       9   31.59           Bisli49
+13  4254394490      10   60.80           Bisli56
+14  3347104847       5   80.00     goat_milk_829
+15  3494705008       1    8.00   swiss_cheese_90
+date: 2023-04-07
+payment_type: 2
+total_pay: 790.1599999999999 NIS
+seller name: Donald Dawson

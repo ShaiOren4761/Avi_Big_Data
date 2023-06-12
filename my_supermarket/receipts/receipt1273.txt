@@ -1,0 +1,18 @@
+customer_name: Tasha Boles
+customer name: Tasha Boles
+productS:             id  amount   price       name
+0   4022293040       8   84.16  Popcorn21
+1   6871192773       9  171.00   yolo_647
+2    758911969       6   59.58    Kefli30
+3   3591327412       6   90.00    pizza39
+4   2749955651       9  180.00  dunats128
+5   3307177761       2   18.00      pie16
+6   1111087818      10   49.10    Kefli95
+7   8612556689       4   25.44    Bisli16
+8   7037720222       6  108.00     lafa67
+9   8810797379       4   47.84    Bamba98
+10   942428879       3    5.67   Chitos47
+date: 2023-04-16
+payment_type: 1
+total_pay: 838.7900000000001 NIS
+seller name: Roberta Lewis

@@ -1,0 +1,17 @@
+customer_name: John Buker
+customer name: John Buker
+productS:            id  amount   price               name
+0  6993284475       5   80.00           bread111
+1  1163005494       9  270.00     mozzarella_901
+2  1754437141       2   44.00    almond_milk_745
+3  7771190167       4  108.00           milky_21
+4  4728775862       1   11.57         Pringles75
+5  1577139568       6  162.00  melted_cheese_859
+6  7192338906       3   33.42          Popcorn27
+7  2543398031       7  133.00         danone_490
+8  1169276015       6   81.66            Bisli64
+9  1939659304       9   63.00             pita87
+date: 2023-03-24
+payment_type: 2
+total_pay: 986.65 NIS
+seller name: Maria Barnett

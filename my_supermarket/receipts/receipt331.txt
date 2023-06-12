@@ -1,0 +1,11 @@
+customer_name: Marta Smith
+customer name: Marta Smith
+productS:            id  amount  price              name
+0  2280035986       5   80.0        baklawa101
+1  4554639108       8   40.0         milky_903
+2  1774345469      10  120.0  organic_eggs_233
+3  8801879675      10   12.7          Chips102
+date: 2023-03-05
+payment_type: 0
+total_pay: 252.7 NIS
+seller name: Maria Barnett

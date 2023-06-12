@@ -1,0 +1,10 @@
+customer_name: Timothy Leblanc
+customer name: Timothy Leblanc
+productS:            id  amount  price              name
+0  1489776684       1   15.0  swiss_cheese_988
+1  2513513163       2   30.0    sour_cream_783
+2  9727688032       3   51.0          milk_723
+date: 2023-01-04
+payment_type: 2
+total_pay: 96.0 NIS
+seller name: Renee Brammer

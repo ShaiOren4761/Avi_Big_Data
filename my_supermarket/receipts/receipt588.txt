@@ -1,0 +1,21 @@
+customer_name: Terrence Valeri
+customer name: Terrence Valeri
+productS:             id  amount   price             name
+0   5736353788       2   28.00           ziva55
+1   7682760551       8  272.00         coco_589
+2   2582423137       5   70.00           hala25
+3   8401108965       9   99.00  almond_milk_227
+4   2664876455       4   28.00           lafa73
+5   1574923427       8   85.20          Bisli13
+6   2852116043       8  152.00          pizza79
+7    530215131       2    9.10         Apropo81
+8   3800676660       6   84.00         dunats72
+9    604713082       9   78.03          Apropo7
+10  4090987227       6   72.00           ziva85
+11  9799443593       6   48.00          bread21
+12  1046972231       5  150.00         milk_979
+13  1463834928       3   21.00         pizza103
+date: 2023-03-11
+payment_type: 2
+total_pay: 1196.33 NIS
+seller name: Victoria Hansen

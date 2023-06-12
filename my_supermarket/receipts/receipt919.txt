@@ -1,0 +1,19 @@
+customer_name: Jodi Combs
+customer name: Jodi Combs
+productS:             id  amount   price               name
+0   8973369656      10  100.00   swiss_cheese_225
+1   5908890653      10  310.00  yellow_cheese_197
+2   4562876616       5   45.00           coco_351
+3   5958925871       2   36.00           cookie84
+4   3679901541       9   99.00             hala82
+5   3491034861       9  102.51             Bamba9
+6   5470948724       2   36.00            lafa102
+7   9655758473       3   51.00             cake58
+8   1201880787      10  320.00  melted_cheese_298
+9   6995595945       4   53.76            Bamba31
+10  6795726974       5   95.00           prezel52
+11  6662554860       7   56.00            hala120
+date: 2023-03-13
+payment_type: 1
+total_pay: 1304.27 NIS
+seller name: Marie Natonabah

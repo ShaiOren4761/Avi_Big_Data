@@ -1,0 +1,22 @@
+customer_name: Carolyn Phillips
+customer name: Carolyn Phillips
+productS:             id  amount   price               name
+0   7334053725       7   98.00         danone_234
+1   2251486525       4   24.00             hala32
+2   6610094185       1   19.00           bagget40
+3   1197125341       7   49.00              ziva5
+4   4502894018       4   16.52           Bisli107
+5   3460515475       1    8.00          carlo_466
+6   4933377541       2   25.66            Kefli53
+7   9872061983       3   15.00            lahuh79
+8   6274744865       1   35.00  melted_cheese_848
+9   1897191034       8  120.00           cookie22
+10  4777133330       3   45.00         butter_402
+11  3581688547       1    7.00            bagget1
+12  8319875692       6  204.00   yellow_cheese_44
+13  6271612500      10   50.00            pizza47
+14  5811118602       8  224.00           yolo_473
+date: 2023-05-17
+payment_type: 1
+total_pay: 940.1800000000001 NIS
+seller name: Harold Mitchell

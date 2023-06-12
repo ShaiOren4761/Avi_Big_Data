@@ -1,0 +1,24 @@
+customer_name: Letty Knobbe
+customer name: Letty Knobbe
+productS:             id  amount   price               name
+0   7974285024       7  126.00  melted_cheese_312
+1   3761577613       7   84.00    sweet_cream_327
+2   8706307707       5   61.25            Kefli75
+3   1574923427       6   63.90            Bisli13
+4   6187411892       2   28.00          butter_87
+5   4528126301       1   10.00           jahnon24
+6   9088276628       5   50.00           bagget33
+7   2665394526       9   90.00             pita92
+8   2739272402      10  150.00             lafa89
+9   6506479968      10  270.00           eggs_208
+10  6715129951       1    5.58          Doritos31
+11  3468545161       1   12.59         Pringles30
+12  5954974120       5   50.10          Doritos50
+13  7242193446       5   64.50            Bisli57
+14  5653627023       1    7.93          Doritos32
+15  1007104476       7   44.45           Chitos31
+16  5505685880       1   20.00      goat_milk_472
+date: 2023-02-20
+payment_type: 3
+total_pay: 1138.3000000000002 NIS
+seller name: Margaret Mclaughlin

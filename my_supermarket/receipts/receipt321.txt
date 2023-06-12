@@ -1,0 +1,26 @@
+customer_name: Monica Shannon
+customer name: Monica Shannon
+productS:             id  amount   price               name
+0   5741966469      10  200.00             pita81
+1   3500757595       7   84.00           jahnon98
+2   5867809358       3   75.00     sour_cream_864
+3   5556139998       5   42.10          Pringles8
+4   8471708882      10  140.00            bread80
+5   6096150313       3    4.35           Kefli105
+6   3257215374      10  320.00         butter_704
+7   3844264438       7  112.00          baklawa17
+8   7952811878      10  149.10          Doritos10
+9   6204326176       8   37.76            Chips74
+10  6504340929       7   96.25         Pringles56
+11  8238421558       7  175.00   freedom_eggs_501
+12  2388008773       8   80.00          milky_865
+13  5863438103       3   37.77           Chitos65
+14  8016138992       4   52.00  melted_cheese_330
+15  3623362728      10  150.00             hala92
+16  3594885722       5   25.00           yolo_702
+17  3092882458       9   45.00           cookie38
+18  6340747060       9  114.12             Bisli8
+date: 2023-03-09
+payment_type: 0
+total_pay: 1939.4499999999998 NIS
+seller name: Marie Natonabah

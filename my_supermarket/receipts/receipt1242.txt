@@ -1,0 +1,18 @@
+customer_name: John Castillo
+customer name: John Castillo
+productS:             id  amount   price               name
+0   9501290439       6  186.00           eggs_840
+1   5774608310       2   10.00   organic_eggs_878
+2   9521500829       6  204.00           coco_269
+3   4530315044       8  144.00         butter_913
+4   7475540137       5   72.65           Apropo65
+5   7606201261       6   60.18            Bisli17
+6   9088276628       3   30.00           bagget33
+7   3206726695       8  272.00  melted_cheese_752
+8   2600883359      10  160.00           milky_51
+9   9931563104       6   16.44          Doritos34
+10  5159724944       3   30.00    swiss_cheese_68
+date: 2023-04-23
+payment_type: 1
+total_pay: 1185.27 NIS
+seller name: Latasha Mace

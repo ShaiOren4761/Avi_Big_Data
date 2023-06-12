@@ -1,0 +1,18 @@
+customer_name: Edith Morse
+customer name: Edith Morse
+productS:             id  amount   price             name
+0   1344173222       2   54.00        carlo_906
+1   6082982260       9  180.00           cake70
+2   8797189629       8  272.00   sour_cream_300
+3   2360854822       7  196.00        butter_61
+4   5981601891       4   56.00   sour_cream_103
+5   1698425758       4   72.00  almond_milk_625
+6   7270329636       3   12.84        Popcorn53
+7    926775501       7   86.31          Bisli35
+8   6883417806       7  140.00       butter_352
+9   1667621181       5  105.00       butter_311
+10  6846178436       6   96.00  sweet_cream_737
+date: 2023-05-06
+payment_type: 1
+total_pay: 1270.15 NIS
+seller name: Victoria Hansen

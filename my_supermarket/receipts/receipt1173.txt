@@ -1,0 +1,11 @@
+customer_name: Charles Wade
+customer name: Charles Wade
+productS:            id  amount  price       name
+0  4520157863       3  13.44  Doritos73
+1  2435499459       7  54.67    Bamba22
+2  2278399226       7  14.56   Chitos94
+3  7080608728       3  10.71    Kefli91
+date: 2023-03-14
+payment_type: 2
+total_pay: 93.38 NIS
+seller name: Donald Dawson

@@ -1,0 +1,21 @@
+customer_name: Fredrick Cooley
+customer name: Fredrick Cooley
+productS:             id  amount   price              name
+0   6038711946       9  108.00          prezel93
+1   7197645647       7   70.00          prezel98
+2   8247514592       2   11.38         Doritos13
+3   1225698760       2   14.00  freedom_eggs_708
+4   4917182314       2   11.14           Kefli69
+5   6268230497       7   87.43           Chips92
+6   5829732486       3   24.00             pie77
+7   8782329935      10   30.00           Kefli34
+8   7404377647       8   80.00    mozzarella_660
+9   8255574282       6   36.00           lahuh50
+10  4729671290       9  108.00         baklawa38
+11  6889339038       6   48.00          milk_801
+12   814837059      10   75.20           Bamba87
+13  9508571103       2   62.00          milk_505
+date: 2023-01-20
+payment_type: 3
+total_pay: 765.1500000000001 NIS
+seller name: Margaret Mclaughlin

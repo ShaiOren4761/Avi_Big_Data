@@ -1,0 +1,18 @@
+customer_name: Nathan Jacklin
+customer name: Nathan Jacklin
+productS:             id  amount   price                 name
+0   8473917808       5   11.40             Chitos96
+1   2245428483       7  140.00             milk_937
+2   7324805023      10  140.00     yellow_cheese_27
+3    956491903       3   38.37             Chitos59
+4   1170721559       3   24.03            Doritos77
+5   4855289050       8  176.00  Napoleon_cheese_422
+6   7435947285       1   13.00               hala51
+7   4137018925       5   80.00        goat_milk_975
+8   3643651758      10  150.00             dunats30
+9   4004517395       9   45.00               pita43
+10  7514149750       5   22.35              Bisli10
+date: 2023-03-17
+payment_type: 2
+total_pay: 840.15 NIS
+seller name: Lillian Dolan

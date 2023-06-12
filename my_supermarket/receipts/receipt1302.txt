@@ -1,0 +1,26 @@
+customer_name: Dennis Moskal
+customer name: Dennis Moskal
+productS:             id  amount   price              name
+0   4340233956       9  180.00           bread60
+1   1883887170      10  130.00         jahnon128
+2   5867809358       5  125.00    sour_cream_864
+3   2268867007      10  120.00        danone_836
+4   5505685880       3   60.00     goat_milk_472
+5   6996730348       6   35.70          Chitos15
+6    280283640       5   31.10          Chitos90
+7   6752500298       9   60.48           Apropo4
+8   9779931181       9  180.00     goat_milk_205
+9   2243087918       6   90.00            lahuh2
+10  2869978405      10  200.00  organic_eggs_506
+11  3591327412      10  150.00           pizza39
+12  1566115333      10   60.00          prezel59
+13  2344264448       9  216.00         carlo_603
+14  4961948928       4   48.00         burekas27
+15  2955458452       1   12.31          Apropo93
+16  9529424906       4   68.00   organic_eggs_52
+17  2267559230      10  100.00            ziva38
+18  5417916619       5   75.00         prezel122
+date: 2023-03-14
+payment_type: 2
+total_pay: 1941.5900000000001 NIS
+seller name: Donald Dawson

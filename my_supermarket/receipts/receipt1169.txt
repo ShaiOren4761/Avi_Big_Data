@@ -1,0 +1,15 @@
+customer_name: John Ricks
+customer name: John Ricks
+productS:            id  amount   price              name
+0  2207366818       2   34.00         milky_555
+1  5838325707       8   24.72           Chips60
+2  9738649346       4   36.00          milk_881
+3  8270007587       7  161.00   sweet_cream_974
+4  1557355699       7  238.00  organic_eggs_854
+5  8156582134      10  180.00        danone_446
+6  9120903673       8   72.00             pie71
+7  3598428134       4   60.00         baklawa71
+date: 2023-03-08
+payment_type: 3
+total_pay: 805.72 NIS
+seller name: Renee Brammer

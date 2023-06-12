@@ -1,0 +1,18 @@
+customer_name: Martha Erhardt
+customer name: Martha Erhardt
+productS:             id  amount   price              name
+0   8225433463       6   54.60          Apropo31
+1   7765721113       7   28.42           Kefli52
+2   1900654099       5   55.00        burekas129
+3   3932773476       5   61.60        Pringles59
+4   5810275208       5   27.10           Kefli23
+5   5715320344       2   38.00  organic_eggs_750
+6   9568368978       8  152.00     goat_milk_680
+7   9277558358       7  112.00         carlo_601
+8   3586877152       5   40.35           Bamba16
+9   3932773476       9  110.88        Pringles59
+10  6401153211       6   36.00           jahnon9
+date: 2023-01-23
+payment_type: 1
+total_pay: 715.95 NIS
+seller name: Harold Mitchell

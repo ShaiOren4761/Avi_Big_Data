@@ -1,0 +1,21 @@
+customer_name: Mary Hale
+customer name: Mary Hale
+productS:             id  amount  price               name
+0   5297947242       6  78.00             lafa93
+1   8986454308       3   7.50           Apropo91
+2   9553253185       5  30.00           dunats58
+3   1892494983       1  15.00   freedom_eggs_908
+4   1550128282       2  46.00          milky_114
+5   2304178533       1  18.00    swiss_cheese_11
+6   8836610014       4  41.80          Popcorn87
+7   6795726974       4  76.00           prezel52
+8   8723503333       2  29.62            Bamba60
+9   9935292793       4  52.00           cookie51
+10  4864994361       8  88.00  yellow_cheese_917
+11  8132274340       3  33.00          milky_922
+12  4877541930       5  55.00  melted_cheese_265
+13  9523581047       1   9.01          Popcorn15
+date: 2023-04-18
+payment_type: 0
+total_pay: 578.9300000000001 NIS
+seller name: Edna Collins

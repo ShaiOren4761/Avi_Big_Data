@@ -1,0 +1,16 @@
+customer_name: Angela Rhodes
+customer name: Angela Rhodes
+productS:            id  amount   price               name
+0  7974285024       1   18.00  melted_cheese_312
+1  8857696126       4   48.00         danone_688
+2  2676439156       2   64.00           milk_533
+3  6768927548      10   53.40            Bisli71
+4  9508571103       5  155.00           milk_505
+5  4193149318       1    1.08           Chips105
+6  2691268800      10  150.00             hala52
+7  2248444799       9  126.00          cream_289
+8  8900185926       6  204.00    swiss_cheese_23
+date: 2023-01-14
+payment_type: 1
+total_pay: 819.48 NIS
+seller name: Victoria Hansen

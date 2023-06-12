@@ -1,0 +1,12 @@
+customer_name: Lillie White
+customer name: Lillie White
+productS:            id  amount   price               name
+0  5623310867       5   45.35         Pringles63
+1  5824643850       8   72.00      goat_milk_178
+2  4059815665       3   66.00  yellow_cheese_448
+3   303802313       8  118.80            Bamba80
+4  5211526517       6   96.00         butter_405
+date: 2023-03-26
+payment_type: 3
+total_pay: 398.15 NIS
+seller name: Harold Mitchell

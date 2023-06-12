@@ -1,0 +1,22 @@
+customer_name: Mandie Curran
+customer name: Mandie Curran
+productS:             id  amount   price              name
+0   4526042131       8   96.00          dunats89
+1   2415394970       9   72.00        danone_909
+2    983000324       7   79.59         Popcorn97
+3    313901350       1   13.29         Doritos93
+4   1915988351      10  160.00          bagget98
+5   4364174241       7  224.00   swiss_cheese_18
+6   4778426497       7  203.00  swiss_cheese_981
+7   8136048042       2   10.00    mozzarella_825
+8   2807805116       6   45.12        Pringles58
+9   5835867867       3    9.06           Bisli29
+10  9450226806       6   78.12          Apropo49
+11  5958925871       3   54.00          cookie84
+12  8872853252       4   24.00           lahuh90
+13  8080753862       3   45.00           bread10
+14  2701682566       4   52.00          cookie65
+date: 2023-01-09
+payment_type: 0
+total_pay: 1165.1799999999998 NIS
+seller name: Jennifer Roberts

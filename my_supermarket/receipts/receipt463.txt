@@ -1,0 +1,10 @@
+customer_name: Josiah Cahill
+customer name: Josiah Cahill
+productS:            id  amount  price       name
+0  2388008773       8  80.00  milky_865
+1  7996773975       1   2.18   Kefli110
+2  6610094185       5  95.00   bagget40
+date: 2023-04-10
+payment_type: 3
+total_pay: 177.18 NIS
+seller name: Roberta Lewis

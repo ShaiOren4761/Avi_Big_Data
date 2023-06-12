@@ -1,0 +1,16 @@
+customer_name: Helen Shurtz
+customer name: Helen Shurtz
+productS:            id  amount   price               name
+0  7842386392      10  210.00      goat_milk_266
+1  8694530385       3   39.84          Popcorn98
+2  6137836284      10  138.90         Pringles34
+3  4467952076       1   10.73           Apropo63
+4   171528809       7   32.20            Bisli54
+5  5972674016       3   69.00          milky_786
+6  4801118426       7   87.36           Chitos25
+7  2213725065       4   52.00            bread94
+8  6880392803       8  120.00  yellow_cheese_809
+date: 2023-03-02
+payment_type: 0
+total_pay: 760.03 NIS
+seller name: Kevin Goldberg

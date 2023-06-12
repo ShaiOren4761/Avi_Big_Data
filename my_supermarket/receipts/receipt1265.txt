@@ -1,0 +1,15 @@
+customer_name: Wanda Jackson
+customer name: Wanda Jackson
+productS:            id  amount   price       name
+0  1154030869      10   66.40    Chips21
+1  6603082238       6   36.00  baklawa25
+2  4794819096       1   11.00  baklawa51
+3  2174114507      10  102.00   Chitos50
+4  7042153342       3   10.74  Doritos74
+5  3051049011       8   56.00  bagget112
+6  2662878840       9  113.22    Chips50
+7  2674303534      10  120.00    bread26
+date: 2023-05-01
+payment_type: 0
+total_pay: 515.36 NIS
+seller name: Jennifer Roberts

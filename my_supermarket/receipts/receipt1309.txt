@@ -1,0 +1,12 @@
+customer_name: Mary Toth
+customer name: Mary Toth
+productS:            id  amount   price            name
+0  9462740449       8   14.16         Chitos0
+1  4137018925       4   64.00   goat_milk_975
+2  3759175081       2   24.06        Apropo61
+3  9489218276      10  340.00        coco_115
+4  7509258090       8  200.00  mozzarella_256
+date: 2023-04-30
+payment_type: 0
+total_pay: 642.22 NIS
+seller name: Calvin Manahan

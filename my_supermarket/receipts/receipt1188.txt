@@ -1,0 +1,14 @@
+customer_name: Joanne Hollack
+customer name: Joanne Hollack
+productS:            id  amount  price        name
+0  4994587480       5  25.00     hala103
+1  6918751799       5  66.05     Bisli52
+2  7559100937      10  65.30  Pringles80
+3  4904827202       8  78.96     Bisli20
+4  9442622061       3  33.00  butter_963
+5  8617449927       6  72.00   carlo_640
+6  2435499459       1   7.81     Bamba22
+date: 2023-04-07
+payment_type: 2
+total_pay: 348.12 NIS
+seller name: Kevin Goldberg

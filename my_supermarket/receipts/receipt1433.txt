@@ -1,0 +1,11 @@
+customer_name: Sheila Manalang
+customer name: Sheila Manalang
+productS:            id  amount   price       name
+0  8865148278       9  129.87  Popcorn59
+1  9540459168       5   90.00   jahnon23
+2  7693680065       3   12.63    Kefli17
+3  8624886662       6   16.50    Bamba55
+date: 2023-04-28
+payment_type: 0
+total_pay: 249.0 NIS
+seller name: Roberta Lewis

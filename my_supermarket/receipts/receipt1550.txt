@@ -1,0 +1,14 @@
+customer_name: James Druvenga
+customer name: James Druvenga
+productS:            id  amount   price               name
+0  5313065057       9   90.00  yellow_cheese_817
+1  7517728424       5   60.00           milk_630
+2  9736541013       4   84.00           coco_463
+3  6602947010       3   60.00          bagget113
+4  7643343820       1   12.41            Bamba18
+5  7173103129      10  130.00             ziva89
+6  8928477549       1    9.00           milk_385
+date: 2023-02-20
+payment_type: 0
+total_pay: 445.41 NIS
+seller name: Renee Brammer

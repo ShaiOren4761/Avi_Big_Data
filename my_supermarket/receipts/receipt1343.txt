@@ -1,0 +1,25 @@
+customer_name: Carey Belden
+customer name: Carey Belden
+productS:             id  amount   price                 name
+0   1706037580       5  105.00      almond_milk_325
+1   6513038711       4  120.00  Napoleon_cheese_547
+2   5489229213       3   57.00            milky_914
+3   1904353556       1   14.00            baklawa45
+4   3866791635      10  130.00               lafa16
+5   1610251661       1   13.80            Doritos91
+6   9395158596       6  108.00               pie100
+7   8723057968       5  120.00     organic_eggs_439
+8   3027428803       9   75.24             Apropo79
+9   1171308362       5   54.15             Apropo62
+10  8872045982       8  152.00            baklawa12
+11  3866791635       9  117.00               lafa16
+12  2852116043       9  171.00              pizza79
+13  2339625165      10  140.30            Popcorn33
+14    71270289       4   20.60              Chips10
+15  8697758108      10  100.00               ziva92
+16  1937118997       1   13.47            Popcorn66
+17  4950177826       5  145.00        goat_milk_933
+date: 2023-02-27
+payment_type: 2
+total_pay: 1656.56 NIS
+seller name: Karen Salazar

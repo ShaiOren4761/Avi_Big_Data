@@ -1,0 +1,27 @@
+customer_name: Carl Brevell
+customer name: Carl Brevell
+productS:             id  amount   price               name
+0   7175319969       6   74.58            Kefli47
+1   6602947010       8  160.00          bagget113
+2   5403762420       1   12.00  yellow_cheese_697
+3   5493928801       5  105.00    almond_milk_158
+4   4740215780       4   72.00           eggs_528
+5   4440652590       2   60.00           milk_795
+6   3962719146       4   68.00           lahuh125
+7   7643343820       9  111.69            Bamba18
+8   9381339255       9   90.00   organic_eggs_431
+9   3152564482      10  180.00         baklawa100
+10  8965297486       1   14.00    swiss_cheese_79
+11  3020638611       2   28.00           pizza109
+12  7054127409       5   75.00          dunats120
+13  9608887219       7  140.00     sour_cream_978
+14  6697639307      10  100.00           coco_762
+15  5786235291       7   27.93            Kefli46
+16  3937935974       7  119.00           bagget17
+17  8764291339       9   47.43         Doritos108
+18  8710782035       1    9.60           Chitos66
+19  2360854822       5  140.00          butter_61
+date: 2023-02-05
+payment_type: 2
+total_pay: 1634.23 NIS
+seller name: Donald Dawson

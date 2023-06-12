@@ -1,0 +1,22 @@
+customer_name: Jo Devereux
+customer name: Jo Devereux
+productS:             id  amount   price              name
+0   9922250933       8   96.00         prezel104
+1   4472529594       1    7.00          jahnon51
+2   6979473379       9   99.00        baklawa108
+3   6001323820       1   16.00          pizza111
+4   5267069854       7  154.00    mozzarella_776
+5   9524222058       7   32.62           Kefli85
+6   2264942498       3   30.27        Pringles72
+7   4093685378      10  120.00            cake39
+8   4502894018       3   12.39          Bisli107
+9   6312145365      10   60.40           Chips83
+10  7022061558      10   59.10          Chitos52
+11  5268101843       4   68.00           bread23
+12  3484107479      10  200.00  freedom_eggs_592
+13  6996730348       3   17.85          Chitos15
+14  6131636355       4   60.00    sour_cream_217
+date: 2023-01-26
+payment_type: 1
+total_pay: 1032.63 NIS
+seller name: Latasha Mace

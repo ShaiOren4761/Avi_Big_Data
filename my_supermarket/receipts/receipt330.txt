@@ -1,0 +1,20 @@
+customer_name: Rachel Russel
+customer name: Rachel Russel
+productS:             id  amount   price               name
+0   1989956362       5   58.95            Kefli71
+1   9256288476      10  350.00           coco_174
+2   4254394490      10   60.80            Bisli56
+3    526217812       5   22.20          Doritos39
+4   9961748196       8   70.64             Bamba6
+5   7442414626       2   18.76            Bamba38
+6   1051807988       4   52.00             lafa45
+7   6274744865       3  105.00  melted_cheese_848
+8   3876018141       2   29.64            Kefli33
+9   8132274340       2   22.00          milky_922
+10  3028197875       9  135.00             cake14
+11  7680435083       9   45.00           jahnon42
+12  9214557961       8   97.76            Kefli67
+date: 2023-01-02
+payment_type: 2
+total_pay: 1067.75 NIS
+seller name: Karen Salazar

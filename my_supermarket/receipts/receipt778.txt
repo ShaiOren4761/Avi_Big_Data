@@ -1,0 +1,21 @@
+customer_name: Kevin Bjornson
+customer name: Kevin Bjornson
+productS:             id  amount   price             name
+0   5656993571       5   27.95         Kefli100
+1   5364754969       1   10.61         Chitos26
+2   5048146984       3    9.15           Bamba1
+3   7368280735       4   20.88         Doritos8
+4   3040672854       6   25.44          Bisli38
+5   8149097266       7  126.00           pizza2
+6   2801344722       5   95.00         cookie52
+7   8662802681       2   70.00  sweet_cream_301
+8   1089415206       5  100.00        prezel130
+9   4645522651       9   99.00           pita77
+10  6603082238       8   48.00        baklawa25
+11  8056096195       6   55.74          Kefli21
+12  1937118997       5   67.35        Popcorn66
+13  3079591808       1    2.05         Popcorn6
+date: 2023-05-20
+payment_type: 1
+total_pay: 757.17 NIS
+seller name: Lillian Dolan

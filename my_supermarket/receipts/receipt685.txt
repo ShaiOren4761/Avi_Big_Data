@@ -1,0 +1,25 @@
+customer_name: George Culp
+customer name: George Culp
+productS:             id  amount   price               name
+0   9619085841       6   84.00             pizza1
+1   6001323820      10  160.00           pizza111
+2   9748473860      10  240.00  melted_cheese_969
+3   2413705759       4   59.80         Doritos102
+4   5029476225       3   25.14         Pringles83
+5   2400900521       8   53.04            Bamba21
+6   5947459517       5   85.00  yellow_cheese_379
+7   9271334447       1   13.42          Popcorn43
+8   8816185920       7  182.00          carlo_498
+9   1585628735      10   50.00           jahnon47
+10  9689010272      10   70.00          milky_621
+11  6575648217       2    4.44            Chitos7
+12  5250120636       8  103.28            Kefli44
+13  1463834928      10   70.00           pizza103
+14  8013196005       1   13.77          Doritos38
+15  1433144136       9  180.00    swiss_cheese_80
+16  6760272220       8   40.00           milk_156
+17  5468043552       2   16.00           bagget16
+date: 2023-05-10
+payment_type: 2
+total_pay: 1449.8899999999999 NIS
+seller name: Ann Hutchens

@@ -1,0 +1,23 @@
+customer_name: Julius Reich
+customer name: Julius Reich
+productS:             id  amount   price                 name
+0   2371009115       2    7.06              Chips61
+1   7344736627       8  200.00  Napoleon_cheese_173
+2   5556560143       2   24.00    yellow_cheese_642
+3   5961411699       2   34.00             bagget31
+4   5569191280       7  105.00            jahnon106
+5   6979473379       4   44.00           baklawa108
+6   5846565267       6   60.00           butter_804
+7   6180901817       5   45.00               cake73
+8   8217636774       8   64.00               pita68
+9   5805333708       7  196.00    yellow_cheese_850
+10  6387990502      10  130.00             coco_958
+11   983000324      10  113.70            Popcorn97
+12  9275140575       7   68.74             Apropo21
+13  7999335615       9  144.00            baklawa63
+14  1667127127       8   80.00                ziva7
+15  7475540137       1   14.53             Apropo65
+date: 2023-02-05
+payment_type: 2
+total_pay: 1330.03 NIS
+seller name: Renee Brammer

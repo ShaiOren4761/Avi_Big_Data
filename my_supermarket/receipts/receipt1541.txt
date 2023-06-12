@@ -1,0 +1,19 @@
+customer_name: Blake Whitt
+customer name: Blake Whitt
+productS:             id  amount   price             name
+0   1069135867       9  126.72       Pringles15
+1   6647405500       3   33.00         dunats32
+2   1110458406      10  120.00  sweet_cream_827
+3    891634019       3   43.65          Bamba69
+4   2529318508      10   97.00          Kefli48
+5   9162930837       8  136.00            pie58
+6   3539700204       2   11.90         Chitos83
+7   8354355213       8   88.00        baklawa40
+8   6820171813       7   97.44          Bisli86
+9   9405902825       8   64.00         lahuh103
+10  1291273773       6   42.00       danone_971
+11  6373906570      10  200.00           pita46
+date: 2023-05-13
+payment_type: 2
+total_pay: 1059.71 NIS
+seller name: Kevin Goldberg

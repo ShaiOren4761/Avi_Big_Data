@@ -1,0 +1,17 @@
+customer_name: Anne Robinson
+customer name: Anne Robinson
+productS:            id  amount   price              name
+0  4492288116       1   26.00         milky_109
+1  6254400349       5   60.00            lafa41
+2  1501817413       6  132.00         milky_514
+3  3284591346       3   10.29            Chips6
+4  3679901541       7   77.00            hala82
+5  9281623915       4   48.64          Chitos10
+6  4699625420       9   45.00  freedom_eggs_139
+7  3803863592       4   25.96          Chitos99
+8  5303405342       8   48.00             pie90
+9  8961098720       2   34.00             pie76
+date: 2023-03-03
+payment_type: 1
+total_pay: 506.88999999999993 NIS
+seller name: Renee Brammer

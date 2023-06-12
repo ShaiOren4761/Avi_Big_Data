@@ -1,0 +1,16 @@
+customer_name: Eileen Miller
+customer name: Eileen Miller
+productS:            id  amount  price        name
+0  5154852775       9  63.00  butter_344
+1  8617449927       3  36.00   carlo_640
+2  4728775862       3  34.71  Pringles75
+3  7684748577       8  69.84   Doritos52
+4  7488629629       1  19.00      pie115
+5  1063608998       1  27.00  butter_871
+6  2491132087       4  24.00  baklawa111
+7  7455706051      10  70.00     pizza30
+8  1883634679       9  76.59    Chitos38
+date: 2023-03-30
+payment_type: 1
+total_pay: 420.14 NIS
+seller name: Margaret Mclaughlin

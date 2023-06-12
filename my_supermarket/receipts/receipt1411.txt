@@ -1,0 +1,22 @@
+customer_name: Dylan Moreland
+customer name: Dylan Moreland
+productS:             id  amount   price            name
+0   3186737960       6   64.92         Bamba14
+1   1888017293       3   18.36        Chitos75
+2   1457276062       6   78.00        lahuh116
+3   6327186471      10  141.00         Kefli25
+4   7791317222       8   74.08          Kefli6
+5   8867646932       2   22.00          ziva13
+6   5645144241       6   42.00   mozzarella_60
+7   7660828820       7  238.00        eggs_510
+8   6180901817      10   90.00          cake73
+9   9674451366      10  240.00  mozzarella_296
+10  4064018847       6   72.00        bread118
+11  1904353556       5   70.00       baklawa45
+12  2379420414       8  272.00        carlo_37
+13  7194126968       8  240.00  sour_cream_104
+14  6170279972       7   63.00           ziva3
+date: 2023-04-23
+payment_type: 1
+total_pay: 1725.36 NIS
+seller name: Renee Brammer

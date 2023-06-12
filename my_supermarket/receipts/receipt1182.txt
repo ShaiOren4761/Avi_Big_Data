@@ -1,0 +1,21 @@
+customer_name: Robert Stowers
+customer name: Robert Stowers
+productS:             id  amount   price               name
+0   5563309872       9  104.40            Bisli18
+1   7619859060       4   20.00          jahnon103
+2   1295468515       3   18.00     mozzarella_623
+3   7254608117       6   66.00          bagget107
+4   9501290439       8  248.00           eggs_840
+5   7166066205       9  112.86          Popcorn37
+6   8564655621       8   26.40         Pringles44
+7   1667621181       5  105.00         butter_311
+8   6676542296       2   64.00     mozzarella_573
+9   5289936398       3   37.35          Chitos105
+10  1577139568       4  108.00  melted_cheese_859
+11  3360759680       8   61.76         Doritos105
+12  5586977211      10  340.00  yellow_cheese_381
+13  5050469915       2   12.00           eggs_873
+date: 2023-05-12
+payment_type: 0
+total_pay: 1323.77 NIS
+seller name: Calvin Manahan

@@ -1,0 +1,21 @@
+customer_name: Stephanie Beltran
+customer name: Stephanie Beltran
+productS:             id  amount   price             name
+0   1701666046       9   72.00        carlo_253
+1   9365899564       9  261.00         coco_764
+2   7918774723       7   77.07       Pringles53
+3   5396170847       4    8.24         Apropo74
+4   9841488039       6   52.26         Apropo23
+5   8540776534       2   64.00       butter_459
+6   5421741940       7   47.39          Chips17
+7   7899063920       3   27.72           Chips9
+8   3430570559       9  108.00        Popcorn93
+9   3365162672       4   52.00        cookie127
+10  2088419802      10   90.00  organic_eggs_54
+11  3406550533       3  105.00         eggs_333
+12  1154030869       4   26.56          Chips21
+13   530215131       8   36.40         Apropo81
+date: 2023-03-18
+payment_type: 3
+total_pay: 1027.6399999999999 NIS
+seller name: Maria Barnett

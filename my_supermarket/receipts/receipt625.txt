@@ -1,0 +1,19 @@
+customer_name: Jonathan Parris
+customer name: Jonathan Parris
+productS:             id  amount   price                 name
+0   4977676118      10   92.90              Kefli24
+1   8232637125       4    9.40               Bisli3
+2   9316835841       9   55.26           Pringles41
+3   9841488039       4   34.84             Apropo23
+4    830724942       4   48.72            Doritos17
+5   5051670528       7  231.00    yellow_cheese_816
+6   8160932095       5   30.00                pita1
+7   4257662409       2   60.00  Napoleon_cheese_875
+8   4562876616       9   81.00             coco_351
+9   9309788096       4   40.00                pie74
+10  8578084847       1   29.00             eggs_544
+11  1205656095       6  108.00     swiss_cheese_500
+date: 2023-01-03
+payment_type: 3
+total_pay: 820.12 NIS
+seller name: Hobert Wimberly

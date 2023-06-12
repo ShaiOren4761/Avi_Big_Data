@@ -1,0 +1,20 @@
+customer_name: James Gregory
+customer name: James Gregory
+productS:             id  amount   price               name
+0   6756486695      10   50.00           dunats51
+1   8872853252       6   36.00            lahuh90
+2   7238445179      10  240.00  yellow_cheese_624
+3   5766312840       1   30.00      goat_milk_684
+4   3489324048       1   17.00              pie18
+5   7952740321       5   31.50            Bisli11
+6   6273766830       6   28.62          Doritos47
+7   4528126301       9   90.00           jahnon24
+8   1893166475       4   20.00         danone_761
+9   6756279248       4   40.00            coco_77
+10  3809523117       6   66.00          cream_746
+11  8213997519      10  140.00           yolo_694
+12  1973279218       1   29.00          milky_651
+date: 2023-02-27
+payment_type: 0
+total_pay: 818.12 NIS
+seller name: Maria Barnett

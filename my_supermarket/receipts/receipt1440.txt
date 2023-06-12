@@ -1,0 +1,13 @@
+customer_name: Walter Mojica
+customer name: Walter Mojica
+productS:            id  amount   price              name
+0  6820171813       2   27.84           Bisli86
+1  9329690189       6   36.00     goat_milk_591
+2  6807358674       9  135.00  organic_eggs_997
+3  3775249908      10  160.00             pie84
+4  2847420997       3   54.00           pizza89
+5  4938601857       3   27.00            ziva79
+date: 2023-01-05
+payment_type: 0
+total_pay: 439.84000000000003 NIS
+seller name: Calvin Manahan

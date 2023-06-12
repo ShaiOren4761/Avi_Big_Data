@@ -1,0 +1,14 @@
+customer_name: Maria Ortiz
+customer name: Maria Ortiz
+productS:            id  amount   price               name
+0  1062361589       4   92.00           eggs_365
+1  8115468682       3    6.21            Bamba58
+2  9719100235       8  107.36            Chitos2
+3  9872061983       5   25.00            lahuh79
+4   680637539       1    8.69            Chips23
+5  8918075819       8  216.00  melted_cheese_548
+6  1704744494       3   51.00           prezel28
+date: 2023-04-05
+payment_type: 0
+total_pay: 506.26 NIS
+seller name: Calvin Manahan

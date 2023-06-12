@@ -1,0 +1,26 @@
+customer_name: Marisela Thompson
+customer name: Marisela Thompson
+productS:             id  amount   price              name
+0   3914285175       9  117.00           lahuh21
+1   9144063279       6    6.84        Pringles31
+2   1416007187       8  104.00             lafa3
+3   4152593241       5   90.00  swiss_cheese_784
+4   4978594159       2   30.00         dunats129
+5   5211526517       4   64.00        butter_405
+6   6560407446       4   96.00  melted_cheese_38
+7   5981601891       8  112.00    sour_cream_103
+8    927866049       9   14.04           Apropo2
+9   7959612046       9  297.00  swiss_cheese_194
+10  5963004709      10  350.00    mozzarella_476
+11  2339625165       9  126.27         Popcorn33
+12  6441877331       3   66.00          milk_366
+13  6162064724       6   84.00           pizza68
+14  9727334673       7  175.00          yolo_852
+15  4865712712       9   45.00            hala84
+16  6575648217       6   13.32           Chitos7
+17  4358550117       9   72.00   almond_milk_427
+18  9316835841       6   36.84        Pringles41
+date: 2023-04-25
+payment_type: 0
+total_pay: 1899.31 NIS
+seller name: Lillian Dolan

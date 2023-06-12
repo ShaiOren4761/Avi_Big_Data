@@ -1,0 +1,24 @@
+customer_name: John Donohoe
+customer name: John Donohoe
+productS:             id  amount   price               name
+0   8132274340       1   11.00          milky_922
+1   7267361313       3    6.00           Apropo22
+2   2801344722       9  171.00           cookie52
+3   5432886345       5  135.00  melted_cheese_986
+4   6472923414       2   34.00           prezel26
+5   7686144721      10  110.00           baklawa7
+6   7037720222       4   72.00             lafa67
+7   9182291699       9  162.00         danone_271
+8   7001071714      10  147.90          Popcorn83
+9   9928266964       4   20.00          carlo_941
+10  2925754881       6  108.00           dunats83
+11  4461757614       1    8.00           carlo_43
+12  2373790322       9   85.41          Popcorn90
+13  6737160450       6   81.72          Doritos42
+14  2920059897       2   34.00  melted_cheese_262
+15  5940529682       7   90.44            Bisli81
+16  3187274481       7   35.00          carlo_110
+date: 2023-04-03
+payment_type: 1
+total_pay: 1311.47 NIS
+seller name: Ann Hutchens

@@ -1,0 +1,26 @@
+customer_name: Peter Hoppe
+customer name: Peter Hoppe
+productS:             id  amount   price               name
+0   8584680793       8  128.00          prezel117
+1   4545755994       4   30.00          Popcorn81
+2   8900185926      10  340.00    swiss_cheese_23
+3   4908348754       9  171.00            bread58
+4   9533510195       3   75.00         butter_210
+5   3914285175       6   78.00            lahuh21
+6   2381124529       1    1.56         Pringles49
+7   3736679607       3   48.00  yellow_cheese_799
+8   5958925871       5   90.00           cookie84
+9   4289435339       6   29.94            Bamba35
+10  8152386501       8   56.00            ziva115
+11  1939409965       9   71.55            Chips55
+12   351767791       7   59.08            Bisli93
+13  9838003751       3   60.00             pita24
+14  5010882932       9  162.00  yellow_cheese_494
+15  5907467063       8    8.08           Apropo86
+16  6530924413       7   40.53         Pringles74
+17  1976905118       9  306.00   freedom_eggs_251
+18  8986454308      10   25.00           Apropo91
+date: 2023-01-24
+payment_type: 0
+total_pay: 1779.7399999999998 NIS
+seller name: Renee Brammer

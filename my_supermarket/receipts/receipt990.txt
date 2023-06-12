@@ -1,0 +1,13 @@
+customer_name: Joshua Davis
+customer name: Joshua Davis
+productS:            id  amount  price            name
+0  6523953105       3   36.0        bread117
+1  9510445822       8   72.0         bread77
+2  6676542296       5  160.0  mozzarella_573
+3  1762992509       1    5.0        coco_257
+4  9538962680       5   35.0         bread14
+5  9351326770       6   66.0          cake78
+date: 2023-01-28
+payment_type: 0
+total_pay: 374.0 NIS
+seller name: Harold Mitchell

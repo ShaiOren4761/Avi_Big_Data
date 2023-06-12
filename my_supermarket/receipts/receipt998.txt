@@ -1,0 +1,19 @@
+customer_name: Gary Moniz
+customer name: Gary Moniz
+productS:             id  amount   price               name
+0   1990960024       9   79.92          Popcorn10
+1   5051670528       6  198.00  yellow_cheese_816
+2   4136689739       5   57.60            Apropo9
+3   3009209494      10  150.00            pizza38
+4   9792975978       7   42.00            cake126
+5   1769108574       2   66.00      goat_milk_853
+6   5159724944       4   40.00    swiss_cheese_68
+7   1416007187       9  117.00              lafa3
+8   1081758373       3   10.17         Pringles16
+9   6249891642       6   29.88          Popcorn77
+10  6255675487       9  117.00          jahnon104
+11  6451462869       3   84.00            yolo_75
+date: 2023-05-25
+payment_type: 1
+total_pay: 991.5699999999999 NIS
+seller name: Harold Mitchell

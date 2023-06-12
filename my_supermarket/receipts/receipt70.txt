@@ -1,0 +1,23 @@
+customer_name: Ralph Malmquist
+customer name: Ralph Malmquist
+productS:             id  amount   price              name
+0   7362098225       6   36.00         dunats107
+1   9092334022       3   51.00        butter_632
+2   9144063279       4    4.56        Pringles31
+3   4004511853       7   91.00   almond_milk_285
+4   6419917584       2   48.00          eggs_346
+5   8011419334       1    9.90           Kefli65
+6   6098053049       7  210.00  swiss_cheese_869
+7   9629518661       3   33.00          yolo_248
+8   3581688547       6   42.00           bagget1
+9   3914285175       7   91.00           lahuh21
+10  4014691943       9  252.00        danone_594
+11  9088276628       7   70.00          bagget33
+12  8638366391       5   75.00           lahuh37
+13  3643651758       4   60.00          dunats30
+14  2691268800       1   15.00            hala52
+15  2169055244       4   39.56            Chips2
+date: 2023-01-28
+payment_type: 2
+total_pay: 1128.02 NIS
+seller name: Harold Mitchell

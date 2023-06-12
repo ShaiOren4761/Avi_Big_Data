@@ -1,0 +1,25 @@
+customer_name: Bernice Bratton
+customer name: Bernice Bratton
+productS:             id  amount   price              name
+0   7790758336       5   25.00            pita83
+1   9485362329       7  119.00          jahnon20
+2   6064791707       8  176.00  organic_eggs_389
+3   8283358007       2   34.00            hala91
+4   5971019777       2   10.28        Pringles60
+5   5510676704       4   92.00   freedom_eggs_13
+6   1204751525      10  100.00            cake56
+7   7790758336       1    5.00            pita83
+8   1131218704       5    5.95        Pringles92
+9   9619085841       6   84.00            pizza1
+10  9231831135       9  117.00         burekas52
+11  5614825031       8  256.00  organic_eggs_145
+12  2177277294       2   58.00          yolo_710
+13  3906818305       2   20.00          bagget54
+14  7621171584       3   30.00        butter_343
+15  7944577583       2   20.00  swiss_cheese_206
+16  6334306308       5   70.55         Apropo100
+17  8823433575       7  189.00     goat_milk_721
+date: 2023-05-05
+payment_type: 3
+total_pay: 1411.78 NIS
+seller name: Kevin Goldberg

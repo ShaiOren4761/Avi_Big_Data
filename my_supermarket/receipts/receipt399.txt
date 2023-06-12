@@ -1,0 +1,16 @@
+customer_name: Stephanie Rocha
+customer name: Stephanie Rocha
+productS:            id  amount   price                 name
+0  8074399800       7  147.00      sweet_cream_728
+1  4217061826       4   64.00            carlo_107
+2  6513038711       3   90.00  Napoleon_cheese_547
+3  4155033178       6  162.00  Napoleon_cheese_268
+4  3655445922       6   54.00      almond_milk_741
+5  3711971455       1   16.00       sour_cream_645
+6  1281050931       7   35.00            baklawa86
+7  7475540137       7  101.71             Apropo65
+8  1968789158      10  160.00             eggs_912
+date: 2023-03-24
+payment_type: 1
+total_pay: 829.71 NIS
+seller name: Lillian Dolan

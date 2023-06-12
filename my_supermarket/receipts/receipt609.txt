@@ -1,0 +1,23 @@
+customer_name: Sherri Brown
+customer name: Sherri Brown
+productS:             id  amount   price               name
+0   7375449681       3   45.00             pita74
+1   2553042839       6   48.12           Kefli108
+2   7257792576       8   12.48            Chips65
+3   1307466509       5   30.00          carlo_180
+4   9990461172       6   36.00    freedom_eggs_19
+5    755756435       8   46.08           Chitos27
+6   7192338906       4   44.56          Popcorn27
+7   3026394770       4   56.60          Doritos23
+8   1213796842       4   10.28           Chitos61
+9   5940529682      10  129.20            Bisli81
+10  9181433540      10   50.00           cookie69
+11  3652468555       1   20.00          baklawa73
+12  8330666271      10  340.00  melted_cheese_583
+13   746906274       2   19.40         Pringles94
+14  9645840367       9  216.00          milky_484
+15  7025067555       2   50.00    sweet_cream_631
+date: 2023-01-05
+payment_type: 0
+total_pay: 1153.7199999999998 NIS
+seller name: Marie Natonabah

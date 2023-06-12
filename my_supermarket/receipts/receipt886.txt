@@ -1,0 +1,19 @@
+customer_name: Jeanette Jones
+customer name: Jeanette Jones
+productS:             id  amount   price        name
+0   8364502634      10  190.00    dunats31
+1   8258854322       1    8.00  danone_638
+2   2688996055       5   65.00   baklawa91
+3   6401153211       9   54.00     jahnon9
+4   3180348316       5   35.00     carlo_9
+5   8624886662       4   11.00     Bamba55
+6   7359376015       2   26.00      hala61
+7   4769549964       4   14.60  Pringles95
+8   1204751525       4   40.00      cake56
+9   8928477549       8   72.00    milk_385
+10  6052439119       3   26.67    Chitos57
+11  8076538622       1   14.00     pita118
+date: 2023-03-17
+payment_type: 3
+total_pay: 556.27 NIS
+seller name: Maria Barnett

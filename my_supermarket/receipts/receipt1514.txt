@@ -1,0 +1,11 @@
+customer_name: Bobby Mann
+customer name: Bobby Mann
+productS:            id  amount   price             name
+0  3528488014       2   22.82       Pringles93
+1  4364174241      10  320.00  swiss_cheese_18
+2  5575512464       9  102.60        Doritos69
+3  1472205104       6   90.00         coco_779
+date: 2023-04-19
+payment_type: 3
+total_pay: 535.4200000000001 NIS
+seller name: Harold Mitchell

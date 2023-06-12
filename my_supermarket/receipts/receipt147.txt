@@ -1,0 +1,15 @@
+customer_name: William Niebaum
+customer name: William Niebaum
+productS:            id  amount   price               name
+0  8263940839       6   35.94           Chitos30
+1  5613801821       8   64.00     mozzarella_380
+2  6247951073       4    6.48            Kefli84
+3  7270045684       4   80.00             lafa29
+4  5226996829       2   32.00     mozzarella_305
+5  1457276062       1   13.00           lahuh116
+6  5019733399       5  165.00  melted_cheese_736
+7  6952742186       5  130.00    almond_milk_527
+date: 2023-05-14
+payment_type: 2
+total_pay: 526.4200000000001 NIS
+seller name: Donald Dawson

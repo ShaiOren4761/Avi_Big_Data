@@ -1,0 +1,11 @@
+customer_name: Theodore Nguyen
+customer name: Theodore Nguyen
+productS:            id  amount  price             name
+0  9722328824       4  40.28          Bisli59
+1  8416764864       9  54.00  almond_milk_846
+2  5862250831       6  66.00        burekas32
+3  9831681615       4  92.00         coco_317
+date: 2023-05-25
+payment_type: 0
+total_pay: 252.28 NIS
+seller name: Roberta Lewis

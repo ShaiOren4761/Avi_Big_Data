@@ -1,0 +1,21 @@
+customer_name: Michael Nicholson
+customer name: Michael Nicholson
+productS:             id  amount   price              name
+0   1525259785       6   30.00           lahuh64
+1   2420213098       6   34.14           Bamba62
+2   1186321505       5   45.00            cake21
+3   7806183310       1   11.00           lafa101
+4   2304968963       6   12.30           Bisli63
+5   7619859060       2   10.00         jahnon103
+6   3464017264       9   99.00  melted_cheese_39
+7   6519763670       5   75.00          cookie75
+8   5614825031       3   96.00  organic_eggs_145
+9   3692807514       8   59.28          Apropo24
+10  7762335215       8  136.00          lahuh111
+11  7435947285       2   26.00            hala51
+12  2357080802       7   84.00          bagget29
+13   921280969      10   41.90       Pringles108
+date: 2023-01-27
+payment_type: 0
+total_pay: 759.62 NIS
+seller name: James Briggs

@@ -1,0 +1,14 @@
+customer_name: Davis Saugis
+customer name: Davis Saugis
+productS:            id  amount   price           name
+0  4937476280       9  225.00  goat_milk_517
+1  6162064724       4   56.00        pizza68
+2  7057852262       5    6.50        Bamba28
+3  9151505441       5   21.60        Kefli27
+4   259200784       6   75.96        Bisli43
+5  3412319267      10  260.00      carlo_839
+6  7293801939       9  162.00         pita37
+date: 2023-02-16
+payment_type: 2
+total_pay: 807.0600000000001 NIS
+seller name: Ann Hutchens

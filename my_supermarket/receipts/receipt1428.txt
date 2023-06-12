@@ -1,0 +1,25 @@
+customer_name: Priscilla Howard
+customer name: Priscilla Howard
+productS:             id  amount   price               name
+0   8584680793       7  112.00          prezel117
+1   7727802001      10  123.90         Popcorn102
+2   2922052037       9  126.00          bagget115
+3   4932010130       4   51.32            Bamba46
+4   4719445586      10  170.00           baklawa9
+5   8925890885       5   70.00             ziva57
+6   9256288476       3  105.00           coco_174
+7   7678696918       1   14.14           Chitos56
+8   4049469565       7  245.00          cream_520
+9   3953812972       2   13.30          Popcorn20
+10  4273284919       8  176.00  melted_cheese_662
+11  4363172654       1   12.17         Pringles45
+12  7342084592       2   18.00           jahnon13
+13  5151217560       1    1.63            Bamba97
+14  9120903673       5   45.00              pie71
+15  2494120653       6   72.00          cream_201
+16  4664569490       5   50.00             hala88
+17  1623050821       3   25.89           Apropo41
+date: 2023-03-24
+payment_type: 3
+total_pay: 1431.3500000000004 NIS
+seller name: Calvin Manahan

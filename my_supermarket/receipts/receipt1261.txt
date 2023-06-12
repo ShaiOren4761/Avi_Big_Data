@@ -1,0 +1,16 @@
+customer_name: Jodie Francis
+customer name: Jodie Francis
+productS:            id  amount   price              name
+0  2614337376       9  144.00          coco_190
+1  9120124782       8   56.00        butter_617
+2  5228617410       2   10.68           Bamba54
+3  7148783653       7   73.15        Pringles39
+4  1989956362       6   70.74           Kefli71
+5  7863214881       7  140.00        butter_367
+6  9805965278      10   65.10           Kefli54
+7  8723057968       5  120.00  organic_eggs_439
+8  6910603180       5   53.80           Bamba76
+date: 2023-03-12
+payment_type: 0
+total_pay: 733.4699999999999 NIS
+seller name: Renee Brammer

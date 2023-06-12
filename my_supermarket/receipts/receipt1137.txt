@@ -1,0 +1,22 @@
+customer_name: Grace Lachiatto
+customer name: Grace Lachiatto
+productS:             id  amount   price              name
+0   5715320344       3   57.00  organic_eggs_750
+1   3828166456       3   66.00          coco_888
+2   1522229505      10  119.50          Apropo28
+3   2337054084       4   40.00   organic_eggs_63
+4   7433662161      10   54.20           Chips35
+5   6406673582       6   37.62          Apropo30
+6   4032342296      10  117.20           Bamba90
+7   2499168099      10   90.00            milk_5
+8   8961298070       6  180.00         cream_142
+9   1055068680       3   90.00          carlo_36
+10  4801118426       5   62.40          Chitos25
+11  7958609756       4  108.00        butter_648
+12  8357107194       7   20.86       Pringles110
+13  3260308396       7  119.00  swiss_cheese_763
+14  8238866691      10  120.00            hala74
+date: 2023-02-22
+payment_type: 2
+total_pay: 1281.78 NIS
+seller name: Hobert Wimberly

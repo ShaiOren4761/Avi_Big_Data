@@ -1,0 +1,12 @@
+customer_name: Joel Garner
+customer name: Joel Garner
+productS:            id  amount   price            name
+0  6183995829       5  175.00       cream_977
+1  5556139998       8   67.36       Pringles8
+2  3395151208       8  136.00      baklawa126
+3  6720135342       9  288.00  mozzarella_511
+4  2853965541       6   41.10         Bisli15
+date: 2023-01-16
+payment_type: 2
+total_pay: 707.46 NIS
+seller name: Hobert Wimberly

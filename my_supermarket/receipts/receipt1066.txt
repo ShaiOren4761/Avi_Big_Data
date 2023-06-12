@@ -1,0 +1,12 @@
+customer_name: Mary Stromquist
+customer name: Mary Stromquist
+productS:            id  amount  price        name
+0  4911802914       2  62.00  butter_821
+1  9783880731       7  56.00      cake72
+2  8144074193       5  90.00    milk_323
+3  2388008773       8  80.00   milky_865
+4  2304919530       8  46.48    Apropo42
+date: 2023-03-28
+payment_type: 1
+total_pay: 334.48 NIS
+seller name: Calvin Manahan

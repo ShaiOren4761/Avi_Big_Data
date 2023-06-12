@@ -1,0 +1,8 @@
+customer_name: Joseph Shepherd
+customer name: Joseph Shepherd
+productS:            id  amount  price                name
+0  8006653806       6  150.0  Napoleon_cheese_82
+date: 2023-03-09
+payment_type: 2
+total_pay: 150.0 NIS
+seller name: Ann Hutchens

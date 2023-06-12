@@ -1,0 +1,25 @@
+customer_name: Myrtle Pezzuti
+customer name: Myrtle Pezzuti
+productS:             id  amount   price             name
+0   3084987021      10  140.00          hala106
+1   6459364043      10   70.00         coco_863
+2   8281106225       6  138.00  organic_eggs_47
+3    164789150       1    6.45         Apropo33
+4   1512994245       2   34.00         bread102
+5   2880554164       1   14.84          Chips85
+6   7359376015       2   26.00           hala61
+7   3705391036       8    9.84          Kefli88
+8   5053409659       8  104.00           ziva28
+9   4395759406       2   36.00         prezel27
+10  3090636864       8   88.48           Kefli7
+11  7455706051       6   42.00          pizza30
+12  6901815241       5   52.05        Doritos75
+13  1081758373       4   13.56       Pringles16
+14  2312999978       8   64.00           lafa22
+15  6715129951       2   11.16        Doritos31
+16  5267069854       5  110.00   mozzarella_776
+17  7320566045       2    2.90        Pringles2
+date: 2023-04-30
+payment_type: 0
+total_pay: 963.2799999999997 NIS
+seller name: Latasha Mace

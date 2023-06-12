@@ -1,0 +1,9 @@
+customer_name: Joel Lorenzen
+customer name: Joel Lorenzen
+productS:            id  amount  price      name
+0  5438646197       9  180.0  yolo_703
+1  5684868233       2   16.0    pita39
+date: 2023-05-16
+payment_type: 0
+total_pay: 196.0 NIS
+seller name: Harold Mitchell

@@ -1,0 +1,12 @@
+customer_name: Adrian Adams
+customer name: Adrian Adams
+productS:            id  amount   price           name
+0  2912404325      10  150.00  goat_milk_313
+1  5053409659       2   26.00         ziva28
+2  2853965541       9   61.65        Bisli15
+3  5625876948       3   18.00       dunats79
+4  7693680065       7   29.47        Kefli17
+date: 2023-03-24
+payment_type: 0
+total_pay: 285.12 NIS
+seller name: Edna Collins

@@ -1,0 +1,16 @@
+customer_name: Robert Short
+customer name: Robert Short
+productS:            id  amount   price               name
+0  3627451698       7  119.00  yellow_cheese_536
+1  2513513163       7  105.00     sour_cream_783
+2  3013865457       1   34.00   freedom_eggs_361
+3  4890604804       4   64.00  melted_cheese_146
+4  4406179452       5   55.00           jahnon70
+5  4853031737       9   51.48         Doritos103
+6  1704744494       7  119.00           prezel28
+7  3578084870       5   80.00            hala105
+8  7425987265       6   36.00             lafa39
+date: 2023-04-02
+payment_type: 1
+total_pay: 663.48 NIS
+seller name: Harold Mitchell

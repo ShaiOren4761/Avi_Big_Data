@@ -1,0 +1,9 @@
+customer_name: Irene Nott
+customer name: Irene Nott
+productS:            id  amount  price        name
+0  2801344722       1  19.00    cookie52
+1  2413705759       5  74.75  Doritos102
+date: 2023-01-30
+payment_type: 0
+total_pay: 93.75 NIS
+seller name: Maria Barnett

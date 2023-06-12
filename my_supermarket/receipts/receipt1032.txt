@@ -1,0 +1,21 @@
+customer_name: Bridget Salyer
+customer name: Bridget Salyer
+productS:             id  amount   price               name
+0   8928477549      10   90.00           milk_385
+1   4778426497       1   29.00   swiss_cheese_981
+2   2172244211       1    4.82           Chitos74
+3   1264663960       7   98.00           jahnon21
+4   9275140575       5   49.10           Apropo21
+5   5585678335       9  315.00          carlo_136
+6   7542179498       7   37.94           Chitos19
+7   3998010367       6  102.00           prezel13
+8   2810873971       3   39.66        Pringles104
+9   3206726695       7  238.00  melted_cheese_752
+10  9593093677       2   12.00              lafa7
+11  1930279181       6   66.00            dunats8
+12  2512815450       6   33.00            Kefli16
+13  6098053049      10  300.00   swiss_cheese_869
+date: 2023-05-17
+payment_type: 0
+total_pay: 1414.52 NIS
+seller name: Roberta Lewis

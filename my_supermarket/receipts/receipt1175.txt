@@ -1,0 +1,21 @@
+customer_name: Walter Mojica
+customer name: Walter Mojica
+productS:             id  amount   price                name
+0   5908529954       9  207.00             milky_8
+1   4961948928       2   24.00           burekas27
+2   8949321630       5  140.00  Napoleon_cheese_50
+3   4917182314       9   50.13             Kefli69
+4   6290503442       9   58.23             Kefli11
+5     35941608       4   37.80          Pringles17
+6   7282434778       7  245.00           cream_879
+7   9144063279       4    4.56          Pringles31
+8   5061582836       2   22.60           Popcorn32
+9   1098862419       1   16.00            eggs_935
+10  3438508516       1   31.00       goat_milk_378
+11    25951910       2    6.30            Apropo19
+12  6672844068       2   36.00    organic_eggs_167
+13  5781446230       9  117.45             Bisli55
+date: 2023-03-05
+payment_type: 2
+total_pay: 996.0699999999999 NIS
+seller name: Kevin Goldberg

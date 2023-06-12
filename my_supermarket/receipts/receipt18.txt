@@ -1,0 +1,15 @@
+customer_name: Michael Nicholson
+customer name: Michael Nicholson
+productS:            id  amount   price        name
+0  6401153211       5   30.00     jahnon9
+1  2762130524      10  130.00   carlo_996
+2  5115958410       9   64.35     Chips72
+3  4462023235       6  114.00      pita16
+4  7922481078       2   24.00    burekas2
+5  3786025068       7  126.00      pita12
+6  7863214881       8  160.00  butter_367
+7  7057301556       3   34.20     Bisli41
+date: 2023-01-14
+payment_type: 0
+total_pay: 682.5500000000001 NIS
+seller name: Jennifer Roberts

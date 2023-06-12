@@ -1,0 +1,10 @@
+customer_name: Carole Ferguson
+customer name: Carole Ferguson
+productS:            id  amount  price        name
+0  7148783653       1  10.45  Pringles39
+1  7033661086       1  11.79     Bisli32
+2  7806183310       6  66.00     lafa101
+date: 2023-04-11
+payment_type: 0
+total_pay: 88.24 NIS
+seller name: Hobert Wimberly

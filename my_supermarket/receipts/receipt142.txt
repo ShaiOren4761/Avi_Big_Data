@@ -1,0 +1,16 @@
+customer_name: David Ferra
+customer name: David Ferra
+productS:            id  amount   price               name
+0  6247672416      10  300.00  melted_cheese_409
+1  1029201620       2   17.84            Kefli56
+2  3157657996       8  104.00    yellow_cheese_6
+3  6760272220       5   25.00           milk_156
+4  9395329910       5   21.55            Bisli19
+5  7427634731      10   90.00              hala5
+6  3030491915       5  110.00          carlo_616
+7  2415394970       7   56.00         danone_909
+8  5154250141       4   84.00          cream_676
+date: 2023-02-04
+payment_type: 3
+total_pay: 808.39 NIS
+seller name: Gary Hudson

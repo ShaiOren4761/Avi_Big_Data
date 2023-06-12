@@ -1,0 +1,20 @@
+customer_name: Sandra Henrickson
+customer name: Sandra Henrickson
+productS:             id  amount   price               name
+0   5268101843       7  119.00            bread23
+1   1186321505       3   27.00             cake21
+2   9640864492       9  129.51            Kefli93
+3   8495247521       6   48.00            milky_1
+4   7042153342       5   17.90          Doritos74
+5   6575648217       3    6.66            Chitos7
+6   5556560143       7   84.00  yellow_cheese_642
+7   8431823798       3   23.79            Chips32
+8   2329759333       3   27.00    sweet_cream_769
+9   7270329636       3   12.84          Popcorn53
+10    71270289       4   20.60            Chips10
+11  5592520586       7  175.00  melted_cheese_226
+12  9722328824       3   30.21            Bisli59
+date: 2023-04-08
+payment_type: 1
+total_pay: 721.51 NIS
+seller name: Calvin Manahan

@@ -1,0 +1,18 @@
+customer_name: Willard Reeser
+customer name: Willard Reeser
+productS:             id  amount   price            name
+0   6530993782       5   62.85       Doritos58
+1   6940713322       6   21.18         Bamba70
+2   4873026452       9   18.18       Popcorn16
+3   4121831702       5   62.25         Kefli77
+4   4486272859      10  120.00          ziva22
+5   7653871813      10  330.00  mozzarella_677
+6   4449285211       3   15.00          ziva34
+7   5706653469       2   17.86       Doritos85
+8   5685248023       3   18.57        Chitos13
+9   9152466157       8  103.84        Bamba106
+10  3586877152       8   64.56         Bamba16
+date: 2023-05-25
+payment_type: 2
+total_pay: 834.2900000000002 NIS
+seller name: Kevin Goldberg

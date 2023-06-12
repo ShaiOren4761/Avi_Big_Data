@@ -1,0 +1,22 @@
+customer_name: Mamie Segura
+customer name: Mamie Segura
+productS:             id  amount   price                 name
+0   4272080883      10  300.00             coco_420
+1   8488436518       3   12.93            Doritos12
+2   5613801821       7   56.00       mozzarella_380
+3   5791437051       4   52.00                cake4
+4   7239232397       9   49.05           Pringles76
+5   1976905118       6  204.00     freedom_eggs_251
+6   9104369207       2   66.00       sweet_cream_84
+7   3644585880       1   33.00  Napoleon_cheese_887
+8   5867262543       2   42.00             eggs_705
+9   5585678335       9  315.00            carlo_136
+10  3105964402       3   19.23            Doritos19
+11  1138610511       1   14.00              jahnon3
+12  3147516439       5   70.00            burekas43
+13   509846372       2   17.26           Doritos107
+14  9049790023       5  145.00           danone_426
+date: 2023-03-11
+payment_type: 2
+total_pay: 1395.47 NIS
+seller name: Marie Natonabah

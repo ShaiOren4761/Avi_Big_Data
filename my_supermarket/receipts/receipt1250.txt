@@ -1,0 +1,11 @@
+customer_name: Tyra Brady
+customer name: Tyra Brady
+productS:            id  amount  price      name
+0  5862177913       7  98.00  prezel77
+1  5989249977       3  48.00   lahuh12
+2  1686031406       8  25.44   Chips77
+3  3406550533       2  70.00  eggs_333
+date: 2023-03-21
+payment_type: 3
+total_pay: 241.44 NIS
+seller name: Ann Hutchens

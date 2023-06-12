@@ -1,0 +1,12 @@
+customer_name: Brian Hewett
+customer name: Brian Hewett
+productS:            id  amount   price               name
+0  5051670528      10  330.00  yellow_cheese_816
+1  5058815781       3   10.65             Bamba7
+2  2888103591       4   60.00            hala130
+3  2267559230      10  100.00             ziva38
+4  9635717317       1   10.00          baklawa29
+date: 2023-04-06
+payment_type: 3
+total_pay: 510.65 NIS
+seller name: James Briggs

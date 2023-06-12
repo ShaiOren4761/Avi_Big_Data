@@ -1,0 +1,25 @@
+customer_name: Dennis Pickett
+customer name: Dennis Pickett
+productS:             id  amount   price               name
+0   7430661217      10   50.00            pizza31
+1   6877111813       4   76.00           cookie16
+2   3578084870       8  128.00            hala105
+3   6639540099       4   56.00  melted_cheese_600
+4   9727828047       4   36.00     sour_cream_946
+5   9395158596       6  108.00             pie100
+6   7270045684       6  120.00             lafa29
+7   8320599570       3   19.11            Kefli37
+8   7442414626       1    9.38            Bamba38
+9   5489229213       3   57.00          milky_914
+10  3906218083       5  150.00     sour_cream_707
+11  6755104549       2   34.00    sweet_cream_920
+12   380552080       2   15.46         Pringles66
+13  9629518661       9   99.00           yolo_248
+14  9231831135       4   52.00          burekas52
+15  3676009716       7   15.61            Bisli28
+16  9489218276       8  272.00           coco_115
+17  8540776534       7  224.00         butter_459
+date: 2023-04-20
+payment_type: 2
+total_pay: 1521.56 NIS
+seller name: Renee Brammer

@@ -1,0 +1,8 @@
+customer_name: William Hilson
+customer name: William Hilson
+productS:            id  amount  price       name
+0  6594002831       1   7.03  Doritos88
+date: 2023-03-29
+payment_type: 0
+total_pay: 7.03 NIS
+seller name: Roberta Lewis

@@ -1,0 +1,18 @@
+customer_name: Linda Flaherty
+customer name: Linda Flaherty
+productS:             id  amount   price              name
+0   1095555146       4   60.00   sweet_cream_368
+1   3498356206       1   21.00          milk_280
+2   9256288476       1   35.00          coco_174
+3   4530315044       3   54.00        butter_913
+4   7240835911      10   97.00           Bisli69
+5   4860159750       8  160.00          jahnon79
+6   5751635073       5   35.00  swiss_cheese_483
+7   4813826494       2   18.50           Bamba94
+8   2512815450       6   33.00           Kefli16
+9   8198331591       5   32.95          Chitos36
+10   313901350       9  119.61         Doritos93
+date: 2023-01-20
+payment_type: 1
+total_pay: 666.0600000000001 NIS
+seller name: Renee Brammer

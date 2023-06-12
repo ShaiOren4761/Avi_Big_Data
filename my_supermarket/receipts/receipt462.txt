@@ -1,0 +1,10 @@
+customer_name: Amber Atlas
+customer name: Amber Atlas
+productS:            id  amount  price            name
+0  6190010588       8   88.0      butter_128
+1  2912404325       4   60.0   goat_milk_313
+2  5776977613       5  130.0  mozzarella_341
+date: 2023-03-29
+payment_type: 1
+total_pay: 278.0 NIS
+seller name: Victoria Hansen

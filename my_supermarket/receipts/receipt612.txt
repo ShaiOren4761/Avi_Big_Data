@@ -1,0 +1,9 @@
+customer_name: Patrick Burrows
+customer name: Patrick Burrows
+productS:            id  amount  price        name
+0  4530315044       1  18.00  butter_913
+1  7253780030       5  43.55    Apropo96
+date: 2023-02-27
+payment_type: 0
+total_pay: 61.550000000000004 NIS
+seller name: Donald Dawson

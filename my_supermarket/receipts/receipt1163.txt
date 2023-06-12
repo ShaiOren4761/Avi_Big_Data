@@ -1,0 +1,10 @@
+customer_name: Nicole Bennett
+customer name: Nicole Bennett
+productS:            id  amount  price            name
+0  3344749200       7  224.0  mozzarella_529
+1  6351703797       4   44.0          cake97
+2  7688878677       4   60.0          cake82
+date: 2023-01-01
+payment_type: 3
+total_pay: 328.0 NIS
+seller name: Harold Mitchell

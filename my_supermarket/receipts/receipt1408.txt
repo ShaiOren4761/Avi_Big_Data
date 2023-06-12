@@ -1,0 +1,11 @@
+customer_name: Amy Toombs
+customer name: Amy Toombs
+productS:            id  amount   price       name
+0  2052421405       7   79.38    Bamba29
+1  5706612260      10  130.00  baklawa37
+2  1134679325       3   42.00  bagget109
+3  3809523117       3   33.00  cream_746
+date: 2023-01-13
+payment_type: 1
+total_pay: 284.38 NIS
+seller name: Marie Natonabah

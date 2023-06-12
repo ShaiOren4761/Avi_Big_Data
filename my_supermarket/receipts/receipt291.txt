@@ -1,0 +1,11 @@
+customer_name: Marian Vazquez
+customer name: Marian Vazquez
+productS:            id  amount   price           name
+0  7016251808       1   17.00  goat_milk_502
+1  1893166475       5   25.00     danone_761
+2  2392969327       8  272.00       yolo_369
+3  1691629683       3   28.98        Bisli79
+date: 2023-05-08
+payment_type: 0
+total_pay: 342.98 NIS
+seller name: Donald Dawson

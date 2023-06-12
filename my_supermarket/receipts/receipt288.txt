@@ -1,0 +1,18 @@
+customer_name: Hector Delgado
+customer name: Hector Delgado
+productS:             id  amount   price                 name
+0   3763061895       8  160.00    yellow_cheese_808
+1   6768290091       7   15.33              Chitos5
+2   7722194059      10   54.80              Chips15
+3   7617780373       3   66.00             coco_283
+4   4155033178       3   81.00  Napoleon_cheese_268
+5   2761172891       6   45.96               Kefli8
+6   8452100283      10  150.00                pita8
+7   9246180563       6  114.00     freedom_eggs_537
+8   4467952076       5   53.65             Apropo63
+9   6787324739       4   68.00               hala42
+10  3447023908       3   20.10              Chips96
+date: 2023-03-15
+payment_type: 2
+total_pay: 828.8399999999999 NIS
+seller name: Debra Pearson

@@ -1,0 +1,13 @@
+customer_name: Paul Gutierrez
+customer name: Paul Gutierrez
+productS:            id  amount   price                 name
+0  2807805116       4   30.08           Pringles58
+1  1256411102      10   70.00  Napoleon_cheese_546
+2  4208814624       2   34.00     freedom_eggs_452
+3  2929399599       3   51.00     freedom_eggs_758
+4  7293801939       8  144.00               pita37
+5  7827587070       8   88.00              hala110
+date: 2023-02-09
+payment_type: 0
+total_pay: 417.08 NIS
+seller name: Maria Barnett

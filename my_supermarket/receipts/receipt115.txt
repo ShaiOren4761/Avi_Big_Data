@@ -1,0 +1,22 @@
+customer_name: Richard Craig
+customer name: Richard Craig
+productS:             id  amount   price                 name
+0   3763061895       5  100.00    yellow_cheese_808
+1   2381124529       9   14.04           Pringles49
+2   3876018141       4   59.28              Kefli33
+3   6641651160       7   80.57              Chips91
+4   2267559230       3   30.00               ziva38
+5   3326077837       7  119.00                pita2
+6   3167243069       9  153.00               pita86
+7   5798620122       4  124.00            milky_221
+8   2930396426       5  140.00  Napoleon_cheese_228
+9   3747177917       9   99.99            Popcorn74
+10  4400051105       2   40.00      sweet_cream_576
+11    27374486      10   68.00           Pringles89
+12  2328994516       9   63.00  Napoleon_cheese_610
+13  2242014772      10  180.00             cookie17
+14  3540731110       1   12.93            Chitos104
+date: 2023-01-19
+payment_type: 0
+total_pay: 1283.8100000000002 NIS
+seller name: Gary Hudson

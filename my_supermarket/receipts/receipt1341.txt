@@ -1,0 +1,10 @@
+customer_name: Retta Byrd
+customer name: Retta Byrd
+productS:            id  amount  price        name
+0  8867646932       9   99.0      ziva13
+1  5502444567       7  189.0  danone_724
+2  6186431336       7  210.0   cream_943
+date: 2023-01-24
+payment_type: 2
+total_pay: 498.0 NIS
+seller name: Victoria Hansen

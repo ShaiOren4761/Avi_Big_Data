@@ -1,0 +1,14 @@
+customer_name: Steven Zuckerman
+customer name: Steven Zuckerman
+productS:            id  amount   price             name
+0  6271769728       6   90.00           cake54
+1  8328445925       4   56.40         Apropo92
+2  6441877331       6  132.00         milk_366
+3  7362098225       4   24.00        dunats107
+4   983000324       7   79.59        Popcorn97
+5  6715129951       8   44.64        Doritos31
+6  2511914111       1   25.00  almond_milk_332
+date: 2023-03-09
+payment_type: 0
+total_pay: 451.62999999999994 NIS
+seller name: Latasha Mace

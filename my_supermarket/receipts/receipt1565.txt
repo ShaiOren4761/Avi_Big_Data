@@ -1,0 +1,11 @@
+customer_name: Samuel Michael
+customer name: Samuel Michael
+productS:            id  amount  price             name
+0  5723903853       2  38.00  sweet_cream_652
+1  3395151208       3  51.00       baklawa126
+2  2887000834       4  30.92        Doritos37
+3  7381480320       8  76.32        Apropo104
+date: 2023-02-12
+payment_type: 1
+total_pay: 196.24 NIS
+seller name: Roberta Lewis

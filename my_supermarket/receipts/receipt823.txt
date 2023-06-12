@@ -1,0 +1,16 @@
+customer_name: Diane Stilwell
+customer name: Diane Stilwell
+productS:            id  amount   price      name
+0  1062361589       5  115.00  eggs_365
+1  2668939231       9   43.74   Kefli32
+2  4740215780       1   18.00  eggs_528
+3  1670410375       3   36.00  cookie46
+4  8783938277       9   63.99  Chitos92
+5  8163644093       1   15.00   ziva116
+6  4280459754       3   84.00  coco_416
+7  1670998951       8  111.28   Bamba49
+8  3624877999       3   37.74  Chitos81
+date: 2023-05-07
+payment_type: 2
+total_pay: 524.75 NIS
+seller name: Roberta Lewis

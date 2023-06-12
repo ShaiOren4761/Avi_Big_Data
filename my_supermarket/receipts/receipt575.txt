@@ -1,0 +1,22 @@
+customer_name: Particia Sims
+customer name: Particia Sims
+productS:             id  amount   price               name
+0   8783938277       8   56.88           Chitos92
+1   7978895612       3    4.98            Bisli66
+2   8016138992       9  117.00  melted_cheese_330
+3   6537204810       4  136.00         butter_890
+4   1051106407       8   39.20           Apropo17
+5   2201636818       8   93.68            Bamba47
+6   8120799669       5   20.75          Doritos14
+7   1602351303       2   18.00            bagget6
+8   7660828820       9  306.00           eggs_510
+9   2904169114       2   17.10           Popcorn1
+10  8700915743       7   91.00            bread52
+11  5510676704      10  230.00    freedom_eggs_13
+12  1041583581       2   10.34            Bisli97
+13  7311331817       7   13.58          Popcorn94
+14  4610905587       4   88.00         danone_580
+date: 2023-02-23
+payment_type: 3
+total_pay: 1242.51 NIS
+seller name: Marie Natonabah

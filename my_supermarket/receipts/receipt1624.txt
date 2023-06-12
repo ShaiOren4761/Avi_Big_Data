@@ -1,0 +1,15 @@
+customer_name: Sandy Dodds
+customer name: Sandy Dodds
+productS:            id  amount   price        name
+0  1022657703       8  208.00     milk_48
+1  4928916481       4   72.00    milk_413
+2   649276310       4   22.80  Pringles81
+3  8337651701       2    8.44     Bamba52
+4  8258888255       7   58.80  Pringles23
+5  9663957536       7   27.09      Bisli6
+6  8938542471       9   36.90     Bisli96
+7  7459672968       6   84.00   baklawa93
+date: 2023-04-20
+payment_type: 1
+total_pay: 518.03 NIS
+seller name: Margaret Mclaughlin

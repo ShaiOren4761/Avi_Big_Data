@@ -1,0 +1,16 @@
+customer_name: Starla Smith
+customer name: Starla Smith
+productS:            id  amount   price                 name
+0  4145343815       1   15.00             coco_588
+1  5282923998      10  140.00           danone_196
+2  6430007880       5   80.00     melted_cheese_83
+3  6646722158       9  144.00  Napoleon_cheese_363
+4  8938542471       8   32.80              Bisli96
+5  7777758933       2   14.62              Bamba78
+6  8816185920       1   26.00            carlo_498
+7  3038504121       2   40.00             prezel39
+8  8884561451       4   52.00    melted_cheese_998
+date: 2023-01-16
+payment_type: 0
+total_pay: 544.4200000000001 NIS
+seller name: Donald Dawson

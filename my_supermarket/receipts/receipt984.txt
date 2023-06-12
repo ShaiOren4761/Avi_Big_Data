@@ -1,0 +1,27 @@
+customer_name: Ryan Hinton
+customer name: Ryan Hinton
+productS:             id  amount   price               name
+0   1492861839       6   33.24         Pringles96
+1   6796826274       1   13.00           eggs_493
+2   9340650481      10   70.00         danone_990
+3   8206179143       8   80.48          Popcorn24
+4   3581118027       1    7.25          Apropo101
+5   6755104549      10  170.00    sweet_cream_920
+6   4510349719       8  160.00    almond_milk_713
+7   7233807126       6  132.00  melted_cheese_668
+8   2260491839       1   21.00      goat_milk_292
+9   6101575647       3   45.00           pizza101
+10  8105638575       2   20.00             cake61
+11  1780796282       7   95.41            Kefli38
+12  6250253840       9  270.00      goat_milk_515
+13  4666032874       4   68.00            pita110
+14  7471595532       8   40.80           Popcorn2
+15  4977676118       4   37.16            Kefli24
+16  1976905118       4  136.00   freedom_eggs_251
+17  6387990502       2   26.00           coco_958
+18  4395759406       8  144.00           prezel27
+19  1939659304       2   14.00             pita87
+date: 2023-04-10
+payment_type: 3
+total_pay: 1583.3400000000001 NIS
+seller name: Calvin Manahan

@@ -1,0 +1,15 @@
+customer_name: David Combs
+customer name: David Combs
+productS:            id  amount   price                 name
+0  5805333708       5  140.00    yellow_cheese_850
+1  6633171984       3   39.00           danone_287
+2  2280035986       9  144.00           baklawa101
+3  8189918112       7  217.00  Napoleon_cheese_220
+4  7344401931       6   39.66            Doritos56
+5  5880031329       5   55.00               ziva53
+6  5228617410       3   16.02              Bamba54
+7  4090987227      10  120.00               ziva85
+date: 2023-02-09
+payment_type: 0
+total_pay: 770.68 NIS
+seller name: Donald Dawson

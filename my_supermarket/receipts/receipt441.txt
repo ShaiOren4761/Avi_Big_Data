@@ -1,0 +1,10 @@
+customer_name: Charles Dillon
+customer name: Charles Dillon
+productS:            id  amount   price       name
+0  7001071714       8  118.32  Popcorn83
+1  8459956964       9  100.35    Chips66
+2  7229311712       7  119.00     pita31
+date: 2023-05-19
+payment_type: 1
+total_pay: 337.67 NIS
+seller name: Kevin Goldberg

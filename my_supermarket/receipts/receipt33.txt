@@ -1,0 +1,22 @@
+customer_name: Eleanor Cobb
+customer name: Eleanor Cobb
+productS:             id  amount   price               name
+0   2664876455       2   14.00             lafa73
+1   4746444083       5   40.00           bagget77
+2   8374780022       5   48.35           Chips103
+3   7822256089       7  203.00   freedom_eggs_417
+4   3375423706       5  175.00          cream_318
+5   3040672854       9   38.16            Bisli38
+6   5575512464      10  114.00          Doritos69
+7   7589658457       3   36.00               pie7
+8   5947459517       9  153.00  yellow_cheese_379
+9   7476842574       8  280.00          cream_278
+10  7196278210       6   35.82            Chitos3
+11  2304968963       5   10.25            Bisli63
+12  8558689670       8  280.00    sweet_cream_407
+13   907411748       6   24.12            Kefli80
+14  8711725546       7   84.00      goat_milk_437
+date: 2023-02-21
+payment_type: 1
+total_pay: 1535.6999999999998 NIS
+seller name: Karen Salazar

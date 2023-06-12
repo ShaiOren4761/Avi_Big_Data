@@ -1,0 +1,17 @@
+customer_name: John Teems
+customer name: John Teems
+productS:            id  amount   price               name
+0  1282540331       6   66.00   freedom_eggs_919
+1  7741520770       7   63.00             lafa51
+2  7023102480      10  123.70            Bisli45
+3  8432226837       8  168.00    almond_milk_982
+4  7762335215       8  136.00           lahuh111
+5  8345405890       7   78.96          Popcorn91
+6  8369438862       9  108.00    almond_milk_715
+7  8379004337       2   32.00  yellow_cheese_661
+8  5264741580       3   18.00          cream_756
+9  4145343815       5   75.00           coco_588
+date: 2023-03-19
+payment_type: 2
+total_pay: 868.6600000000001 NIS
+seller name: Harold Mitchell

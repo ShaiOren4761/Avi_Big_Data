@@ -1,0 +1,26 @@
+customer_name: William Corriveau
+customer name: William Corriveau
+productS:             id  amount   price                 name
+0   8371788692      10  170.00           danone_966
+1   2213725065       8  104.00              bread94
+2   8875981962       8   80.00              pizza70
+3   2268629743       8   14.16            Popcorn79
+4   9761339853       1   12.00               cake77
+5   8206179143       3   30.18            Popcorn24
+6   1268915376       1    8.94              Chips63
+7   7175319969       1   12.43              Kefli47
+8   8706307707       8   98.00              Kefli75
+9   5757349106       5   55.00             milk_513
+10  6518306191       5   75.00              lafa129
+11  1164211935       1    5.00           danone_954
+12  3375423706       6  210.00            cream_318
+13  8344407313       3   24.00              bagget2
+14  3260308396       4   68.00     swiss_cheese_763
+15  2212386758       2   48.00     organic_eggs_284
+16  7915163122       9  180.00               ziva83
+17  6901815241       4   41.64            Doritos75
+18  3392860430       1   35.00  Napoleon_cheese_138
+date: 2023-05-06
+payment_type: 1
+total_pay: 1271.3500000000001 NIS
+seller name: Debra Pearson

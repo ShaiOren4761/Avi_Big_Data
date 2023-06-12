@@ -1,0 +1,27 @@
+customer_name: Richard Logan
+customer name: Richard Logan
+productS:             id  amount   price               name
+0   5574836559       4   56.00              pie12
+1   7952740321       4   25.20            Bisli11
+2   2935869658       6   60.00          carlo_618
+3    365576031      10   36.50            Bisli21
+4   2233592051      10  180.00           cookie47
+5   3043417829       8  104.00           milky_78
+6   8125385269       5   57.70         Pringles97
+7   4145460189       5  120.00   organic_eggs_565
+8   6204326176       5   23.60            Chips74
+9   9700244844       9  261.00          carlo_606
+10  4985784998      10  120.00         butter_596
+11  6639540099       9  126.00  melted_cheese_600
+12  3262338147       5   80.00             pie121
+13  7309319233       6  126.00     sour_cream_877
+14  6657428362       7    7.14            Bamba77
+15  8470270632       4   56.00          baklawa41
+16  4013336724       6  162.00            milk_35
+17  9812220797       6   71.58            Chips30
+18  5416302802       5   73.95          Popcorn75
+19  5867262543       4   84.00           eggs_705
+date: 2023-01-29
+payment_type: 1
+total_pay: 1830.67 NIS
+seller name: Jennifer Roberts

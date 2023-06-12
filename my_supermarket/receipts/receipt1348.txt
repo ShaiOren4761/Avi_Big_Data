@@ -1,0 +1,17 @@
+customer_name: Jeanne Smith
+customer name: Jeanne Smith
+productS:            id  amount   price              name
+0  5457953261       4   39.84          Apropo45
+1  1169276015       9  122.49           Bisli64
+2  2442255240       7  112.00          yolo_184
+3  6098730056       5  100.00           bread25
+4  8011419334       2   19.80           Kefli65
+5  8898084643       4   72.00  freedom_eggs_130
+6  1492861839       8   44.32        Pringles96
+7  6099185729       1   16.00          yolo_125
+8  1532887885       1   19.00            ziva54
+9  7234749736       2   18.00    sour_cream_930
+date: 2023-01-09
+payment_type: 3
+total_pay: 563.45 NIS
+seller name: Calvin Manahan

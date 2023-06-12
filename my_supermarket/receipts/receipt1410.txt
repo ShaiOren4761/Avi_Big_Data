@@ -1,0 +1,14 @@
+customer_name: Tyler Pollina
+customer name: Tyler Pollina
+productS:            id  amount   price               name
+0  6136444692      10  260.00  melted_cheese_678
+1  3147465906       4  132.00         danone_408
+2  8945456646       4   16.64           Chitos58
+3  1029201620       5   44.60            Kefli56
+4  1758939776       9  243.00          carlo_670
+5  5058815781       3   10.65             Bamba7
+6  5130384166       9  216.00          milky_453
+date: 2023-04-19
+payment_type: 2
+total_pay: 922.89 NIS
+seller name: Karen Salazar

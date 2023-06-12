@@ -1,0 +1,19 @@
+customer_name: Laurence Ferguson
+customer name: Laurence Ferguson
+productS:             id  amount   price              name
+0   5161855475      10  160.00            lafa15
+1   3154745776       6   72.00           pizza72
+2   6504340929       9  123.75        Pringles56
+3   5201636612       7  112.00  freedom_eggs_934
+4   9510445822       4   36.00           bread77
+5   2267559230       5   50.00            ziva38
+6   3973322050       2   60.00   sweet_cream_582
+7   2251486525       6   36.00            hala32
+8   2360663586      10  320.00  swiss_cheese_925
+9   4364698190       6   19.74        Popcorn103
+10  8401108965       5   55.00   almond_milk_227
+11  7458172393      10   51.30          Chitos18
+date: 2023-01-16
+payment_type: 0
+total_pay: 1095.79 NIS
+seller name: Roberta Lewis

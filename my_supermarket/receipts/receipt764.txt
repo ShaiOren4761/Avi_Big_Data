@@ -1,0 +1,25 @@
+customer_name: Raymond Anderman
+customer name: Raymond Anderman
+productS:             id  amount   price                 name
+0   1026345405       9    9.99            Doritos81
+1   9909931991       7   84.00               ziva17
+2   1001909905      10  190.00              bread95
+3   2320865379      10  110.00       sweet_cream_94
+4     11005776       6   66.96              Kefli76
+5   8081757049       2   40.00            baklawa39
+6   9582119892       2   20.00             bagget84
+7   3961824178       3   48.00             jahnon29
+8   4155033178       5  135.00  Napoleon_cheese_268
+9   8783938277       2   14.22             Chitos92
+10  7960767630       9   23.13           Pringles11
+11  8440399015      10  110.00               pita75
+12   921280969       9   37.71          Pringles108
+13  1442412239       9   95.40              Kefli31
+14  7179438945       6   18.12             Chitos41
+15  5184353572       4   41.80             Apropo69
+16  4939724717       7  231.00        goat_milk_938
+17  9962446517       6  114.00              ziva100
+date: 2023-02-15
+payment_type: 1
+total_pay: 1389.3300000000002 NIS
+seller name: Kevin Goldberg

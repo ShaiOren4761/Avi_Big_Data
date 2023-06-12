@@ -1,0 +1,16 @@
+customer_name: Frederick Long
+customer name: Frederick Long
+productS:            id  amount   price            name
+0  4666032874       5   85.00         pita110
+1  1900843478       8  128.00  sour_cream_304
+2  1492861839       2   11.08      Pringles96
+3  3344749200       8  256.00  mozzarella_529
+4  9551526127      10   80.00        prezel97
+5  7952740321       4   25.20         Bisli11
+6  8587440602       7   91.00        milk_111
+7  5158318608      10  135.70        Apropo56
+8   853168992       9   36.90         Bisli12
+date: 2023-05-03
+payment_type: 3
+total_pay: 848.88 NIS
+seller name: Debra Pearson

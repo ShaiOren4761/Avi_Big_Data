@@ -1,0 +1,12 @@
+customer_name: Reynaldo Dinkens
+customer name: Reynaldo Dinkens
+productS:            id  amount   price              name
+0  5795134344       3   39.00  organic_eggs_211
+1  5364431963       7  126.00     goat_milk_371
+2  2373790322       2   18.98         Popcorn90
+3  4577693563       5  150.00          milk_441
+4  6263019316       8   97.84           Chips40
+date: 2023-04-23
+payment_type: 1
+total_pay: 431.82000000000005 NIS
+seller name: Roberta Lewis

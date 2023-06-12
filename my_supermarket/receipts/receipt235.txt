@@ -1,0 +1,9 @@
+customer_name: Caridad Mccaskill
+customer name: Caridad Mccaskill
+productS:            id  amount  price       name
+0   645219811       9  52.38  Doritos43
+1  4186924886       4  80.00     ziva12
+date: 2023-04-01
+payment_type: 1
+total_pay: 132.38 NIS
+seller name: Gary Hudson

@@ -1,0 +1,25 @@
+customer_name: Willard Reeser
+customer name: Willard Reeser
+productS:             id  amount   price           name
+0   8660113264       8    9.28        Kefli39
+1   3412319267       4  104.00      carlo_839
+2   9724099313      10  150.00     butter_399
+3   8871223251       4   45.96     Pringles14
+4     89900170       6   34.50        Bamba57
+5   2914366619       8  136.00     butter_274
+6   1906127390       1   25.00   goat_milk_28
+7   1888017293       6   36.72       Chitos75
+8   5493097263       2    9.30       Bisli102
+9   7987176712       4   52.00        bread69
+10  4137018925       5   80.00  goat_milk_975
+11  6137836284       7   97.23     Pringles34
+12  1058144674       5   80.00         pie110
+13  9931563104       1    2.74      Doritos34
+14  3795208268       5   69.45      Popcorn13
+15  7042153342       9   32.22      Doritos74
+16  2379420414       7  238.00       carlo_37
+17  8433856102       4   52.00       yolo_477
+date: 2023-05-01
+payment_type: 0
+total_pay: 1254.4 NIS
+seller name: James Briggs

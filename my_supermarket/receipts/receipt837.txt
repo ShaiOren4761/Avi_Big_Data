@@ -1,0 +1,16 @@
+customer_name: Daisy Brown
+customer name: Daisy Brown
+productS:            id  amount   price              name
+0  8942870951       6   36.00           ziva110
+1  8145026289       1    8.89          Apropo95
+2  1022657703       8  208.00           milk_48
+3  8066390508       7   43.54           Chips86
+4  2552970142       7  119.00         bagget123
+5  8893627979       1   26.00  swiss_cheese_481
+6  6652138032      10  150.00         cream_460
+7  7741520770       1    9.00            lafa51
+8  7198922741       4  108.00          eggs_900
+date: 2023-01-01
+payment_type: 2
+total_pay: 708.4300000000001 NIS
+seller name: Hobert Wimberly

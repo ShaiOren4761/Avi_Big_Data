@@ -1,0 +1,8 @@
+customer_name: Cynthia Ayres
+customer name: Cynthia Ayres
+productS:            id  amount  price      name
+0  3173739186       5  135.0  yolo_995
+date: 2023-02-21
+payment_type: 3
+total_pay: 135.0 NIS
+seller name: Latasha Mace

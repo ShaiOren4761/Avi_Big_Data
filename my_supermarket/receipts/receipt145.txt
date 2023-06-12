@@ -1,0 +1,13 @@
+customer_name: Mary Drumheller
+customer name: Mary Drumheller
+productS:            id  amount   price                 name
+0  9633973355       6   15.90              Kefli50
+1  3887493220       6   90.00  Napoleon_cheese_634
+2  9805965278       8   52.08              Kefli54
+3  9588125325       8  232.00       sour_cream_568
+4  7028436694       5   60.50              Chips73
+5  2373462207       4  132.00            cream_897
+date: 2023-03-27
+payment_type: 1
+total_pay: 582.48 NIS
+seller name: Latasha Mace

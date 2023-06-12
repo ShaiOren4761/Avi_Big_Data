@@ -1,0 +1,25 @@
+customer_name: Grace Ellison
+customer name: Grace Ellison
+productS:             id  amount   price              name
+0   9663957536       8   30.96            Bisli6
+1    483525463       5   58.35           Chips68
+2   1555021268       2   16.00    sour_cream_252
+3   5297947242       1   13.00            lafa93
+4   2904169114       2   17.10          Popcorn1
+5    629551312       8   78.16           Bamba59
+6   2304968963       8   16.40           Bisli63
+7   7653871813       6  198.00    mozzarella_677
+8   7684748577       4   34.92         Doritos52
+9   8066390508       5   31.10           Chips86
+10  2840390615       5  100.00            cake32
+11  4277909247       9  180.00          jahnon38
+12  2885592727       5   61.25         Doritos67
+13  8915668538       8  168.00  organic_eggs_374
+14  9180784359       1   19.00          cookie92
+15  3375423706       6  210.00         cream_318
+16  8777872859       4  116.00          yolo_733
+17   582008114       1    2.00         Doritos78
+date: 2023-01-26
+payment_type: 2
+total_pay: 1350.24 NIS
+seller name: Kevin Goldberg

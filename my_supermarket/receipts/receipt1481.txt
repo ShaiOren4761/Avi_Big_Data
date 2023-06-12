@@ -1,0 +1,26 @@
+customer_name: Imogene Field
+customer name: Imogene Field
+productS:             id  amount   price             name
+0   4988246603      10   47.60        Doritos79
+1   9302863261       6  186.00  almond_milk_711
+2   8114203701       7   84.00        burekas83
+3   2320865379       4   44.00   sweet_cream_94
+4   7485253472       3   54.00           pita17
+5   7909835073       6   59.16         Bamba100
+6   9987211151       9   99.54        Doritos11
+7   5144865594       9   56.97          Bisli58
+8   2728080629       4   28.00           pita32
+9   7131090783       8   80.00         prezel63
+10  7542179498       4   21.68         Chitos19
+11  3789389737      10   60.00   mozzarella_182
+12  6247951073       9   14.58          Kefli84
+13  5715951929       8   95.36          Apropo1
+14  1990960024       1    8.88        Popcorn10
+15  4113332672       8  160.00       danone_862
+16  3807085671       6   58.44          Kefli20
+17  2422487844       9  108.00           hala63
+18  4781629005       1    7.07        Popcorn46
+date: 2023-03-14
+payment_type: 3
+total_pay: 1273.28 NIS
+seller name: Gary Hudson

@@ -1,0 +1,20 @@
+customer_name: Shelby Wagner
+customer name: Shelby Wagner
+productS:             id  amount   price               name
+0   6075240225       1   18.00          bagget122
+1   7698792231       8   88.48          Popcorn70
+2   9993958786       8  176.00  melted_cheese_193
+3   7918774723       9   99.09         Pringles53
+4   5705065148       9   54.00           bagget99
+5   4502894018       9   37.17           Bisli107
+6   9653744229       9  114.30             Kefli5
+7   9700244844       8  232.00          carlo_606
+8   2605775354      10   60.00  melted_cheese_191
+9   1100116551       4   50.76           Popcorn5
+10  9182291699       5   90.00         danone_271
+11  6843284895       4   64.00           prezel96
+12  7233807126       1   22.00  melted_cheese_668
+date: 2023-03-27
+payment_type: 0
+total_pay: 1105.8000000000002 NIS
+seller name: Harold Mitchell

@@ -1,0 +1,17 @@
+customer_name: Carolyn Byers
+customer name: Carolyn Byers
+productS:            id  amount   price              name
+0  2597272640       9  297.00  swiss_cheese_774
+1  9332818515       8   64.00         milky_671
+2  5338151616       8  152.00            pita49
+3  8617430774       8   67.52         Popcorn28
+4  8020666066       3   14.19          Apropo67
+5  9332818515       9   72.00         milky_671
+6  7429768327       1   20.00  swiss_cheese_778
+7  7922481078       8   96.00          burekas2
+8  6096150313       4    5.80          Kefli105
+9  8703160750       3   57.00  freedom_eggs_876
+date: 2023-05-01
+payment_type: 0
+total_pay: 845.51 NIS
+seller name: Jennifer Roberts

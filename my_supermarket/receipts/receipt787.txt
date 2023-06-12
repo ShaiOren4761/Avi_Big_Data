@@ -1,0 +1,17 @@
+customer_name: Carolyn Mercuri
+customer name: Carolyn Mercuri
+productS:            id  amount   price               name
+0  7068100856       8  208.00   organic_eggs_108
+1  6656449325       2   14.00  melted_cheese_789
+2  3225957631       4  132.00           yolo_987
+3  7791317222       4   37.04             Kefli6
+4  5505685880       2   40.00      goat_milk_472
+5  9987687163       5   45.00         danone_186
+6  9405902825       6   48.00           lahuh103
+7  5947865049       4   28.00    swiss_cheese_91
+8  2691268800       9  135.00             hala52
+9  1282540331       4   44.00   freedom_eggs_919
+date: 2023-01-29
+payment_type: 0
+total_pay: 731.04 NIS
+seller name: Jennifer Roberts

@@ -1,0 +1,12 @@
+customer_name: Natividad Linkovich
+customer name: Natividad Linkovich
+productS:            id  amount   price       name
+0  9197683164       9  171.00      pie60
+1  7091514077       9   61.83  Popcorn41
+2  3581118027       4   29.00  Apropo101
+3  8373411908       5    9.15   Chitos63
+4  4746444083       6   48.00   bagget77
+date: 2023-05-23
+payment_type: 1
+total_pay: 318.97999999999996 NIS
+seller name: Harold Mitchell

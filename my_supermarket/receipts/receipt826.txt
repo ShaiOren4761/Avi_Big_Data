@@ -1,0 +1,13 @@
+customer_name: Griselda Williams
+customer name: Griselda Williams
+productS:            id  amount  price            name
+0  3293181766       3   24.3       Popcorn58
+1  7790758336       8   40.0          pita83
+2  7218507452       2   36.0  sour_cream_590
+3  9149710916       6  186.0        milk_299
+4  1412142417      10   60.0       baklawa50
+5  2137174922       3   60.0        bagget34
+date: 2023-04-30
+payment_type: 0
+total_pay: 406.3 NIS
+seller name: Karen Salazar

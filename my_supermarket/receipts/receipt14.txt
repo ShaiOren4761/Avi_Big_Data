@@ -1,0 +1,21 @@
+customer_name: Victoria Williams
+customer name: Victoria Williams
+productS:             id  amount   price               name
+0   1344173222       9  243.00          carlo_906
+1   1641228787       6   42.00             hala36
+2   9748473860       1   24.00  melted_cheese_969
+3   1658461450       2   18.00             lafa59
+4   5412877478       2   19.94          Popcorn23
+5   2758441497       9  270.00     sour_cream_849
+6   3294955150       3   48.00           dunats49
+7    956491903       3   38.37           Chitos59
+8   2207366818       7  119.00          milky_555
+9   8225433463       7   63.70           Apropo31
+10  2856243418       8  152.00           eggs_796
+11  4530315044       8  144.00         butter_913
+12  5867809358       2   50.00     sour_cream_864
+13  7436255460       9  144.00  melted_cheese_598
+date: 2023-02-12
+payment_type: 1
+total_pay: 1376.0100000000002 NIS
+seller name: Karen Salazar

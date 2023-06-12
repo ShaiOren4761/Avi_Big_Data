@@ -1,0 +1,22 @@
+customer_name: Linda Dixon
+customer name: Linda Dixon
+productS:             id  amount   price              name
+0   4319476762       1    5.45           Bamba95
+1    530215131       5   22.75          Apropo81
+2   1939409965       9   71.55           Chips55
+3   6284093731       5   90.00          coco_834
+4   9935292793       8  104.00          cookie51
+5   9412340770       3   43.41           Chips29
+6   4877082701       9   60.66         Popcorn92
+7   3439083065       2   42.00          eggs_508
+8   7231876954       6   54.24          Apropo13
+9   5774608310       2   10.00  organic_eggs_878
+10  9633973355       8   21.20           Kefli50
+11  5656681747       5   71.35        Pringles46
+12  5318905372       5   50.95           Kefli35
+13  7722194059       3   16.44           Chips15
+14  7835865295       4   56.00         carlo_562
+date: 2023-03-21
+payment_type: 3
+total_pay: 720.0000000000002 NIS
+seller name: Jennifer Roberts

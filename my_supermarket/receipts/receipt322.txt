@@ -1,0 +1,9 @@
+customer_name: Adam Hunn
+customer name: Adam Hunn
+productS:            id  amount  price       name
+0  6213216289       9  315.0   coco_915
+1  8560760295       2   10.0  baklawa69
+date: 2023-02-03
+payment_type: 3
+total_pay: 325.0 NIS
+seller name: Margaret Mclaughlin

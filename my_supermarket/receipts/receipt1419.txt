@@ -1,0 +1,23 @@
+customer_name: Donald Durk
+customer name: Donald Durk
+productS:             id  amount   price             name
+0   9336270689       2   26.00        milky_392
+1   9282429607       9   76.32        Popcorn71
+2   6451462869       2   56.00          yolo_75
+3   8549053258       2   15.50         Apropo52
+4   6700031739       9  112.32         Bamba105
+5   8152386501       1    7.00          ziva115
+6   2061131059       1   18.00        bagget119
+7   1272963697       3   87.00   sour_cream_535
+8   5316904074      10  260.00  freedom_eggs_58
+9   4340233956       1   20.00          bread60
+10  8080753862       6   90.00          bread10
+11  2242014772       1   18.00         cookie17
+12  1968789158       2   32.00         eggs_912
+13  9180784359       4   76.00         cookie92
+14  7485387735       4  120.00    goat_milk_261
+15  5792012068       9  216.00         yolo_928
+date: 2023-04-06
+payment_type: 2
+total_pay: 1230.1399999999999 NIS
+seller name: Debra Pearson

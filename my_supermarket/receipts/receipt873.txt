@@ -1,0 +1,8 @@
+customer_name: Kristy Vann
+customer name: Kristy Vann
+productS:            id  amount  price        name
+0  4686873380       2   12.0  burekas117
+date: 2023-05-21
+payment_type: 3
+total_pay: 12.0 NIS
+seller name: Debra Pearson

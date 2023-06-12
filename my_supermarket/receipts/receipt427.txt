@@ -1,0 +1,23 @@
+customer_name: John Stone
+customer name: John Stone
+productS:             id  amount   price              name
+0   6406673582      10   62.70          Apropo30
+1   4114355509       2   30.00  freedom_eggs_566
+2   7342084592      10   90.00          jahnon13
+3   2232974719       7   98.00         baklawa54
+4   3937935974       8  136.00          bagget17
+5   2597272640       9  297.00  swiss_cheese_774
+6   5130384166       5  120.00         milky_453
+7   1696216092       4   52.00           lahuh81
+8   5766312840       1   30.00     goat_milk_684
+9   6894394955       4   18.84           Apropo0
+10  6072452929       2   22.84          Apropo64
+11  2219725592       1   18.00     goat_milk_637
+12  7935269504       3   39.78         Popcorn40
+13  9976631583       8  208.00          coco_889
+14  9513895968       9   72.00  organic_eggs_858
+15  5555177781       3   42.00        butter_275
+date: 2023-02-02
+payment_type: 3
+total_pay: 1337.16 NIS
+seller name: Jennifer Roberts

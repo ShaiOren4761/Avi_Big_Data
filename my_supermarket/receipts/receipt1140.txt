@@ -1,0 +1,10 @@
+customer_name: Ruth Wanty
+customer name: Ruth Wanty
+productS:            id  amount  price      name
+0  6796826274       1   13.0  eggs_493
+1  6221547554       5   50.0    bread6
+2  5361976454       6  180.0  milk_429
+date: 2023-05-04
+payment_type: 2
+total_pay: 243.0 NIS
+seller name: Gary Hudson

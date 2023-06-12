@@ -1,0 +1,22 @@
+customer_name: Clinton Appel
+customer name: Clinton Appel
+productS:             id  amount   price               name
+0   7023388036       8   52.80            Chips41
+1   6648558613       8  144.00           lahuh113
+2   8542592736       3   27.00             hala38
+3   4310860415       5    8.95            Kefli26
+4   2400900521       6   39.78            Bamba21
+5   6209910809       6   54.00             lafa23
+6   3236010084      10   19.50          Doritos63
+7   8379004337       6   96.00  yellow_cheese_661
+8   6979473379       7   77.00         baklawa108
+9   9656433780       2   28.00         baklawa128
+10  9570814702       9   93.51          Apropo107
+11  3304788224       5   85.00         burekas111
+12  8141886004       4   39.88            Chips31
+13  3578084870       2   32.00            hala105
+14  9691423370       2   14.22            Bamba86
+date: 2023-01-20
+payment_type: 1
+total_pay: 811.64 NIS
+seller name: Debra Pearson

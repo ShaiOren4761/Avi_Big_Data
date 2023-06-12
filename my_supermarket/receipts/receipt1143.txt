@@ -1,0 +1,25 @@
+customer_name: Raymond Nichols
+customer name: Raymond Nichols
+productS:             id  amount   price                 name
+0   2878026816       4  100.00      sweet_cream_619
+1   5461198035      10  300.00  Napoleon_cheese_826
+2   4259907914       3    9.60             Apropo88
+3   3028206084       9  261.00             yolo_319
+4   3801007810       3   84.00            milky_150
+5   8320021804       6   64.56             Apropo15
+6   9367735312       6   66.00             eggs_512
+7   2233592051       3   54.00             cookie47
+8   9468138759      10  290.00             yolo_362
+9   1225698760       7   49.00     freedom_eggs_708
+10   519529375       9  132.12               Bamba3
+11  2174114507       1   10.20             Chitos50
+12  7291802637       2   18.00             bagget72
+13  8473853818       1   24.00       mozzarella_965
+14  7475540137       9  130.77             Apropo65
+15  5558317486      10   27.30              Bamba27
+16  3535624320       8  168.00    melted_cheese_691
+17  4942058623       9   66.06             Chitos71
+date: 2023-04-26
+payment_type: 2
+total_pay: 1854.6100000000001 NIS
+seller name: Kevin Goldberg

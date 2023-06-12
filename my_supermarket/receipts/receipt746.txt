@@ -1,0 +1,22 @@
+customer_name: Olga Vannoy
+customer name: Olga Vannoy
+productS:             id  amount   price                name
+0   6185641664       2   16.00           baklawa89
+1   6807110928       6   70.98             Chips70
+2   9580962846       3   30.00             pita127
+3   2242014772       5   90.00            cookie17
+4   8949321630       2   56.00  Napoleon_cheese_50
+5   8328445925       6   84.60            Apropo92
+6    233548657       8   89.92             Chips82
+7   4217061826       4   64.00           carlo_107
+8   8217636774       7   56.00              pita68
+9   6633171984       4   52.00          danone_287
+10  9328287258       7   63.00        goat_milk_73
+11  8432226837       4   84.00     almond_milk_982
+12  3623362728       6   90.00              hala92
+13  7274339697       9  135.00      mozzarella_777
+14  5505685880       4   80.00       goat_milk_472
+date: 2023-03-05
+payment_type: 1
+total_pay: 1061.5 NIS
+seller name: Donald Dawson

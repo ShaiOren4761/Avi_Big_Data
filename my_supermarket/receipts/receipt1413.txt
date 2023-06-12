@@ -1,0 +1,21 @@
+customer_name: Patricia Weir
+customer name: Patricia Weir
+productS:             id  amount   price               name
+0   7238445179       6  144.00  yellow_cheese_624
+1   9061184229       4   52.00            lahuh51
+2   4470985252       4   44.00               pie9
+3   6768290091       3    6.57            Chitos5
+4   2499168099       4   36.00             milk_5
+5   4216298667       8  160.00          baklawa24
+6   7113855989      10  310.00     sour_cream_584
+7   9928266964       4   20.00          carlo_941
+8   7195646839       2    7.54          Doritos80
+9   4425595497       2   26.52          Popcorn57
+10  2574420830       4   27.40            Chips78
+11  2605775354       5   30.00  melted_cheese_191
+12  8454787915       9  171.00            pita119
+13  9271334447      10  134.20          Popcorn43
+date: 2023-03-07
+payment_type: 2
+total_pay: 1169.2299999999998 NIS
+seller name: Jennifer Roberts

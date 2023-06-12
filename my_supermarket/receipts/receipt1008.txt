@@ -1,0 +1,11 @@
+customer_name: Paul Newman
+customer name: Paul Newman
+productS:            id  amount  price        name
+0  8617449927       5   60.0   carlo_640
+1  4610905587       1   22.0  danone_580
+2  4395759406       5   90.0    prezel27
+3  9727688032       6  102.0    milk_723
+date: 2023-01-19
+payment_type: 0
+total_pay: 274.0 NIS
+seller name: Jennifer Roberts

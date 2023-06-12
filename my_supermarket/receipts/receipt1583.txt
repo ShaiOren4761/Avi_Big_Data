@@ -1,0 +1,13 @@
+customer_name: Janice Ramsey
+customer name: Janice Ramsey
+productS:            id  amount   price            name
+0  9732209362       2   18.00  almond_milk_14
+1  5836180709      10  100.00        bagget90
+2  4589519577       6   57.84        Popcorn3
+3  9797791629       6   10.02        Chitos80
+4  3716667614       9  288.00    goat_milk_69
+5  7481478676       4   72.00        eggs_492
+date: 2023-04-13
+payment_type: 3
+total_pay: 545.86 NIS
+seller name: James Briggs

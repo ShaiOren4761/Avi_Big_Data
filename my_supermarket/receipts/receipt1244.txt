@@ -1,0 +1,13 @@
+customer_name: Roberto Chizmar
+customer name: Roberto Chizmar
+productS:            id  amount   price             name
+0  6504340929       1   13.75       Pringles56
+1  3747177917       3   33.33        Popcorn74
+2  2034725218       1   30.00   sour_cream_690
+3  9736541013       2   42.00         coco_463
+4  1001909905       9  171.00          bread95
+5  3679479969       4   80.00  swiss_cheese_33
+date: 2023-05-22
+payment_type: 2
+total_pay: 370.08 NIS
+seller name: Kevin Goldberg

@@ -1,0 +1,15 @@
+customer_name: John Tyler
+customer name: John Tyler
+productS:            id  amount   price        name
+0  9162930837       5   85.00       pie58
+1  7211068631       2   17.24   Doritos15
+2  9351326770       2   22.00      cake78
+3  1745426392       1   31.00  butter_818
+4  5264741580       3   18.00   cream_756
+5  1235203535      10  160.00      hala64
+6  2922052037       9  126.00   bagget115
+7  6187757115       3   57.00     pizza40
+date: 2023-01-19
+payment_type: 1
+total_pay: 516.24 NIS
+seller name: Debra Pearson

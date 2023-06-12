@@ -1,0 +1,18 @@
+customer_name: Phillip Gegenheimer
+customer name: Phillip Gegenheimer
+productS:             id  amount   price             name
+0   1468087028       6  114.00       baklawa117
+1   3042531267       1   13.00          pizza41
+2   6760389596       3   75.00  sweet_cream_699
+3   3423857847       8  104.00        cookie116
+4   4522400505       9  114.84         Popcorn8
+5   8767413918       6   48.00           hala54
+6   7342084592       7   63.00         jahnon13
+7   5841405074       6   21.00        Doritos21
+8   8810797379       2   23.92          Bamba98
+9   4535911151       2   32.00         prezel67
+10  2986957607       5   90.00          lahuh93
+date: 2023-02-16
+payment_type: 0
+total_pay: 698.76 NIS
+seller name: Roberta Lewis

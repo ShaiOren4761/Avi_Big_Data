@@ -1,0 +1,18 @@
+customer_name: Kenneth Oconnell
+customer name: Kenneth Oconnell
+productS:             id  amount   price              name
+0   7017763745       1    5.00        burekas118
+1   6537548447      10  100.00  freedom_eggs_250
+2   6641263053      10  100.00            ziva60
+3   5705065148       2   12.00          bagget99
+4   2974927397       7   33.95          Chitos68
+5   6606518060      10  118.90         Doritos36
+6   8853524696       8   16.72         Popcorn63
+7   7727802001       4   49.56        Popcorn102
+8   7475540137       7  101.71          Apropo65
+9   5143335309       1   10.00             pie44
+10  6979473379       3   33.00        baklawa108
+date: 2023-01-15
+payment_type: 3
+total_pay: 580.84 NIS
+seller name: Lillian Dolan

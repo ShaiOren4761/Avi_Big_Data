@@ -1,0 +1,8 @@
+customer_name: Elsie Wright
+customer name: Elsie Wright
+productS:            id  amount  price       name
+0  5422325640       6   66.0  milky_430
+date: 2023-01-03
+payment_type: 3
+total_pay: 66.0 NIS
+seller name: Lillian Dolan

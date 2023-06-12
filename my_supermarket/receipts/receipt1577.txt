@@ -1,0 +1,19 @@
+customer_name: Matthew So
+customer name: Matthew So
+productS:             id  amount   price               name
+0   7937185654       2   38.00              pie66
+1   4174327879       8  136.00              pie38
+2     84220975       9   98.37            Chips95
+3   8986454308       5   12.50           Apropo91
+4   1701666046       5   40.00          carlo_253
+5   3591327412       2   30.00            pizza39
+6   5645682267       6  210.00           eggs_337
+7   8624886662       2    5.50            Bamba55
+8   5817195151       7  112.00  melted_cheese_656
+9   3676009716       6   13.38            Bisli28
+10  4237012825       1    9.00              pie34
+11  6159827943       4   24.00             bread2
+date: 2023-03-28
+payment_type: 2
+total_pay: 728.75 NIS
+seller name: Maria Barnett

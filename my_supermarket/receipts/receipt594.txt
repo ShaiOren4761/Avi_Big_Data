@@ -1,0 +1,22 @@
+customer_name: Barbara Blais
+customer name: Barbara Blais
+productS:             id  amount   price                 name
+0   3167340190       8   80.00    melted_cheese_326
+1   2098844776       7  105.00             dunats18
+2   8712532837       6  126.00            milky_712
+3   2529318508       9   87.30              Kefli48
+4   3269418251       8  168.00             eggs_223
+5   6530924413       6   34.74           Pringles74
+6   3365162672       7   91.00            cookie127
+7   8663836737       2   13.02             Chips109
+8   5828803674       9   99.00    melted_cheese_401
+9   5093804778       8  200.00  Napoleon_cheese_793
+10  4740215780       9  162.00             eggs_528
+11  6935511269       2    4.80             Kefli104
+12  8400090994       1    6.00            burekas74
+13  3961824178       3   48.00             jahnon29
+14  7487260429       8   40.00             milk_806
+date: 2023-01-05
+payment_type: 0
+total_pay: 1264.86 NIS
+seller name: Renee Brammer

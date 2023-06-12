@@ -1,0 +1,19 @@
+customer_name: Cynthia Allen
+customer name: Cynthia Allen
+productS:             id  amount   price                 name
+0   9157920855       9  279.00             coco_356
+1   4977676118       5   46.45              Kefli24
+2   1465135792       6  120.00  Napoleon_cheese_151
+3   2925754881       9  162.00             dunats83
+4   4928568369       4   57.08            Popcorn17
+5   1336259815       7   63.63            Doritos66
+6   9831681615       2   46.00             coco_317
+7   7068100856       5  130.00     organic_eggs_108
+8   1512051119       2   18.02              Chips88
+9   5313065057       5   50.00    yellow_cheese_817
+10  7910808698       9  108.00              dunats3
+11  2807805116       7   52.64           Pringles58
+date: 2023-01-18
+payment_type: 2
+total_pay: 1132.8200000000002 NIS
+seller name: Margaret Mclaughlin

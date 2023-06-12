@@ -1,0 +1,26 @@
+customer_name: Junko Macauley
+customer name: Junko Macauley
+productS:             id  amount   price              name
+0   9608887219       1   20.00    sour_cream_978
+1   3468545161       4   50.36        Pringles30
+2    146465367       7   62.79         Doritos84
+3   9442622061       9   99.00        butter_963
+4   1171308362       7   75.81          Apropo62
+5   6676542296       9  288.00    mozzarella_573
+6   4230631256       2   15.38        Pringles26
+7   6659610320       5   16.15           Kefli64
+8   7688878677       5   75.00            cake82
+9   7459672968       8  112.00         baklawa93
+10  3388045895       3   37.98          Chitos12
+11  1693440897       4   24.00    mozzarella_639
+12  4928568369       1   14.27         Popcorn17
+13  6609101402      10  120.00  swiss_cheese_785
+14  4687336290       1   33.00     goat_milk_290
+15  5332025217       2   14.00    sour_cream_539
+16  8893627979       4  104.00  swiss_cheese_481
+17  7269028736       3   13.17          Apropo98
+18  8719676915       3   38.88          Chitos53
+date: 2023-05-21
+payment_type: 1
+total_pay: 1213.7900000000002 NIS
+seller name: Victoria Hansen

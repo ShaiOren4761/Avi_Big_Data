@@ -1,0 +1,24 @@
+customer_name: Michael Resendiz
+customer name: Michael Resendiz
+productS:             id  amount   price                 name
+0   3262338147       8  128.00               pie121
+1   6848436141       1   11.28              Chitos8
+2   2570448727       9   68.58              Bisli24
+3   1880696888       1   17.00       sour_cream_254
+4   7693680065       1    4.21              Kefli17
+5   9226303763       1   16.00            carlo_556
+6   4104639212      10   42.50             Chitos82
+7   6560407446       7  168.00     melted_cheese_38
+8   6334306308      10  141.10            Apropo100
+9   7585944710       1    6.00      sweet_cream_249
+10  8689181790       7   56.00  Napoleon_cheese_175
+11  9621445959       4  104.00        goat_milk_586
+12  4667558042       9  100.44               Bisli7
+13   604713082       2   17.34              Apropo7
+14  6017637238       6   28.80              Bamba39
+15  7675905646       5   64.70              Chitos1
+16  4686065328       4   30.96             Apropo58
+date: 2023-04-10
+payment_type: 3
+total_pay: 1004.9100000000002 NIS
+seller name: Debra Pearson

@@ -1,0 +1,27 @@
+customer_name: Vanesa Bible
+customer name: Vanesa Bible
+productS:             id  amount   price                 name
+0   6133965836       2   11.44            Doritos98
+1   1641228787      10   70.00               hala36
+2   4314586465       8  113.04             Apropo53
+3   3644585880      10  330.00  Napoleon_cheese_887
+4   4813826494       4   37.00              Bamba94
+5   8283358007       5   85.00               hala91
+6   6504340929      10  137.50           Pringles56
+7   5270079700       9  162.00               hala69
+8   9151505441       1    4.32              Kefli27
+9   7233807126       6  132.00    melted_cheese_668
+10  1421807099       8   71.20            Popcorn39
+11  4545755994       1    7.50            Popcorn81
+12  9029477329       7   42.35              Bisli62
+13  2280035986       7  112.00           baklawa101
+14  9489218276       3  102.00             coco_115
+15  1039632254       3   57.00              cookie6
+16  7733328177       7   56.00        almond_milk_3
+17  2543398031       8  152.00           danone_490
+18  8089948135       8  200.00     organic_eggs_219
+19  3262338147       2   32.00               pie121
+date: 2023-05-24
+payment_type: 3
+total_pay: 1914.3500000000001 NIS
+seller name: Renee Brammer

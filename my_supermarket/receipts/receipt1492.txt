@@ -1,0 +1,19 @@
+customer_name: Tom Drews
+customer name: Tom Drews
+productS:             id  amount   price               name
+0   7775939481       5   25.00         butter_316
+1   6441877331       9  198.00           milk_366
+2   9738649346       7   63.00           milk_881
+3   7631218024       7   90.23           Bamba104
+4   3539700204       6   35.70           Chitos83
+5   3423936245       8  216.00           yolo_695
+6   3639810532       2   70.00  yellow_cheese_841
+7   1361553835       8   65.52           Bisli103
+8   4530315044       8  144.00         butter_913
+9   8596443419       2    7.04            Bisli53
+10  6005887579      10   56.20            Kefli83
+11  5824643850       9   81.00      goat_milk_178
+date: 2023-01-05
+payment_type: 0
+total_pay: 1051.69 NIS
+seller name: Lillian Dolan

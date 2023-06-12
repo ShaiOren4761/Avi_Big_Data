@@ -1,0 +1,20 @@
+customer_name: Felipe Williams
+customer name: Felipe Williams
+productS:             id  amount   price              name
+0   7836423913       9   95.49           Bisli70
+1   4503782499       7  126.00            pie113
+2   3293181766       8   64.80         Popcorn58
+3   8742142227       7   74.41          Apropo39
+4   8371766927       4   18.60           Chips53
+5   4767716121       8   48.00         burekas10
+6   4946769121       3   33.30        Pringles64
+7   8952910504       3    4.71         Pringles0
+8   3596743165      10  180.00         milky_832
+9   5113271759       8  280.00  freedom_eggs_209
+10   126865989       2    5.50           Chips59
+11  5811118602       9  252.00          yolo_473
+12  1167640942      10  121.80          Apropo27
+date: 2023-04-07
+payment_type: 1
+total_pay: 1304.61 NIS
+seller name: Maria Barnett

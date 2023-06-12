@@ -1,0 +1,25 @@
+customer_name: Robert Brown
+customer name: Robert Brown
+productS:             id  amount   price              name
+0   7546689252      10   74.80          Apropo90
+1   4461757614       2   16.00          carlo_43
+2   9928266964       4   20.00         carlo_941
+3    319255536       3   38.70          Apropo72
+4   7822256089       4  116.00  freedom_eggs_417
+5    707760777       1    6.40          Chitos88
+6   5706612260      10  130.00         baklawa37
+7   7693680065       1    4.21           Kefli17
+8   3494705008       9   72.00   swiss_cheese_90
+9    927866049       4    6.24           Apropo2
+10  2201636818       4   46.84           Bamba47
+11  6953664656       6   96.00  melted_cheese_29
+12  7822944780       3   31.53           Bisli95
+13  5600097503       3   75.00          yolo_993
+14  3147465906       7  231.00        danone_408
+15  4522400505       5   63.80          Popcorn8
+16  8053610047       7  196.00    sour_cream_856
+17  5574836559       1   14.00             pie12
+date: 2023-04-20
+payment_type: 0
+total_pay: 1238.52 NIS
+seller name: Calvin Manahan

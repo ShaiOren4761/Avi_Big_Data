@@ -1,0 +1,10 @@
+customer_name: Anita Killian
+customer name: Anita Killian
+productS:            id  amount   price           name
+0  8823433575       7  189.00  goat_milk_721
+1  6756231455       2   16.68        Kefli36
+2   280748644       7   22.33       Chitos48
+date: 2023-04-19
+payment_type: 3
+total_pay: 228.01 NIS
+seller name: Lillian Dolan

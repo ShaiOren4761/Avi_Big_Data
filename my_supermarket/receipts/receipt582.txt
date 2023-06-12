@@ -1,0 +1,25 @@
+customer_name: Judy Hesseltine
+customer name: Judy Hesseltine
+productS:             id  amount   price                name
+0   1039071136       2   44.00            coco_236
+1   5083595627       5  160.00          butter_149
+2   6301332990       4   80.00              pita94
+3   8918557089       5  105.00           cream_400
+4   4205383942       7   77.35            Apropo48
+5   2749955651       1   20.00           dunats128
+6   5715320344       3   57.00    organic_eggs_750
+7   7471595532       5   25.50            Popcorn2
+8   1229596131       2   24.00             lafa103
+9   3982862012      10  120.00             bread89
+10  7320822838       5  125.00  Napoleon_cheese_88
+11  7471595532       3   15.30            Popcorn2
+12  8084899653       3   60.00            cookie74
+13  9231831135       7   91.00           burekas52
+14  9748473860       7  168.00   melted_cheese_969
+15  9226303763      10  160.00           carlo_556
+16  9830493749       2   36.00            cookie82
+17  7909835073       1    9.86            Bamba100
+date: 2023-01-15
+payment_type: 1
+total_pay: 1378.01 NIS
+seller name: Lillian Dolan

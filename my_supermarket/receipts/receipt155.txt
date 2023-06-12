@@ -1,0 +1,21 @@
+customer_name: Steven Halverson
+customer name: Steven Halverson
+productS:             id  amount  price        name
+0   1907371334       8  56.96     Bamba96
+1   6213216289       1  35.00    coco_915
+2   5475477255       4  64.00    jahnon63
+3   6901815241       5  52.05   Doritos75
+4   1845106822       5   6.80     Kefli19
+5   1784890348       5  40.00   milky_706
+6   6137836284       7  97.23  Pringles34
+7   3284591346       2   6.86      Chips6
+8   5050469915       4  24.00    eggs_873
+9   2426750222       7  63.00   milky_358
+10  9664174242       5  50.00      pita76
+11  8238866691       7  84.00      hala74
+12  2057910256       6  42.00     bread61
+13  7320566045       5   7.25   Pringles2
+date: 2023-03-20
+payment_type: 1
+total_pay: 629.1500000000001 NIS
+seller name: Gary Hudson

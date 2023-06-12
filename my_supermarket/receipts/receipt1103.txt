@@ -1,0 +1,21 @@
+customer_name: Michael Lucky
+customer name: Michael Lucky
+productS:             id  amount   price              name
+0   8751186001       6  138.00    sour_cream_732
+1   4004511853       8  104.00   almond_milk_285
+2   9589195585       4   24.00         burekas62
+3   2888103591       5   75.00           hala130
+4   8121338030       4    8.96          Chitos32
+5   3187274481       4   20.00         carlo_110
+6   6351703797       3   33.00            cake97
+7   5982332854       5  100.00          jahnon58
+8    380552080       3   23.19        Pringles66
+9   2574420830       2   13.70           Chips78
+10  1512051119       6   54.06           Chips88
+11  5205181698       2   50.00  swiss_cheese_464
+12  8005803993       9   63.00            pie104
+13  6855861307       3   18.00          jahnon93
+date: 2023-01-06
+payment_type: 1
+total_pay: 724.9100000000001 NIS
+seller name: Edna Collins

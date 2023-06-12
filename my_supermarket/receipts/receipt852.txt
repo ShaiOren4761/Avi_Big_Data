@@ -1,0 +1,16 @@
+customer_name: Paul Nock
+customer name: Paul Nock
+productS:            id  amount   price       name
+0  9450226806      10  130.20   Apropo49
+1  1162286331       2    5.92    Bamba79
+2  9977993703       6   59.22    Bisli77
+3  5295620818       7   93.38   Bisli109
+4  9689010272       2   14.00  milky_621
+5  1281050931       6   30.00  baklawa86
+6  9640864492       1   14.39    Kefli93
+7  2991470508       5   35.00   bagget37
+8  7546689252       3   22.44   Apropo90
+date: 2023-05-07
+payment_type: 0
+total_pay: 404.54999999999995 NIS
+seller name: Harold Mitchell

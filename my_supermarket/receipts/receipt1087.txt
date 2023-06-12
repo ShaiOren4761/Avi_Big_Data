@@ -1,0 +1,22 @@
+customer_name: Alfreda Waddell
+customer name: Alfreda Waddell
+productS:             id  amount   price              name
+0   5190856560       6  150.00    sour_cream_819
+1   3581118027       2   14.50         Apropo101
+2   7459672968      10  140.00         baklawa93
+3   7978099468       9   54.00        danone_387
+4   5738533372       6   96.00           bread28
+5   4031129353       8   43.52           Chips94
+6   2245428483       2   40.00          milk_937
+7   8781272050       7  147.00         carlo_729
+8   3844264438       5   80.00         baklawa17
+9   4230631256       9   69.21        Pringles26
+10  8221029655       6   36.00          burekas3
+11  9165585488       3   60.00         cookie117
+12  6989199755       2   32.00  freedom_eggs_646
+13  9737293118       9   43.38          Bisli106
+14  1689700368       1   18.00        butter_751
+date: 2023-02-26
+payment_type: 2
+total_pay: 1023.61 NIS
+seller name: Edna Collins

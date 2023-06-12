@@ -1,0 +1,24 @@
+customer_name: Terry Guthrie
+customer name: Terry Guthrie
+productS:             id  amount   price              name
+0   9363613618      10   71.70           Bisli39
+1   8564655621       4   13.20        Pringles44
+2   1039632254       9  171.00           cookie6
+3   3430570559       9  108.00         Popcorn93
+4   6190010588       1   11.00        butter_128
+5   9596715513       9  133.56           Chips16
+6   3936047966       6   84.00            hala76
+7   6180901817       3   27.00            cake73
+8   6537702663       3   11.88          Chitos86
+9   5048146984      10   30.50            Bamba1
+10  2305590984      10   60.00   almond_milk_122
+11  3412319267       4  104.00         carlo_839
+12  6098053049       9  270.00  swiss_cheese_869
+13  1536911185       3   38.01         Doritos60
+14  9812220797       2   23.86           Chips30
+15  7914612327       1    2.86         Popcorn34
+16  1291273773       9   63.00        danone_971
+date: 2023-04-10
+payment_type: 0
+total_pay: 1223.57 NIS
+seller name: Renee Brammer

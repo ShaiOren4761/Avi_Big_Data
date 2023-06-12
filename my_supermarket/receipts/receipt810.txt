@@ -1,0 +1,15 @@
+customer_name: Alyce Hayes
+customer name: Alyce Hayes
+productS:            id  amount   price              name
+0  2212386758       3   72.00  organic_eggs_284
+1  1755486136       6   66.90          Chips100
+2  9819779158       4   20.00           lahuh36
+3   680637539       3   26.07           Chips23
+4  4492288116      10  260.00         milky_109
+5   519529375       9  132.12            Bamba3
+6  7999335615       7  112.00         baklawa63
+7  5052171723       5   61.85          Apropo68
+date: 2023-02-05
+payment_type: 0
+total_pay: 750.94 NIS
+seller name: Hobert Wimberly

@@ -1,0 +1,9 @@
+customer_name: Frances Arenas
+customer name: Frances Arenas
+productS:            id  amount  price              name
+0  8259175265       5   65.0        danone_567
+1  4824475767       1   13.0  swiss_cheese_419
+date: 2023-02-27
+payment_type: 0
+total_pay: 78.0 NIS
+seller name: Hobert Wimberly

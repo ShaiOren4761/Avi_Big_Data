@@ -1,0 +1,11 @@
+customer_name: Sasha Harrison
+customer name: Sasha Harrison
+productS:            id  amount  price         name
+0  3988232598       5  27.50      Kefli22
+1  6537702663       8  31.68     Chitos86
+2  2810873971       4  52.88  Pringles104
+3  7693680065       6  25.26      Kefli17
+date: 2023-01-04
+payment_type: 1
+total_pay: 137.32 NIS
+seller name: Jennifer Roberts

@@ -1,0 +1,21 @@
+customer_name: Roy Lowder
+customer name: Roy Lowder
+productS:             id  amount   price              name
+0   3842613896       3   34.95         Doritos61
+1   4577034049       8   62.72         Chitos109
+2   5715320344      10  190.00  organic_eggs_750
+3   5947865049       8   56.00   swiss_cheese_91
+4   4535114194       2   12.00          eggs_113
+5   8757485428       2   14.00          jahnon36
+6   5810275208       5   27.10           Kefli23
+7   3360759680       4   30.88        Doritos105
+8   7274840607       5   60.70         Popcorn76
+9   1331389344       9  171.00          eggs_830
+10  7848327923       2   23.26        Doritos110
+11   126865989       2    5.50           Chips59
+12  6889339038      10   80.00          milk_801
+13  8560504323      10  112.20        Pringles20
+date: 2023-03-18
+payment_type: 0
+total_pay: 880.3100000000001 NIS
+seller name: Gary Hudson

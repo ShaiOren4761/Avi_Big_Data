@@ -1,0 +1,23 @@
+customer_name: Madeline Hare
+customer name: Madeline Hare
+productS:             id  amount   price                 name
+0   6768290091       2    4.38              Chitos5
+1   1968789158       8  128.00             eggs_912
+2   5977258801       3    9.87              Bamba61
+3   7165750776       6  120.00  Napoleon_cheese_597
+4   1745426392       1   31.00           butter_818
+5   2762130524       2   26.00            carlo_996
+6   1124584031       2   18.00     freedom_eggs_373
+7   3154745776       4   48.00              pizza72
+8   5575512464       9  102.60            Doritos69
+9   5645682267       8  280.00             eggs_337
+10  3438508516       4  124.00        goat_milk_378
+11  2241517882       9  270.00             coco_237
+12  6754898235      10   50.00              ziva107
+13  5000405727       6  102.00            prezel110
+14  3066862313       5   30.00              ziva112
+15  3192107145       6   78.00    yellow_cheese_187
+date: 2023-02-07
+payment_type: 0
+total_pay: 1421.85 NIS
+seller name: Maria Barnett

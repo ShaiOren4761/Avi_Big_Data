@@ -1,0 +1,24 @@
+customer_name: Melissia Burden
+customer name: Melissia Burden
+productS:             id  amount   price              name
+0   9831681615       2   46.00          coco_317
+1   9819779158      10   50.00           lahuh36
+2   6439556476       6   11.28         Doritos51
+3   1843408960       8   88.00             pie28
+4   1124584031       5   45.00  freedom_eggs_373
+5   6768290091      10   21.90           Chitos5
+6   9802769522       5   43.45         Popcorn26
+7   4530315044       7  126.00        butter_913
+8   2396574023       6   36.00     goat_milk_659
+9   5025707230       3   45.00         prezel109
+10  4937476280       9  225.00     goat_milk_517
+11  5254092417       5   71.75         Popcorn73
+12  9029477329       4   24.20           Bisli62
+13  5705065148      10   60.00          bagget99
+14  6259979847       8   48.00            ziva96
+15  8571481765       6   54.48         Chitos103
+16  2757127063       5   38.45           Chitos9
+date: 2023-05-26
+payment_type: 1
+total_pay: 1034.51 NIS
+seller name: James Briggs

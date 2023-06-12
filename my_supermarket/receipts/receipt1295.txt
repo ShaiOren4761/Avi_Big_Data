@@ -1,0 +1,19 @@
+customer_name: Richard Goforth
+customer name: Richard Goforth
+productS:             id  amount   price             name
+0   8900185926       7  238.00  swiss_cheese_23
+1   3205477072       3   72.00         yolo_195
+2   8320599570       3   19.11          Kefli37
+3   7179438945       5   15.10         Chitos41
+4   5052171723       2   24.74         Apropo68
+5   4865712712       9   45.00           hala84
+6   9051261268       1   18.00         yolo_673
+7   4961948928       3   36.00        burekas27
+8   8452100283       4   60.00            pita8
+9   9411065204       1    6.00          hala122
+10  2693524936       2   23.50       Pringles98
+11  3936047966       9  126.00           hala76
+date: 2023-04-29
+payment_type: 0
+total_pay: 683.45 NIS
+seller name: Roberta Lewis

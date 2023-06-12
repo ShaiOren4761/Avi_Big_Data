@@ -1,0 +1,16 @@
+customer_name: Thomas Mckinnon
+customer name: Thomas Mckinnon
+productS:            id  amount   price              name
+0  3147370279      10   57.10        Pringles84
+1  2455556083       7  168.00  swiss_cheese_260
+2  1973279218       3   87.00         milky_651
+3  3581118027       8   58.00         Apropo101
+4  7836423913       4   42.44           Bisli70
+5  6244068245       1    9.91            Bamba0
+6  3425061386       4   92.00  organic_eggs_418
+7  5645682267       9  315.00          eggs_337
+8  8470270632       5   70.00         baklawa41
+date: 2023-01-13
+payment_type: 1
+total_pay: 899.45 NIS
+seller name: Karen Salazar

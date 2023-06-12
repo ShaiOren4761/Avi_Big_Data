@@ -1,0 +1,24 @@
+customer_name: Adele Gore
+customer name: Adele Gore
+productS:             id  amount   price               name
+0   5211526517       1   16.00         butter_405
+1   7201524611      10  180.00     sour_cream_880
+2   7922481078       4   48.00           burekas2
+3   5268267624      10  180.00         burekas114
+4   7909835073       7   69.02           Bamba100
+5   4230631256       8   61.52         Pringles26
+6   2735283284       5   45.00          burekas13
+7   7715137603       4   60.00             hala50
+8   1686846932       5   35.00   swiss_cheese_188
+9   8871223251       2   22.98         Pringles14
+10  2478208226       2   14.00           cookie32
+11  2305590984       7   42.00    almond_milk_122
+12  4059815665       4   88.00  yellow_cheese_448
+13  7707308455       7   98.00              pie45
+14  2119044389       3   18.00            lahuh46
+15  7002149324       9  252.00       goat_milk_31
+16  3529150487       2   19.88            Chips38
+date: 2023-02-04
+payment_type: 0
+total_pay: 1249.4 NIS
+seller name: Edna Collins

@@ -1,0 +1,14 @@
+customer_name: Janet Lowry
+customer name: Janet Lowry
+productS:            id  amount  price               name
+0  1958460856       4   60.0    sweet_cream_608
+1  5410447157       5   75.0             pita20
+2  3914285175       1   13.0            lahuh21
+3  6274744865       5  175.0  melted_cheese_848
+4  9909931991      10  120.0             ziva17
+5  2774931560       1   14.0             cake31
+6  8495137286       1    8.0           prezel23
+date: 2023-02-27
+payment_type: 3
+total_pay: 465.0 NIS
+seller name: Margaret Mclaughlin

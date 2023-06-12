@@ -1,0 +1,10 @@
+customer_name: Patricia Polston
+customer name: Patricia Polston
+productS:            id  amount  price            name
+0  6537204810       8  272.0      butter_890
+1  9608887219      10  200.0  sour_cream_978
+2  7960297404       9  153.0       carlo_962
+date: 2023-05-23
+payment_type: 1
+total_pay: 625.0 NIS
+seller name: Calvin Manahan

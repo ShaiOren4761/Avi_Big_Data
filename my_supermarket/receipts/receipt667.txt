@@ -1,0 +1,25 @@
+customer_name: Anthony Romney
+customer name: Anthony Romney
+productS:             id  amount   price              name
+0   7138233209       3   30.96          Chitos89
+1   7388958020       8   98.64         Popcorn96
+2   6760389596       3   75.00   sweet_cream_699
+3   9717670411       2   32.00          jahnon39
+4   6132994468       7  126.00            cake64
+5   1058144674       9  144.00            pie110
+6   1110458406       4   48.00   sweet_cream_827
+7   1195196172       6   72.00          baklawa5
+8   6326417710       9  100.89           Bamba40
+9   4522400505       9  114.84          Popcorn8
+10  3512777343       2   18.46           Chips84
+11  9096353977       3   24.00            hala47
+12  4877082701       8   53.92         Popcorn92
+13  5472565073       7   70.00          dunats94
+14  3989026102       5  155.00          coco_203
+15   845204275       4   21.96           Bamba41
+16  5607103657       1   25.00  swiss_cheese_543
+17  3420503723      10  128.80         Popcorn45
+date: 2023-01-09
+payment_type: 3
+total_pay: 1339.47 NIS
+seller name: Jennifer Roberts

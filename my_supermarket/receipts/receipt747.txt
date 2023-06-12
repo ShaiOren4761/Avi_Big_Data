@@ -1,0 +1,19 @@
+customer_name: Donna Shavers
+customer name: Donna Shavers
+productS:             id  amount   price              name
+0   1518260232       6   84.00          bagget79
+1   8238421558      10  250.00  freedom_eggs_501
+2   7865783737       1   16.00           pita120
+3   9635717317       7   70.00         baklawa29
+4   2668939231       6   29.16           Kefli32
+5   3623362728       1   15.00            hala92
+6    853168992       3   12.30           Bisli12
+7   7195646839       2    7.54         Doritos80
+8   6756279248       5   50.00           coco_77
+9   1893166475       6   30.00        danone_761
+10  9661068492       2   20.00          cookie58
+11  4104639212       2    8.50          Chitos82
+date: 2023-03-05
+payment_type: 2
+total_pay: 592.5 NIS
+seller name: Karen Salazar

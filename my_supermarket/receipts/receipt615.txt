@@ -1,0 +1,14 @@
+customer_name: James Gaskins
+customer name: James Gaskins
+productS:            id  amount   price               name
+0  8869158925       4   60.00           prezel32
+1  2270748748       7   98.00     sweet_cream_76
+2  8320599570       8   50.96            Kefli37
+3  2927424029       9  306.00  melted_cheese_267
+4  9489663421       9   54.00           lahuh123
+5  2885592727       1   12.25          Doritos67
+6  5786235291       4   15.96            Kefli46
+date: 2023-05-16
+payment_type: 3
+total_pay: 597.1700000000001 NIS
+seller name: Edna Collins

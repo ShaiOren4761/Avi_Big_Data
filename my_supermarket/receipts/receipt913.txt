@@ -1,0 +1,23 @@
+customer_name: George Strickland
+customer name: George Strickland
+productS:             id  amount   price               name
+0   7197645647       7   70.00           prezel98
+1   3989026102       2   62.00           coco_203
+2    217063952       1   11.14           Chitos78
+3   8354318545       1    6.00           eggs_692
+4    649276310       5   28.50         Pringles81
+5    570075818       3   10.44          Pringles7
+6   8651737989       5  100.00           milk_239
+7   1880696888       9  153.00     sour_cream_254
+8   7238445179       4   96.00  yellow_cheese_624
+9   7777758933       7   51.17            Bamba78
+10  8919244457       6   66.00             hala35
+11  6756231455       5   41.70            Kefli36
+12  3528488014       5   57.05         Pringles93
+13  6008017704       7   91.00             pita35
+14  1131218704       7    8.33         Pringles92
+15  6946528623       9  189.00      sweet_cream_7
+date: 2023-02-27
+payment_type: 1
+total_pay: 1041.33 NIS
+seller name: Debra Pearson

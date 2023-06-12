@@ -1,0 +1,27 @@
+customer_name: Sheila Manalang
+customer name: Sheila Manalang
+productS:             id  amount   price            name
+0   1391976952      10  120.90         Chips12
+1   1002013553       1   24.00       milky_286
+2   9729063848       7  105.00        jahnon14
+3   6971485450       6   54.00          cake10
+4   7915163122       7  140.00          ziva83
+5   7884155194       5  150.00  sour_cream_359
+6   5025707230       8  120.00       prezel109
+7   2388008773      10  100.00       milky_865
+8   8549053258       5   38.75        Apropo52
+9   5574836559       8  112.00           pie12
+10  7878537365       4   54.96        Chitos42
+11  3598428134      10  150.00       baklawa71
+12  8277949751       8   42.40        Chitos91
+13  3180348316       2   14.00         carlo_9
+14   832268335       6   40.26       Apropo105
+15  9727334673       2   50.00        yolo_852
+16  8718263195       9   63.00  sour_cream_613
+17  3154007592       2   34.00         lahuh11
+18  7688435434       8  184.00        milk_230
+19  3528488014       5   57.05      Pringles93
+date: 2023-04-23
+payment_type: 1
+total_pay: 1654.3200000000002 NIS
+seller name: Donald Dawson

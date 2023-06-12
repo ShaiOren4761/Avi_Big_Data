@@ -1,0 +1,14 @@
+customer_name: Tyrone Lynn
+customer name: Tyrone Lynn
+productS:            id  amount   price               name
+0  1859709847       9  180.00           coco_735
+1  6668408768       7   84.00  melted_cheese_133
+2  8046620973       5   80.00            pita121
+3  9783880731       7   56.00             cake72
+4  1849092684      10  200.00          burekas54
+5  7546689252       8   59.84           Apropo90
+6  1205004788       6  156.00     sour_cream_837
+date: 2023-03-11
+payment_type: 3
+total_pay: 815.84 NIS
+seller name: Marie Natonabah

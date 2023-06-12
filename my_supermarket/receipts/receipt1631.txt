@@ -1,0 +1,27 @@
+customer_name: Latanya Holquin
+customer name: Latanya Holquin
+productS:             id  amount   price                 name
+0   1192443913       8   36.88           Pringles52
+1   7291116312       4   32.00            dunats109
+2   7257773907       4   36.00     freedom_eggs_615
+3   5093804778       4  100.00  Napoleon_cheese_793
+4   2222980914      10  150.00             bread124
+5   4237118734       9   83.43              Chips62
+6   9343935433       1   13.00             cookie24
+7   6552424950       3   11.31              Bamba56
+8   6274744865       7  245.00    melted_cheese_848
+9   7320566045       2    2.90            Pringles2
+10  4928916481       7  126.00             milk_413
+11  1361553835       2   16.38             Bisli103
+12  6221547554      10  100.00               bread6
+13  6185641664       9   72.00            baklawa89
+14  8710782035       5   48.00             Chitos66
+15  8551207505       6    6.96             Doritos3
+16  9180784359       2   38.00             cookie92
+17  2242014772       2   36.00             cookie17
+18  1574050092       3   99.00           danone_273
+19  8265295087      10  140.00             yolo_561
+date: 2023-02-15
+payment_type: 3
+total_pay: 1392.8600000000001 NIS
+seller name: Gary Hudson

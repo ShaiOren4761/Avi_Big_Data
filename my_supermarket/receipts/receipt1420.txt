@@ -1,0 +1,26 @@
+customer_name: David Melancon
+customer name: David Melancon
+productS:             id  amount   price               name
+0   4752365757       2   10.86           Chitos87
+1   5821394395       9  153.00    sweet_cream_968
+2   2668939231       7   34.02            Kefli32
+3   2014517286       7  112.00          cream_489
+4   5190856560       9  225.00     sour_cream_819
+5   4004511853       6   78.00    almond_milk_285
+6   5907467063       6    6.06           Apropo86
+7    171528809      10   46.00            Bisli54
+8   4059815665       8  176.00  yellow_cheese_448
+9   6284093731      10  180.00           coco_834
+10  9021688057       6   76.32            Bamba11
+11  9264219126       8   94.08             Bisli1
+12  2922052037       9  126.00          bagget115
+13  6577246145       9  153.00             ziva41
+14  3581688547       2   14.00            bagget1
+15  4645522651       5   55.00             pita77
+16  5422325640       7   77.00          milky_430
+17  6186431336       3   90.00          cream_943
+18  1158928326       2   26.00    sweet_cream_883
+date: 2023-04-11
+payment_type: 1
+total_pay: 1732.34 NIS
+seller name: Kevin Goldberg

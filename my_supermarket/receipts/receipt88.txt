@@ -1,0 +1,11 @@
+customer_name: John Freyermuth
+customer name: John Freyermuth
+productS:            id  amount  price        name
+0  9661068492       5  50.00    cookie58
+1    27374486       4  27.20  Pringles89
+2  2371009115       4  14.12     Chips61
+3  1639908482       8  20.08    Apropo80
+date: 2023-04-15
+payment_type: 2
+total_pay: 111.4 NIS
+seller name: Victoria Hansen

@@ -1,0 +1,26 @@
+customer_name: Patricia Sheppard
+customer name: Patricia Sheppard
+productS:             id  amount   price               name
+0   8066390508       4   24.88            Chips86
+1   7238445179       8  192.00  yellow_cheese_624
+2   8373411908       4    7.32           Chitos63
+3   4084017914       5  100.00            pizza82
+4   8134299553       6   96.00          baklawa82
+5   5159724944       4   40.00    swiss_cheese_68
+6    509846372       9   77.67         Doritos107
+7   1766580728       5   30.40            Chips51
+8   3652468555       9  180.00          baklawa73
+9   4802619719       3   18.15            Bamba84
+10  8371766927       1    4.65            Chips53
+11  4002030823       1    4.59            Chips93
+12  9804717928       6   66.00            pizza24
+13  6552424950       8   30.16            Bamba56
+14  7406763374      10  290.00           coco_768
+15  6401153211       5   30.00            jahnon9
+16  7334053725       1   14.00         danone_234
+17  9719100235       3   40.26            Chitos2
+18  9663957536       8   30.96             Bisli6
+date: 2023-02-22
+payment_type: 1
+total_pay: 1277.04 NIS
+seller name: Donald Dawson

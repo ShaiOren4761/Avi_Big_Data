@@ -1,0 +1,12 @@
+customer_name: Virgil Foote
+customer name: Virgil Foote
+productS:            id  amount  price                 name
+0  2922052037       7   98.0            bagget115
+1  9724099313       2   30.0           butter_399
+2  6387990502       7   91.0             coco_958
+3  7190703453       8  128.0     swiss_cheese_410
+4  5421813302      10   80.0  Napoleon_cheese_116
+date: 2023-03-11
+payment_type: 2
+total_pay: 427.0 NIS
+seller name: Kevin Goldberg

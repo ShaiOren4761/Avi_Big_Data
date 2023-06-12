@@ -1,0 +1,25 @@
+customer_name: Randy Allen
+customer name: Randy Allen
+productS:             id  amount   price              name
+0   4004517395       7   35.00            pita43
+1   6330280004       9  135.00           bread55
+2   7735953284       6   21.54           Bamba32
+3   4878564849       8  107.12           Chips79
+4   2991470508       6   42.00          bagget37
+5   3961824178       1   16.00          jahnon29
+6   6504340929       3   41.25        Pringles56
+7   6756486695       8   40.00          dunats51
+8   7324805023       3   42.00  yellow_cheese_27
+9   3598881795       4   48.04        Popcorn107
+10  8822430251       2   20.10           Bamba50
+11  1393195630       2   54.00        butter_238
+12  3796503079       5   30.00        danone_780
+13  6693710853       9   63.00   almond_milk_170
+14  6815416935       3   32.13         Apropo110
+15  8371766927      10   46.50           Chips53
+16  8033178919      10  130.00             pita6
+17  2415394970       6   48.00        danone_909
+date: 2023-04-18
+payment_type: 0
+total_pay: 951.68 NIS
+seller name: James Briggs

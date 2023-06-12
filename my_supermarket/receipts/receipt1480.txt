@@ -1,0 +1,26 @@
+customer_name: Paul Gilbreath
+customer name: Paul Gilbreath
+productS:             id  amount   price                 name
+0   7234416649       6   79.68              Chitos6
+1   3498356206      10  210.00             milk_280
+2   6935511269      10   24.00             Kefli104
+3   8918075819       9  243.00    melted_cheese_548
+4   4958296306       6  144.00  Napoleon_cheese_242
+5   8258854322       6   48.00           danone_638
+6   7458172393       7   35.91             Chitos18
+7   6787324739       5   85.00               hala42
+8   4345905587       6   78.00                pie96
+9   6595734261       7  126.00    yellow_cheese_231
+10  5259931691       7  126.00               ziva70
+11  3716667614       8  256.00         goat_milk_69
+12  4853031737       2   11.44           Doritos103
+13  3619996033       5   95.00             eggs_805
+14  7433662161       1    5.42              Chips35
+15  7167324081       2   10.00              pizza75
+16  4752365757       7   38.01             Chitos87
+17  1689700368       7  126.00           butter_751
+18  5083081758       5   40.00               pita88
+date: 2023-01-30
+payment_type: 2
+total_pay: 1781.4600000000003 NIS
+seller name: Debra Pearson

@@ -1,0 +1,16 @@
+customer_name: Jean Roylance
+customer name: Jean Roylance
+productS:            id  amount   price               name
+0  6136444692       1   26.00  melted_cheese_678
+1  9126303800       6   14.82            Chips24
+2  3451795281       1   20.00           dunats37
+3  5144865594      10   63.30            Bisli58
+4  8379004337       6   96.00  yellow_cheese_661
+5  1780796282       5   68.15            Kefli38
+6  1194521312       5   85.00           milk_907
+7  9508571103       6  186.00           milk_505
+8  2771350250       7   93.31            Bamba83
+date: 2023-02-23
+payment_type: 0
+total_pay: 652.5799999999999 NIS
+seller name: Karen Salazar

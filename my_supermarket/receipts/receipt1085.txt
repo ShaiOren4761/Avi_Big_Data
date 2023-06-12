@@ -1,0 +1,20 @@
+customer_name: Melinda Baer
+customer name: Melinda Baer
+productS:             id  amount   price             name
+0   2762130524       5   65.00        carlo_996
+1   6692495016       7   59.99       Pringles57
+2   6232474323      10  143.80        Popcorn69
+3   8320599570      10   63.70          Kefli37
+4   7378954285      10  127.00          Bisli14
+5   3234778173       2   16.00  sweet_cream_967
+6   5619542781       2   25.94          Bisli65
+7   7524099509       5   57.20       Pringles65
+8   4939724717       3   99.00    goat_milk_938
+9    942428879       1    1.89         Chitos47
+10  6695318832       7  140.00           ziva26
+11  9395329910       8   34.48          Bisli19
+12  5870840984       9  315.00       danone_973
+date: 2023-03-17
+payment_type: 1
+total_pay: 1149.0 NIS
+seller name: James Briggs

@@ -1,0 +1,25 @@
+customer_name: Arthur Harris
+customer name: Arthur Harris
+productS:             id  amount   price             name
+0   4216298667       8  160.00        baklawa24
+1   5908529954       8  184.00          milky_8
+2   4228714385       7  140.00           ziva10
+3   4641650733       6   54.12          Bamba63
+4   8564655621       9   29.70       Pringles44
+5   6523953105      10  120.00         bread117
+6   4920993093       9  270.00       butter_314
+7   4528126301       6   60.00         jahnon24
+8   6300865677       8   94.96      Pringles107
+9   6417558996       3   39.00         milk_518
+10  6755104549       5   85.00  sweet_cream_920
+11  7218507452       5   90.00   sour_cream_590
+12  2812937424      10  142.50         Apropo40
+13  2266214625       1   17.00          bread87
+14  3235560218       5   50.00            pie68
+15  9991409125       6   48.00           ziva67
+16  2758441497       5  150.00   sour_cream_849
+17  6659610320       7   22.61          Kefli64
+date: 2023-02-09
+payment_type: 2
+total_pay: 1756.8899999999999 NIS
+seller name: Victoria Hansen

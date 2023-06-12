@@ -1,0 +1,23 @@
+customer_name: Amy Toombs
+customer name: Amy Toombs
+productS:             id  amount   price                 name
+0   8320599570       8   50.96              Kefli37
+1   8624886662       1    2.75              Bamba55
+2   3914285175       5   65.00              lahuh21
+3   2693524936       3   35.25           Pringles98
+4   6159827943       4   24.00               bread2
+5   4958296306       2   48.00  Napoleon_cheese_242
+6    498061809       2   28.08           Doritos100
+7   5556139998       1    8.42            Pringles8
+8   1989956362       3   35.37              Kefli71
+9   3412469005       9  116.64           Pringles40
+10  3191321146       2   22.16            Doritos90
+11  3134606320       3   75.00            carlo_172
+12  8700915743       2   26.00              bread52
+13  1532989376       3   14.85             Kefli101
+14  8751186001      10  230.00       sour_cream_732
+15  2780672615       4   22.64           Pringles24
+date: 2023-02-03
+payment_type: 2
+total_pay: 805.1200000000001 NIS
+seller name: Calvin Manahan

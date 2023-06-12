@@ -1,0 +1,9 @@
+customer_name: Richard Beaufort
+customer name: Richard Beaufort
+productS:            id  amount  price      name
+0  1171500762       7  52.78  Kefli107
+1  7686144721       6  66.00  baklawa7
+date: 2023-03-25
+payment_type: 3
+total_pay: 118.78 NIS
+seller name: Maria Barnett

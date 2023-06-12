@@ -1,0 +1,12 @@
+customer_name: Lashawn Stratton
+customer name: Lashawn Stratton
+productS:            id  amount  price             name
+0  5574836559       5   70.0            pie12
+1  7028436694       6   72.6          Chips73
+2  8416764864       1    6.0  almond_milk_846
+3  4084017914      10  200.0          pizza82
+4  4137018925       3   48.0    goat_milk_975
+date: 2023-02-01
+payment_type: 2
+total_pay: 396.6 NIS
+seller name: Roberta Lewis

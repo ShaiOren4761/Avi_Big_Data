@@ -1,0 +1,24 @@
+customer_name: Clifford Zapata
+customer name: Clifford Zapata
+productS:             id  amount   price                 name
+0   1239857379       3    5.07            Doritos62
+1   4481744753       7   77.00             prezel74
+2   8300182505       9  144.00              hala129
+3   3551239292       6   90.00             yolo_532
+4   3932773476       2   24.64           Pringles59
+5   3443220274       2   12.00             pizza115
+6   6796826274       6   78.00             eggs_493
+7   3891410334       9  279.00     swiss_cheese_781
+8   3460515475       1    8.00            carlo_466
+9   8710802059       3   48.00     yellow_cheese_99
+10  7138233209       1   10.32             Chitos89
+11  4545755994       2   15.00            Popcorn81
+12   573251583       9   62.37           Pringles99
+13  8689181790      10   80.00  Napoleon_cheese_175
+14  8547712538      10  270.00      sweet_cream_281
+15   266149272       1    2.35             Chitos28
+16  9236591680       2   13.70             Apropo46
+date: 2023-03-14
+payment_type: 2
+total_pay: 1219.45 NIS
+seller name: Edna Collins

@@ -1,0 +1,10 @@
+customer_name: Kenneth Allen
+customer name: Kenneth Allen
+productS:            id  amount   price       name
+0  4606619337       3   21.00  burekas23
+1  3862605342       9   72.63    Bisli26
+2  6519763670      10  150.00   cookie75
+date: 2023-01-26
+payment_type: 0
+total_pay: 243.63 NIS
+seller name: Lillian Dolan

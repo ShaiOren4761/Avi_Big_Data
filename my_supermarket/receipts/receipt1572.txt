@@ -1,0 +1,18 @@
+customer_name: Marion Rodibaugh
+customer name: Marion Rodibaugh
+productS:             id  amount   price                 name
+0   3655666396       3   39.00              lahuh41
+1   3658018501       1   10.00               cake60
+2   8751186001       4   92.00       sour_cream_732
+3   4217061826       5   80.00            carlo_107
+4   7238445179       6  144.00    yellow_cheese_624
+5   2239512161       3   60.00               lafa99
+6   8719676915       5   64.80             Chitos53
+7   5656681747       2   28.54           Pringles46
+8   7242193446       7   90.30              Bisli57
+9   6249749527       9   23.40             Apropo10
+10  2328994516       3   21.00  Napoleon_cheese_610
+date: 2023-01-20
+payment_type: 0
+total_pay: 653.04 NIS
+seller name: Victoria Hansen

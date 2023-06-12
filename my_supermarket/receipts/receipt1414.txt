@@ -1,0 +1,12 @@
+customer_name: Shamika Holtz
+customer name: Shamika Holtz
+productS:            id  amount   price      name
+0  7133792807       5   60.00  coco_309
+1  9805965278       1    6.51   Kefli54
+2  8591156424       4   48.00    lafa11
+3  4218130215       8  101.04   Kefli89
+4  1643896231       1   12.59  Chitos93
+date: 2023-03-30
+payment_type: 2
+total_pay: 228.14000000000001 NIS
+seller name: Hobert Wimberly

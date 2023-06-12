@@ -1,0 +1,26 @@
+customer_name: Ronnie Gregory
+customer name: Ronnie Gregory
+productS:             id  amount   price        name
+0   9351326770       6   66.00      cake78
+1   2735283284      10   90.00   burekas13
+2   3655922135       9   96.66   Popcorn19
+3   8924429372       7   91.00      ziva84
+4   1291273773       5   35.00  danone_971
+5   1579847942       6   54.00    bread106
+6   4237012825       9   81.00       pie34
+7   1759484236      10  180.00     bread17
+8   5996612644       5   55.00     lafa106
+9   9720097774       4   32.00   burekas75
+10  5255985477      10   12.50     Bamba67
+11  4345905587       1   13.00       pie96
+12  8584680793       7  112.00   prezel117
+13  1256500641       2   28.20     Bisli92
+14  8025288199       4   80.00     pizza28
+15  2779348101       1   12.47  Pringles37
+16  7835865295       9  126.00   carlo_562
+17   604713082       2   17.34     Apropo7
+18  8076538622      10  140.00     pita118
+date: 2023-01-17
+payment_type: 2
+total_pay: 1322.17 NIS
+seller name: Latasha Mace

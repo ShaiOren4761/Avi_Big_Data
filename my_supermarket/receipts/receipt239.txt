@@ -1,0 +1,9 @@
+customer_name: Dawn Hull
+customer name: Dawn Hull
+productS:            id  amount  price              name
+0  2840390615       6  120.0            cake32
+1  6609101402       9  108.0  swiss_cheese_785
+date: 2023-04-07
+payment_type: 1
+total_pay: 228.0 NIS
+seller name: Ann Hutchens

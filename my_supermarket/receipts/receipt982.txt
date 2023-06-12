@@ -1,0 +1,14 @@
+customer_name: Joann Hudson
+customer name: Joann Hudson
+productS:            id  amount   price               name
+0  7570782330       1    4.14         Popcorn105
+1  5105063630       6   19.86          Doritos92
+2  7761125269       5   65.00          milky_519
+3  1854528192       3   81.00  melted_cheese_335
+4  6221547554       2   20.00             bread6
+5  1190612960       5   48.60          Popcorn95
+6  4152593241       7  126.00   swiss_cheese_784
+date: 2023-02-14
+payment_type: 3
+total_pay: 364.6 NIS
+seller name: Maria Barnett

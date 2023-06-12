@@ -1,0 +1,13 @@
+customer_name: Justin Price
+customer name: Justin Price
+productS:            id  amount  price        name
+0  8121338030       4   8.96    Chitos32
+1   907411748       2   8.04     Kefli80
+2  1051807988       4  52.00      lafa45
+3  1291273773       7  49.00  danone_971
+4  6855861307       3  18.00    jahnon93
+5  7855915319       5  75.00   burekas50
+date: 2023-01-02
+payment_type: 3
+total_pay: 211.0 NIS
+seller name: Harold Mitchell

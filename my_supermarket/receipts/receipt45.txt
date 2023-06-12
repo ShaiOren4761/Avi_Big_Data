@@ -1,0 +1,20 @@
+customer_name: Jack Squires
+customer name: Jack Squires
+productS:             id  amount   price              name
+0   8699836726       3   87.00   almond_milk_293
+1    217063952      10  111.40          Chitos78
+2   3375423706       4  140.00         cream_318
+3   3745981239       6   30.00            pita27
+4   4013336724       6  162.00           milk_35
+5   5981601891       4   56.00    sour_cream_103
+6   1693958641       9  117.00  yellow_cheese_56
+7   8617449927       8   96.00         carlo_640
+8   8401108965       4   44.00   almond_milk_227
+9   4200709525       2   26.00           lafa128
+10  6187411892       1   14.00         butter_87
+11  3125486774       7   49.00    sour_cream_726
+12  6944364365       3   16.56           Bamba15
+date: 2023-05-16
+payment_type: 0
+total_pay: 948.9599999999999 NIS
+seller name: Harold Mitchell

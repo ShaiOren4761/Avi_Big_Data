@@ -1,0 +1,12 @@
+customer_name: Linda Crawford
+customer name: Linda Crawford
+productS:            id  amount   price              name
+0  9838003751       6  120.00            pita24
+1  7178247045       8   40.96        Pringles87
+2  4345905587       5   65.00             pie96
+3  1376842029       6   72.00          dunats74
+4  8723057968      10  240.00  organic_eggs_439
+date: 2023-03-19
+payment_type: 3
+total_pay: 537.96 NIS
+seller name: Victoria Hansen

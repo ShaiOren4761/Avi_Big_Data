@@ -1,0 +1,23 @@
+customer_name: Sharon Wilson
+customer name: Sharon Wilson
+productS:             id  amount   price              name
+0   1574923427       9   95.85           Bisli13
+1   7570782330      10   41.40        Popcorn105
+2   5502444567       9  243.00        danone_724
+3   3325678383       5    6.75         Doritos28
+4   3795208268       8  111.12         Popcorn13
+5   8660113264       8    9.28           Kefli39
+6   5863438103       1   12.59          Chitos65
+7   8727300277       8  115.28        Doritos101
+8   7179438945       3    9.06          Chitos41
+9   4767466914       2   38.00            pita58
+10  1957150902       9   63.00             pie78
+11  1751798780       8   72.00    mozzarella_134
+12  6797493127       9  171.00  freedom_eggs_682
+13  7524099509       6   68.64        Pringles65
+14  8420396310       8   56.16         Doritos48
+15   983000324       3   34.11         Popcorn97
+date: 2023-03-12
+payment_type: 1
+total_pay: 1147.24 NIS
+seller name: Victoria Hansen

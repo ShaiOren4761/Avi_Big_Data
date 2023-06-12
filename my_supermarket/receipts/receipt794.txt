@@ -1,0 +1,22 @@
+customer_name: Bernice Bratton
+customer name: Bernice Bratton
+productS:             id  amount   price               name
+0   2259358824       1   29.00   swiss_cheese_540
+1   8005803993       7   49.00             pie104
+2   4364174241       2   64.00    swiss_cheese_18
+3   1903831919       1   16.00          burekas72
+4   9127106020       9   90.27            Chips48
+5   6530924413       2   11.58         Pringles74
+6   9783880731       8   64.00             cake72
+7   4150905730       2   12.00           dunats17
+8   9812220797       5   59.65            Chips30
+9   5751635073       8   56.00   swiss_cheese_483
+10  4994587480       1    5.00            hala103
+11  3167340190       3   30.00  melted_cheese_326
+12  6327186471       8  112.80            Kefli25
+13  3512358813      10  132.20           Chitos55
+14  4535114194       8   48.00           eggs_113
+date: 2023-03-01
+payment_type: 2
+total_pay: 779.5 NIS
+seller name: Donald Dawson

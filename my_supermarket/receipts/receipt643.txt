@@ -1,0 +1,15 @@
+customer_name: Daniel Palmer
+customer name: Daniel Palmer
+productS:            id  amount   price               name
+0  6075240225       1   18.00          bagget122
+1  8651737989       5  100.00           milk_239
+2  2172114298       8   93.36            Bamba66
+3  5613801821       5   40.00     mozzarella_380
+4  8473917808       2    4.56           Chitos96
+5  7402459600       3   51.00    almond_milk_117
+6  1854528192       1   27.00  melted_cheese_335
+7  1550128282       6  138.00          milky_114
+date: 2023-04-22
+payment_type: 0
+total_pay: 471.92 NIS
+seller name: Debra Pearson

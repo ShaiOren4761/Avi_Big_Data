@@ -1,0 +1,8 @@
+customer_name: Sigrid Parker
+customer name: Sigrid Parker
+productS:            id  amount  price      name
+0  3417264158       6  62.94  Chitos39
+date: 2023-03-03
+payment_type: 3
+total_pay: 62.94 NIS
+seller name: Donald Dawson

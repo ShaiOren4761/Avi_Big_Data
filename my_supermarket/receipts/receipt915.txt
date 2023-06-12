@@ -1,0 +1,10 @@
+customer_name: Michael Kugler
+customer name: Michael Kugler
+productS:            id  amount  price       name
+0   483525463       6  70.02    Chips68
+1  4031141123       6  60.00   milk_154
+2  4545755994       1   7.50  Popcorn81
+date: 2023-02-09
+payment_type: 2
+total_pay: 137.51999999999998 NIS
+seller name: Latasha Mace

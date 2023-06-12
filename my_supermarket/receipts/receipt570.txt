@@ -1,0 +1,22 @@
+customer_name: Margaret Blake
+customer name: Margaret Blake
+productS:             id  amount   price              name
+0   1205656095       6  108.00  swiss_cheese_500
+1   4314648994       6   48.00           bread32
+2   8487843095       1   20.00         burekas55
+3   6901815241       6   62.46         Doritos75
+4   4943543146       4   60.00   sweet_cream_811
+5   8471708882       4   56.00           bread80
+6   7578664786       8   56.00         burekas69
+7   8725333102       1   15.00           prezel8
+8   5267069854       3   66.00    mozzarella_776
+9   3906818305       7   70.00          bagget54
+10    19573725       8   68.56         Doritos24
+11  7374620838       7  140.00           pizza17
+12  4198567684       6   30.00          jahnon85
+13  1041583581       1    5.17           Bisli97
+14  9727828047       2   18.00    sour_cream_946
+date: 2023-02-15
+payment_type: 2
+total_pay: 823.1899999999999 NIS
+seller name: Maria Barnett

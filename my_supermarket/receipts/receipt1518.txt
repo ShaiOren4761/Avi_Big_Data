@@ -1,0 +1,18 @@
+customer_name: Robin Davis
+customer name: Robin Davis
+productS:             id  amount   price               name
+0   4273284919       9  198.00  melted_cheese_662
+1    164789150       5   32.25           Apropo33
+2   8764291339       3   15.81         Doritos108
+3   1472205104       4   60.00           coco_779
+4   9126303800       8   19.76            Chips24
+5   9395713515       5  170.00         danone_270
+6   8584680793       9  144.00          prezel117
+7   7009805916       6   84.18           Chitos21
+8   3280736401       1   15.00          burekas36
+9   8179217330      10  230.00          cream_183
+10  7892097681       7   77.84          Apropo106
+date: 2023-01-31
+payment_type: 1
+total_pay: 1046.84 NIS
+seller name: Roberta Lewis

@@ -1,0 +1,27 @@
+customer_name: Janice Cabrera
+customer name: Janice Cabrera
+productS:             id  amount   price               name
+0   8440399015       1   11.00             pita75
+1   9256869017       3   15.00         danone_141
+2   3359006814       8  118.64            Bisli30
+3    351767791       9   75.96            Bisli93
+4   2204368721       5   62.05            Kefli58
+5    266149272       2    4.70           Chitos28
+6   2955458452      10  123.10           Apropo93
+7   4084017914       6  120.00            pizza82
+8   9360549288       8  280.00  Napoleon_cheese_4
+9   4277909247       1   20.00           jahnon38
+10  3512777343       2   18.46            Chips84
+11  7148783653       1   10.45         Pringles39
+12  5505870883       5   13.50            Apropo3
+13  2195738734       9  144.00    sweet_cream_956
+14  5812017382       1   15.00           milk_743
+15  1693958641       4   52.00   yellow_cheese_56
+16  3425061386       2   46.00   organic_eggs_418
+17  8258888255       3   25.20         Pringles23
+18  7142931855       3   21.00            cake127
+19  6137836284       4   55.56         Pringles34
+date: 2023-03-17
+payment_type: 1
+total_pay: 1231.6200000000001 NIS
+seller name: Kevin Goldberg

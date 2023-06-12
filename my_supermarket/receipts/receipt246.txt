@@ -1,0 +1,12 @@
+customer_name: Donna Kemppainen
+customer name: Donna Kemppainen
+productS:            id  amount  price        name
+0  3343316184       7   49.0    bagget63
+1  1061642313       3   45.0  butter_924
+2  6697639307       7   70.0    coco_762
+3  5359341453       4   40.0      bread4
+4  3228334563       2   38.0     bread70
+date: 2023-04-13
+payment_type: 3
+total_pay: 242.0 NIS
+seller name: Calvin Manahan

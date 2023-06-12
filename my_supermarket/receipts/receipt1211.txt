@@ -1,0 +1,10 @@
+customer_name: Christian Crosno
+customer name: Christian Crosno
+productS:            id  amount  price      name
+0   680637539       8  69.52   Chips23
+1  9088276628       2  20.00  bagget33
+2  8380903199       7  92.82    Bisli2
+date: 2023-02-05
+payment_type: 3
+total_pay: 182.33999999999997 NIS
+seller name: Karen Salazar

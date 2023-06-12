@@ -1,0 +1,11 @@
+customer_name: Mark Depaz
+customer name: Mark Depaz
+productS:            id  amount   price             name
+0  2779348101       4   49.88       Pringles37
+1  9802769522       8   69.52        Popcorn26
+2  2511914111       9  225.00  almond_milk_332
+3  7002149324       7  196.00     goat_milk_31
+date: 2023-04-05
+payment_type: 0
+total_pay: 540.4 NIS
+seller name: Jennifer Roberts

@@ -1,0 +1,12 @@
+customer_name: Glenn Contrell
+customer name: Glenn Contrell
+productS:            id  amount   price            name
+0  6884133657       4   30.36        Kefli109
+1  3051580212       2   22.00         lahuh83
+2  6455418856       7  154.00        coco_458
+3  2534125851       5   40.00  sour_cream_542
+4  9729063848       4   60.00        jahnon14
+date: 2023-04-17
+payment_type: 3
+total_pay: 306.36 NIS
+seller name: Maria Barnett

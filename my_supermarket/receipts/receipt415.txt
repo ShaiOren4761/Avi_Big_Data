@@ -1,0 +1,21 @@
+customer_name: Peggy Lopez
+customer name: Peggy Lopez
+productS:             id  amount   price                 name
+0    217063952       1   11.14             Chitos78
+1   6406673582       9   56.43             Apropo30
+2   3644585880       5  165.00  Napoleon_cheese_887
+3   7660828820       2   68.00             eggs_510
+4   7688435434       8  184.00             milk_230
+5   5581671646       5   60.00              cookie5
+6   4462023235       4   76.00               pita16
+7    755756435       5   28.80             Chitos27
+8   9621270583      10  129.60             Apropo44
+9   6530924413       1    5.79           Pringles74
+10  3761577613       7   84.00      sweet_cream_327
+11  5556560143       8   96.00    yellow_cheese_642
+12  9152466157       2   25.96             Bamba106
+13  7179438945       1    3.02             Chitos41
+date: 2023-05-13
+payment_type: 2
+total_pay: 993.7399999999999 NIS
+seller name: Victoria Hansen

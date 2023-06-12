@@ -1,0 +1,12 @@
+customer_name: Clifton Babers
+customer name: Clifton Babers
+productS:            id  amount   price             name
+0  1162286331       3    8.88          Bamba79
+1  4047322107       8  136.00  sweet_cream_800
+2  7371422605      10  190.00  almond_milk_264
+3  8942870951       5   30.00          ziva110
+4  3953812972       1    6.65        Popcorn20
+date: 2023-02-05
+payment_type: 1
+total_pay: 371.53 NIS
+seller name: Maria Barnett

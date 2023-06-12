@@ -1,0 +1,21 @@
+customer_name: Lowell Gentry
+customer name: Lowell Gentry
+productS:             id  amount   price              name
+0   1376842029       2   24.00          dunats74
+1   9165585488       7  140.00         cookie117
+2    758911969       1    9.93           Kefli30
+3   4285847867       4   80.00            ziva20
+4   6755104549       1   17.00   sweet_cream_920
+5   8719676915       7   90.72          Chitos53
+6   4711463498       6   62.76          Chitos62
+7   8076538622       9  126.00           pita118
+8   8571481765       7   63.56         Chitos103
+9   7877030455       9  153.00          jahnon52
+10  9197683164       3   57.00             pie60
+11  6672844068      10  180.00  organic_eggs_167
+12  3813014517       5   55.00          yolo_953
+13  4237118734       7   64.89           Chips62
+date: 2023-02-09
+payment_type: 2
+total_pay: 1123.8600000000001 NIS
+seller name: Renee Brammer

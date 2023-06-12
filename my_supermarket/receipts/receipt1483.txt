@@ -1,0 +1,20 @@
+customer_name: Glenn Mroz
+customer name: Glenn Mroz
+productS:             id  amount   price              name
+0   8066679807       6  156.00  melted_cheese_32
+1   5607103657       2   50.00  swiss_cheese_543
+2   2204368721       4   49.64           Kefli58
+3   7688435434       2   46.00          milk_230
+4   9700244844       9  261.00         carlo_606
+5   9568368978      10  190.00     goat_milk_680
+6   2774931560      10  140.00            cake31
+7   2245428483      10  200.00          milk_937
+8   4802705112       1   14.13            Chips5
+9   4746444083       9   72.00          bagget77
+10  6530924413       8   46.32        Pringles74
+11  2408420254       2   25.80         Popcorn31
+12  1573371180       7   77.00         dunats116
+date: 2023-01-28
+payment_type: 3
+total_pay: 1327.8899999999999 NIS
+seller name: Calvin Manahan

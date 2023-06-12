@@ -1,0 +1,20 @@
+customer_name: Ken Spires
+customer name: Ken Spires
+productS:             id  amount   price               name
+0   2253671177       6  138.00           eggs_820
+1   3639810532       1   35.00  yellow_cheese_841
+2   3680988777       6   54.00           yolo_772
+3   8865148278       7  101.01          Popcorn59
+4   8283358007      10  170.00             hala91
+5   7023102480       2   24.74            Bisli45
+6   3191321146       1   11.08          Doritos90
+7   5267069854       3   66.00     mozzarella_776
+8   1602351303       5   45.00            bagget6
+9   2219725592      10  180.00      goat_milk_637
+10  9414611643       3   48.00    almond_milk_604
+11  9764216273       1    9.82           Chitos29
+12  8867379735       8  101.12           Bisli100
+date: 2023-03-13
+payment_type: 2
+total_pay: 983.7700000000001 NIS
+seller name: James Briggs

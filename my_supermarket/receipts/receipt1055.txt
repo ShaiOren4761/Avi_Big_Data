@@ -1,0 +1,24 @@
+customer_name: Peter Hill
+customer name: Peter Hill
+productS:             id  amount   price                 name
+0   2735906682       6  108.00            burekas47
+1   5757349106       5   55.00             milk_513
+2   2029010389       4  140.00       sour_cream_757
+3   6910603180       9   96.84              Bamba76
+4   8718263195       5   35.00       sour_cream_613
+5   5972140342       8  104.00     freedom_eggs_496
+6   9332818515       5   40.00            milky_671
+7   8325669587       1    7.04            Popcorn11
+8   1256411102       4   28.00  Napoleon_cheese_546
+9   1400990954       1   12.43            Popcorn30
+10  2688996055       4   52.00            baklawa91
+11  7863214881       3   60.00           butter_367
+12  2914188272       7   70.00              cake115
+13  7960767630       6   15.42           Pringles11
+14  4920993093       7  210.00           butter_314
+15  6356815915       6   54.00       mozzarella_331
+16  4208814624       9  153.00     freedom_eggs_452
+date: 2023-04-06
+payment_type: 3
+total_pay: 1240.73 NIS
+seller name: Jennifer Roberts

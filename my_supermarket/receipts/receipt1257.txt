@@ -1,0 +1,20 @@
+customer_name: Morton Shen
+customer name: Morton Shen
+productS:             id  amount   price              name
+0   2312999978       3   24.00            lafa22
+1   7487260429       1    5.00          milk_806
+2   4090957209       9   90.00            cake38
+3   1412142417       6   36.00         baklawa50
+4   6760389596       6  150.00   sweet_cream_699
+5   3260308396      10  170.00  swiss_cheese_763
+6   4978594159       9  135.00         dunats129
+7   1433144136       6  120.00   swiss_cheese_80
+8   5753746907       4   59.16           Bisli60
+9   7783111845       9   68.40         Popcorn61
+10  9395713515       2   68.00        danone_270
+11  8648153464       7   63.00         jahnon118
+12  3332215288       1   15.00          eggs_524
+date: 2023-02-05
+payment_type: 2
+total_pay: 1003.56 NIS
+seller name: Gary Hudson

@@ -1,0 +1,23 @@
+customer_name: Grady Artis
+customer name: Grady Artis
+productS:             id  amount   price               name
+0   5259931691       3   54.00             ziva70
+1   3192107145       2   26.00  yellow_cheese_187
+2   9875471235       7  126.00           cookie54
+3   7229311712       8  136.00             pita31
+4   3154745776       7   84.00            pizza72
+5   6954325156      10  126.50         Pringles32
+6   6573371979       3    7.92          Chitos101
+7   1336259815       8   72.72          Doritos66
+8   4859089853       2   22.00          baklawa85
+9   1959602540       3   45.00            lafa124
+10  8279567119      10  280.00            coco_71
+11  4047322107      10  170.00    sweet_cream_800
+12  9799443593       1    8.00            bread21
+13  6236521799       2   10.00             pita14
+14   922872311       6   32.70           Apropo25
+15  9977993703      10   98.70            Bisli77
+date: 2023-01-06
+payment_type: 0
+total_pay: 1299.54 NIS
+seller name: Latasha Mace

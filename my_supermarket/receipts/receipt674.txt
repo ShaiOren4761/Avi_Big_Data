@@ -1,0 +1,20 @@
+customer_name: Richard Goforth
+customer name: Richard Goforth
+productS:             id  amount   price                 name
+0   8676919147       5  110.00             yolo_560
+1   6562818466       8   88.00  Napoleon_cheese_810
+2   8718263195       7   49.00       sour_cream_613
+3   4977676118       3   27.87              Kefli24
+4   9580962846       9   90.00              pita127
+5   5982332854       1   20.00             jahnon58
+6   6855861307       5   30.00             jahnon93
+7   7855915319       5   75.00            burekas50
+8   1717110420      10  200.00             bagget65
+9   3789389737       1    6.00       mozzarella_182
+10  2243087918       2   30.00               lahuh2
+11  5100868625       2   28.24            Popcorn86
+12  6038711946       9  108.00             prezel93
+date: 2023-03-02
+payment_type: 0
+total_pay: 862.11 NIS
+seller name: Roberta Lewis

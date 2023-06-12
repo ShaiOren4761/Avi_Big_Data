@@ -1,0 +1,10 @@
+customer_name: Wilmer Griswold
+customer name: Wilmer Griswold
+productS:            id  amount  price       name
+0  5924537891       8  93.76   Chitos20
+1  2885592727       5  61.25  Doritos67
+2  4249659579       2  28.50   Bamba108
+date: 2023-05-27
+payment_type: 1
+total_pay: 183.51 NIS
+seller name: Ann Hutchens

@@ -1,0 +1,14 @@
+customer_name: Michale Roberts
+customer name: Michale Roberts
+productS:            id  amount   price           name
+0  7643343820       7   86.87        Bamba18
+1  2514722240      10  180.00      jahnon130
+2  8179217330       1   23.00      cream_183
+3  5162244505       9  108.00  goat_milk_538
+4  6519763670       6   90.00       cookie75
+5  4719445586       2   34.00       baklawa9
+6  8618673937       9   45.00      milky_336
+date: 2023-05-21
+payment_type: 0
+total_pay: 566.87 NIS
+seller name: Karen Salazar

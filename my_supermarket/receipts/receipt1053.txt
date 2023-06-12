@@ -1,0 +1,25 @@
+customer_name: Sharon Wilson
+customer name: Sharon Wilson
+productS:             id  amount   price              name
+0   9831681615      10  230.00          coco_317
+1   1029201620       2   17.84           Kefli56
+2   6455418856       9  198.00          coco_458
+3   3962216956       3   17.64        Pringles70
+4   7892097681      10  111.20         Apropo106
+5   8046620973       6   96.00           pita121
+6   1818017005       3    7.17           Chips44
+7   5977258801       6   19.74           Bamba61
+8   8961298070       5  150.00         cream_142
+9   4322915957       4  132.00        butter_891
+10  8571481765       6   54.48         Chitos103
+11  5113271759       1   35.00  freedom_eggs_209
+12  3228109340       3   96.00    mozzarella_509
+13  5916624078       6   78.00            cake83
+14  1242971943       6   37.44           Bamba24
+15  2885592727       7   85.75         Doritos67
+16  1137463705       3   54.00        butter_674
+17  2432406542       5   55.00          yolo_921
+date: 2023-03-21
+payment_type: 1
+total_pay: 1475.26 NIS
+seller name: Calvin Manahan

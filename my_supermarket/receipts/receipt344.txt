@@ -1,0 +1,21 @@
+customer_name: Matthew Horton
+customer name: Matthew Horton
+productS:             id  amount   price               name
+0    530215131       5   22.75           Apropo81
+1   9278353235       7  168.00   yellow_cheese_97
+2   5379589067       6  144.00   freedom_eggs_696
+3   7952298484       1   27.00          cream_395
+4   8857696126       6   72.00         danone_688
+5   3961824178       4   64.00           jahnon29
+6   8373411908       4    7.32           Chitos63
+7   5726291607       3   21.00             lafa95
+8   2402076019       9  225.00           milk_734
+9   9287469684       6   77.64           Chitos35
+10  4528126301       7   70.00           jahnon24
+11  8013196005       6   82.62          Doritos38
+12  7033661086      10  117.90            Bisli32
+13  2683277403       6   36.00  melted_cheese_552
+date: 2023-03-01
+payment_type: 3
+total_pay: 1135.23 NIS
+seller name: James Briggs

@@ -1,0 +1,14 @@
+customer_name: Charles Durr
+customer name: Charles Durr
+productS:            id  amount   price        name
+0  3551239292       5   75.00    yolo_532
+1  3598881795       5   60.05  Popcorn107
+2  1256500641       8  112.80     Bisli92
+3  9126303800       2    4.94     Chips24
+4  2749955651       4   80.00   dunats128
+5  1300932938       5   43.75    Chitos76
+6  8246760721       4   35.80     Kefli29
+date: 2023-02-22
+payment_type: 2
+total_pay: 412.34000000000003 NIS
+seller name: Margaret Mclaughlin

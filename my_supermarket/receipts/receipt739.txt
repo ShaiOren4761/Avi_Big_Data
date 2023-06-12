@@ -1,0 +1,20 @@
+customer_name: Sylvia Eason
+customer name: Sylvia Eason
+productS:             id  amount   price        name
+0   2400900521       5   33.15     Bamba21
+1   6232474323       7  100.66   Popcorn69
+2   2201636818       3   35.13     Bamba47
+3   9752569972       5   48.50    Popcorn4
+4   7803644674       6  108.00      ziva82
+5   4647988691       4   88.00  butter_948
+6   8105638575       1   10.00      cake61
+7   3578084870       9  144.00     hala105
+8   1124282438       6   58.98     Bisli36
+9   3987622247       8  176.00    yolo_559
+10  6194323600       6  132.00   milky_198
+11  3447023908       1    6.70     Chips96
+12  4272080883       9  270.00    coco_420
+date: 2023-04-04
+payment_type: 2
+total_pay: 1211.1200000000001 NIS
+seller name: Calvin Manahan

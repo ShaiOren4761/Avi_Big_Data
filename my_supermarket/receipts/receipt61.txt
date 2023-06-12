@@ -1,0 +1,22 @@
+customer_name: Marlene Creed
+customer name: Marlene Creed
+productS:             id  amount   price               name
+0   4209285379       6   38.10          Popcorn82
+1   2780672615      10   56.60         Pringles24
+2   6516800392       2   50.00         danone_579
+3    983000324       1   11.37          Popcorn97
+4   9456439749       2   38.00  yellow_cheese_345
+5   3199666108       3   87.00   freedom_eggs_376
+6   6180901817       7   63.00             cake73
+7   4865712712       7   35.00             hala84
+8   7827587070      10  110.00            hala110
+9   6602947010       8  160.00          bagget113
+10  9556612526       4   76.00           lahuh110
+11  3598217568       3   36.00           jahnon61
+12  6369689620       9  171.00             lafa66
+13  7952740321      10   63.00            Bisli11
+14  5706653469      10   89.30          Doritos85
+date: 2023-01-09
+payment_type: 1
+total_pay: 1084.37 NIS
+seller name: Jennifer Roberts

@@ -1,0 +1,26 @@
+customer_name: Mittie Greenwood
+customer name: Mittie Greenwood
+productS:             id  amount   price                 name
+0   7148783653       2   20.90           Pringles39
+1   2664876455      10   70.00               lafa73
+2   9297630990       2   64.00             yolo_944
+3   8028471094      10  100.00             bagget19
+4   4641650733       7   63.14              Bamba63
+5   7935269504      10  132.60            Popcorn40
+6   3624235443       3   57.00            cream_447
+7   7113855989       5  155.00       sour_cream_584
+8   5353205962       4   36.00             dunats22
+9   3149544525       8   72.00               hala94
+10  7247121175       5   65.00               hala44
+11   891634019       3   43.65              Bamba69
+12  4520157863       3   13.44            Doritos73
+13   926775501       1   12.33              Bisli35
+14  6180901817       6   54.00               cake73
+15  5461198035       8  240.00  Napoleon_cheese_826
+16  4310860415       2    3.58              Kefli26
+17  3711971455       8  128.00       sour_cream_645
+18  9825365260       6  156.00            milky_687
+date: 2023-03-01
+payment_type: 2
+total_pay: 1486.6399999999999 NIS
+seller name: Marie Natonabah

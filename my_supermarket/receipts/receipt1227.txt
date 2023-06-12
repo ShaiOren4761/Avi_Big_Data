@@ -1,0 +1,11 @@
+customer_name: Donald Turton
+customer name: Donald Turton
+productS:            id  amount  price       name
+0  8737389857       3   39.0  carlo_119
+1  9535933985       4   72.0    hala116
+2  6662554860       3   24.0    hala120
+3  7614312337       5   45.0     cake12
+date: 2023-03-29
+payment_type: 0
+total_pay: 180.0 NIS
+seller name: James Briggs

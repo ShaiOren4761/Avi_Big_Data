@@ -1,0 +1,12 @@
+customer_name: William Latsko
+customer name: William Latsko
+productS:            id  amount  price               name
+0  5968978896       2   16.0            ziva129
+1  8129957993       9  306.0  yellow_cheese_101
+2  3038504121       3   60.0           prezel39
+3  7682156804      10   60.0     sour_cream_525
+4  1834976093       5   28.9         Pringles47
+date: 2023-01-01
+payment_type: 3
+total_pay: 470.9 NIS
+seller name: Calvin Manahan

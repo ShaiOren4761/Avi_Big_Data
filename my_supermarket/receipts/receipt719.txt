@@ -1,0 +1,18 @@
+customer_name: Eleanor Williams
+customer name: Eleanor Williams
+productS:             id  amount   price              name
+0   5297947242       4   52.00            lafa93
+1   6098053049      10  300.00  swiss_cheese_869
+2   1555021268       2   16.00    sour_cream_252
+3   6517614489       5  150.00    sour_cream_391
+4   6508352741       5   60.00            cake75
+5   3800676660       5   70.00          dunats72
+6   4201127387       1    1.84           Bamba65
+7   9855550257       1    4.15           Bisli67
+8   4216016676       1   29.00    mozzarella_199
+9   1704744494       5   85.00          prezel28
+10  8918557089      10  210.00         cream_400
+date: 2023-05-07
+payment_type: 0
+total_pay: 977.99 NIS
+seller name: Ann Hutchens

@@ -1,0 +1,25 @@
+customer_name: Rebecca Foy
+customer name: Rebecca Foy
+productS:             id  amount   price            name
+0   5441346410       5  130.00  sour_cream_957
+1   4049469565       8  280.00       cream_520
+2   2310576774       9   90.00          pita15
+3   7794184429       4   48.00          cake90
+4   9501290439      10  310.00        eggs_840
+5   1171500762      10   75.40        Kefli107
+6   7270329636       7   29.96       Popcorn53
+7   1204751525       6   60.00          cake56
+8   7804116232       2   25.42       Pringles5
+9   8507176962       5   14.90         Bisli61
+10  7274339697       9  135.00  mozzarella_777
+11  5937163279       4   56.00        milk_486
+12  4784103407       2   66.00        yolo_932
+13  3519400441       6  108.00       burekas77
+14  7765386072       6   78.00       carlo_166
+15  6396785113       9  108.00  sour_cream_686
+16  2518301145       4   60.00        dunats40
+17    84220975       8   87.44         Chips95
+date: 2023-02-24
+payment_type: 0
+total_pay: 1762.1200000000001 NIS
+seller name: Debra Pearson

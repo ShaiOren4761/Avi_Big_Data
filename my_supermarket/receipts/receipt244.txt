@@ -1,0 +1,16 @@
+customer_name: Ena Moore
+customer name: Ena Moore
+productS:            id  amount   price                 name
+0  4113332672       9  180.00           danone_862
+1  8182821041       5   35.00              lahuh33
+2  7138233209       7   72.24             Chitos89
+3  4865712712       1    5.00               hala84
+4  2912876054       9  123.39            Doritos18
+5  8560760295       6   30.00            baklawa69
+6  4528126301       2   20.00             jahnon24
+7  9171962647       2   64.00  Napoleon_cheese_435
+8  6689691915       8   48.00               lahuh7
+date: 2023-01-26
+payment_type: 1
+total_pay: 577.63 NIS
+seller name: Donald Dawson

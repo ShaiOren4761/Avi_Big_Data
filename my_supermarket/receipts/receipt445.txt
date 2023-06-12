@@ -1,0 +1,18 @@
+customer_name: Christine Jones
+customer name: Christine Jones
+productS:             id  amount   price               name
+0   4777133330       7  105.00         butter_402
+1   4784697350       5   95.00  melted_cheese_534
+2   8618673937       9   45.00          milky_336
+3   1393195630       7  189.00         butter_238
+4   2728080629       8   56.00             pita32
+5   2791798877       4   46.16        Pringles106
+6   7091514077       9   61.83          Popcorn41
+7    176510286       2    3.70            Bisli80
+8   6523953105       4   48.00           bread117
+9   8357107194       6   17.88        Pringles110
+10  2264942498       9   90.81         Pringles72
+date: 2023-03-21
+payment_type: 3
+total_pay: 758.3800000000001 NIS
+seller name: Harold Mitchell

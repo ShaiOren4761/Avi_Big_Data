@@ -1,0 +1,25 @@
+customer_name: Nathan Hopkins
+customer name: Nathan Hopkins
+productS:             id  amount   price              name
+0   6647405500       5   55.00          dunats32
+1   2547643364       6  126.00   almond_milk_578
+2   9855550257       2    8.30           Bisli67
+3   8999494479       8  136.00         milky_585
+4   1172711187       1    6.00         burekas38
+5   3105964402       3   19.23         Doritos19
+6   8046620973       9  144.00           pita121
+7   4575052433      10  143.10         Apropo102
+8   9080574295       7   70.00            ziva21
+9   3796503079       4   24.00        danone_780
+10  3412469005       1   12.96        Pringles40
+11  3038504121       9  180.00          prezel39
+12  5338151616      10  190.00            pita49
+13  9990522246       6   90.00    mozzarella_428
+14  8782329935       4   12.00           Kefli34
+15  8703160750       1   19.00  freedom_eggs_876
+16  3120195154       1   23.00         cream_643
+17  2810873971       7   92.54       Pringles104
+date: 2023-02-24
+payment_type: 3
+total_pay: 1351.13 NIS
+seller name: Karen Salazar

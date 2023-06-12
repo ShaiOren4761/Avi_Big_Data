@@ -1,0 +1,20 @@
+customer_name: Marvin Ross
+customer name: Marvin Ross
+productS:             id  amount   price              name
+0   9674451366       4   96.00    mozzarella_296
+1   9590045745       6   78.00         jahnon107
+2   5460603855       1   15.00          lahuh115
+3    654627915      10   96.20           Chips20
+4   1713213782       1   10.00          cookie86
+5   1131218704       1    1.19        Pringles92
+6   2290773968       4   57.64          Doritos9
+7   4632126045      10  120.00           cookie7
+8   2033078637       5    7.90       Pringles102
+9   7525376345       6   60.00  swiss_cheese_240
+10  7430661217       3   15.00           pizza31
+11  1766580728       9   54.72           Chips51
+12  8573667933       2   10.00         dunats112
+date: 2023-04-10
+payment_type: 3
+total_pay: 621.65 NIS
+seller name: Renee Brammer

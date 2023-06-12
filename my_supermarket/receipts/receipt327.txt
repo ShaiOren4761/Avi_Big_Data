@@ -1,0 +1,14 @@
+customer_name: Nathan Jacklin
+customer name: Nathan Jacklin
+productS:            id  amount   price              name
+0  3199666108       5  145.00  freedom_eggs_376
+1  6603082238       6   36.00         baklawa25
+2  3789389737       9   54.00    mozzarella_182
+3  7378954285       2   25.40           Bisli14
+4  8433856102       7   91.00          yolo_477
+5  6575648217       8   17.76           Chitos7
+6  6367879085       4  140.00    mozzarella_338
+date: 2023-01-10
+payment_type: 1
+total_pay: 509.15999999999997 NIS
+seller name: Roberta Lewis

@@ -1,0 +1,18 @@
+customer_name: Clarence Jones
+customer name: Clarence Jones
+productS:             id  amount   price               name
+0   5053409659       7   91.00             ziva28
+1   1400990954      10  124.30          Popcorn30
+2   8277949751      10   53.00           Chitos91
+3   9056438479       8   70.24         Doritos106
+4   9258864486      10  110.00           dunats85
+5   1574050092       6  198.00         danone_273
+6   8129957993       8  272.00  yellow_cheese_101
+7   2570636078       2   20.00           yolo_992
+8   1536911185       4   50.68          Doritos60
+9   2435499459       5   39.05            Bamba22
+10  2566387516       4   38.36           Chips107
+date: 2023-05-18
+payment_type: 2
+total_pay: 1066.6299999999999 NIS
+seller name: Kevin Goldberg

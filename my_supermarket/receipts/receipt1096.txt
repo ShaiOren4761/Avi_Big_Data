@@ -1,0 +1,14 @@
+customer_name: Curt Cheney
+customer name: Curt Cheney
+productS:            id  amount   price                 name
+0  7787901454       8  264.00  Napoleon_cheese_140
+1  4917182314       4   22.28              Kefli69
+2  2381124529       2    3.12           Pringles49
+3  2570636078      10  100.00             yolo_992
+4  6901815241       1   10.41            Doritos75
+5  8401108965       9   99.00      almond_milk_227
+6  7578664786       9   63.00            burekas69
+date: 2023-03-12
+payment_type: 0
+total_pay: 561.81 NIS
+seller name: Victoria Hansen

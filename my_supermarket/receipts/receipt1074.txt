@@ -1,0 +1,16 @@
+customer_name: Russell Chapman
+customer name: Russell Chapman
+productS:            id  amount   price              name
+0  4577693563       1   30.00          milk_441
+1  6652138032       7  105.00         cream_460
+2  5972473177      10  110.00           pizza15
+3  1557355699       3  102.00  organic_eggs_854
+4  2929399599       1   17.00  freedom_eggs_758
+5  1746778465       1    9.93           Kefli43
+6  6045791910       2   10.00            ziva46
+7  5457953261       1    9.96          Apropo45
+8  6952742186       5  130.00   almond_milk_527
+date: 2023-01-07
+payment_type: 1
+total_pay: 523.89 NIS
+seller name: Margaret Mclaughlin

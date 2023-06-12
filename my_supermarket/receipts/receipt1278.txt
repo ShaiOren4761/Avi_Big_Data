@@ -1,0 +1,22 @@
+customer_name: George Jenner
+customer name: George Jenner
+productS:             id  amount   price                 name
+0   7108689034       6   12.36            Popcorn67
+1   5810275208       9   48.78              Kefli23
+2   4471797447       5   55.00  Napoleon_cheese_507
+3   5162244505       1   12.00        goat_milk_538
+4   7274739715       5   80.00              pita128
+5   6562818466       5   55.00  Napoleon_cheese_810
+6   9572830963       9   59.04             Chitos98
+7   2320865379       3   33.00       sweet_cream_94
+8   2518301145       1   15.00             dunats40
+9   3498356206       4   84.00             milk_280
+10  1183447836       4   13.16             Chitos22
+11  2169055244      10   98.90               Chips2
+12  2210840962       2    8.66             Chitos37
+13  7892097681      10  111.20            Apropo106
+14  7635078777       1    5.09            Popcorn80
+date: 2023-04-07
+payment_type: 1
+total_pay: 691.1899999999999 NIS
+seller name: Harold Mitchell

@@ -1,0 +1,24 @@
+customer_name: Andrea Curry
+customer name: Andrea Curry
+productS:             id  amount   price                 name
+0   5210580242       5   25.00              pita112
+1   6005887579       1    5.62              Kefli83
+2   7194126968       2   60.00       sour_cream_104
+3   4801118426       9  112.32             Chitos25
+4   4647988691      10  220.00           butter_948
+5   2329926122      10  240.00            milky_202
+6   3936047966       3   42.00               hala76
+7   7485253472       7  126.00               pita17
+8   9162930837       4   68.00                pie58
+9   1256411102       7   49.00  Napoleon_cheese_546
+10  5100868625       3   42.36            Popcorn86
+11  7805834734      10  190.00               cake55
+12  8354355213       5   55.00            baklawa40
+13  5836180709       1   10.00             bagget90
+14  9142362227       9  207.00           butter_340
+15  8144074193       2   36.00             milk_323
+16  8105638575       9   90.00               cake61
+date: 2023-04-07
+payment_type: 1
+total_pay: 1578.3000000000002 NIS
+seller name: Edna Collins

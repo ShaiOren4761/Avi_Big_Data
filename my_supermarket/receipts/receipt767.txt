@@ -1,0 +1,27 @@
+customer_name: Virginia Lewis
+customer name: Virginia Lewis
+productS:             id  amount   price                 name
+0   1119623569       6   54.00            prezel105
+1   2823314705       6  192.00    melted_cheese_701
+2   2735906682       7  126.00            burekas47
+3   2379558286      10  130.00              bread79
+4   3867965938       9  270.00            danone_74
+5   5619542781       5   64.85              Bisli65
+6   2526334412       3   24.00               hala81
+7   2088238386       1   13.00               lafa28
+8   7113855989       6  186.00       sour_cream_584
+9   7585944710       6   36.00      sweet_cream_249
+10  4595593965       7   98.63           Pringles61
+11  4004517395       2   10.00               pita43
+12  7606201261       4   40.12              Bisli17
+13  6186431336      10  300.00            cream_943
+14  3423936245       5  135.00             yolo_695
+15  4890604804      10  160.00    melted_cheese_146
+16  7509258090       3   75.00       mozzarella_256
+17  1803916079       4   76.00  Napoleon_cheese_471
+18  6793902213      10   90.00             jahnon26
+19  1573371180       6   66.00            dunats116
+date: 2023-01-27
+payment_type: 2
+total_pay: 2146.6 NIS
+seller name: Gary Hudson

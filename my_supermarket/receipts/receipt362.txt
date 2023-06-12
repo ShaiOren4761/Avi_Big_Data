@@ -1,0 +1,27 @@
+customer_name: Amanda Williams
+customer name: Amanda Williams
+productS:             id  amount   price               name
+0   5574962737       8   80.00  melted_cheese_725
+1    164789150       2   12.90           Apropo33
+2   9547923874       3   96.00      goat_milk_438
+3   6899468663       6  174.00         butter_224
+4   1841586885       3  105.00         butter_663
+5   5460603855      10  150.00           lahuh115
+6   8872853252       2   12.00            lahuh90
+7   8326542353       3   60.00            pizza45
+8   5649239279      10  117.60           Apropo34
+9   6797493127       6  114.00   freedom_eggs_682
+10  8247514592       4   22.76          Doritos13
+11  8083442721       1   19.00         danone_415
+12  4253045215       6   69.60            Chips43
+13  4528126301       8   80.00           jahnon24
+14  9202978884       8  192.00   freedom_eggs_731
+15  4630792349       2   29.44         Pringles38
+16  2608662914      10  180.00     mozzarella_282
+17  4697147845       2   18.00             ziva37
+18  9797791629       7   11.69           Chitos80
+19  1197125341       3   21.00              ziva5
+date: 2023-05-24
+payment_type: 1
+total_pay: 1564.99 NIS
+seller name: Kevin Goldberg

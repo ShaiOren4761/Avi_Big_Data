@@ -1,0 +1,15 @@
+customer_name: Martha Dubois
+customer name: Martha Dubois
+productS:            id  amount   price              name
+0  9971375080       4   10.24           Bisli33
+1   707760777       2   12.80          Chitos88
+2  8265295087      10  140.00          yolo_561
+3  4031141123       3   30.00          milk_154
+4  8764291339       4   21.08        Doritos108
+5  6312145365       4   24.16           Chips83
+6  5795134344       6   78.00  organic_eggs_211
+7  8703160750       7  133.00  freedom_eggs_876
+date: 2023-05-18
+payment_type: 2
+total_pay: 449.28 NIS
+seller name: Karen Salazar

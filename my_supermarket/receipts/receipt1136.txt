@@ -1,0 +1,24 @@
+customer_name: Michael Werley
+customer name: Michael Werley
+productS:             id  amount   price                 name
+0   6236178652      10  290.00              coco_86
+1   4147296421       8   24.00             Chitos24
+2   3937935974       7  119.00             bagget17
+3   3800676660       9  126.00             dunats72
+4   7476842574       2   70.00            cream_278
+5   5792012068       1   24.00             yolo_928
+6   1813515064      10  140.00     organic_eggs_892
+7   9783880731       8   64.00               cake72
+8   6386429486       8  272.00             yolo_612
+9   3800676660       1   14.00             dunats72
+10  8053610047       5  140.00       sour_cream_856
+11  7257792576       4    6.24              Chips65
+12  4447447283       5  105.00  Napoleon_cheese_775
+13  5158318608       3   40.71             Apropo56
+14  2678867075       6   53.10              Chips90
+15  6451462869       7  196.00              yolo_75
+16  4418339631       7   36.82              Apropo8
+date: 2023-01-29
+payment_type: 2
+total_pay: 1720.87 NIS
+seller name: Jennifer Roberts

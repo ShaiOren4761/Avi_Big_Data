@@ -1,0 +1,19 @@
+customer_name: Jessica Hunter
+customer name: Jessica Hunter
+productS:             id  amount   price               name
+0   1336259815       3   27.27          Doritos66
+1   1577139568       6  162.00  melted_cheese_859
+2   3277164675      10  220.00           coco_910
+3   2810873971      10  132.20        Pringles104
+4   5870840984       9  315.00         danone_973
+5    832268335       2   13.42          Apropo105
+6   5332025217       1    7.00     sour_cream_539
+7   8560760295       2   10.00          baklawa69
+8   8200053677       1   34.00      goat_milk_247
+9   2360663586       1   32.00   swiss_cheese_925
+10  5776977613       5  130.00     mozzarella_341
+11  3720294442       7  105.00            ziva126
+date: 2023-01-07
+payment_type: 2
+total_pay: 1187.8899999999999 NIS
+seller name: Donald Dawson

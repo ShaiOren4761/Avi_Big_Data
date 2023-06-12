@@ -1,0 +1,23 @@
+customer_name: Joan Rastorfer
+customer name: Joan Rastorfer
+productS:             id  amount   price              name
+0   7089280322       1   11.92            Bisli9
+1   5001461930       8   64.00  freedom_eggs_765
+2   8066679807      10  260.00  melted_cheese_32
+3    519529375       4   58.72            Bamba3
+4   2526334412       2   16.00            hala81
+5    259200784       4   50.64           Bisli43
+6    582008114       8   16.00         Doritos78
+7   8743848050       8   40.00          coco_574
+8   1336259815       7   63.63         Doritos66
+9   2713640790       7   42.28           Kefli90
+10  2088419802       1    9.00   organic_eggs_54
+11  8354318545       6   36.00          eggs_692
+12  9737760973       9  125.19        Pringles85
+13  1610251661       6   82.80         Doritos91
+14  5575512464       2   22.80         Doritos69
+15  2762130524       1   13.00         carlo_996
+date: 2023-05-21
+payment_type: 1
+total_pay: 911.9799999999998 NIS
+seller name: Latasha Mace

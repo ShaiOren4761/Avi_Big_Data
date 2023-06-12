@@ -1,0 +1,18 @@
+customer_name: Norma Creekmore
+customer name: Norma Creekmore
+productS:             id  amount   price       name
+0   3491567336       7   48.09  Popcorn60
+1   8488229050       7  126.00     lafa84
+2   8232637125       8   18.80     Bisli3
+3   5585620342       9   56.34    Bisli94
+4   1843408960       2   22.00      pie28
+5   4971830961      10   88.80  Popcorn55
+6   5954974120      10  100.20  Doritos50
+7   2181854935      10   72.40    Chitos4
+8   2570448727       6   45.72    Bisli24
+9   3906638722       3   60.00      ziva4
+10  3512777343       4   36.92    Chips84
+date: 2023-02-13
+payment_type: 1
+total_pay: 675.27 NIS
+seller name: Jennifer Roberts

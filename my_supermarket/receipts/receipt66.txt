@@ -1,0 +1,10 @@
+customer_name: Karl Brain
+customer name: Karl Brain
+productS:            id  amount   price        name
+0  8479789672       1   18.00    prezel57
+1  7080608728      10   35.70     Kefli91
+2   498061809       9  126.36  Doritos100
+date: 2023-03-28
+payment_type: 0
+total_pay: 180.05999999999997 NIS
+seller name: Roberta Lewis

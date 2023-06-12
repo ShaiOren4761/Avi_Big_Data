@@ -1,0 +1,15 @@
+customer_name: Willie Astorga
+customer name: Willie Astorga
+productS:            id  amount   price               name
+0   146465367       1    8.97          Doritos84
+1  4358550117       3   24.00    almond_milk_427
+2  7702543510      10  130.00            lahuh78
+3  8221029655       4   24.00           burekas3
+4  4864994361       8   88.00  yellow_cheese_917
+5  1026345405       1    1.11          Doritos81
+6  9442622061       3   33.00         butter_963
+7  5867262543       4   84.00           eggs_705
+date: 2023-04-13
+payment_type: 0
+total_pay: 393.08000000000004 NIS
+seller name: Harold Mitchell

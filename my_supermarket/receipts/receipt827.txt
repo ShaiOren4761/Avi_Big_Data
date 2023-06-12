@@ -1,0 +1,8 @@
+customer_name: Joyce Shope
+customer name: Joyce Shope
+productS:            id  amount   price      name
+0  9185491707       9  101.43  Apropo75
+date: 2023-01-20
+payment_type: 3
+total_pay: 101.42999999999999 NIS
+seller name: Renee Brammer

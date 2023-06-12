@@ -1,0 +1,24 @@
+customer_name: Howard Dattilo
+customer name: Howard Dattilo
+productS:             id  amount   price        name
+0   1639908482       4   10.04    Apropo80
+1   4088928724       7   42.00    jahnon50
+2   9149710916       8  248.00    milk_299
+3   4859089853       8   88.00   baklawa85
+4   5924537891       2   23.44    Chitos20
+5   5295620818       4   53.36    Bisli109
+6   3512777343       9   83.07     Chips84
+7   4198567684       9   45.00    jahnon85
+8   3745981239       3   15.00      pita27
+9   1069135867       6   84.48  Pringles15
+10  1039632254       2   38.00     cookie6
+11  7761125269       2   26.00   milky_519
+12  2749955651       7  140.00   dunats128
+13  4150905730       1    6.00    dunats17
+14  7693680065       6   25.26     Kefli17
+15  4070245109       3   60.00    dunats33
+16  7578664786      10   70.00   burekas69
+date: 2023-03-09
+payment_type: 1
+total_pay: 1057.65 NIS
+seller name: Hobert Wimberly

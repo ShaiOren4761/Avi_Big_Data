@@ -1,0 +1,17 @@
+customer_name: Katie Parekh
+customer name: Katie Parekh
+productS:            id  amount  price              name
+0  4004517395       4  20.00            pita43
+1  4765004348       2  50.00  organic_eggs_744
+2  6010929963       5  39.95          Chips110
+3  9937186615       1  19.00         cream_106
+4  7269028736      10  43.90          Apropo98
+5  2695216580       5  65.00           Kefli98
+6  4884641399       4  76.00           hala127
+7  8648153464       1   9.00         jahnon118
+8  6940713322       4  14.12           Bamba70
+9  6946402757       8  48.00   almond_milk_121
+date: 2023-05-19
+payment_type: 1
+total_pay: 384.97 NIS
+seller name: Margaret Mclaughlin

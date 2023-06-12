@@ -1,0 +1,21 @@
+customer_name: Maria Barnes
+customer name: Maria Barnes
+productS:             id  amount   price               name
+0   3464017264       5   55.00   melted_cheese_39
+1   4500383528       7   84.00          carlo_212
+2   3498356206       1   21.00           milk_280
+3   6191048986       3   38.04            Kefli13
+4   2268867007      10  120.00         danone_836
+5   5947601958       3   96.00  melted_cheese_620
+6   4829982038       7  224.00     mozzarella_929
+7   5598382184      10  170.00            pita125
+8   1958460856       1   15.00    sweet_cream_608
+9   3332215288       9  135.00           eggs_524
+10  6336132061      10   82.20            Chips81
+11  8931603073       8  105.52           Apropo89
+12  9825365260       3   78.00          milky_687
+13  4520157863       1    4.48          Doritos73
+date: 2023-02-08
+payment_type: 2
+total_pay: 1228.24 NIS
+seller name: Debra Pearson

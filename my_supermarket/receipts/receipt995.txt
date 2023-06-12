@@ -1,0 +1,10 @@
+customer_name: Stacy Peoples
+customer name: Stacy Peoples
+productS:            id  amount  price        name
+0  4859089853       8   88.0   baklawa85
+1  1319626907       7   70.0    prezel18
+2  1393195630       2   54.0  butter_238
+date: 2023-02-22
+payment_type: 3
+total_pay: 212.0 NIS
+seller name: Margaret Mclaughlin

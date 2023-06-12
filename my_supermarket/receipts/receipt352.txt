@@ -1,0 +1,18 @@
+customer_name: James Jamal
+customer name: James Jamal
+productS:             id  amount   price             name
+0   6357120475       2   52.00        carlo_742
+1    259200784      10  126.60          Bisli43
+2   9343935433       4   52.00         cookie24
+3   8663836737       4   26.04         Chips109
+4   6573371979       4   10.56        Chitos101
+5   2981661278       1   14.00         jahnon69
+6   3125486774       9   63.00   sour_cream_726
+7   3973322050       1   30.00  sweet_cream_582
+8   9814258759      10   37.60          Bamba45
+9   3173739186       7  189.00         yolo_995
+10  2852116043       3   57.00          pizza79
+date: 2023-03-08
+payment_type: 0
+total_pay: 657.8 NIS
+seller name: Hobert Wimberly

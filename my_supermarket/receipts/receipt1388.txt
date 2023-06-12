@@ -1,0 +1,27 @@
+customer_name: Mary Pietrowski
+customer name: Mary Pietrowski
+productS:             id  amount   price               name
+0   9080574295       3   30.00             ziva21
+1   6815416935       4   42.84          Apropo110
+2   9442622061       8   88.00         butter_963
+3   2735283284       1    9.00          burekas13
+4   2352678045       4   36.00         danone_884
+5   9088276628      10  100.00           bagget33
+6   4687336290       8  264.00      goat_milk_290
+7   1691629683       7   67.62            Bisli79
+8   2518301145       2   30.00           dunats40
+9   6412959923       2    6.44           Chips104
+10  7190703453       2   32.00   swiss_cheese_410
+11  3332215288       5   75.00           eggs_524
+12  5314818278       3   51.00          cream_147
+13  8571506821       9  162.00           milk_465
+14   566659074       8   18.64           Chitos97
+15  9261950131       3   78.00          milky_803
+16  4971830961       7   62.16          Popcorn55
+17  2494120653       8   96.00          cream_201
+18  4904827202       5   49.35            Bisli20
+19  9748473860       6  144.00  melted_cheese_969
+date: 2023-05-15
+payment_type: 1
+total_pay: 1442.05 NIS
+seller name: Calvin Manahan

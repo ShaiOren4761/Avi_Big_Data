@@ -1,0 +1,25 @@
+customer_name: Mae Lester
+customer name: Mae Lester
+productS:             id  amount   price                 name
+0   2357080802       6   72.00             bagget29
+1   7653871813       4  132.00       mozzarella_677
+2   4408525904       3   72.00  Napoleon_cheese_649
+3   9664174242       5   50.00               pita76
+4    566659074       9   20.97             Chitos97
+5   7188925832      10   74.50              Bamba44
+6   1204751525      10  100.00               cake56
+7   3084987021       3   42.00              hala106
+8   4938601857       1    9.00               ziva79
+9   9580962846       2   20.00              pita127
+10  6688905897       2   11.00             Chitos70
+11  7818934137       2   70.00           butter_629
+12  8136048042       4   20.00       mozzarella_825
+13  5025707230       2   30.00            prezel109
+14  1571583051       2   50.00       mozzarella_689
+15  3302879083       7   77.00               hala48
+16  4683430901      10   95.50              Chips69
+17  5475816412       5   35.00             eggs_947
+date: 2023-03-28
+payment_type: 3
+total_pay: 980.97 NIS
+seller name: Margaret Mclaughlin

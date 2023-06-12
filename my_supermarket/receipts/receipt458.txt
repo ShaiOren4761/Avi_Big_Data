@@ -1,0 +1,21 @@
+customer_name: Corinne Vaught
+customer name: Corinne Vaught
+productS:             id  amount   price               name
+0   3547937399       7   56.00     sour_cream_161
+1   9078119206       5   42.55            Chips76
+2   7890169519       9  234.00  yellow_cheese_760
+3   5190856560       2   50.00     sour_cream_819
+4   2587815060       2   22.00            lafa109
+5   9018449645       4   28.00         baklawa110
+6   5977258801       2    6.58            Bamba61
+7    498061809       6   84.24         Doritos100
+8   3711971455      10  160.00     sour_cream_645
+9   6493352372       2   10.90            Bisli89
+10  5656681747       4   57.08         Pringles46
+11  7890169519       2   52.00  yellow_cheese_760
+12  8246760721       9   80.55            Kefli29
+13  1753634257      10  210.00          carlo_664
+date: 2023-02-12
+payment_type: 1
+total_pay: 1093.9 NIS
+seller name: Victoria Hansen

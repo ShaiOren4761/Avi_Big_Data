@@ -1,0 +1,19 @@
+customer_name: Anthony Day
+customer name: Anthony Day
+productS:             id  amount   price            name
+0   9549836584       5   60.00           lafa2
+1   2037612808       3   60.00       cookie115
+2   8751186001      10  230.00  sour_cream_732
+3   2494120653       4   48.00       cream_201
+4   3962216956       2   11.76      Pringles70
+5   5457953261       1    9.96        Apropo45
+6   4988246603       8   38.08       Doritos79
+7   3591865296       4   40.00        jahnon53
+8   2025371219       3   11.49         Bamba71
+9   1677841571      10   82.60         Kefli97
+10  5633284081       5   50.00           cake8
+11  8371766927       3   13.95         Chips53
+date: 2023-03-31
+payment_type: 1
+total_pay: 655.84 NIS
+seller name: Lillian Dolan

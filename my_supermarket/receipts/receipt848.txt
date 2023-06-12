@@ -1,0 +1,27 @@
+customer_name: Raymond Coone
+customer name: Raymond Coone
+productS:             id  amount   price               name
+0   5563309872       5   58.00            Bisli18
+1   8179217330       7  161.00          cream_183
+2   8466415306       1   17.00           yolo_571
+3   2511914111       2   50.00    almond_milk_332
+4   6303564756       9   57.60           Chitos79
+5   8562313207       3   18.00  melted_cheese_181
+6   2615226126       8  272.00    almond_milk_911
+7   7617780373       2   44.00           coco_283
+8   8089100411       7   41.72          Apropo109
+9   5983060206       6   72.00     sour_cream_685
+10  7455259414       7   84.00          milky_541
+11  9997614154       6   51.60           Apropo54
+12  6451537533       1   34.00          cream_838
+13  6889096348       7  245.00   swiss_cheese_952
+14  6603082238       1    6.00          baklawa25
+15  6493352372       9   49.05            Bisli89
+16  7342084592       6   54.00           jahnon13
+17  1192443913       2    9.22         Pringles52
+18  2812937424      10  142.50           Apropo40
+19  6096150313       7   10.15           Kefli105
+date: 2023-03-25
+payment_type: 3
+total_pay: 1476.8400000000001 NIS
+seller name: Lillian Dolan

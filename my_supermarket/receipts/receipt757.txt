@@ -1,0 +1,24 @@
+customer_name: Abbey Galvan
+customer name: Abbey Galvan
+productS:             id  amount   price               name
+0   3986042881       5   30.05          Doritos70
+1   5862250831       4   44.00          burekas32
+2   9646405432       8  104.00           bagget89
+3   3535624320      10  210.00  melted_cheese_691
+4   7324805023       7   98.00   yellow_cheese_27
+5   5836180709       1   10.00           bagget90
+6   5158918133       2   12.90          Popcorn65
+7   2270748748       7   98.00     sweet_cream_76
+8   8818071597       5   65.00   freedom_eggs_983
+9   1511306638       2   19.62           Doritos5
+10  9535571722       6   30.00            pizza93
+11  1976905118       2   68.00   freedom_eggs_251
+12  1235606404       2   15.82          Popcorn99
+13  4575052433       3   42.93          Apropo102
+14  9935292793       2   26.00           cookie51
+15  5396170847       1    2.06           Apropo74
+16  5715951929       2   23.84            Apropo1
+date: 2023-02-17
+payment_type: 2
+total_pay: 900.22 NIS
+seller name: Edna Collins

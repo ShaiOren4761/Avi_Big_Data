@@ -1,0 +1,20 @@
+customer_name: Michelle Dupuis
+customer name: Michelle Dupuis
+productS:             id  amount   price           name
+0   4687336290       9  297.00  goat_milk_290
+1   6993284475       8  128.00       bread111
+2    530215131       5   22.75       Apropo81
+3   7761125269       4   52.00      milky_519
+4    566659074       4    9.32       Chitos97
+5   2885592727       6   73.50      Doritos67
+6   3173739186       5  135.00       yolo_995
+7   6678333630       9  162.00       jahnon64
+8   5040508233       2   22.00        cake121
+9   7912490898       4    9.60      Popcorn25
+10  6236521799       5   25.00         pita14
+11  7805834734       8  152.00         cake55
+12  5115958410       9   64.35        Chips72
+date: 2023-05-22
+payment_type: 0
+total_pay: 1152.52 NIS
+seller name: James Briggs

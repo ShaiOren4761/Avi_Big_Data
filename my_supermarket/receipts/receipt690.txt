@@ -1,0 +1,25 @@
+customer_name: Lena Brasher
+customer name: Lena Brasher
+productS:             id  amount   price             name
+0   2735906682       6  108.00        burekas47
+1   5282923998       8  112.00       danone_196
+2   3687579325       5   90.00           pita73
+3   5161855475       9  144.00           lafa15
+4   9712626937       4  108.00  almond_milk_622
+5   4775814056       4    4.84          Bamba68
+6   6910920311       7  112.00          cake104
+7   6369689620       5   95.00           lafa66
+8   4472529594       9   63.00         jahnon51
+9   8528658726       5   80.00          ziva125
+10  2566387516       1    9.59         Chips107
+11   573251583       3   20.79       Pringles99
+12  7912490898       7   16.80        Popcorn25
+13  9582119892      10  100.00         bagget84
+14  7786713518       5   85.00       danone_216
+15  2972292353       6   77.82          Bamba89
+16  6647405500       8   88.00         dunats32
+17  3235560218       5   50.00            pie68
+date: 2023-05-27
+payment_type: 3
+total_pay: 1364.84 NIS
+seller name: James Briggs

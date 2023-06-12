@@ -1,0 +1,26 @@
+customer_name: Patrica Singleton
+customer name: Patrica Singleton
+productS:             id  amount  price              name
+0   6577246145       9  153.0            ziva41
+1   3028197875       4   60.0            cake14
+2   4876247716       7   98.0     goat_milk_753
+3   7398871533       7  140.0           pita129
+4   3058483730       7   91.0            cake74
+5   5715320344       3   57.0  organic_eggs_750
+6   5972140342      10  130.0  freedom_eggs_496
+7   5364431963       1   18.0     goat_milk_371
+8   3617302008       1   18.0     goat_milk_423
+9   2242014772       9  162.0          cookie17
+10  2034725218      10  300.0    sour_cream_690
+11  9049790023       8  232.0        danone_426
+12  3388045895      10  126.6          Chitos12
+13  4937476280      10  250.0     goat_milk_517
+14  4314648994       3   24.0           bread32
+15  6854582930       2   20.0         burekas96
+16  5916624078       1   13.0            cake83
+17  1733411177       7   13.3           Bisli31
+18  8056096195      10   92.9           Kefli21
+date: 2023-04-29
+payment_type: 1
+total_pay: 1998.8 NIS
+seller name: James Briggs

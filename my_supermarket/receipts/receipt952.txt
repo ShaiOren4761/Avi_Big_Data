@@ -1,0 +1,15 @@
+customer_name: Marcia Bristol
+customer name: Marcia Bristol
+productS:            id  amount   price                 name
+0  5093804778       4  100.00  Napoleon_cheese_793
+1  4545755994       1    7.50            Popcorn81
+2  4150905730       4   24.00             dunats17
+3  1555021268       7   56.00       sour_cream_252
+4  2305590984       6   36.00      almond_milk_122
+5  2570636078       8   80.00             yolo_992
+6  7643343820       2   24.82              Bamba18
+7  1465135792       2   40.00  Napoleon_cheese_151
+date: 2023-03-09
+payment_type: 3
+total_pay: 368.32 NIS
+seller name: Hobert Wimberly

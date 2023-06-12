@@ -1,0 +1,9 @@
+customer_name: Brenda Lankford
+customer name: Brenda Lankford
+productS:            id  amount  price               name
+0  5586977211       6  204.0  yellow_cheese_381
+1  3199666108      10  290.0   freedom_eggs_376
+date: 2023-02-20
+payment_type: 0
+total_pay: 494.0 NIS
+seller name: Roberta Lewis

@@ -1,0 +1,22 @@
+customer_name: John Winn
+customer name: John Winn
+productS:             id  amount   price                 name
+0   3346073524       5   25.85              Bisli83
+1   5770177100       4   48.00               lafa38
+2   9302863261       4  124.00      almond_milk_711
+3   2088238386       5   65.00               lafa28
+4   3961824178       5   80.00             jahnon29
+5   8320021804       3   32.28             Apropo15
+6   5585678335       1   35.00            carlo_136
+7   5645144241      10   70.00        mozzarella_60
+8   9510445822       9   81.00              bread77
+9     25951910       8   25.20             Apropo19
+10  8866418915       1    2.95           Pringles33
+11  4112952795       5   75.00              bread66
+12  2655813440       3   93.00  Napoleon_cheese_297
+13  9136530659       9   15.57               Chips7
+14  1845052243       8  200.00    yellow_cheese_964
+date: 2023-01-31
+payment_type: 1
+total_pay: 972.8500000000001 NIS
+seller name: Karen Salazar

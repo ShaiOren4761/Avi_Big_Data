@@ -1,0 +1,8 @@
+customer_name: Patricia Draper
+customer name: Patricia Draper
+productS:            id  amount  price     name
+0  9819779158       5   25.0  lahuh36
+date: 2023-04-24
+payment_type: 2
+total_pay: 25.0 NIS
+seller name: James Briggs

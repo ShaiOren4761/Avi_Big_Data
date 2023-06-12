@@ -1,0 +1,18 @@
+customer_name: Jesse Taft
+customer name: Jesse Taft
+productS:             id  amount   price               name
+0   1062078498       1    7.38           Chitos45
+1   4150905730       6   36.00           dunats17
+2   3989026102       2   62.00           coco_203
+3   7242193446       9  116.10            Bisli57
+4   4090987227       9  108.00             ziva85
+5   9664174242       4   40.00             pita76
+6   6263019316      10  122.30            Chips40
+7   3344749200       8  256.00     mozzarella_529
+8   7238445179       7  168.00  yellow_cheese_624
+9   9151505441       4   17.28            Kefli27
+10  7877030455       8  136.00           jahnon52
+date: 2023-04-17
+payment_type: 2
+total_pay: 1069.06 NIS
+seller name: Edna Collins

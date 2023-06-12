@@ -1,0 +1,23 @@
+customer_name: Stella Gass
+customer name: Stella Gass
+productS:             id  amount   price                name
+0   6327909667       9   16.47             Chips57
+1   3152653071       9  100.26             Bamba81
+2   9287189828       9  234.00   melted_cheese_291
+3   8246760721       1    8.95             Kefli29
+4   7320822838       8  200.00  Napoleon_cheese_88
+5   4961948928       6   72.00           burekas27
+6   4630792349       2   29.44          Pringles38
+7   1900843478       7  112.00      sour_cream_304
+8   7665903977       4   20.00           burekas98
+9    758911969       7   69.51             Kefli30
+10  1402014157       5   30.00   yellow_cheese_162
+11  7009805916       6   84.18            Chitos21
+12  9572830963       1    6.56            Chitos98
+13  9447408425       7   91.00            lahuh128
+14  5783246925       4   37.48           Doritos25
+15  4884641399       2   38.00             hala127
+date: 2023-02-12
+payment_type: 1
+total_pay: 1149.85 NIS
+seller name: Debra Pearson

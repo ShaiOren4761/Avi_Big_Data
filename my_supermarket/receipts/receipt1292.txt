@@ -1,0 +1,23 @@
+customer_name: Michael Reyes
+customer name: Michael Reyes
+productS:             id  amount   price                 name
+0   3154745776       2   24.00              pizza72
+1   1424648616       8  144.00  Napoleon_cheese_347
+2   9804717928       7   77.00              pizza24
+3   9896585698       8  104.00             bagget13
+4   9056438479       4   35.12           Doritos106
+5   1195196172      10  120.00             baklawa5
+6   2305590984       4   24.00      almond_milk_122
+7   5625876948      10   60.00             dunats79
+8   1906127390       1   25.00         goat_milk_28
+9   2253671177       2   46.00             eggs_820
+10  6247951073       7   11.34              Kefli84
+11  1536911185       4   50.68            Doritos60
+12  9256869017       8   40.00           danone_141
+13  3092882458       7   35.00             cookie38
+14   344756703       2    7.36            Doritos16
+15  3147516439       3   42.00            burekas43
+date: 2023-05-02
+payment_type: 1
+total_pay: 845.5 NIS
+seller name: Harold Mitchell

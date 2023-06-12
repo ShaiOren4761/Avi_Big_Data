@@ -1,0 +1,20 @@
+customer_name: Katherine Little
+customer name: Katherine Little
+productS:             id  amount   price        name
+0   9401112537       3   10.35   Pringles9
+1   2856243418       5   95.00    eggs_796
+2   6889339038       6   48.00    milk_801
+3   9405902825       1    8.00    lahuh103
+4    380552080       8   61.84  Pringles66
+5   4572125048       8  120.00    eggs_896
+6   8380903199       5   66.30      Bisli2
+7   3118998644       1   13.17   Chitos106
+8   8111822563       5   70.00      hala19
+9   6392530513       8   82.56   Popcorn36
+10  9783880731      10   80.00      cake72
+11  3395151208      10  170.00  baklawa126
+12  8328445925       5   70.50    Apropo92
+date: 2023-03-30
+payment_type: 2
+total_pay: 895.72 NIS
+seller name: Kevin Goldberg

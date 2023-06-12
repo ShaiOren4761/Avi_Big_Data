@@ -1,0 +1,12 @@
+customer_name: Elaine Dudasik
+customer name: Elaine Dudasik
+productS:            id  amount  price               name
+0  6656449325      10   70.0  melted_cheese_789
+1  9761339853       4   48.0             cake77
+2  9720097774       1    8.0          burekas75
+3  2654725552       1   14.0         danone_991
+4  8043534129       4  104.0           eggs_375
+date: 2023-01-10
+payment_type: 3
+total_pay: 244.0 NIS
+seller name: James Briggs

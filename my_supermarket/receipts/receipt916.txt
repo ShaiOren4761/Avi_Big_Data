@@ -1,0 +1,10 @@
+customer_name: Donna Schmidt
+customer name: Donna Schmidt
+productS:            id  amount   price        name
+0  3167243069       1   17.00      pita86
+1  2413705759       8  119.60  Doritos102
+2   251910878       6   27.78   Pringles1
+date: 2023-02-03
+payment_type: 1
+total_pay: 164.38 NIS
+seller name: Marie Natonabah

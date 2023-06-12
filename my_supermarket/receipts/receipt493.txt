@@ -1,0 +1,22 @@
+customer_name: Thomas Locorriere
+customer name: Thomas Locorriere
+productS:             id  amount   price               name
+0   5019733399       9  297.00  melted_cheese_736
+1   9700244844       6  174.00          carlo_606
+2   7028436694       4   48.40            Chips73
+3   3741097609       5  100.00            ziva102
+4   2220000590       4   15.56          Doritos40
+5   7425987265      10   60.00             lafa39
+6   5116320542       5   50.05            Chips64
+7    983000324       8   90.96          Popcorn97
+8    530215131      10   45.50           Apropo81
+9   1659941880       4   20.00    almond_milk_738
+10  8433856102       2   26.00           yolo_477
+11  3687579325       7  126.00             pita73
+12  2794548670      10   60.10          Popcorn29
+13  3990018758       3    4.83            Chips80
+14  5053409659       9  117.00             ziva28
+date: 2023-01-12
+payment_type: 3
+total_pay: 1235.3999999999996 NIS
+seller name: Renee Brammer

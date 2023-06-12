@@ -1,0 +1,20 @@
+customer_name: Calvin Bewley
+customer name: Calvin Bewley
+productS:             id  amount   price              name
+0   3460515475       1    8.00         carlo_466
+1   1892494983       6   90.00  freedom_eggs_908
+2   1225698760      10   70.00  freedom_eggs_708
+3   9363613618       6   43.02           Bisli39
+4   1336259815       4   36.36         Doritos66
+5   2904169114       5   42.75          Popcorn1
+6   9149710916       1   31.00          milk_299
+7   7028436694       2   24.20           Chips73
+8   1769108574       4  132.00     goat_milk_853
+9   5116320542       5   50.05           Chips64
+10  4325492461       9   42.57           Bamba42
+11  9316835841       7   42.98        Pringles41
+12  1062078498       3   22.14          Chitos45
+date: 2023-03-18
+payment_type: 0
+total_pay: 635.07 NIS
+seller name: Maria Barnett

@@ -1,0 +1,25 @@
+customer_name: Nicholas Erb
+customer name: Nicholas Erb
+productS:             id  amount   price                 name
+0   9535571722       7   35.00              pizza93
+1   9779931181       4   80.00        goat_milk_205
+2   9556612526       6  114.00             lahuh110
+3   3167340190       5   50.00    melted_cheese_326
+4   5417916619       4   60.00            prezel122
+5   6602947010       8  160.00            bagget113
+6   7165750776       7  140.00  Napoleon_cheese_597
+7   5600097503       9  225.00             yolo_993
+8   8560504323       2   22.44           Pringles20
+9   5983060206       7   84.00       sour_cream_685
+10  2057989223      10  150.00        goat_milk_918
+11  5781446230      10  130.50              Bisli55
+12  9779931181      10  200.00        goat_milk_205
+13  2529934302       4   36.00             pizza119
+14  3654534988       1    9.00            carlo_936
+15  7680435083       2   10.00             jahnon42
+16  1098862419       4   64.00             eggs_935
+17  5472565073       8   80.00             dunats94
+date: 2023-03-25
+payment_type: 1
+total_pay: 1649.94 NIS
+seller name: Karen Salazar

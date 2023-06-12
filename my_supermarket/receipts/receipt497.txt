@@ -1,0 +1,8 @@
+customer_name: Hattie Watson
+customer name: Hattie Watson
+productS:            id  amount  price       name
+0  1973279218       1   29.0  milky_651
+date: 2023-03-26
+payment_type: 3
+total_pay: 29.0 NIS
+seller name: Latasha Mace

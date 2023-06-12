@@ -1,0 +1,11 @@
+customer_name: James Torres
+customer name: James Torres
+productS:            id  amount  price               name
+0  7422138392      10   39.0           Bisli110
+1  9562721616       7   84.0             ziva56
+2  5359341453       4   40.0             bread4
+3  6880392803       3   45.0  yellow_cheese_809
+date: 2023-05-09
+payment_type: 1
+total_pay: 208.0 NIS
+seller name: Donald Dawson

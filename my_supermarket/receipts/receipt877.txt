@@ -1,0 +1,21 @@
+customer_name: Cathy Lacy
+customer name: Cathy Lacy
+productS:             id  amount   price            name
+0   2201636818       6   70.26         Bamba47
+1   2880554164       6   89.04         Chips85
+2   7910808698       7   84.00         dunats3
+3   7002149324       3   84.00    goat_milk_31
+4   3974756121       6   42.54         Chips39
+5   5040508233       5   55.00         cake121
+6   9872061983       5   25.00         lahuh79
+7   9646405432       4   52.00        bagget89
+8   6913485453       7   70.00        prezel94
+9   2422487844       2   24.00          hala63
+10  2678867075       7   61.95         Chips90
+11  8270950693       9   81.00         ziva121
+12  1159146314       4  128.00  sour_cream_349
+13  9689010272      10   70.00       milky_621
+date: 2023-02-07
+payment_type: 0
+total_pay: 936.7900000000001 NIS
+seller name: Kevin Goldberg

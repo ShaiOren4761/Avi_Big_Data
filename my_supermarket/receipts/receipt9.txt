@@ -1,0 +1,26 @@
+customer_name: Robert Evensen
+customer name: Robert Evensen
+productS:             id  amount   price            name
+0   5505870883       3    8.10         Apropo3
+1   8875981962      10  100.00         pizza70
+2   5525858491      10  100.00       jahnon126
+3   3611519662       1   12.00        bread119
+4   4022293040       4   42.08       Popcorn21
+5   3276023643       6   30.00  sour_cream_324
+6   7757812731       6   38.10         Kefli81
+7   1002013553       8  192.00       milky_286
+8   5982332854       2   40.00        jahnon58
+9   5472565073       8   80.00        dunats94
+10  1532916451       1    9.00      baklawa109
+11  4575974214       5   35.00       carlo_553
+12  9157920855       5  155.00        coco_356
+13  5502444567      10  270.00      danone_724
+14  2904169114       4   34.20        Popcorn1
+15  5539025220      10   27.30     Pringles100
+16  6356815915       7   63.00  mozzarella_331
+17  5753734815       2   28.00       prezel120
+18   126865989       8   22.00         Chips59
+date: 2023-01-06
+payment_type: 3
+total_pay: 1285.78 NIS
+seller name: Calvin Manahan

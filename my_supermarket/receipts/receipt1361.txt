@@ -1,0 +1,14 @@
+customer_name: Charles Terrell
+customer name: Charles Terrell
+productS:            id  amount   price             name
+0  5154250141       2   42.00        cream_676
+1  2566387516       7   67.13         Chips107
+2  9568368978       6  114.00    goat_milk_680
+3  7715137603       7  105.00           hala50
+4  5627558519       5  100.00  almond_milk_315
+5  5033043483       5   85.00         cookie62
+6  4577693563      10  300.00         milk_441
+date: 2023-02-25
+payment_type: 2
+total_pay: 813.13 NIS
+seller name: Margaret Mclaughlin

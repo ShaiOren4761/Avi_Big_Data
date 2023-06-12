@@ -1,0 +1,21 @@
+customer_name: Pamela King
+customer name: Pamela King
+productS:             id  amount   price           name
+0   4687336290       2   66.00  goat_milk_290
+1   8928477549       6   54.00       milk_385
+2   5460603855       1   15.00       lahuh115
+3   4101463553       3   31.68      Popcorn42
+4   5536566338       6   72.00       bread122
+5   3406550533       4  140.00       eggs_333
+6    942428879       3    5.67       Chitos47
+7   6884133657       1    7.59       Kefli109
+8   6564984120       5   30.00      cream_844
+9   6353327521       8  280.00     danone_403
+10  5940529682      10  129.20        Bisli81
+11  6096150313      10   14.50       Kefli105
+12  4942058623       9   66.06       Chitos71
+13  4994587480       4   20.00        hala103
+date: 2023-05-10
+payment_type: 0
+total_pay: 931.7 NIS
+seller name: Edna Collins

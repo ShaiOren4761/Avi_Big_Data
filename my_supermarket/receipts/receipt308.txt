@@ -1,0 +1,21 @@
+customer_name: Kyle Baumler
+customer name: Kyle Baumler
+productS:             id  amount   price              name
+0   7088306504       1   32.00  organic_eggs_626
+1   9152338043       7   42.00         Doritos82
+2   2827514290       5   14.00          Apropo38
+3   3655445922       9   81.00   almond_milk_741
+4   9900176262       8  160.00            hala33
+5   3624877999       7   88.06          Chitos81
+6   9287469684       3   38.82          Chitos35
+7   5130384166       8  192.00         milky_453
+8   8723057968       5  120.00  organic_eggs_439
+9   6971485450      10   90.00            cake10
+10  8438578466       7   42.70         Popcorn38
+11  1752356191       8   21.20         Popcorn35
+12  9956234120       7  133.00          cookie44
+13  6894394955       6   28.26           Apropo0
+date: 2023-01-13
+payment_type: 1
+total_pay: 1083.0400000000002 NIS
+seller name: Lillian Dolan

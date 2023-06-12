@@ -1,0 +1,24 @@
+customer_name: Robert Banks
+customer name: Robert Banks
+productS:             id  amount  price              name
+0    966694400       1   3.68          Apropo47
+1   8046620973       1  16.00           pita121
+2   3187274481       8  40.00         carlo_110
+3   7471595532       9  45.90          Popcorn2
+4   3795208268       2  27.78         Popcorn13
+5   8320021804       1  10.76          Apropo15
+6    645219811       1   5.82         Doritos43
+7   2774931560       2  28.00            cake31
+8   1579108255       7  21.00          Apropo82
+9     35941608       4  37.80        Pringles17
+10  2495400451       9  63.00   sweet_cream_189
+11  6537548447       9  90.00  freedom_eggs_250
+12  7269028736       7  30.73          Apropo98
+13  6540646129       8  48.00          cookie37
+14  2404373360       5  16.50        Pringles28
+15  9636404311       6  96.00            hala37
+16  1339635353       3  27.90        Popcorn108
+date: 2023-03-01
+payment_type: 3
+total_pay: 608.87 NIS
+seller name: Debra Pearson

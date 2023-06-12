@@ -1,0 +1,17 @@
+customer_name: Richard Varney
+customer name: Richard Varney
+productS:            id  amount   price              name
+0  8539570133       7  168.00  freedom_eggs_782
+1  8699836726       6  174.00   almond_milk_293
+2  7216364706       1    6.00             pie46
+3  3375423706       7  245.00         cream_318
+4  8283358007       7  119.00            hala91
+5  4602940748       8   27.36           Chips27
+6  4046765991       8  216.00     goat_milk_602
+7  6970574985      10  107.30        Pringles62
+8  4917182314       7   38.99           Kefli69
+9  4382579198       5   70.00          cookie80
+date: 2023-04-13
+payment_type: 2
+total_pay: 1171.65 NIS
+seller name: Maria Barnett

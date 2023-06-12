@@ -1,0 +1,14 @@
+customer_name: Tammy Craycraft
+customer name: Tammy Craycraft
+productS:            id  amount   price              name
+0  3358798015      10  148.70          Chitos77
+1  2887000834       3   23.19         Doritos37
+2  7196278210       7   41.79           Chitos3
+3  8430807124       7   42.00         baklawa95
+4  1098139760       2   42.00          eggs_302
+5  1100116551       2   25.38          Popcorn5
+6  1828072930       8  208.00  freedom_eggs_926
+date: 2023-05-08
+payment_type: 1
+total_pay: 531.06 NIS
+seller name: Latasha Mace

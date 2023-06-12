@@ -1,0 +1,18 @@
+customer_name: Kim Swan
+customer name: Kim Swan
+productS:             id  amount  price             name
+0   2057910256       7   49.0          bread61
+1   4004511853       5   65.0  almond_milk_285
+2   5536566338       6   72.0         bread122
+3   4510349719       3   60.0  almond_milk_713
+4   6367879085       5  175.0   mozzarella_338
+5   5289936398      10  124.5        Chitos105
+6   1693440897       8   48.0   mozzarella_639
+7   6250253840       2   60.0    goat_milk_515
+8   8938542471       2    8.2          Bisli96
+9   8438578466       2   12.2        Popcorn38
+10  3623362728       1   15.0           hala92
+date: 2023-03-08
+payment_type: 0
+total_pay: 688.9000000000001 NIS
+seller name: Gary Hudson

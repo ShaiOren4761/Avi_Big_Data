@@ -1,0 +1,21 @@
+customer_name: Lowell Travis
+customer name: Lowell Travis
+productS:             id  amount  price              name
+0   7290516510       7  42.42          Apropo29
+1   3293181766       8  64.80         Popcorn58
+2   5493097263       5  23.25          Bisli102
+3   6159827943      10  60.00            bread2
+4   2014517286       3  48.00         cream_489
+5   9430196639       7  33.11         Doritos96
+6   4173310781       1   2.08         Popcorn78
+7   6720135342       3  96.00    mozzarella_511
+8   1098901684       1  14.15          Chitos44
+9   7190703453       1  16.00  swiss_cheese_410
+10  8111822563       1  14.00            hala19
+11  1001909905       5  95.00           bread95
+12  2210840962       9  38.97          Chitos37
+13  6697639307       2  20.00          coco_762
+date: 2023-04-24
+payment_type: 3
+total_pay: 567.78 NIS
+seller name: Lillian Dolan

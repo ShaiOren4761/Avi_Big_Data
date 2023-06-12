@@ -1,0 +1,9 @@
+customer_name: William Splawn
+customer name: William Splawn
+productS:            id  amount  price              name
+0  9029477329       2   12.1           Bisli62
+1  9513895968       9   72.0  organic_eggs_858
+date: 2023-02-21
+payment_type: 3
+total_pay: 84.1 NIS
+seller name: James Briggs

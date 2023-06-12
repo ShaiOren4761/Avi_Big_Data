@@ -1,0 +1,11 @@
+customer_name: Bessie Thorne
+customer name: Bessie Thorne
+productS:            id  amount   price              name
+0  6433147279       9  117.00   sweet_cream_653
+1  8540776534       5  160.00        butter_459
+2  5471486765       4   47.48          Apropo78
+3  7068100856       6  156.00  organic_eggs_108
+date: 2023-04-30
+payment_type: 3
+total_pay: 480.48 NIS
+seller name: Margaret Mclaughlin

@@ -1,0 +1,12 @@
+customer_name: Dylan Moreland
+customer name: Dylan Moreland
+productS:            id  amount  price                 name
+0  9466452957       1   7.05              Chips42
+1  1862486576       2  52.00  Napoleon_cheese_698
+2  4728775862       8  92.56           Pringles75
+3  5493097263       2   9.30             Bisli102
+4   584949926       8  93.04            Doritos49
+date: 2023-05-12
+payment_type: 3
+total_pay: 253.95000000000005 NIS
+seller name: Jennifer Roberts

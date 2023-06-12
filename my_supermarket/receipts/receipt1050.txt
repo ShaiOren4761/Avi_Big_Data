@@ -1,0 +1,20 @@
+customer_name: Rex Nelson
+customer name: Rex Nelson
+productS:             id  amount   price                 name
+0   8066390508       9   55.98              Chips86
+1   6848436141       2   22.56              Chitos8
+2   2422487844       7   84.00               hala63
+3    444191581       4   33.48              Kefli45
+4   3428796434       6   54.00              pizza78
+5    516173176       7   63.42            Popcorn52
+6   1722468656       6  204.00            cream_394
+7   8238866691       3   36.00               hala74
+8   5441346410       4  104.00       sour_cream_957
+9   2312999978       5   40.00               lafa22
+10  6336132061       9   73.98              Chips81
+11  9689010272       3   21.00            milky_621
+12  5421813302       8   64.00  Napoleon_cheese_116
+date: 2023-01-30
+payment_type: 0
+total_pay: 856.4200000000001 NIS
+seller name: Gary Hudson

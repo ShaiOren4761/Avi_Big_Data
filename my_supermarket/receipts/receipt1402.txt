@@ -1,0 +1,18 @@
+customer_name: Kristin Dellano
+customer name: Kristin Dellano
+productS:             id  amount   price        name
+0   5935920080      10  210.00   milky_905
+1   9118223949       2   28.00    coco_124
+2   8238866691       8   96.00      hala74
+3   5802499144       1    6.17     Kefli10
+4   9556612526       3   57.00    lahuh110
+5   8302031610       1    2.83  Popcorn104
+6   5065905057       1    9.00   jahnon112
+7   5913893649       7   63.00       pie53
+8   2352678045       8   72.00  danone_884
+9   1574923427       1   10.65     Bisli13
+10  3167243069       5   85.00      pita86
+date: 2023-01-02
+payment_type: 3
+total_pay: 639.65 NIS
+seller name: Gary Hudson

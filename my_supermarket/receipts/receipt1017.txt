@@ -1,0 +1,10 @@
+customer_name: Cheryl Vanhorn
+customer name: Cheryl Vanhorn
+productS:            id  amount  price             name
+0  2088419802       2   18.0  organic_eggs_54
+1  1164211935       5   25.0       danone_954
+2  4323140915       4   84.0        milky_755
+date: 2023-04-22
+payment_type: 1
+total_pay: 127.0 NIS
+seller name: Karen Salazar

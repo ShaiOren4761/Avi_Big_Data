@@ -1,0 +1,8 @@
+customer_name: Charlie Johnson
+customer name: Charlie Johnson
+productS:            id  amount  price       name
+0  9271334447       2  26.84  Popcorn43
+date: 2023-02-13
+payment_type: 0
+total_pay: 26.84 NIS
+seller name: Donald Dawson

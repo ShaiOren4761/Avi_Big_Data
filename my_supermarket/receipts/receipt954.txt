@@ -1,0 +1,20 @@
+customer_name: Steven Seiber
+customer name: Steven Seiber
+productS:             id  amount   price               name
+0   8454787915       9  171.00            pita119
+1   3876018141       4   59.28            Kefli33
+2   2977739404       1    7.58         Pringles91
+3   2553042839       7   56.14           Kefli108
+4   9724099313       5   75.00         butter_399
+5   2927424029       5  170.00  melted_cheese_267
+6   3179936635       7  104.58         Pringles21
+7   7771190167       1   27.00           milky_21
+8   3862605342       8   64.56            Bisli26
+9   2615226126       7  238.00    almond_milk_911
+10  3529150487       2   19.88            Chips38
+11  8945456646       2    8.32           Chitos58
+12  6752500298       1    6.72            Apropo4
+date: 2023-04-23
+payment_type: 2
+total_pay: 1008.0600000000002 NIS
+seller name: Renee Brammer

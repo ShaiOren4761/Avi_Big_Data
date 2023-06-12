@@ -1,0 +1,13 @@
+customer_name: Scott Campos
+customer name: Scott Campos
+productS:            id  amount   price             name
+0  7375449681       6   90.00           pita74
+1  2511914111       4  100.00  almond_milk_332
+2  5685248023       8   49.52         Chitos13
+3  7148783653       6   62.70       Pringles39
+4  2400900521       2   13.26          Bamba21
+5  3494705008       3   24.00  swiss_cheese_90
+date: 2023-05-06
+payment_type: 1
+total_pay: 339.48 NIS
+seller name: Lillian Dolan

@@ -1,0 +1,24 @@
+customer_name: Debra Hinderliter
+customer name: Debra Hinderliter
+productS:             id  amount   price               name
+0   4439307837       4   24.00          baklawa13
+1   6797371324       9   31.32           Chitos11
+2   7818934137       1   35.00         butter_629
+3   7682760551       2   68.00           coco_589
+4   6883417806       4   80.00         butter_352
+5   5905716407       9  144.00             cake40
+6   9641721123       1    2.51            Chips22
+7   2268629743      10   17.70          Popcorn79
+8   5267069854       7  154.00     mozzarella_776
+9   1282540331       6   66.00   freedom_eggs_919
+10  7635078777       8   40.72          Popcorn80
+11  1701666046       4   32.00          carlo_253
+12  8535119636      10   80.00          prezel124
+13  9748473860       6  144.00  melted_cheese_969
+14  1639908482       2    5.02           Apropo80
+15  6910603180       6   64.56            Bamba76
+16  6656449325       1    7.00  melted_cheese_789
+date: 2023-05-24
+payment_type: 1
+total_pay: 995.8299999999999 NIS
+seller name: Maria Barnett

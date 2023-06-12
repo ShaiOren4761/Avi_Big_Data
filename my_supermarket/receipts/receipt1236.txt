@@ -1,0 +1,18 @@
+customer_name: Adam Scott
+customer name: Adam Scott
+productS:             id  amount   price        name
+0   9258864486       8   88.00    dunats85
+1   2691268800       3   45.00      hala52
+2   7545593796       9  207.00    milk_611
+3   3598881795       6   72.06  Popcorn107
+4   1533047748       7  112.00   burekas37
+5   5494674577       3   15.00      hala58
+6   6099185729       3   48.00    yolo_125
+7   9719100235       9  120.78     Chitos2
+8   2432406542       3   33.00    yolo_921
+9   8842194644       9   90.00      hala23
+10  4193149318       3    3.24    Chips105
+date: 2023-01-21
+payment_type: 2
+total_pay: 834.0799999999999 NIS
+seller name: James Briggs

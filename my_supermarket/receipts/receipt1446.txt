@@ -1,0 +1,14 @@
+customer_name: Federico Strong
+customer name: Federico Strong
+productS:            id  amount  price            name
+0  7682760551       8  272.0        coco_589
+1  8938542471       9   36.9         Bisli96
+2  9727688032      10  170.0        milk_723
+3  9990522246      10  150.0  mozzarella_428
+4  4535911151      10  160.0        prezel67
+5  5332025217       8   56.0  sour_cream_539
+6  3140717400       2   30.0        yolo_100
+date: 2023-02-13
+payment_type: 3
+total_pay: 874.9 NIS
+seller name: Calvin Manahan

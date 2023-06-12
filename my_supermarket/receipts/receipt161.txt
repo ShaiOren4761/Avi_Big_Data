@@ -1,0 +1,20 @@
+customer_name: Ronda Okura
+customer name: Ronda Okura
+productS:             id  amount   price                 name
+0   8028471094       6   60.00             bagget19
+1   5093804778       9  225.00  Napoleon_cheese_793
+2   1751798780       2   18.00       mozzarella_134
+3   6843126333       1   26.00            cream_442
+4   4070245109       6  120.00             dunats33
+5    755756435       1    5.76             Chitos27
+6   5851729495       7  133.00             prezel35
+7   3937935974       5   85.00             bagget17
+8   5723903853       4   76.00      sweet_cream_652
+9   8875981962      10  100.00              pizza70
+10  8265295087       6   84.00             yolo_561
+11  6373906570       2   40.00               pita46
+12  6294206423       3  105.00        goat_milk_739
+date: 2023-03-03
+payment_type: 2
+total_pay: 1077.76 NIS
+seller name: Margaret Mclaughlin

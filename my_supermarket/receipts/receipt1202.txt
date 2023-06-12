@@ -1,0 +1,24 @@
+customer_name: Crystal Ray
+customer name: Crystal Ray
+productS:             id  amount   price               name
+0   6254400349       5   60.00             lafa41
+1   1151627695       9  288.00         butter_949
+2   1095555146       8  120.00    sweet_cream_368
+3   2587815060       7   77.00            lafa109
+4   9944104930       2   52.00  melted_cheese_526
+5   8401108965       5   55.00    almond_milk_227
+6   8126594595      10   99.00          Apropo103
+7   8753095548       7   13.79           Doritos6
+8   7068100856       9  234.00   organic_eggs_108
+9   2304919530       4   23.24           Apropo42
+10   826694978       3   44.94          Doritos95
+11  4635028516       3   57.00   organic_eggs_398
+12  4917182314       9   50.13            Kefli69
+13  9277558358       4   64.00          carlo_601
+14  2181854935       4   28.96            Chitos4
+15  5838503385      10   80.00           burekas4
+16  1900654099       3   33.00         burekas129
+date: 2023-02-01
+payment_type: 3
+total_pay: 1380.0600000000002 NIS
+seller name: Harold Mitchell

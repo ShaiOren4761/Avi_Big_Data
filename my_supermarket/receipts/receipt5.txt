@@ -1,0 +1,26 @@
+customer_name: Hattie Banks
+customer name: Hattie Banks
+productS:             id  amount   price              name
+0   9395713515       6  204.00        danone_270
+1   3280736401       1   15.00         burekas36
+2   4985539569       6  192.00          eggs_658
+3   9752569972       2   19.40          Popcorn4
+4   1550128282       7  161.00         milky_114
+5   6683489857       7   52.85          Popcorn0
+6   8489584430      10  210.00   almond_milk_467
+7   6187411892       2   28.00         butter_87
+8   3489324048       6  102.00             pie18
+9   6999375752       2   23.76        Pringles71
+10  2404373360      10   33.00        Pringles28
+11  2088238386       7   91.00            lafa28
+12  2304178533      10  180.00   swiss_cheese_11
+13  5416302802       1   14.79         Popcorn75
+14  8539570133      10  240.00  freedom_eggs_782
+15  2212386758       6  144.00  organic_eggs_284
+16  6075240225       5   90.00         bagget122
+17  3269418251       8  168.00          eggs_223
+18  5467181574       2   38.00           lafa127
+date: 2023-04-26
+payment_type: 3
+total_pay: 2006.8 NIS
+seller name: Edna Collins

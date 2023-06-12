@@ -1,0 +1,12 @@
+customer_name: Nicole Paynter
+customer name: Nicole Paynter
+productS:            id  amount  price       name
+0  8624886662       2   5.50    Bamba55
+1  3451993598       7  77.00  milky_675
+2  5835867867       2   6.04    Bisli29
+3  7635078777       2  10.18  Popcorn80
+4  3792538150       5  85.00   carlo_26
+date: 2023-05-12
+payment_type: 3
+total_pay: 183.72 NIS
+seller name: Kevin Goldberg

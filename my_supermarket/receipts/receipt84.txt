@@ -1,0 +1,8 @@
+customer_name: Doris Towler
+customer name: Doris Towler
+productS:            id  amount  price      name
+0  1261273897       4   60.0  yolo_666
+date: 2023-02-21
+payment_type: 1
+total_pay: 60.0 NIS
+seller name: Calvin Manahan

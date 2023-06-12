@@ -1,0 +1,9 @@
+customer_name: Michael Resendiz
+customer name: Michael Resendiz
+productS:            id  amount  price              name
+0  5715320344       3   57.0  organic_eggs_750
+1  5632336542      10   70.0            pie108
+date: 2023-04-02
+payment_type: 3
+total_pay: 127.0 NIS
+seller name: Lillian Dolan

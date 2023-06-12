@@ -1,0 +1,13 @@
+customer_name: William Banerjee
+customer name: William Banerjee
+productS:            id  amount   price               name
+0  3423936245       5  135.00           yolo_695
+1  5648092427       8  280.00   freedom_eggs_593
+2  3120195154       6  138.00          cream_643
+3  9521500829       2   68.00           coco_269
+4  5167955986       9  126.09          Popcorn49
+5  8129957993       4  136.00  yellow_cheese_101
+date: 2023-02-16
+payment_type: 2
+total_pay: 883.09 NIS
+seller name: Victoria Hansen

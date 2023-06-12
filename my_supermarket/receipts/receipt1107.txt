@@ -1,0 +1,18 @@
+customer_name: Amanda Blevins
+customer name: Amanda Blevins
+productS:             id  amount   price               name
+0   8842002067       4  116.00  melted_cheese_754
+1   2780672615       8   45.28         Pringles24
+2   3529150487       1    9.94            Chips38
+3   9157852313       8  160.00           coco_730
+4   9872061983       7   35.00            lahuh79
+5   8259175265       3   39.00         danone_567
+6   8145026289       3   26.67           Apropo95
+7   3617302008       3   54.00      goat_milk_423
+8   1769108574       1   33.00      goat_milk_853
+9   6516800392       4  100.00         danone_579
+10  9993436197       5   60.00      goat_milk_792
+date: 2023-04-16
+payment_type: 3
+total_pay: 678.8900000000001 NIS
+seller name: Gary Hudson

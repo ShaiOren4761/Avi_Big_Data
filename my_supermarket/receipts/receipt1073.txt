@@ -1,0 +1,14 @@
+customer_name: James Villarreal
+customer name: James Villarreal
+productS:            id  amount   price               name
+0  1171500762       7   52.78           Kefli107
+1  5924874992       3   39.00              pie15
+2  2794548670       1    6.01          Popcorn29
+3  7388958020       7   86.31          Popcorn96
+4  1696216092       5   65.00            lahuh81
+5  7865783737       8  128.00            pita120
+6  9993958786       5  110.00  melted_cheese_193
+date: 2023-01-24
+payment_type: 1
+total_pay: 487.1 NIS
+seller name: Margaret Mclaughlin

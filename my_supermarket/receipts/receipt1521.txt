@@ -1,0 +1,18 @@
+customer_name: Clinton Appel
+customer name: Clinton Appel
+productS:             id  amount   price              name
+0   5633284081       3   30.00             cake8
+1   3578107083       6  204.00  organic_eggs_614
+2   8949312423       7   25.76         Chitos102
+3   4824475767       1   13.00  swiss_cheese_419
+4   7229311712       7  119.00            pita31
+5   9104369207       2   66.00    sweet_cream_84
+6   3633893216      10  220.00          coco_748
+7   9513895968       5   40.00  organic_eggs_858
+8   3208335267       9  124.29           Kefli51
+9   7178247045       9   46.08        Pringles87
+10  6401153211       5   30.00           jahnon9
+date: 2023-02-27
+payment_type: 1
+total_pay: 918.13 NIS
+seller name: Marie Natonabah

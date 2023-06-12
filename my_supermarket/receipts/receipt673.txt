@@ -1,0 +1,20 @@
+customer_name: Terry Davis
+customer name: Terry Davis
+productS:             id  amount   price               name
+0   2220000590       3   11.67          Doritos40
+1   1532887885       5   95.00             ziva54
+2   4310860415       5    8.95            Kefli26
+3   3602451803       8  144.00          burekas44
+4   5851729495       5   95.00           prezel35
+5   5776977613       6  156.00     mozzarella_341
+6   1039071136       7  154.00           coco_236
+7   2840390615       4   80.00             cake32
+8   4058952238       3   32.49         Pringles79
+9   4917133472       8   72.00           bagget56
+10  2920059897       9  153.00  melted_cheese_262
+11  6493352372       9   49.05            Bisli89
+12  4467952076       4   42.92           Apropo63
+date: 2023-03-10
+payment_type: 1
+total_pay: 1094.0800000000002 NIS
+seller name: Calvin Manahan

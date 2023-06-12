@@ -1,0 +1,21 @@
+customer_name: Doretha Eady
+customer name: Doretha Eady
+productS:             id  amount   price               name
+0   4256065991       9   63.00            pita108
+1   2361525566       6   84.00          milky_192
+2   3764019617       1    5.96           Chitos49
+3   5282923998       4   56.00         danone_196
+4   4855391919       9   18.72           Chitos73
+5   7912490898       3    7.20          Popcorn25
+6   7239232397       6   32.70         Pringles76
+7   7703128719       3   21.00  melted_cheese_177
+8   1766580728      10   60.80            Chips51
+9   1361553835       2   16.38           Bisli103
+10  2801344722       6  114.00           cookie52
+11  6054200683       1   16.00              lafa9
+12  8011419334      10   99.00            Kefli65
+13  4728207408       5   65.60           Bamba109
+date: 2023-03-05
+payment_type: 3
+total_pay: 660.36 NIS
+seller name: Harold Mitchell

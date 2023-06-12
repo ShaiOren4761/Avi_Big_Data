@@ -1,0 +1,14 @@
+customer_name: Sheila Ryburn
+customer name: Sheila Ryburn
+productS:            id  amount   price       name
+0  4217061826       9  144.00  carlo_107
+1  5913893649       8   72.00      pie53
+2  9080324207       4   23.76   Bisli105
+3  8331100452       6   84.96    Bamba53
+4  8320021804       3   32.28   Apropo15
+5  4878564849       5   66.95    Chips79
+6  9629792815       9  130.77   Doritos4
+date: 2023-02-06
+payment_type: 0
+total_pay: 554.72 NIS
+seller name: Calvin Manahan

@@ -1,0 +1,12 @@
+customer_name: Norris Stump
+customer name: Norris Stump
+productS:            id  amount   price       name
+0  9258864486       8   88.00   dunats85
+1  5656267851       9  109.89   Popcorn9
+2  1167640942       2   24.36   Apropo27
+3  5972473177       4   44.00    pizza15
+4  2762130524       6   78.00  carlo_996
+date: 2023-05-11
+payment_type: 2
+total_pay: 344.25 NIS
+seller name: Harold Mitchell

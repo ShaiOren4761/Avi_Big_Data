@@ -1,0 +1,21 @@
+customer_name: Robert Longmore
+customer name: Robert Longmore
+productS:             id  amount  price              name
+0   3360759680       6  46.32        Doritos105
+1   1307466509       4  24.00         carlo_180
+2   1171500762       6  45.24          Kefli107
+3   2033078637       3   4.74       Pringles102
+4   8380903199       6  79.56            Bisli2
+5   4472529594       9  63.00          jahnon51
+6   5162244505       2  24.00     goat_milk_538
+7   2033078637       4   6.32       Pringles102
+8   2169055244       4  39.56            Chips2
+9   5515448485       3  57.00  yellow_cheese_65
+10  9761339853       1  12.00            cake77
+11  6396785113       5  60.00    sour_cream_686
+12  8357107194       2   5.96       Pringles110
+13  3906638722       3  60.00             ziva4
+date: 2023-01-07
+payment_type: 3
+total_pay: 527.7 NIS
+seller name: Victoria Hansen

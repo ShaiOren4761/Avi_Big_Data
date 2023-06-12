@@ -1,0 +1,18 @@
+customer_name: Angeline Lahti
+customer name: Angeline Lahti
+productS:             id  amount   price                 name
+0   9621270583       6   77.76             Apropo44
+1   7703128719       1    7.00    melted_cheese_177
+2    326362918      10   68.50              Bamba72
+3   2098844776       6   90.00             dunats18
+4   3618944396       9  162.00             milk_572
+5   1945244665       9  297.00            milky_581
+6   1465135792       3   60.00  Napoleon_cheese_151
+7   1194521312       7  119.00             milk_907
+8   4699625420       1    5.00     freedom_eggs_139
+9    519529375       5   73.40               Bamba3
+10  5867262543       5  105.00             eggs_705
+date: 2023-04-28
+payment_type: 3
+total_pay: 1064.6599999999999 NIS
+seller name: Ann Hutchens

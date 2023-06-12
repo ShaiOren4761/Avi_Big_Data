@@ -1,0 +1,17 @@
+customer_name: Alex Brackett
+customer name: Alex Brackett
+productS:            id  amount   price               name
+0  3467639345       6   65.70          Doritos89
+1  5120443668       9   63.00             lafa68
+2  4147296421       2    6.00           Chitos24
+3  2172283047       5    5.00         Pringles48
+4  7131090783       3   30.00           prezel63
+5  7118657070       5   90.00  melted_cheese_773
+6  6517614489      10  300.00     sour_cream_391
+7  1774345469       6   72.00   organic_eggs_233
+8  6677399010       1    5.00            pizza37
+9  2690299007       7   15.68          Doritos29
+date: 2023-01-13
+payment_type: 0
+total_pay: 652.38 NIS
+seller name: Edna Collins

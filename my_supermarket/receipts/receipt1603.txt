@@ -1,0 +1,11 @@
+customer_name: Marvin Walker
+customer name: Marvin Walker
+productS:            id  amount  price       name
+0  8043534129       7  182.0   eggs_375
+1  3343316184       5   35.0   bagget63
+2  4655978150       7   42.0  danone_67
+3  4545755994       9   67.5  Popcorn81
+date: 2023-04-12
+payment_type: 1
+total_pay: 326.5 NIS
+seller name: Hobert Wimberly

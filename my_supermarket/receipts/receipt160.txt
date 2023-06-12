@@ -1,0 +1,12 @@
+customer_name: Paul Gilbreath
+customer name: Paul Gilbreath
+productS:            id  amount   price              name
+0  7987176712       8  104.00           bread69
+1  1225698760       3   21.00  freedom_eggs_708
+2  8238421558       2   50.00  freedom_eggs_501
+3  1084042106       5   55.00            pie116
+4  4971830961       4   35.52         Popcorn55
+date: 2023-01-04
+payment_type: 0
+total_pay: 265.52 NIS
+seller name: Gary Hudson

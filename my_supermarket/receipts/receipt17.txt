@@ -1,0 +1,14 @@
+customer_name: Gloria Mcguire
+customer name: Gloria Mcguire
+productS:            id  amount  price             name
+0  5222746808       8  112.0            pie67
+1  8648153464       9   81.0        jahnon118
+2  3280736401      10  150.0        burekas36
+3  3988232598       5   27.5          Kefli22
+4  3873476146      10  108.8          Kefli57
+5  2088419802      10   90.0  organic_eggs_54
+6  4717136282       1   20.0          pizza83
+date: 2023-02-17
+payment_type: 1
+total_pay: 589.3 NIS
+seller name: Calvin Manahan

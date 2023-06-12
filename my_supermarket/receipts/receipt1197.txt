@@ -1,0 +1,9 @@
+customer_name: Philip Rainwater
+customer name: Philip Rainwater
+productS:            id  amount  price     name
+0  7169410023       4  32.00  lahuh14
+1  4977676118       8  74.32  Kefli24
+date: 2023-04-23
+payment_type: 2
+total_pay: 106.32 NIS
+seller name: Karen Salazar

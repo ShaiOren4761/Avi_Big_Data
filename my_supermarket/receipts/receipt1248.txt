@@ -1,0 +1,23 @@
+customer_name: Joann Mitchem
+customer name: Joann Mitchem
+productS:             id  amount   price              name
+0   3420489603       7  119.00           pita115
+1   3182656010       6   20.28           Kefli15
+2   3284591346       1    3.43            Chips6
+3   7381480320       5   47.70         Apropo104
+4   1754437141       8  176.00   almond_milk_745
+5   7684748577       5   43.65         Doritos52
+6   1111087818       6   29.46           Kefli95
+7   9261950131       1   26.00         milky_803
+8   3591865296       7   70.00          jahnon53
+9   8710802059       7  112.00  yellow_cheese_99
+10  2033078637       1    1.58       Pringles102
+11  8712532837       3   63.00         milky_712
+12  5460603855       6   90.00          lahuh115
+13  4006106433       7  245.00         carlo_214
+14  6560407446       3   72.00  melted_cheese_38
+15  8132459564       5   15.40          Chitos14
+date: 2023-04-13
+payment_type: 1
+total_pay: 1134.5 NIS
+seller name: Gary Hudson

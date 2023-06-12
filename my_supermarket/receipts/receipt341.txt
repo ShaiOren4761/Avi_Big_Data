@@ -1,0 +1,27 @@
+customer_name: Joel Garner
+customer name: Joel Garner
+productS:             id  amount   price              name
+0   2096032396       7   42.00           pizza25
+1   4611888912       4   56.00     goat_milk_120
+2   7254242110       6   42.00          eggs_263
+3   8134299553       2   32.00         baklawa82
+4   7028436694       8   96.80           Chips73
+5   5205696008       5   65.00  organic_eggs_972
+6    444191581       6   50.22           Kefli45
+7   3906818305       3   30.00          bagget54
+8   8571481765       7   63.56         Chitos103
+9   7374620838       9  180.00           pizza17
+10  7855915319      10  150.00         burekas50
+11  9764216273       8   78.56          Chitos29
+12  4950177826       8  232.00     goat_milk_933
+13  2986957607       6  108.00           lahuh93
+14  5972674016       5  115.00         milky_786
+15  3423936245       3   81.00          yolo_695
+16  7374620838       8  160.00           pizza17
+17  4237958087       9  117.00            ziva88
+18  6979473379       8   88.00        baklawa108
+19  8931603073       7   92.33          Apropo89
+date: 2023-01-03
+payment_type: 3
+total_pay: 1879.4699999999998 NIS
+seller name: Hobert Wimberly

@@ -1,0 +1,8 @@
+customer_name: Michelle Seegmiller
+customer name: Michelle Seegmiller
+productS:            id  amount  price     name
+0  7359264101       2   4.94  Chips58
+date: 2023-01-11
+payment_type: 2
+total_pay: 4.94 NIS
+seller name: Renee Brammer

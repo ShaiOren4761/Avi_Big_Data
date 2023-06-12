@@ -1,0 +1,17 @@
+customer_name: Andrea Harmon
+customer name: Andrea Harmon
+productS:            id  amount   price              name
+0  3154745776       4   48.00           pizza72
+1  5353205962       8   72.00          dunats22
+2  9900176262       5  100.00            hala33
+3  3873476146       4   43.52           Kefli57
+4  8326542353       6  120.00           pizza45
+5  7835865295       5   70.00         carlo_562
+6  5515448485       2   38.00  yellow_cheese_65
+7  9521500829       2   68.00          coco_269
+8  3982672944      10   48.60            Bisli0
+9  1490927315       9  261.00          coco_414
+date: 2023-02-14
+payment_type: 3
+total_pay: 869.12 NIS
+seller name: Karen Salazar

@@ -1,0 +1,22 @@
+customer_name: Peter Mccracken
+customer name: Peter Mccracken
+productS:             id  amount   price               name
+0   8003838548       6   72.00      goat_milk_355
+1   6564984120       9   54.00          cream_844
+2   7197645647       3   30.00           prezel98
+3   3658018501       4   40.00             cake60
+4   6052439119      10   88.90           Chitos57
+5   9977993703       8   78.96            Bisli77
+6   7643343820       1   12.41            Bamba18
+7   2662572813      10   80.00           milk_176
+8   5656993571       4   22.36           Kefli100
+9   2922052037       3   42.00          bagget115
+10  3520084617       6   96.00            pizza69
+11  5870840984       5  175.00         danone_973
+12  2210840962       8   34.64           Chitos37
+13  8330666271       5  170.00  melted_cheese_583
+14  6609101402       9  108.00   swiss_cheese_785
+date: 2023-05-15
+payment_type: 2
+total_pay: 1104.27 NIS
+seller name: Debra Pearson

@@ -1,0 +1,26 @@
+customer_name: Neal Williams
+customer name: Neal Williams
+productS:             id  amount   price               name
+0   6383557822       3   75.00     sour_cream_245
+1   1845052243       1   25.00  yellow_cheese_964
+2   7054127409       2   30.00          dunats120
+3   2304919530       2   11.62           Apropo42
+4   4849831320       8   35.60            Bamba73
+5   9872061983       2   10.00            lahuh79
+6   7002149324       8  224.00       goat_milk_31
+7   1893166475       3   15.00         danone_761
+8   1935731218       1    8.10            Bisli25
+9   5061582836       8   90.40          Popcorn32
+10  8938542471       6   24.60            Bisli96
+11  3152564482       8  144.00         baklawa100
+12  9185491707       7   78.89           Apropo75
+13  5972674016       7  161.00          milky_786
+14  2665394526       2   20.00             pita92
+15  6249749527       7   18.20           Apropo10
+16  1670410375       9  108.00           cookie46
+17  5633284081       6   60.00              cake8
+18  7691592447       7   67.41            Bisli72
+date: 2023-03-29
+payment_type: 1
+total_pay: 1206.8200000000002 NIS
+seller name: Donald Dawson

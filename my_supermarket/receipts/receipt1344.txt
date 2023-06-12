@@ -1,0 +1,17 @@
+customer_name: George Ford
+customer name: George Ford
+productS:            id  amount   price               name
+0  7382005014       8   80.00           bread100
+1  8822473986      10   69.30            Chips36
+2  6760389596       5  125.00    sweet_cream_699
+3  2526334412       6   48.00             hala81
+4  6889096348       8  280.00   swiss_cheese_952
+5  5297947242       6   78.00             lafa93
+6  8562313207       7   42.00  melted_cheese_181
+7  8056096195       4   37.16            Kefli21
+8  4310860415       2    3.58            Kefli26
+9  2570636078       6   60.00           yolo_992
+date: 2023-02-10
+payment_type: 2
+total_pay: 823.04 NIS
+seller name: Ann Hutchens

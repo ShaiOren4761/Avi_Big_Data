@@ -1,0 +1,16 @@
+customer_name: Leslie May
+customer name: Leslie May
+productS:            id  amount   price               name
+0  4467952076       5   53.65           Apropo63
+1  6537204810       6  204.00         butter_890
+2  7912421033       9  171.00            pita103
+3  4911802914       8  248.00         butter_821
+4  2887000834       9   69.57          Doritos37
+5  8528658726       1   16.00            ziva125
+6  2582423137       4   56.00             hala25
+7  1762992509       2   10.00           coco_257
+8  8613738306       2   68.00  yellow_cheese_143
+date: 2023-05-14
+payment_type: 2
+total_pay: 896.22 NIS
+seller name: Karen Salazar

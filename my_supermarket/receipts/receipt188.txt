@@ -1,0 +1,25 @@
+customer_name: Brandon Cole
+customer name: Brandon Cole
+productS:             id  amount   price                 name
+0   8140512998       8  256.00            milky_549
+1   9571188926       1   21.00            cream_144
+2   5345802903       5  125.00     organic_eggs_397
+3   7293801939       2   36.00               pita37
+4   1036326015       1   32.00            milky_976
+5   1641228787      10   70.00               hala36
+6   7054127409       2   30.00            dunats120
+7   8889736554       3   18.00           burekas105
+8   5607103657       1   25.00     swiss_cheese_543
+9   2812937424       1   14.25             Apropo40
+10  8354318545       3   18.00             eggs_692
+11  2694063260       8   80.00  Napoleon_cheese_377
+12  6530924413      10   57.90           Pringles74
+13  7371422605       7  133.00      almond_milk_264
+14  9107244139       7  203.00      freedom_eggs_62
+15  9447408425       4   52.00             lahuh128
+16  4280459754       4  112.00             coco_416
+17  2823314705       9  288.00    melted_cheese_701
+date: 2023-01-24
+payment_type: 3
+total_pay: 1571.15 NIS
+seller name: Margaret Mclaughlin

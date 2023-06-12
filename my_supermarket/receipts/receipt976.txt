@@ -1,0 +1,20 @@
+customer_name: Helen Spencer
+customer name: Helen Spencer
+productS:             id  amount   price                 name
+0   9843899114       4   56.00            milky_339
+1   3716667614       5  160.00         goat_milk_69
+2   1772128447       3   54.00               lafa88
+3   8043534129       8  208.00             eggs_375
+4   9677722913       8   56.00      almond_milk_607
+5   3206726695      10  340.00    melted_cheese_752
+6   4610697680       6   78.00              pita105
+7   6678333630       3   54.00             jahnon64
+8   6768927548       8   42.72              Bisli71
+9   7359376015       1   13.00               hala61
+10   814837059       3   22.56              Bamba87
+11  1845106822       3    4.08              Kefli19
+12  5846432165       7  217.00  Napoleon_cheese_950
+date: 2023-01-01
+payment_type: 2
+total_pay: 1305.36 NIS
+seller name: Kevin Goldberg

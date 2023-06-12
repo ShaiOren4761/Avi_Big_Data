@@ -1,0 +1,15 @@
+customer_name: Lynda Adams
+customer name: Lynda Adams
+productS:            id  amount  price           name
+0  2413705759       6   89.7     Doritos102
+1  3066862313       1    6.0        ziva112
+2  5053409659       2   26.0         ziva28
+3  2494120653       9  108.0      cream_201
+4  6294206423       4  140.0  goat_milk_739
+5  1573371180       8   88.0      dunats116
+6  9197683164       6  114.0          pie60
+7  3998010367       4   68.0       prezel13
+date: 2023-02-20
+payment_type: 0
+total_pay: 639.7 NIS
+seller name: Kevin Goldberg

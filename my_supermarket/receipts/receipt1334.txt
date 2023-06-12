@@ -1,0 +1,20 @@
+customer_name: Arnold Henry
+customer name: Arnold Henry
+productS:             id  amount   price               name
+0    126865989       4   11.00            Chips59
+1   8102530535       3    6.33            Bamba30
+2   9977993703       7   69.09            Bisli77
+3   8676919147      10  220.00           yolo_560
+4   2201636818       6   70.26            Bamba47
+5   7023388036      10   66.00            Chips41
+6   9645840367       7  168.00          milky_484
+7   6894394955      10   47.10            Apropo0
+8   6668408768       1   12.00  melted_cheese_133
+9   5752892349      10   74.80          Popcorn51
+10  4201127387       7   12.88            Bamba65
+11  1124584031       8   72.00   freedom_eggs_373
+12  6162064724       3   42.00            pizza68
+date: 2023-02-21
+payment_type: 1
+total_pay: 871.4599999999999 NIS
+seller name: Ann Hutchens

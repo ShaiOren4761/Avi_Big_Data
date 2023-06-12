@@ -1,0 +1,16 @@
+customer_name: Charlotte Morgan
+customer name: Charlotte Morgan
+productS:            id  amount   price                 name
+0  9365899564       7  203.00             coco_764
+1  6678333630       3   54.00             jahnon64
+2  8438578466       2   12.20            Popcorn38
+3  9462740449       4    7.08              Chitos0
+4  4740215780       7  126.00             eggs_528
+5  2328994516       8   56.00  Napoleon_cheese_610
+6  5120443668       1    7.00               lafa68
+7  1580632915       3   45.00   Napoleon_cheese_45
+8  4618116534       1    5.00              bread40
+date: 2023-04-23
+payment_type: 3
+total_pay: 515.28 NIS
+seller name: Maria Barnett

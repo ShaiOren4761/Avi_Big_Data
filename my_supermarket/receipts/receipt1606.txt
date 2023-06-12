@@ -1,0 +1,21 @@
+customer_name: Cody Terracina
+customer name: Cody Terracina
+productS:             id  amount   price              name
+0   6594002831       5   35.15         Doritos88
+1   7518629726       2   10.00  freedom_eggs_679
+2   2678867075       5   44.25           Chips90
+3   4975764253       8   64.00  organic_eggs_894
+4   1512051119      10   90.10           Chips88
+5   9717670411       7  112.00          jahnon39
+6   2801344722       3   57.00          cookie52
+7   1825576367       6   19.02           Bamba51
+8   9752569972       6   58.20          Popcorn4
+9   1282540331       8   88.00  freedom_eggs_919
+10  4145343815      10  150.00          coco_588
+11  1881105790      10   67.30          Bamba102
+12  7181910250       4   21.76           Bamba26
+13  8126594595       5   49.50         Apropo103
+date: 2023-01-16
+payment_type: 2
+total_pay: 866.28 NIS
+seller name: Donald Dawson

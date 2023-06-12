@@ -1,0 +1,16 @@
+customer_name: Lucille Iglesias
+customer name: Lucille Iglesias
+productS:            id  amount  price               name
+0  6187411892       4  56.00          butter_87
+1  8596443419       8  28.16            Bisli53
+2  9328287258       1   9.00       goat_milk_73
+3  3420503723       3  38.64          Popcorn45
+4  5353205962       1   9.00           dunats22
+5  5471486765       8  94.96           Apropo78
+6  4193149318       1   1.08           Chips105
+7  8330666271       2  68.00  melted_cheese_583
+8  2735906682       5  90.00          burekas47
+date: 2023-03-03
+payment_type: 0
+total_pay: 394.84000000000003 NIS
+seller name: Hobert Wimberly

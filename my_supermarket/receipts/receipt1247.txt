@@ -1,0 +1,23 @@
+customer_name: Bessie Philipp
+customer name: Bessie Philipp
+productS:             id  amount   price                 name
+0   1465135792       2   40.00  Napoleon_cheese_151
+1   7775939481       6   30.00           butter_316
+2   9414611643       6   96.00      almond_milk_604
+3   8168812017       6   76.68             Chitos40
+4   2678867075       1    8.85              Chips90
+5   8560504323       7   78.54           Pringles20
+6    645219811      10   58.20            Doritos43
+7   3182656010       2    6.76              Kefli15
+8   4325135446       8   19.76             Chitos34
+9   8943363781       5   70.00     organic_eggs_577
+10  9872061983       4   20.00              lahuh79
+11  5472565073       6   60.00             dunats94
+12  5598382184       9  153.00              pita125
+13  7436255460       4   64.00    melted_cheese_598
+14  6236178652       5  145.00              coco_86
+15   526217812       7   31.08            Doritos39
+date: 2023-01-16
+payment_type: 0
+total_pay: 957.87 NIS
+seller name: James Briggs

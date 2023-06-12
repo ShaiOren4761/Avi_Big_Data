@@ -1,0 +1,20 @@
+customer_name: Karen Rutherford
+customer name: Karen Rutherford
+productS:             id  amount   price               name
+0   3061070448       8  200.00   organic_eggs_939
+1   8320021804       3   32.28           Apropo15
+2   4589519577       1    9.64           Popcorn3
+3   6697639307       1   10.00           coco_762
+4   5972140342      10  130.00   freedom_eggs_496
+5   1433144136       9  180.00    swiss_cheese_80
+6   7635078777       7   35.63          Popcorn80
+7   8337651701       7   29.54            Bamba52
+8   3977077132       3  105.00  freedom_eggs_1000
+9   4777133330       9  135.00         butter_402
+10  5010813089       5   55.00           bagget45
+11  5268101843      10  170.00            bread23
+12  4970569706       1    3.73            Bisli74
+date: 2023-04-15
+payment_type: 1
+total_pay: 1095.8200000000002 NIS
+seller name: Roberta Lewis

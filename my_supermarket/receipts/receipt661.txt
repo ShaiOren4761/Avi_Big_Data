@@ -1,0 +1,27 @@
+customer_name: Alice Walker
+customer name: Alice Walker
+productS:             id  amount   price              name
+0   4198997774       7  112.00          bagget21
+1   3679901541       7   77.00            hala82
+2   4088928724       3   18.00          jahnon50
+3   9889088591       8  144.00          dunats16
+4   2574420830       3   20.55           Chips78
+5   3338469158       4   16.92          Apropo66
+6   1041583581      10   51.70           Bisli97
+7   8238866691       7   84.00            hala74
+8   1686846932       7   49.00  swiss_cheese_188
+9   8578588751      10   48.80           Bisli22
+10  6330280004      10  150.00           bread55
+11  7670620439       5   80.00         milky_404
+12  3866791635       5   65.00            lafa16
+13  8081757049       2   40.00         baklawa39
+14  1158928326       9  117.00   sweet_cream_883
+15  1579847942       9   81.00          bread106
+16  3425061386       1   23.00  organic_eggs_418
+17  9570814702       6   62.34         Apropo107
+18  5502444567      10  270.00        danone_724
+19  5806233640       4   15.92         Apropo108
+date: 2023-05-09
+payment_type: 1
+total_pay: 1526.23 NIS
+seller name: James Briggs

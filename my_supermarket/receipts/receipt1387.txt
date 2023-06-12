@@ -1,0 +1,14 @@
+customer_name: Mary Link
+customer name: Mary Link
+productS:            id  amount  price                 name
+0  3602451803       7  126.0            burekas44
+1  7309319233       2   42.0       sour_cream_877
+2  2743393698       2   34.0             eggs_390
+3  5846432165       2   62.0  Napoleon_cheese_950
+4  5472565073       2   20.0             dunats94
+5  3962781541       8   88.0               pita36
+6  5905716407       3   48.0               cake40
+date: 2023-03-09
+payment_type: 2
+total_pay: 420.0 NIS
+seller name: Marie Natonabah

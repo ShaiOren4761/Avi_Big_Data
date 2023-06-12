@@ -1,0 +1,27 @@
+customer_name: Charley Lowery
+customer name: Charley Lowery
+productS:             id  amount   price              name
+0   1063608998       8  216.00        butter_871
+1   1532887885       2   38.00            ziva54
+2   5870840984       2   70.00        danone_973
+3   7922481078       5   60.00          burekas2
+4   4607860483       1   12.00     goat_milk_425
+5   3257215374       8  256.00        butter_704
+6   5563309872       6   69.60           Bisli18
+7   4510349719       1   20.00   almond_milk_713
+8   3621324772       2   10.00  yellow_cheese_96
+9   4545755994       7   52.50         Popcorn81
+10  6054200683       7  112.00             lafa9
+11  6162064724       8  112.00           pizza68
+12  9889088591       1   18.00          dunats16
+13  4249659579       8  114.00          Bamba108
+14  9282429607       8   67.84         Popcorn71
+15  8025288199       1   20.00           pizza28
+16  4497390421      10  180.00          prezel72
+17  9149710916       3   93.00          milk_299
+18  4345905587       6   78.00             pie96
+19  5500736553       7  217.00    mozzarella_551
+date: 2023-05-06
+payment_type: 2
+total_pay: 1815.9399999999998 NIS
+seller name: Victoria Hansen

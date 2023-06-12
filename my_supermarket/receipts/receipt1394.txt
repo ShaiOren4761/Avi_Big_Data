@@ -1,0 +1,21 @@
+customer_name: John Martin
+customer name: John Martin
+productS:             id  amount   price               name
+0   2920059897       9  153.00  melted_cheese_262
+1   4273284919       9  198.00  melted_cheese_662
+2   8632053761       1    7.69            Bamba82
+3   4522400505       7   89.32           Popcorn8
+4    572796454       4   28.72           Doritos0
+5   7517728424       1   12.00           milk_630
+6   9937364002       4  108.00     almond_milk_64
+7   1741196607       2   34.00           bagget32
+8   4487044092       6   45.00            Bamba43
+9   5477096021       5   24.30            Bisli73
+10  1990960024       8   71.04          Popcorn10
+11  1735212715       2   15.70            Chips99
+12  3140717400       9  135.00           yolo_100
+13  7201524611      10  180.00     sour_cream_880
+date: 2023-04-29
+payment_type: 0
+total_pay: 1101.77 NIS
+seller name: Maria Barnett

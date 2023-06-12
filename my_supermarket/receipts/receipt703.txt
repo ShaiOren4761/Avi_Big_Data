@@ -1,0 +1,24 @@
+customer_name: Norma Samuelson
+customer name: Norma Samuelson
+productS:             id  amount   price             name
+0   5981601891       2   28.00   sour_cream_103
+1    671900051       1    5.37         Apropo35
+2   2888103591       4   60.00          hala130
+3   9367735312       7   77.00         eggs_512
+4    680637539      10   86.90          Chips23
+5   6657428362       7    7.14          Bamba77
+6   6508352741       8   96.00           cake75
+7   1659941880       8   40.00  almond_milk_738
+8   3624235443       8  152.00        cream_447
+9   4470985252      10  110.00             pie9
+10  5475477255       1   16.00         jahnon63
+11  9549836584       7   84.00            lafa2
+12  6249749527       8   20.80         Apropo10
+13  3962719146       5   85.00         lahuh125
+14  9987211151       4   44.24        Doritos11
+15  8033178919       6   78.00            pita6
+16  5120443668       9   63.00           lafa68
+date: 2023-02-08
+payment_type: 1
+total_pay: 1053.4499999999998 NIS
+seller name: James Briggs

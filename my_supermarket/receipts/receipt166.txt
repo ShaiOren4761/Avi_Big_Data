@@ -1,0 +1,26 @@
+customer_name: Alfonso Jacobs
+customer name: Alfonso Jacobs
+productS:             id  amount   price               name
+0   4137018925       8  128.00      goat_milk_975
+1   1685729500       3   42.06        Pringles103
+2   3192107145       8  104.00  yellow_cheese_187
+3   8618673937       5   25.00          milky_336
+4   6617282738       5  110.00           yolo_747
+5   2977739404      10   75.80         Pringles91
+6   5706653469      10   89.30          Doritos85
+7   6752500298       2   13.44            Apropo4
+8   5143335309      10  100.00              pie44
+9   8452100283       4   60.00              pita8
+10  3110870276       1    4.16             Bamba5
+11  1547853012       3   33.00    sweet_cream_899
+12  9321789214       2    4.40          Doritos86
+13  5838549040       1   11.00           bagget81
+14  5786235291       1    3.99            Kefli46
+15  6049355718       3   39.00             pie124
+16  6756486695       9   45.00           dunats51
+17  8149097266      10  180.00             pizza2
+18  5107874449       7   41.23         Pringles54
+date: 2023-04-18
+payment_type: 3
+total_pay: 1109.38 NIS
+seller name: Jennifer Roberts

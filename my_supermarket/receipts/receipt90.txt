@@ -1,0 +1,10 @@
+customer_name: Antoinette Edmondson
+customer name: Antoinette Edmondson
+productS:            id  amount  price           name
+0  1442412239      10  106.0        Kefli31
+1  5098531930       9  126.0  sour_cream_49
+2  2361525566       4   56.0      milky_192
+date: 2023-05-09
+payment_type: 2
+total_pay: 288.0 NIS
+seller name: Margaret Mclaughlin

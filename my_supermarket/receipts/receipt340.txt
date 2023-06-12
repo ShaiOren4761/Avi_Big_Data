@@ -1,0 +1,18 @@
+customer_name: Edward Stroupe
+customer name: Edward Stroupe
+productS:             id  amount   price               name
+0   8145026289       4   35.56           Apropo95
+1   7765660892      10  150.00             ziva25
+2   5947459517       9  153.00  yellow_cheese_379
+3   1574923427       1   10.65            Bisli13
+4   5968978896       7   56.00            ziva129
+5   8354318545       9   54.00           eggs_692
+6   5254092417       8  114.80          Popcorn73
+7   8115468682       6   12.42            Bamba58
+8   3347104847       9  144.00      goat_milk_829
+9   1048883950      10   80.00              pie37
+10  7175319969       8   99.44            Kefli47
+date: 2023-05-14
+payment_type: 0
+total_pay: 909.8699999999999 NIS
+seller name: Marie Natonabah

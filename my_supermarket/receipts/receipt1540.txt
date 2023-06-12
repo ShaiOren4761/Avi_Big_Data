@@ -1,0 +1,14 @@
+customer_name: Blanche Nowlin
+customer name: Blanche Nowlin
+productS:            id  amount   price                 name
+0  9092334022       8  136.00           butter_632
+1  4440652590       4  120.00             milk_795
+2  8579517093       5   50.00            carlo_294
+3  3118998644       3   39.51            Chitos106
+4  3991798082       6   42.00  Napoleon_cheese_383
+5  3420489603       9  153.00              pita115
+6  4147296421       5   15.00             Chitos24
+date: 2023-03-05
+payment_type: 1
+total_pay: 555.51 NIS
+seller name: Karen Salazar

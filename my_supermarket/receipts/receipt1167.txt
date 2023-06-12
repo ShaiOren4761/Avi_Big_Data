@@ -1,0 +1,16 @@
+customer_name: Willie Mathis
+customer name: Willie Mathis
+productS:            id  amount  price               name
+0  9993958786       2  44.00  melted_cheese_193
+1  9569923077       5  41.35            Chips25
+2   826694978       2  29.96          Doritos95
+3  3343316184       4  28.00           bagget63
+4  8986454308       8  20.00           Apropo91
+5  6080046104       5  45.00           bagget69
+6  3962781541       2  22.00             pita36
+7  9120124782       7  49.00         butter_617
+8  1281050931       2  10.00          baklawa86
+date: 2023-03-07
+payment_type: 3
+total_pay: 289.31 NIS
+seller name: James Briggs

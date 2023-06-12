@@ -1,0 +1,19 @@
+customer_name: David Ferra
+customer name: David Ferra
+productS:             id  amount   price        name
+0   2400900521       9   59.67     Bamba21
+1   4314648994       9   72.00     bread32
+2   8223303910       6   90.00    milk_461
+3   9309788096       1   10.00       pie74
+4   8326542353       9  180.00     pizza45
+5   5422325640       2   22.00   milky_430
+6   9991409125       8   64.00      ziva67
+7   5228617410       6   32.04     Bamba54
+8   2172244211       3   14.46    Chitos74
+9   7643343820       8   99.28     Bamba18
+10  2787890861       2   11.84  Pringles10
+11  5558317486       3    8.19     Bamba27
+date: 2023-03-06
+payment_type: 1
+total_pay: 663.4800000000001 NIS
+seller name: James Briggs

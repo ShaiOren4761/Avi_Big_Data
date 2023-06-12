@@ -1,0 +1,19 @@
+customer_name: Melanie Donald
+customer name: Melanie Donald
+productS:             id  amount   price              name
+0   1098139760      10  210.00          eggs_302
+1   5465097747       1   14.02          Apropo14
+2   2570636078       5   50.00          yolo_992
+3   7664273782       4   64.00  swiss_cheese_354
+4   2578056091       5   45.00          yolo_717
+5   8853524696       3    6.27         Popcorn63
+6   9287469684       8  103.52          Chitos35
+7   5623670825       5   13.80          Apropo60
+8   7822944780      10  105.10           Bisli95
+9   4217061826       5   80.00         carlo_107
+10  4618116534       5   25.00           bread40
+11  5204257446       8   96.00         carlo_633
+date: 2023-02-13
+payment_type: 3
+total_pay: 812.7099999999999 NIS
+seller name: Edna Collins

@@ -1,0 +1,13 @@
+customer_name: Jody Cargill
+customer name: Jody Cargill
+productS:            id  amount   price            name
+0  4607860483       8   96.00   goat_milk_425
+1  2553042839       2   16.04        Kefli108
+2  8331100452       7   99.12         Bamba53
+3  2270748748       4   56.00  sweet_cream_76
+4  9596715513       4   59.36         Chips16
+5  9468138759       8  232.00        yolo_362
+date: 2023-01-17
+payment_type: 2
+total_pay: 558.52 NIS
+seller name: Calvin Manahan

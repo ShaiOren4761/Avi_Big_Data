@@ -1,0 +1,19 @@
+customer_name: Lessie Gore
+customer name: Lessie Gore
+productS:             id  amount   price              name
+0   4253045215       7   81.20           Chips43
+1   6672844068       1   18.00  organic_eggs_167
+2   8703160750       2   38.00  freedom_eggs_876
+3   6517614489       1   30.00    sour_cream_391
+4   1787738210       7   66.22          Chitos95
+5   7937185654       6  114.00             pie66
+6   8638366391       3   45.00           lahuh37
+7   5972674016       4   92.00         milky_786
+8   1945244665       7  231.00         milky_581
+9   8172603002       8   85.44           Chips11
+10  6017637238       1    4.80           Bamba39
+11  6198977314       1   11.00             lafa1
+date: 2023-03-03
+payment_type: 2
+total_pay: 816.6599999999999 NIS
+seller name: Maria Barnett

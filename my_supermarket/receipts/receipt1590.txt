@@ -1,0 +1,13 @@
+customer_name: Brian Landstrom
+customer name: Brian Landstrom
+productS:            id  amount   price             name
+0  8965297486       1   14.00  swiss_cheese_79
+1  9261950131       5  130.00        milky_803
+2  7089280322       6   71.52           Bisli9
+3  5043070029       1    7.67          Bamba10
+4  5479948756       5   33.00         Bamba103
+5  7201524611       1   18.00   sour_cream_880
+date: 2023-01-12
+payment_type: 1
+total_pay: 274.18999999999994 NIS
+seller name: Victoria Hansen
