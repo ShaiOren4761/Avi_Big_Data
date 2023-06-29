@@ -1,5 +1,4 @@
 import random
-import random as rnd
 import pandas as pd
 import datetime
 from faker import Faker
@@ -8,6 +7,7 @@ customers = pd.read_pickle("my_supermarket\\my_customer.pkl")
 products = pd.read_pickle("my_supermarket\\product_db.pkl")
 sellers = pd.read_pickle("my_supermarket\\my_sellers.pkl")
 
+
 def create_trade_date():
     fake = Faker()
     start_date = datetime.date(year=2023, month=1, day=1)
@@ -15,7 +15,7 @@ def create_trade_date():
     return date
 
 
-def trades_db():
+def gen_trades_db():
     dic = {'tz': [], 'productS': [], 'date': [], 'payment_type': [],
            'total_pay': [], 'seller_id': []}
     for _ in range(random.randint(1500, 1700)):
@@ -40,5 +40,4 @@ def trades_db():
 # generation of a trades DB, OVERRIDES existing one in "my_supermarket"
 # trades = trades_db()
 # trades.to_pickle("my_supermarket\\my_trades.pkl")
-print()
 

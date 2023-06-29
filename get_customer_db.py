@@ -18,7 +18,9 @@ def customer_db():
     return pd.DataFrame.from_dict(dic)
 
 
-def gen_shared_customer(df):
+def gen_shared_customer():
+    df = customer_db()
+
     data = df.head(int(len(df) * 0.2))
     path = "shared_customers/shai_pickle20.pkl"
     data.to_pickle(path)

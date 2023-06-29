@@ -4,14 +4,14 @@ import string
 
 
 def get_dict_col(product_db):
-    col_db = {'name': [], 'id': [], 'price': []}
+    dict_to_df_db = {'name': [], 'id': [], 'price': []}
 
     for key, items in product_db.items():
-        col_db['name'].append(key)
-        col_db['id'].append(items[0])
-        col_db['price'].append(items[1])
+        dict_to_df_db['name'].append(key)
+        dict_to_df_db['id'].append(items[0])
+        dict_to_df_db['price'].append(items[1])
 
-    return col_db
+    return dict_to_df_db
 
 
 def get_product_db():
@@ -58,11 +58,12 @@ def get_product_db():
                 snacks_db[i] = [get_random_product_id(), get_random_prices()]
             snacks_db['Bisli666'] = [get_random_product_id(), get_random_prices()]
             return snacks_db
+        return get_snacks_db()
 
     def gen_bakery_db():
         bakery_db = {}
-        bakery_prods = ["bread", "cake", "pizza", "prezel", "pita", "burekas", "bagget", "hala", "cookie", "pie", "dunats",
-                        "baklawa", "lafa", "ziva", "jahnon", "lahuh"]
+        bakery_prods = ["bread", "cake", "pizza", "prezel", "pita", "burekas", "bagget", "hala", "cookie", "pie",
+                        "dunats", "baklawa", "lafa", "ziva", "jahnon", "lahuh"]
 
         count = 0
         for i in range(1000):
@@ -73,17 +74,12 @@ def get_product_db():
             count += 1
         return bakery_db
 
-    return pd.concat([gen_milk_db(), gen_snacks_db(), gen_bakery_db()])
+    milk_df = pd.DataFrame.from_dict(get_dict_col(gen_milk_db()))
+    snack_df = pd.DataFrame.from_dict(get_dict_col(gen_snacks_db()))
+    bakery_df = pd.DataFrame.from_dict(get_dict_col(gen_bakery_db()))
+    return pd.concat([milk_df, snack_df, bakery_df])
 
 
-def get_dict_col(product_db):
-    stupid_db = {'name': [], 'id': [], 'price': []}
-
-    for key, items in product_db.items():
-        stupid_db['name'].append(key)
-        stupid_db['id'].append(items[0])
-        stupid_db['price'].append(items[1])
-
-    return stupid_db
-
-
+def gen():
+    df = get_product_db()
+    df.to_pickle("my_supermarket\\product_db.pkl")

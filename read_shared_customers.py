@@ -50,8 +50,18 @@ def concat_customers():
     # from plots import create_graphs
     # clmn = "age"
     # plot = create_graphs(dfS, clmn)
-    return dfS
+    dfS.to_pickle('my_supermarket\\my_customer')
 
 
+"""
+# DO NOT RUN PKL DB FILE CREATION - OVERRIDES EXISTING!!!
+"""
+# creation of a customer DB, division into two separate files, head 20% and tail 80%
+# The two parts are made into files under shared_customers with the fitting % of split
+# gen_shared_customer(dfS)
+
+"""
+# DO NOT RUN PKL DB FILE CREATION - OVERRIDES EXISTING!!!
+"""
 
 

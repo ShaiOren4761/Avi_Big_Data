@@ -12,18 +12,19 @@ def gen_customer_db():
     return customer_db()
 
 
-def gen_seller_db():
-    from get_seller_db import seller_db
-    return seller_db()
+# def gen_seller_db():
+#     from get_seller_db import seller_db
+#     return seller_db()
 
 
 def gen_costumer_db():
     from get_customer_db import customer_db
     return customer_db()
 
+
 def trades_db():
-    from get_trades_db import trades_db
-    return trades_db()
+    from get_trades_db import gen_trades_db
+    return gen_trades_db()
 
 def seller_db():
     from get_seller_db import seller_db
