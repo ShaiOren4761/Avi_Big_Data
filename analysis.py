@@ -68,3 +68,18 @@ def gen():
 
     best_seller_check(trades, sellers)
 
+
+def product_name_col_addition_tradeS(tradeS):
+    # Product name column creation and appending to trades
+    for index, row in tradeS.iterrows():
+        trade = row['productS']
+        trade['name'] = trade['id'].apply(lambda x: products[x == products['id']]['name'].values[0])
+
+
+def customer_name_col_addition_tradeS(tradeS, customers):
+    # Customer name column creation and appending to trades
+    tradeS['customer_name'] = tradeS['tz'].apply(lambda x: customers[x == customers['tz']]['name'].values[0])
+    temp = tradeS.pop('customer_name')
+    tradeS.insert(0, 'customer_name', temp.values)
+
+
