@@ -29,7 +29,4 @@ def gen_shared_customer():
     path = "shared_customers/shai_pickle80.pkl"
     data.to_pickle(path)
 
-
-
-
-
+print()

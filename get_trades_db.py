@@ -40,4 +40,3 @@ def gen_trades_db():
 # generation of a trades DB, OVERRIDES existing one in "my_supermarket"
 # trades = trades_db()
 # trades.to_pickle("my_supermarket\\my_trades.pkl")
-
