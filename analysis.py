@@ -1,8 +1,7 @@
 import pandas as pd
-import matplotlib.pyplot as plt
 import trades_analysis
-import matplotlib
-matplotlib.use('Qt5Agg')
+import matplotlib.pyplot as plt
+plt.switch_backend('Qt5Agg')
 
 
 def best_seller_check(df, sellers):

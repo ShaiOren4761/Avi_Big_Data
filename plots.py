@@ -1,7 +1,6 @@
-import matplotlib.pyplot as plt
 import pandas as pd
-import matplotlib
-matplotlib.use('Qt5Agg')  # Enables creating new graphs in debug (interactive)
+import matplotlib.pyplot as plt # Enables creating new graphs in debug (interactive)
+plt.switch_backend('Qt5Agg')
 
 
 def create_graphs(dfS, clmn):

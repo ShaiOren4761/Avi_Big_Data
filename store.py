@@ -5,9 +5,8 @@ import get_customer_db
 import read_shared_customers
 import get_trades_db
 import os
-import matplotlib
-matplotlib.use('Qt5Agg')
 import matplotlib.pyplot as plt
+plt.switch_backend('Qt5Agg')
 
 run_mode = 'Analysis'  #  'AfterSharing'  # 'Init'  #
 
@@ -41,7 +40,7 @@ if run_mode == 'Init':
         get_customer_db.gen_shared_customer(pkl80, shared_customer_name)
 
 elif run_mode == 'AfterSharing':
-    #read_shared_customers.concat_customers(main_path, shared_customer_path)
+    read_shared_customers.concat_customers(main_path, shared_customer_path)
     for store_ind in range(start_ind, numStoreS):
         store_name = f'{main_path}/store_{store_ind}'
         pkl80 = f"{store_name}/my_customer_80.pkl"
@@ -50,19 +49,5 @@ elif run_mode == 'AfterSharing':
 
 elif run_mode == 'Analysis':
     pass
-
-
-print()
-
-customer_dbs = []
-for i in range(numStoreS):
-    df = pd.read_pickle(f'{main_path}/store_{i}/my_customer.pkl')
-    customer_dbs.append(df)
-
-trades_dbs = []
-for i in range(numStoreS):
-    df = pd.read_pickle(f'{main_path}/store_{i}/my_trades.pkl')
-    trades_dbs.append(df)
-
 
 
