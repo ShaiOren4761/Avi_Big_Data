@@ -51,3 +51,21 @@ elif run_mode == 'Analysis':
     pass
 
 
+print()
+
+customer_dbs = []
+for i in range(numStoreS):
+    df = pd.read_pickle(f'{main_path}/store_{i}/my_customer.pkl')
+    customer_dbs.append(df)
+
+trades_dbs = []
+for i in range(numStoreS):
+    df = pd.read_pickle(f'{main_path}/store_{i}/my_trades.pkl')
+    trades_dbs.append(df)
+
+print()
+
+vc = customer_dbs[0]['age'].value_counts()
+ax = vc.head(20).plot.bar()
+for p in ax.patches:
+    ax.annotate(str(p.get_height()), (p.get_x() * 1.005, p.get_height() * 1.005))
