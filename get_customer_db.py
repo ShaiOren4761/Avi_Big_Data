@@ -3,7 +3,7 @@ import random
 import pandas as pd
 
 
-def customer_db():
+def customer_db():  # The customers from the last 10 years
     dic = {'name': [], 'tz': [], 'age': [], 'gender': [], 'credit_company': [], 'city': [], 'entry_date': []}
     for i in range(10000):
         dic['name'].append(names.get_full_name(random.choice(['male', 'female'])))
@@ -18,15 +18,18 @@ def customer_db():
     return pd.DataFrame.from_dict(dic)
 
 
-def gen_shared_customer():
+def gen_shared_customer(pkl80, shared_customer_name):
     df = customer_db()
 
-    data = df.head(int(len(df) * 0.2))
-    path = "shared_customers/shai_pickle20.pkl"
-    data.to_pickle(path)
+    data = df.head(int(len(df) * 0.2))  # shared customers
+    data.to_pickle(shared_customer_name)
 
-    data = df.tail(int(len(df) * 0.8))
-    path = "shared_customers/shai_pickle80.pkl"
-    data.to_pickle(path)
+    data = df.tail(int(len(df) * 0.8))  # my customers
+    data.to_pickle(pkl80)
 
-print()
+
+def gen_storeS():
+    NumOfStores = 10
+    for store in range(NumOfStores):
+        gen_shared_customer()
+

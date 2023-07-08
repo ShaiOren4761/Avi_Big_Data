@@ -1,5 +1,6 @@
 import plots
 import pandas as pd
+import os
 
 
 class TradesAnalysis:
@@ -13,7 +14,21 @@ class TradesAnalysis:
     def print_receipt(self):
         for trade_ind in range(len(self.trades)):
             trade = self.trades.iloc[trade_ind]
-            plots.print_receipt(trade_ind, trade, self.customers, self.sellers)
+
+    def print_receipt(self, trade_ind):
+        with open(f'my_supermarket\\receipts\\receipt{trade_ind}.txt', 'w') as f:
+            for k, v in self.trades.items():
+                if k == 'tz':
+                    bInd = self.customers[k] == v
+                    v = self.customers[bInd]['name'].values[0]
+                    k = 'customer name'
+                elif k == 'seller_id':
+                    v = self.sellers.iloc[v].values[0]
+                    k = 'seller name'
+                elif k == 'total_pay':
+                    v = f'{v} NIS'
+                f.write(f'{k}: {v}')
+                f.write('\n')
 
     @staticmethod
     def read_receipt(trade_ind):

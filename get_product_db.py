@@ -80,6 +80,6 @@ def get_product_db():
     return pd.concat([milk_df, snack_df, bakery_df])
 
 
-def gen():
+def gen(main_path):
     df = get_product_db()
-    df.to_pickle("my_supermarket\\product_db.pkl")
+    df.to_pickle(f'./{main_path}/product_db.pkl')

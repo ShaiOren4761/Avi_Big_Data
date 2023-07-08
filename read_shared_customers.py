@@ -6,9 +6,16 @@ import warnings
 warnings.filterwarnings('ignore')
 
 
-def concat_customers():
+def concat_80(pkl_80, main_path, store_name):
+    df = pd.read_pickle(pkl_80)
+    dfS = pd.read_pickle(f'{main_path}/shared_customer.pkl')
+    dfS = pd.concat([dfS, df], ignore_index=True)
+    dfS.to_pickle(f'{store_name}/my_customer.pkl')
+
+
+def concat_customers(main_path, shared_customer_path):
     # Placing .pkl files into a list
-    shared_list_files = glob.glob('shared_customers/*.pkl')
+    shared_list_files = glob.glob(f'{shared_customer_path}/*.pkl')
 
     # .pkl extraction as DataFrame to a list
     shared_list_DataFrames = [pd.read_pickle(i) for i in shared_list_files]
@@ -39,6 +46,7 @@ def concat_customers():
     # credit_company fix
     dfS['credit_company'] = dfS['credit_company'].apply(lambda x: x.lower())
     dfS['credit_company'].replace(['americanexpress', 'american express'], 'amex', inplace=True)
+
     # noinspection SpellCheckingInspection
     dfS['credit_company'].replace(['dieners'], 'diners', inplace=True)
 
@@ -46,22 +54,6 @@ def concat_customers():
     dfS['entry_date'] = pd.to_datetime(dfS['entry_date'])
     dfS['entry_date'] = dfS['entry_date'].apply(lambda x: (x.month, x.year))
 
-    # plot bar
-    # from plots import create_graphs
-    # clmn = "age"
-    # plot = create_graphs(dfS, clmn)
-    dfS.to_pickle('my_supermarket\\my_customer')
-
-
-"""
-# DO NOT RUN PKL DB FILE CREATION - OVERRIDES EXISTING!!!
-"""
-# creation of a customer DB, division into two separate files, head 20% and tail 80%
-# The two parts are made into files under shared_customers with the fitting % of split
-# gen_shared_customer(dfS)
-
-"""
-# DO NOT RUN PKL DB FILE CREATION - OVERRIDES EXISTING!!!
-"""
+    dfS.to_pickle(f'{main_path}/shared_customer.pkl')
 
 

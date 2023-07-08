@@ -16,18 +16,5 @@ def create_graphs(dfS, clmn):
     plt.title(f"hist of {clmn}")
     plt.show()
 
-    def print_receipt(trade_ind, trades, customers, sellers):
-        with open(f'my_supermarket\\receipts\\receipt{trade_ind}.txt', 'w') as f:
-            for k, v in trades.items():
-                if k == 'tz':
-                    bInd = customers[k] == v
-                    v = customers[bInd]['name'].values[0]
-                    k = 'customer name'
-                elif k == 'seller_id':
-                    v = sellers.iloc[v].values[0]
-                    k = 'seller name'
-                elif k == 'total_pay':
-                    v = f'{v} NIS'
-                f.write(f'{k}: {v}')
-                f.write('\n')
+
 

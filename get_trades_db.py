@@ -3,10 +3,6 @@ import pandas as pd
 import datetime
 from faker import Faker
 
-customers = pd.read_pickle("my_supermarket\\my_customer.pkl")
-products = pd.read_pickle("my_supermarket\\product_db.pkl")
-sellers = pd.read_pickle("my_supermarket\\my_sellers.pkl")
-
 
 def create_trade_date():
     fake = Faker()
@@ -15,7 +11,14 @@ def create_trade_date():
     return date
 
 
-def gen_trades_db():
+def gen_trades_db(store_name, main_path):
+    try:
+        customers = pd.read_pickle(f"{store_name}/my_customer.pkl")
+        products = pd.read_pickle(f"{main_path}/product_db.pkl")
+        sellers = pd.read_pickle(f"{store_name}/my_sellers.pkl")
+    except:
+        raise Exception("get_trades_db: NO DBS DETECTED, NO TRADES DB CREATED!")
+
     dic = {'tz': [], 'productS': [], 'date': [], 'payment_type': [],
            'total_pay': [], 'seller_id': []}
     for _ in range(random.randint(1500, 1700)):
@@ -35,8 +38,6 @@ def gen_trades_db():
         dic['total_pay'].append(sum(shopping_list['price']))
         dic['seller_id'].append(random.randrange(len(sellers)))
 
-    return pd.DataFrame.from_dict(dic)
+    trades = pd.DataFrame.from_dict(dic)
+    trades.to_pickle(f"./{store_name}/my_trades.pkl")
 
-# generation of a trades DB, OVERRIDES existing one in "my_supermarket"
-# trades = trades_db()
-# trades.to_pickle("my_supermarket\\my_trades.pkl")
