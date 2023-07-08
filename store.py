@@ -1,15 +1,15 @@
 import pandas as pd
-import trades_analysis
 import get_seller_db
 import get_product_db
 import get_customer_db
 import read_shared_customers
 import get_trades_db
 import os
+import matplotlib
+matplotlib.use('Qt5Agg')
 import matplotlib.pyplot as plt
-plt.switch_backend('Qt5Agg')
 
-run_mode = 'AfterSharing'  # 'Init'  # 'Analysis' #
+run_mode = 'Analysis'  #  'AfterSharing'  # 'Init'  #
 
 if not os.path.isdir('stores'):
     os.mkdir('stores')
@@ -54,6 +54,15 @@ elif run_mode == 'Analysis':
 
 print()
 
+customer_dbs = []
+for i in range(numStoreS):
+    df = pd.read_pickle(f'{main_path}/store_{i}/my_customer.pkl')
+    customer_dbs.append(df)
+
+trades_dbs = []
+for i in range(numStoreS):
+    df = pd.read_pickle(f'{main_path}/store_{i}/my_trades.pkl')
+    trades_dbs.append(df)
 
 
 

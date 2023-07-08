@@ -1,6 +1,8 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import trades_analysis
+import matplotlib
+matplotlib.use('Qt5Agg')
 
 
 def best_seller_check(df, sellers):
@@ -25,7 +27,6 @@ def best_seller_check(df, sellers):
 
 
 def gen():
-    plt.switch_backend('Qt5Agg')
 
     trades = pd.read_pickle("my_supermarket/trades_db.pkl")
     ###############
