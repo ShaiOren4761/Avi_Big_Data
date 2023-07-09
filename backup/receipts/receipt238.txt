@@ -1,9 +1,0 @@
-customer_name: Lori Noland
-customer name: Lori Noland
-productS:            id  amount  price      name
-0  5475816412       6  42.00  eggs_947
-1  1694118809       7  96.11  Apropo43
-date: 2023-04-12
-payment_type: 0
-total_pay: 138.11 NIS
-seller name: Edna Collins

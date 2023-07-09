@@ -1,9 +1,0 @@
-customer_name: Gladys Bass
-customer name: Gladys Bass
-productS:            id  amount  price        name
-0  4647988691       1  22.00  butter_948
-1  8103336581       9  69.21     Bisli85
-date: 2023-05-05
-payment_type: 1
-total_pay: 91.21000000000001 NIS
-seller name: Karen Salazar

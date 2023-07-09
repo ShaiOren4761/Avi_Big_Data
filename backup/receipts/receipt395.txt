@@ -1,8 +1,0 @@
-customer_name: Christy Hardesty
-customer name: Christy Hardesty
-productS:           id  amount  price        name
-0  286245913       6  26.88  Pringles78
-date: 2023-04-28
-payment_type: 1
-total_pay: 26.880000000000003 NIS
-seller name: Harold Mitchell

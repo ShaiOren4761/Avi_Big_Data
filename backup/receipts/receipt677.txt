@@ -1,9 +1,0 @@
-customer_name: Henry Clark
-customer name: Henry Clark
-productS:            id  amount  price           name
-0  1319476675       4  112.0  goat_milk_434
-1  2494120653       4   48.0      cream_201
-date: 2023-05-02
-payment_type: 1
-total_pay: 160.0 NIS
-seller name: Latasha Mace

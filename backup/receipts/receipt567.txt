@@ -1,8 +1,0 @@
-customer_name: Cory Santoyo
-customer name: Cory Santoyo
-productS:            id  amount  price      name
-0  5625876948       4   24.0  dunats79
-date: 2023-04-08
-payment_type: 0
-total_pay: 24.0 NIS
-seller name: Margaret Mclaughlin

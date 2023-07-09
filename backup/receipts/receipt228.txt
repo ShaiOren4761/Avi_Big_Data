@@ -1,8 +1,0 @@
-customer_name: Jean Johns
-customer name: Jean Johns
-productS:            id  amount  price        name
-0  3152564482       8  144.0  baklawa100
-date: 2023-02-24
-payment_type: 1
-total_pay: 144.0 NIS
-seller name: Karen Salazar

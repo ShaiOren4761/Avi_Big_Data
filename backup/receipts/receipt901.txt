@@ -1,8 +1,0 @@
-customer_name: Gregory Kelley
-customer name: Gregory Kelley
-productS:            id  amount  price     name
-0  2213725065       5   65.0  bread94
-date: 2023-04-06
-payment_type: 3
-total_pay: 65.0 NIS
-seller name: Jennifer Roberts

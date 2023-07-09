@@ -1,8 +1,0 @@
-customer_name: Bret Robins
-customer name: Bret Robins
-productS:            id  amount  price    name
-0  2107552123       3   21.6  Kefli2
-date: 2023-02-24
-payment_type: 2
-total_pay: 21.6 NIS
-seller name: Karen Salazar

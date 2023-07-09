@@ -1,9 +1,0 @@
-customer_name: Patrick Burrows
-customer name: Patrick Burrows
-productS:            id  amount  price             name
-0  8270007587       2  46.00  sweet_cream_974
-1  6096150313       5   7.25         Kefli105
-date: 2023-03-24
-payment_type: 1
-total_pay: 53.25 NIS
-seller name: Hobert Wimberly

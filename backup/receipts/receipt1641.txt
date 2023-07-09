@@ -1,9 +1,0 @@
-customer_name: Aaron Abbott
-customer name: Aaron Abbott
-productS:            id  amount  price     name
-0  7374620838       2   40.0  pizza17
-1  6045791910       8   40.0   ziva46
-date: 2023-04-06
-payment_type: 0
-total_pay: 80.0 NIS
-seller name: Renee Brammer

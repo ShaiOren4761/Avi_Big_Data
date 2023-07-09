@@ -1,8 +1,0 @@
-customer_name: Denise Null
-customer name: Denise Null
-productS:           id  amount  price       name
-0  364214406       1  11.27  Pringles6
-date: 2023-02-17
-payment_type: 0
-total_pay: 11.27 NIS
-seller name: Roberta Lewis

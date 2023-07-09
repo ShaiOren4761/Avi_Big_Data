@@ -1,8 +1,0 @@
-customer_name: Ruby Langley
-customer name: Ruby Langley
-productS:            id  amount  price     name
-0  5477096021       8  38.88  Bisli73
-date: 2023-04-25
-payment_type: 1
-total_pay: 38.88 NIS
-seller name: Roberta Lewis

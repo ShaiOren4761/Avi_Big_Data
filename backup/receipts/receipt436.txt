@@ -1,9 +1,0 @@
-customer_name: Irene Hawthorne
-customer name: Irene Hawthorne
-productS:            id  amount  price     name
-0  9259431829       9  110.7  Chips33
-1  9663957536      10   38.7   Bisli6
-date: 2023-02-02
-payment_type: 2
-total_pay: 149.4 NIS
-seller name: Roberta Lewis

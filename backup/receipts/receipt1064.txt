@@ -1,9 +1,0 @@
-customer_name: Imogene Field
-customer name: Imogene Field
-productS:            id  amount  price      name
-0   171528809       5  23.00   Bisli54
-1  2278399226       6  12.48  Chitos94
-date: 2023-04-23
-payment_type: 1
-total_pay: 35.480000000000004 NIS
-seller name: Marie Natonabah

@@ -1,9 +1,0 @@
-customer_name: Vera Kellogg
-customer name: Vera Kellogg
-productS:            id  amount  price      name
-0  8782329935       8   24.0   Kefli34
-1  5472565073       1   10.0  dunats94
-date: 2023-01-19
-payment_type: 0
-total_pay: 34.0 NIS
-seller name: Edna Collins

@@ -1,9 +1,0 @@
-customer_name: Ryan Rhodes
-customer name: Ryan Rhodes
-productS:            id  amount  price      name
-0  9489218276       8  272.0  coco_115
-1  7374620838       1   20.0   pizza17
-date: 2023-01-17
-payment_type: 1
-total_pay: 292.0 NIS
-seller name: Calvin Manahan

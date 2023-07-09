@@ -1,9 +1,0 @@
-customer_name: Dennis Melendez
-customer name: Dennis Melendez
-productS:            id  amount  price               name
-0  3786025068       5   90.0             pita12
-1  5947601958       2   64.0  melted_cheese_620
-date: 2023-03-26
-payment_type: 2
-total_pay: 154.0 NIS
-seller name: Calvin Manahan

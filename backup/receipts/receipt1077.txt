@@ -1,8 +1,0 @@
-customer_name: Joseph Malkani
-customer name: Joseph Malkani
-productS:            id  amount  price  name
-0  4470985252       6   66.0  pie9
-date: 2023-01-10
-payment_type: 3
-total_pay: 66.0 NIS
-seller name: Hobert Wimberly

@@ -1,9 +1,0 @@
-customer_name: Linda Granado
-customer name: Linda Granado
-productS:            id  amount  price      name
-0  1512994245       6  102.0  bread102
-1  4470985252       5   55.0      pie9
-date: 2023-04-21
-payment_type: 2
-total_pay: 157.0 NIS
-seller name: Gary Hudson

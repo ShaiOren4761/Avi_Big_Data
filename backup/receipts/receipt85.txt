@@ -1,9 +1,0 @@
-customer_name: Gloria Mummert
-customer name: Gloria Mummert
-productS:            id  amount  price               name
-0  6089881891      10  80.00  yellow_cheese_860
-1  3110870276       4  16.64             Bamba5
-date: 2023-01-27
-payment_type: 1
-total_pay: 96.64 NIS
-seller name: Hobert Wimberly

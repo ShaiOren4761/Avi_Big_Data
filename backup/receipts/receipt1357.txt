@@ -1,9 +1,0 @@
-customer_name: Roger Albaladejo
-customer name: Roger Albaladejo
-productS:            id  amount  price      name
-0  8082961165       4   32.0   eggs_53
-1  2107595825      10  118.9  Apropo55
-date: 2023-02-20
-payment_type: 3
-total_pay: 150.9 NIS
-seller name: Margaret Mclaughlin

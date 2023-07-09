@@ -1,8 +1,0 @@
-customer_name: Katlyn Colston
-customer name: Katlyn Colston
-productS:            id  amount  price    name
-0  7195640975       6   78.0  ziva47
-date: 2023-02-07
-payment_type: 1
-total_pay: 78.0 NIS
-seller name: Donald Dawson

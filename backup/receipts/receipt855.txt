@@ -1,8 +1,0 @@
-customer_name: Guillermo Lineberger
-customer name: Guillermo Lineberger
-productS:            id  amount  price          name
-0  3716667614      10  320.0  goat_milk_69
-date: 2023-03-22
-payment_type: 2
-total_pay: 320.0 NIS
-seller name: Kevin Goldberg

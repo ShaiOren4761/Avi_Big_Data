@@ -1,9 +1,0 @@
-customer_name: Barbara Burley
-customer name: Barbara Burley
-productS:            id  amount   price            name
-0  3865841549       4  104.00  sour_cream_554
-1  3669870753       5   42.55      Pringles42
-date: 2023-03-09
-payment_type: 0
-total_pay: 146.55 NIS
-seller name: Marie Natonabah

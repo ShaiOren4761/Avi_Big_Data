@@ -1,9 +1,0 @@
-customer_name: Sharon Williams
-customer name: Sharon Williams
-productS:            id  amount  price        name
-0  2268867007       4  48.00  danone_836
-1  5656993571       8  44.72    Kefli100
-date: 2023-03-22
-payment_type: 3
-total_pay: 92.72 NIS
-seller name: Calvin Manahan

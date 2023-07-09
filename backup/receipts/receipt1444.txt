@@ -1,8 +1,0 @@
-customer_name: Richard Tomlinson
-customer name: Richard Tomlinson
-productS:           id  amount  price       name
-0  826694978      10  149.8  Doritos95
-date: 2023-04-02
-payment_type: 1
-total_pay: 149.8 NIS
-seller name: Maria Barnett

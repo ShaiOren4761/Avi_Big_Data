@@ -1,9 +1,0 @@
-customer_name: Marvin Williams
-customer name: Marvin Williams
-productS:            id  amount  price       name
-0  8719685930       7  97.79  Popcorn56
-1  3791691625       5  35.00     cake22
-date: 2023-01-14
-payment_type: 1
-total_pay: 132.79000000000002 NIS
-seller name: Margaret Mclaughlin

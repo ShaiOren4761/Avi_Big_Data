@@ -1,8 +1,0 @@
-customer_name: Donna Scholl
-customer name: Donna Scholl
-productS:            id  amount  price             name
-0  6828481114      10  150.0  almond_milk_334
-date: 2023-02-12
-payment_type: 1
-total_pay: 150.0 NIS
-seller name: Donald Dawson

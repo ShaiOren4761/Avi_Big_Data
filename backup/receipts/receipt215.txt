@@ -1,8 +1,0 @@
-customer_name: Dorothy Grisham
-customer name: Dorothy Grisham
-productS:            id  amount  price     name
-0  7455706051       5   35.0  pizza30
-date: 2023-03-14
-payment_type: 0
-total_pay: 35.0 NIS
-seller name: James Briggs

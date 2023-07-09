@@ -1,9 +1,0 @@
-customer_name: Brent Fabre
-customer name: Brent Fabre
-productS:            id  amount  price     name
-0  9462740449      10   17.7  Chitos0
-1  8454787915       5   95.0  pita119
-date: 2023-03-12
-payment_type: 2
-total_pay: 112.7 NIS
-seller name: Roberta Lewis

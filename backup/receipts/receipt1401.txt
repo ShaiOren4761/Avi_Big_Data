@@ -1,8 +1,0 @@
-customer_name: Sylvia Eason
-customer name: Sylvia Eason
-productS:            id  amount  price           name
-0  4937476280       5  125.0  goat_milk_517
-date: 2023-01-11
-payment_type: 3
-total_pay: 125.0 NIS
-seller name: Calvin Manahan

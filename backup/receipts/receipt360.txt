@@ -1,9 +1,0 @@
-customer_name: Stephanie Morgan
-customer name: Stephanie Morgan
-productS:            id  amount  price       name
-0  2942599073       7   49.0  cookie126
-1  2304768886       1   14.0  baklawa56
-date: 2023-01-03
-payment_type: 1
-total_pay: 63.0 NIS
-seller name: Marie Natonabah

@@ -1,8 +1,0 @@
-customer_name: Barbara Smothers
-customer name: Barbara Smothers
-productS:            id  amount  price       name
-0  1170721559       3  24.03  Doritos77
-date: 2023-05-25
-payment_type: 3
-total_pay: 24.03 NIS
-seller name: Roberta Lewis

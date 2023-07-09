@@ -1,9 +1,0 @@
-customer_name: Edris Tammaro
-customer name: Edris Tammaro
-productS:            id  amount  price      name
-0  3551239292       1   15.0  yolo_532
-1  9773630221      10   45.8  Apropo83
-date: 2023-02-12
-payment_type: 1
-total_pay: 60.8 NIS
-seller name: James Briggs

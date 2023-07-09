@@ -1,9 +1,0 @@
-customer_name: Mary Brooks
-customer name: Mary Brooks
-productS:            id  amount  price        name
-0  3412469005       7  90.72  Pringles40
-1  1084042106       9  99.00      pie116
-date: 2023-01-10
-payment_type: 0
-total_pay: 189.72 NIS
-seller name: Donald Dawson

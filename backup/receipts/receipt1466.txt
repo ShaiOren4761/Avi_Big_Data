@@ -1,8 +1,0 @@
-customer_name: Joseph Mcclurkin
-customer name: Joseph Mcclurkin
-productS:            id  amount  price      name
-0  4003132469       5  170.0  milk_669
-date: 2023-04-29
-payment_type: 2
-total_pay: 170.0 NIS
-seller name: Maria Barnett

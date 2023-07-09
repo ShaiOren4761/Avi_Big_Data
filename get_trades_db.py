@@ -22,7 +22,7 @@ def gen_trades_db(store_name, main_path):
     dic = {'tz': [], 'productS': [], 'date': [], 'payment_type': [],
            'total_pay': [], 'seller_id': []}
     for _ in range(random.randint(1500, 1700)):
-        dic['tz'].append(customers.iloc[random.randrange(len(products))]['tz'])
+        dic['tz'].append(customers.iloc[random.randrange(len(customers))]['tz'])
 
         shopping_list = []
         for _ in range(random.randint(1, 20)):  # Shopping list generation

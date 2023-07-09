@@ -45,3 +45,19 @@ n = len(arr)
 print("Minimum difference is",
       findMinDiff(arr, n, m))
 # This code is contributed by Smitha
+
+
+# # Value_counts of each store, made in a single df then presented in bar graphs
+# vcS = []
+# for custDB in customer_dbs:
+#     vcS.append(custDB['age'].value_counts())
+#
+# graph_dict = {'stores': []}
+# for i, vc in enumerate(vcS):
+#     graph_dict['stores'].append(vcS[i].iloc[69])
+# df = pd.DataFrame.from_dict(graph_dict)
+# ax = df.plot.bar()
+# for p in ax.patches:
+#     ax.annotate(str(p.get_height()), (p.get_x() * 1.005, p.get_height() * 1.005))
+
+

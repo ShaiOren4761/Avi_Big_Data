@@ -1,9 +1,0 @@
-customer_name: Tiffany Iverson
-customer name: Tiffany Iverson
-productS:            id  amount  price      name
-0  7254242110       4   28.0  eggs_263
-1  1872503848       1    9.0   ziva104
-date: 2023-05-18
-payment_type: 1
-total_pay: 37.0 NIS
-seller name: Ann Hutchens

@@ -1,9 +1,0 @@
-customer_name: Jessica Lutz
-customer name: Jessica Lutz
-productS:            id  amount  price      name
-0  6756279248       7   70.0   coco_77
-1  7475540137      10  145.3  Apropo65
-date: 2023-05-20
-payment_type: 3
-total_pay: 215.29999999999998 NIS
-seller name: Jennifer Roberts

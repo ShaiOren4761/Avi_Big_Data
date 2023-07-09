@@ -1,9 +1,0 @@
-customer_name: Bryan Sanders
-customer name: Bryan Sanders
-productS:            id  amount  price      name
-0  5228617410       4  21.36   Bamba54
-1  9248119657       4   7.28  Apropo59
-date: 2023-04-17
-payment_type: 1
-total_pay: 28.64 NIS
-seller name: Debra Pearson

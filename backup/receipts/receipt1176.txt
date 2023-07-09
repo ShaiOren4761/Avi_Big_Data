@@ -1,8 +1,0 @@
-customer_name: Bernice Rodriguez
-customer name: Bernice Rodriguez
-productS:            id  amount  price       name
-0  7235819554       5  135.0  carlo_667
-date: 2023-03-01
-payment_type: 0
-total_pay: 135.0 NIS
-seller name: Roberta Lewis

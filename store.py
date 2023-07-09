@@ -8,7 +8,7 @@ import os
 import matplotlib.pyplot as plt
 plt.switch_backend('Qt5Agg')
 
-run_mode = 'Analysis'  #  'AfterSharing'  # 'Init'  #
+run_mode = 'Analysis'  # 'AfterSharing'  #'Init'  #
 
 if not os.path.isdir('stores'):
     os.mkdir('stores')
@@ -51,7 +51,8 @@ elif run_mode == 'Analysis':
     pass
 
 
-print() # סביבה עובדת = תמחק את הקוד פה למטה זה עשיתי לתרגול
+
+print()
 
 customer_dbs = []
 for i in range(numStoreS):
@@ -63,18 +64,33 @@ for i in range(numStoreS):
     df = pd.read_pickle(f'{main_path}/store_{i}/my_trades.pkl')
     trades_dbs.append(df)
 
+customer_no20_dbs = []
+for i in range(numStoreS):
+    df = pd.read_pickle(f'{main_path}/store_{i}/my_customer_80.pkl')
+    customer_no20_dbs.append(df)
+
+products_db = pd.read_pickle('stores/product_db.pkl')
 print()
 
-vc = customer_dbs[0]['age'].value_counts()
-ax = vc.head(20).plot.bar()
-for p in ax.patches:
-    ax.annotate(str(p.get_height()), (p.get_x() * 1.005, p.get_height() * 1.005))
 
-vcS = []
-for custDB in customer_dbs:
-    vcS.append(custDB['age'].value_counts())
+for i in range(10):
+    plt.subplot(2, 5, i+1)
+    ax = customer_dbs[i]['age'].plot.hist(ec='black')
+    ax = customer_no20_dbs[i]['age'].plot.hist(ec='black')
+    plt.title(f'store {i}')
+plt.suptitle('Stores age histogram')
 
-graph_dict = {}
-for i, vc in enumerate(vcS):
-    graph_dict[f'{i}'] = [vcS[i].iloc[69]]
-df = pd.DataFrame.from_dict(graph_dict)
+# How many customers bought snacks
+# What was their age at purchase?
+# Anyone under 18, show the seller and the amount of sales he made
+
+# Creation of a pure snack DataFrame
+snack_list = ["Bamba", "Bisli", "Doritos", "Chitos", "Apropo", "Chips", "Pringles", "Kefli", "Popcorn"]
+bInd = products_db['name'].apply(lambda x: any([snack in x for snack in snack_list]))
+snacks_df = products_db[bInd]
+
+trades_dbs[0].iterrows
+for index, row in trades_dbs[0].iterrows():
+    if row['productS'].apply(lambda x: ):
+        print(f'{row["seller_id"]} sold snacks!')
+

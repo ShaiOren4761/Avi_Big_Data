@@ -1,8 +1,0 @@
-customer_name: Morgan Clark
-customer name: Morgan Clark
-productS:            id  amount  price      name
-0  3551239292       3   45.0  yolo_532
-date: 2023-02-19
-payment_type: 1
-total_pay: 45.0 NIS
-seller name: Hobert Wimberly

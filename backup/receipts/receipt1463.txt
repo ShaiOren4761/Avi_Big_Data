@@ -1,9 +1,0 @@
-customer_name: Lorenzo Henderson
-customer name: Lorenzo Henderson
-productS:            id  amount  price     name
-0  8528658726       1   16.0  ziva125
-1  5410447157       6   90.0   pita20
-date: 2023-05-18
-payment_type: 0
-total_pay: 106.0 NIS
-seller name: Margaret Mclaughlin

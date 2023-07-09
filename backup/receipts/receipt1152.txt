@@ -1,9 +1,0 @@
-customer_name: Christine Alfandre
-customer name: Christine Alfandre
-productS:            id  amount  price             name
-0  2001563434       6   42.0           ziva69
-1  2086444758       5   30.0  sweet_cream_272
-date: 2023-05-09
-payment_type: 1
-total_pay: 72.0 NIS
-seller name: Ann Hutchens

@@ -1,8 +1,0 @@
-customer_name: Linda Bryer
-customer name: Linda Bryer
-productS:            id  amount  price      name
-0  4031141123       7   70.0  milk_154
-date: 2023-04-03
-payment_type: 3
-total_pay: 70.0 NIS
-seller name: Kevin Goldberg

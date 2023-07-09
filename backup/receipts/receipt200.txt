@@ -1,9 +1,0 @@
-customer_name: Frank Woods
-customer name: Frank Woods
-productS:            id  amount  price              name
-0  3280736401       6   90.0         burekas36
-1  2961065055       9  243.0  swiss_cheese_168
-date: 2023-03-26
-payment_type: 2
-total_pay: 333.0 NIS
-seller name: Roberta Lewis

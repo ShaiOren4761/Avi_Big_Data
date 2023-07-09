@@ -1,9 +1,0 @@
-customer_name: Jack Bantz
-customer name: Jack Bantz
-productS:            id  amount  price      name
-0  5460603855       6   90.0  lahuh115
-1  1759484236       8  144.0   bread17
-date: 2023-01-29
-payment_type: 2
-total_pay: 234.0 NIS
-seller name: Renee Brammer

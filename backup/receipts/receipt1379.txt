@@ -1,8 +1,0 @@
-customer_name: Danny Grant
-customer name: Danny Grant
-productS:            id  amount  price      name
-0  1787738210      10   94.6  Chitos95
-date: 2023-03-07
-payment_type: 0
-total_pay: 94.60000000000001 NIS
-seller name: Roberta Lewis

@@ -1,9 +1,0 @@
-customer_name: Gladys Cook
-customer name: Gladys Cook
-productS:            id  amount  price     name
-0  5115958410       1   7.15  Chips72
-1  1641228787       4  28.00   hala36
-date: 2023-04-11
-payment_type: 2
-total_pay: 35.15 NIS
-seller name: Kevin Goldberg

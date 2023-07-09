@@ -1,8 +1,0 @@
-customer_name: Jessica Lovato
-customer name: Jessica Lovato
-productS:           id  amount  price     name
-0  483525463       1  11.67  Chips68
-date: 2023-03-24
-payment_type: 3
-total_pay: 11.67 NIS
-seller name: Lillian Dolan

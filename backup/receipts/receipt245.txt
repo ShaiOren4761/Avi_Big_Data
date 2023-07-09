@@ -1,8 +1,0 @@
-customer_name: Kathryn Carr
-customer name: Kathryn Carr
-productS:            id  amount  price     name
-0  1759409367       7  10.22  Bisli46
-date: 2023-05-27
-payment_type: 3
-total_pay: 10.219999999999999 NIS
-seller name: Edna Collins

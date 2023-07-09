@@ -1,8 +1,0 @@
-customer_name: Sammie Douglas
-customer name: Sammie Douglas
-productS:            id  amount  price      name
-0  8263940839       6  35.94  Chitos30
-date: 2023-01-24
-payment_type: 3
-total_pay: 35.94 NIS
-seller name: Harold Mitchell

@@ -1,9 +1,0 @@
-customer_name: Tony Jones
-customer name: Tony Jones
-productS:            id  amount  price       name
-0  8524995739       4  60.00  milky_740
-1   584949926       6  69.78  Doritos49
-date: 2023-03-02
-payment_type: 0
-total_pay: 129.78 NIS
-seller name: Donald Dawson

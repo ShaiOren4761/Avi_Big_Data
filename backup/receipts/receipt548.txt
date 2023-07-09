@@ -1,9 +1,0 @@
-customer_name: Lewis Concepcion
-customer name: Lewis Concepcion
-productS:            id  amount  price                 name
-0  8076538622       5   70.0              pita118
-1  1465135792       5  100.0  Napoleon_cheese_151
-date: 2023-03-08
-payment_type: 1
-total_pay: 170.0 NIS
-seller name: Debra Pearson

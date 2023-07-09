@@ -1,9 +1,0 @@
-customer_name: Antonia England
-customer name: Antonia England
-productS:            id  amount  price      name
-0  7431426883       5  105.0  milk_984
-1  4382270329       4   60.0    cake80
-date: 2023-05-24
-payment_type: 1
-total_pay: 165.0 NIS
-seller name: Roberta Lewis

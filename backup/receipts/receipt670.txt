@@ -1,8 +1,0 @@
-customer_name: Quentin Medrano
-customer name: Quentin Medrano
-productS:            id  amount  price       name
-0  5000405727       5   85.0  prezel110
-date: 2023-04-04
-payment_type: 3
-total_pay: 85.0 NIS
-seller name: Maria Barnett

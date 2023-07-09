@@ -1,8 +1,0 @@
-customer_name: Michelle Lucey
-customer name: Michelle Lucey
-productS:            id  amount  price       name
-0  6186431336       7  210.0  cream_943
-date: 2023-05-02
-payment_type: 2
-total_pay: 210.0 NIS
-seller name: Latasha Mace

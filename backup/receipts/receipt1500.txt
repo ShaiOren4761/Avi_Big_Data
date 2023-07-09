@@ -1,8 +1,0 @@
-customer_name: Maryanne Hood
-customer name: Maryanne Hood
-productS:            id  amount  price              name
-0  5205181698       8  200.0  swiss_cheese_464
-date: 2023-03-24
-payment_type: 3
-total_pay: 200.0 NIS
-seller name: Gary Hudson

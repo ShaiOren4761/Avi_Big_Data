@@ -5,7 +5,7 @@ import pandas as pd
 
 def customer_db():  # The customers from the last 10 years
     dic = {'name': [], 'tz': [], 'age': [], 'gender': [], 'credit_company': [], 'city': [], 'entry_date': []}
-    for i in range(10000):
+    for i in range(100):
         dic['name'].append(names.get_full_name(random.choice(['male', 'female'])))
         dic['tz'].append(random.randint(100000000, 999999999))
         dic['age'].append(random.randint(10, 99))
