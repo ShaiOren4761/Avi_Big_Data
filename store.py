@@ -51,7 +51,7 @@ elif run_mode == 'Analysis':
     pass
 
 
-print()
+print() # סביבה עובדת = תמחק את הקוד פה למטה זה עשיתי לתרגול
 
 customer_dbs = []
 for i in range(numStoreS):
@@ -69,3 +69,12 @@ vc = customer_dbs[0]['age'].value_counts()
 ax = vc.head(20).plot.bar()
 for p in ax.patches:
     ax.annotate(str(p.get_height()), (p.get_x() * 1.005, p.get_height() * 1.005))
+
+vcS = []
+for custDB in customer_dbs:
+    vcS.append(custDB['age'].value_counts())
+
+graph_dict = {}
+for i, vc in enumerate(vcS):
+    graph_dict[f'{i}'] = [vcS[i].iloc[69]]
+df = pd.DataFrame.from_dict(graph_dict)
