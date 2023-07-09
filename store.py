@@ -8,7 +8,7 @@ import os
 import matplotlib.pyplot as plt
 plt.switch_backend('Qt5Agg')
 
-run_mode = 'Analysis'  # 'AfterSharing'  #'Init'  #
+run_mode = 'AfterSharing'  # 'Analysis'  # 'Init' #
 
 if not os.path.isdir('stores'):
     os.mkdir('stores')
@@ -46,6 +46,7 @@ elif run_mode == 'AfterSharing':
         pkl80 = f"{store_name}/my_customer_80.pkl"
         read_shared_customers.concat_80(pkl80, main_path, store_name)
         get_trades_db.gen_trades_db(store_name, main_path)
+        print(f"store {store_ind} db's completed")
 
 elif run_mode == 'Analysis':
     pass
@@ -91,6 +92,6 @@ snacks_df = products_db[bInd]
 
 trades_dbs[0].iterrows
 for index, row in trades_dbs[0].iterrows():
-    if row['productS'].apply(lambda x: ):
+    if row['productS'].apply(lambda x: x):
         print(f'{row["seller_id"]} sold snacks!')
 
