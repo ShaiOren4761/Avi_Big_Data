@@ -1,4 +1,5 @@
 import pandas as pd
+import analysis
 import get_seller_db
 import get_product_db
 import get_customer_db
@@ -6,9 +7,12 @@ import read_shared_customers
 import get_trades_db
 import os
 import matplotlib.pyplot as plt
+
+from dbs import trades_db
+
 plt.switch_backend('Qt5Agg')
 
-run_mode = 'AfterSharing'  # 'Analysis'  # 'Init' #
+run_mode = 'Analysis'  # 'AfterSharing'  #  'Init' #
 
 if not os.path.isdir('stores'):
     os.mkdir('stores')
@@ -70,28 +74,18 @@ for i in range(numStoreS):
     df = pd.read_pickle(f'{main_path}/store_{i}/my_customer_80.pkl')
     customer_no20_dbs.append(df)
 
+sellers_dbs = []
+for i in range(numStoreS):
+    df = pd.read_pickle(f'{main_path}/store_{i}/my_sellers.pkl')
+    sellers_dbs.append(df)
+
 products_db = pd.read_pickle('stores/product_db.pkl')
+
+#for eachs store, bar graph for every seller how much money made
+
+
+# for i in range(numStoreS):
+#     plt.subplot(2, 5, i + 1)
+#     analysis.store_best_seller(trades_dbs[i], sellers_dbs[i], i)
+
 print()
-
-
-for i in range(10):
-    plt.subplot(2, 5, i+1)
-    ax = customer_dbs[i]['age'].plot.hist(ec='black')
-    ax = customer_no20_dbs[i]['age'].plot.hist(ec='black')
-    plt.title(f'store {i}')
-plt.suptitle('Stores age histogram')
-
-# How many customers bought snacks
-# What was their age at purchase?
-# Anyone under 18, show the seller and the amount of sales he made
-
-# Creation of a pure snack DataFrame
-snack_list = ["Bamba", "Bisli", "Doritos", "Chitos", "Apropo", "Chips", "Pringles", "Kefli", "Popcorn"]
-bInd = products_db['name'].apply(lambda x: any([snack in x for snack in snack_list]))
-snacks_df = products_db[bInd]
-
-trades_dbs[0].iterrows
-for index, row in trades_dbs[0].iterrows():
-    if row['productS'].apply(lambda x: x):
-        print(f'{row["seller_id"]} sold snacks!')
-
