@@ -12,12 +12,12 @@ from dbs import trades_db
 
 plt.switch_backend('Qt5Agg')
 
-run_mode = 'Analysis'  # 'AfterSharing'  #  'Init' #
+run_mode = 'Analysis'  # 'AfterSharing'  # 'Init' #
 
 if not os.path.isdir('stores'):
     os.mkdir('stores')
 
-start_ind, numStoreS = 0, 10
+start_ind, numStoreS = 0, 23
 
 main_path = 'stores'
 shared_customer_path = f'{main_path}/shared_customer'
@@ -53,33 +53,20 @@ elif run_mode == 'AfterSharing':
         print(f"store {store_ind} db's completed")
 
 elif run_mode == 'Analysis':
-    pass
+    sellers_dbs = []
+    customer_dbs = []
+    trades_dbs = []
+    customer_no20_dbs = []
+
+    for i in range(numStoreS):
+        customer_dbs.append(pd.read_pickle(f'{main_path}/store_{i}/my_customer.pkl'))
+        trades_dbs.append(pd.read_pickle(f'{main_path}/store_{i}/my_trades.pkl'))
+        customer_no20_dbs.append(pd.read_pickle(f'{main_path}/store_{i}/my_customer_80.pkl'))
+        sellers_dbs.append(pd.read_pickle(f'{main_path}/store_{i}/my_sellers.pkl'))
+
+    products_db = pd.read_pickle('stores/product_db.pkl')
 
 
-
-print()
-
-customer_dbs = []
-for i in range(numStoreS):
-    df = pd.read_pickle(f'{main_path}/store_{i}/my_customer.pkl')
-    customer_dbs.append(df)
-
-trades_dbs = []
-for i in range(numStoreS):
-    df = pd.read_pickle(f'{main_path}/store_{i}/my_trades.pkl')
-    trades_dbs.append(df)
-
-customer_no20_dbs = []
-for i in range(numStoreS):
-    df = pd.read_pickle(f'{main_path}/store_{i}/my_customer_80.pkl')
-    customer_no20_dbs.append(df)
-
-sellers_dbs = []
-for i in range(numStoreS):
-    df = pd.read_pickle(f'{main_path}/store_{i}/my_sellers.pkl')
-    sellers_dbs.append(df)
-
-products_db = pd.read_pickle('stores/product_db.pkl')
 
 #for eachs store, bar graph for every seller how much money made
 
@@ -89,3 +76,11 @@ products_db = pd.read_pickle('stores/product_db.pkl')
 #     analysis.store_best_seller(trades_dbs[i], sellers_dbs[i], i)
 
 print()
+
+def ten_figures()
+    for i in range(10):
+        plt.subplot(2, 5, i)
+        db[i]
+# need an index and also a number that keeps track of position in overall DB.///
+
+

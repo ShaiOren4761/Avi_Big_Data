@@ -106,8 +106,9 @@ def store_best_seller(trades, sellers, store_ind):
     plt.savefig(f'stores/store_{store_ind}/total_pay.pdf')
 
 
-def sellers_who_sold_snacks_to_minors(products_db, trades, customer_db, seller_db):
+def sellers_who_sold_snacks_to_minors(trades, customer_db, seller_db):
     # Creation of a pure snack DataFrame
+    products_db = pd.read_pickle('stores/product_db.pkl')
     snack_list = ["Bamba", "Bisli", "Doritos", "Chitos", "Apropo", "Chips", "Pringles", "Kefli", "Popcorn"]
     bInd = products_db['name'].apply(lambda x: any([snack in x for snack in snack_list]))
     snacks_df = products_db[bInd]
@@ -137,9 +138,9 @@ def stores_age_histogram(customerS_list, customerS_80_list):
     plt.suptitle('Stores age histogram')
 
 
-def store_dashboard(trades_db):
+def stores_basic_dashboard(trades_dbs):
     dc = {'store': [], 'unique customers': []}
-    for index, trades in enumerate(trades_db):
+    for index, trades in enumerate(trades_dbs):
         dc['unique customers'].append(trades['tz'].nunique())
         dc['store'].append(index)
 
@@ -147,9 +148,14 @@ def store_dashboard(trades_db):
 
     plt.subplot(1, 2, 1)
     plt.bar(df['store'], df['unique customers'])
+    plt.xticks(df['store'].keys())
+    plt.title('unique customers per store')
+
     plt.subplot(1, 2, 2)
     plt.pie(df['unique customers'], labels=df['store'], shadow=True)
+    plt.title('unique customers pie')
     plt.suptitle('STORE DASHBOARD')
+
     plt.savefig('stores/store_unique_customers_dashboard.pdf')
 
 
