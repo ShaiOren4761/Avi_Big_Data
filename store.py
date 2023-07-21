@@ -8,8 +8,6 @@ import get_trades_db
 import os
 import matplotlib.pyplot as plt
 
-from dbs import trades_db
-
 plt.switch_backend('Qt5Agg')
 
 run_mode = 'Analysis'  # 'AfterSharing'  # 'Init' #
@@ -67,20 +65,6 @@ elif run_mode == 'Analysis':
     products_db = pd.read_pickle('stores/product_db.pkl')
 
 
-
-#for eachs store, bar graph for every seller how much money made
-
-
-# for i in range(numStoreS):
-#     plt.subplot(2, 5, i + 1)
-#     analysis.store_best_seller(trades_dbs[i], sellers_dbs[i], i)
-
 print()
-
-def ten_figures()
-    for i in range(10):
-        plt.subplot(2, 5, i)
-        db[i]
-# need an index and also a number that keeps track of position in overall DB.///
 
 
