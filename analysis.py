@@ -69,11 +69,11 @@ def gen():
     best_seller_check(trades, sellers)
 
 
-def product_name_col_addition_tradeS(tradeS):
-    # Product name column creation and appending to trades
-    for index, row in tradeS.iterrows():
-        trade = row['productS']
-        trade['name'] = trade['id'].apply(lambda x: products[x == products['id']]['name'].values[0])
+# def product_name_col_addition_tradeS(tradeS):
+#     # Product name column creation and appending to trades
+#     for index, row in tradeS.iterrows():
+#         trade = row['productS']
+#         trade['name'] = trade['id'].apply(lambda x: products[x == products['id']]['name'].values[0])
 
 
 def customer_name_col_addition_tradeS(tradeS, customers):
@@ -106,8 +106,9 @@ def store_best_seller(trades, sellers, store_ind):
     plt.savefig(f'stores/store_{store_ind}/total_pay.pdf')
 
 
-def sellers_who_sold_snacks_to_minors(products_db, trades, customer_db, seller_db):
+def sellers_who_sold_snacks_to_minors(trades, customer_db, seller_db):
     # Creation of a pure snack DataFrame
+    products_db = pd.read_pickle('stores/product_db.pkl')
     snack_list = ["Bamba", "Bisli", "Doritos", "Chitos", "Apropo", "Chips", "Pringles", "Kefli", "Popcorn"]
     bInd = products_db['name'].apply(lambda x: any([snack in x for snack in snack_list]))
     snacks_df = products_db[bInd]
@@ -137,9 +138,9 @@ def stores_age_histogram(customerS_list, customerS_80_list):
     plt.suptitle('Stores age histogram')
 
 
-def store_dashboard(trades_db):
+def stores_basic_dashboard(trades_dbs):
     dc = {'store': [], 'unique customers': []}
-    for index, trades in enumerate(trades_db):
+    for index, trades in enumerate(trades_dbs):
         dc['unique customers'].append(trades['tz'].nunique())
         dc['store'].append(index)
 
@@ -147,18 +148,54 @@ def store_dashboard(trades_db):
 
     plt.subplot(1, 2, 1)
     plt.bar(df['store'], df['unique customers'])
+    plt.xticks(df['store'].keys())
+    plt.title('unique customers per store')
+
     plt.subplot(1, 2, 2)
     plt.pie(df['unique customers'], labels=df['store'], shadow=True)
+    plt.title('unique customers pie')
     plt.suptitle('STORE DASHBOARD')
+
     plt.savefig('stores/store_unique_customers_dashboard.pdf')
 
 
-def unique_customer_analysis():
-    for store in stores:
-        FileName = f'{main_path}/store_{store}/trades_db.pkl'
-        trades = pd.read_pickle(FileName)
-        utz = trades['tz'].unique()
-        len_utz = len(utz)
-        lenS.append(len_utz)
+# def unique_customer_analysis():
+#     for store in stores:
+#         FileName = f'{main_path}/store_{store}/trades_db.pkl'
+#         trades = pd.read_pickle(FileName)
+#         utz = trades['tz'].unique()
+#         len_utz = len(utz)
+#         lenS.append(len_utz)
 
+
+def analyzing_double_tz(dfS, shared_list_DataFrames, shared_list_files):
+    for df, file in zip(shared_list_DataFrames, shared_list_files):
+        if df['tz'].isin([496259402]).any():
+            print(f'{file} has the duplicate tz!')
+            vc = df["tz"].value_counts()
+            bInd = df["tz"].value_counts() > 1
+            double_tz = vc[bInd]
+            print(f'{double_tz}')
+
+    return double_tz
+
+
+def ten_figures(df_list):
+    plt.figure()
+    for i, df in enumerate(df_list):
+        plt.subplot(2, 5, i+1)
+        plt.bar(df['gender'].value_counts().keys(), df['gender'].value_counts().values)
+    plt.show()
+# need an index and also a number that keeps track of position in overall DB.///
+
+
+def homework(df_lst):
+    lst = []
+    for df in range(len(df_lst)):
+        lst.append(df_lst.pop(0))
+        if len(lst) == 10:
+            ten_figures(lst)
+            lst = []
+    if lst:
+        ten_figures(lst)
 
