@@ -180,22 +180,26 @@ def analyzing_double_tz(dfS, shared_list_DataFrames, shared_list_files):
     return double_tz
 
 
-def ten_figures(df_list):
+def ten_figures(df_list, store_ind):
     plt.figure()
     for i, df in enumerate(df_list):
         plt.subplot(2, 5, i+1)
-        plt.bar(df['gender'].value_counts().keys(), df['gender'].value_counts().values)
+        plt.hist(df['age'])
+        plt.title(f'store {store_ind-1}')
+        store_ind += 1
     plt.show()
 # need an index and also a number that keeps track of position in overall DB.///
 
 
 def homework(df_lst):
     lst = []
+    store_ind = 1
     for df in range(len(df_lst)):
         lst.append(df_lst.pop(0))
         if len(lst) == 10:
-            ten_figures(lst)
+            ten_figures(lst, store_ind)
             lst = []
+            store_ind += 10
     if lst:
-        ten_figures(lst)
+        ten_figures(lst, store_ind)
 
