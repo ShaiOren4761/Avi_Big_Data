@@ -1,10 +1,5 @@
 import pandas as pd
-import analysis
-import get_seller_db
-import get_product_db
-import get_customer_db
-import read_shared_customers
-import get_trades_db
+from DataManagement import get_seller_db, get_product_db, get_customer_db, get_trades_db, read_shared_customers
 import os
 import matplotlib.pyplot as plt
 
